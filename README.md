@@ -4,13 +4,13 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 
 ## Détails
 
-| Jeu  | Textes du jeu | Fichiers internes (images, polices, etc) | Sous-titres | Site internet (https://jbfr.fr/) | Doublage | Crédits |
+| Jeu  | Textes du jeu | Fichiers internes (images, polices, etc) | Sous-titres | Site internet (https://laboxdejack.fr/) | Doublage | Crédits |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Drawful animate  | ❌ | ❌ | ❌ | ❌ | ❌ | |
-| The Wheel Of Enormous Proportions  | ❌ | ❌ | ❌ | ❌ | ❌ | | 
-| Job Job  | ❌ | ❌ | ❌ | ❌ | ❌ |  |
-| The Poll Mine  | ❌ | ❌ | ❌ | ❌ | ❌ |  |
-| Weapon's Drawn | ❌ | ❌ | ❌ | ❌ | ❌ |  |
+| Doominate  | ❌ | ❌ | ❌ | ❌ | ❌ | |
+| Hear Say  | ❌ | ❌ | ❌ | ❌ | ❌ | | 
+| Cookie Haus  | ❌ | ❌ | ❌ | ❌ | ❌ |  |
+| Suspectives  | ❌ | ❌ | ❌ | ❌ | ❌ |  |
+| Legends of Trivia | ❌ | ❌ | ❌ | ❌ | ❌ |  |
 
 ✅ Terminé</br>
 ⚪ Commencé mais non terminé</br>
