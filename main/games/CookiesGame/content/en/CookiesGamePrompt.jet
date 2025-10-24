@@ -1,0 +1,2203 @@
+{
+ "content": [
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111269",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Common Phobias",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111270",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "New Breeds of Birds",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111275",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Sesame Street Characters (Real OR Your Own Creation)",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111276",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Un-Adoptable Pets",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111277",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things Seen At A Magic Show",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111278",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things That Are Extinct",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111281",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things Seen On A Beach Day",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111282",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things From Italy",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111283",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Very Bad Playground Equipment",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111284",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Busted Children’s Toys",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111285",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Seen On The Set Of A B-Movie",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111286",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Extremely Impractical Shoes",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111289",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Magical Mystical Creatures",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111290",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Seen In A Mad Scientist's Lab",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111292",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "A Cereal Mascot!",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111294",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Paranormal Entities",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111295",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Seen On A Snow Day",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111296",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Stuff In Your Junk Drawer",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111299",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Stuff You See At Grandma's House",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111300",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things That Live In Haunted Houses",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111302",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Fancy Hats!",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111304",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things With Wings",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111305",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Your Best Self-Portrait",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111456",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Found At The Bottom Of A Ball Pit",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111457",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things Seen At Area 51",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111458",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Animals Seen In A Bad Zoo",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111460",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Great Gifts For Grandpa",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111461",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Weird Little Bugs",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111463",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Baby Animals!",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111465",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things Kids Are Scared Of",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111469",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things Seen At The Airport",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "111470",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Stuff You'd Find At The Farm",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112121",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things You See At The Gas Station",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112122",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Seen At A Bachelor/Bachelorette Party",
+   "type": "SECOND",
+   "weights": "DEFAULT",
+   "x": true
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112124",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Fetishes!!!",
+   "type": "SECOND",
+   "weights": "DEFAULT",
+   "x": true
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112125",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Uncommon Illnesses",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112126",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Stuff From 1776",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112129",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Dolls No One Bought",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112130",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Stuff You See At Band Camp",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112131",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Viva Las Vegas!",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112132",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things Purchased by the Ultra-Rich",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112133",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "America's Ugliest Dogs",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112138",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Parts of a Car (Probably)",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112139",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things That Make People Anxious",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112142",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Awful, Awful Clowns",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112145",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Seen On Hollywood Boulevard",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112146",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Something From A Video Game",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112147",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things Seen While In A Cave",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112148",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Mermaids, The Wrong Way",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112150",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "People's Sexiest Men Alive",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112152",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things That Are Kissable",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112154",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Old-Timey Inventions",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112810",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things You'd See In A Beauty Regimen",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112872",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "New Types Of Hybrid Animals",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112873",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things Godzilla Might Fight",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112875",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things Seen At The Dentist",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112876",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things You See At The County Fair",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112877",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Rejected Pokémon",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112880",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Cool Space Stuff!",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112881",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Useful During The Apocalypse",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112882",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Mascots That Teach Lessons About Puberty",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112883",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things You'd See At The Oscars",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112885",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Teeny-Tiny Things Super Close Up",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112886",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things From The Year 3000",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112887",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things You'd See On A First Date",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112891",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things You See At The Mall",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112892",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things Seen At A Boy Band/K-Pop Concert",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112898",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Big, Elaborate Wigs!",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112976",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things Seen At Elementary School Field Day",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112977",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things From Fairytales",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112978",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Impressive Feats of Architecture",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112979",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things You See At The Funeral Home",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112980",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things Seen At A Middle School",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112981",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things You See At A Bad Wedding",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112983",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things You See In An Action Movie!",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112984",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Unusual Valentine's Day Gifts",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113075",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Ingredients In A Witches' Brew",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113076",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Early Attempts At Inventing The Saxophone",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113079",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Recalled Food Products",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113080",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Unique Exercise Equipment",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113085",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Seen At A Big Music Festival",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113086",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Unsettling Puppets",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113089",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Big, Strange Sandwiches",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113117",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things Seen At An Office Potluck",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113118",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things Seen On Broadway!",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113120",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things You'd See In Ancient Rome",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113123",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "The Wonders of the Circus!",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113127",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things That Will Be Very Valuable One Day",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113128",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things In A Child’s Dream House",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "countrySpecific": false,
+   "id": "113129",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things Seen While On Public Transit",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [],
+   "id": "113131",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Rejected Slipknot Masks",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113135",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "VERY Carnivorous Plants",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113201",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Olympic High Divers, Mid-Jump",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113237",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Cursed Stuffed Animals",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "NUGGETS",
+   "cookieTypes": "NUGGETS",
+   "customers": [
+    "113066"
+   ],
+   "id": "113348",
+   "shapes": "NUGGETS",
+   "sprinkleTypes": "NUGGETS",
+   "starterContent": false,
+   "text": "A Fast Food Mascot",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "NUGGETS",
+   "cookieTypes": "NUGGETS",
+   "customers": [
+    "113066"
+   ],
+   "id": "113350",
+   "shapes": "NUGGETS",
+   "sprinkleTypes": "NUGGETS",
+   "text": "A Dog Named Nugget",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "NUGGETS",
+   "cookieTypes": "NUGGETS",
+   "customers": [
+    "113066"
+   ],
+   "id": "113351",
+   "shapes": "NUGGETS",
+   "sprinkleTypes": "NUGGETS",
+   "text": "Your Self-Portrait, On A Nugget",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "NUGGETS",
+   "cookieTypes": "NUGGETS",
+   "customers": [
+    "113066"
+   ],
+   "id": "113352",
+   "shapes": "NUGGETS",
+   "sprinkleTypes": "NUGGETS",
+   "text": "A Chicken. On A Nugget.",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "NUGGETS",
+   "cookieTypes": "NUGGETS",
+   "customers": [
+    "113066"
+   ],
+   "id": "113353",
+   "shapes": "NUGGETS",
+   "sprinkleTypes": "NUGGETS",
+   "text": "A Chicken Nugget That's Come To Life",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113391",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Annoying Li'l Demons",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113392",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things That Are Noisy",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113393",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things You See In Nightmares",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113394",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Newly-Discovered Dinosaurs",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113395",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things You'd See At A High School Play",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113397",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things Seen At A Bad Home Renovation",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113399",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Extremely Uncomfortable Furniture",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113400",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Seen In Medieval Times (Or AT Medieval Times!)",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113403",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Cool Stuff from The 2000s",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113404",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things You'd See In A Museum",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113405",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things You'd See In The Amazon Rainforest",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113406",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Stuff You'd See At Comic-Con",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113608",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Things You See At Prom",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113624",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things People Need To Live",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113626",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Seen While On A Road Trip",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "113635",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Off-Brand Theme Park Characters",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113758",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Ew, a {{BLANK}}! Yuck!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113759",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"Gasp! Your {{BLANK}} is so beautiful!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113760",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Aww! What a cute li'l {{BLANK}}.\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113761",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Shoo! Get that {{BLANK}} out of here!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113762",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"Ouchie! This {{BLANK}} hurts!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113763",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"It's like they say: don't get mad, get {{BLANK}}\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113764",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Woah...I didn't know {{BLANK}} was so x-treme!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113765",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"Bravo! Bravo! Applaud the {{BLANK}}!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113767",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"Wow! You made this {{BLANK}} yourself?\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113768",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Eeeeek! A {{BLANK}}! Eeeeek!!!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113769",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Look, everyone! It's {{BLANK}}!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113770",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Yeesh. This {{BLANK}} sure is ugly.\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113776",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"Ahhh, a nice, relaxing {{BLANK}}.\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113777",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"This {{BLANK}} is huge, and impressive!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113779",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Ooh! Yummy yummy {{BLANK}}!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113780",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Darling, I got this {{BLANK}} just for you.\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113781",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Zounds! It's a mythical {{BLANK}}!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113782",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"Awww. What a handsome little {{BLANK}}.\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113783",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"Can you go grab {{BLANK}} from the attic?\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113785",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"Gasp! A {{BLANK}}? Get it out of my sight!!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113834",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"I brought a {{BLANK}} for Show and Tell!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113835",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"Nice! Just scored a super-cheap {{BLANK}}!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113836",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"I'm sorry to interrupt, but are you {{BLANK}}?\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113837",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Look! I've got a pocketful of {{BLANK}}!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113838",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Ugh. {{BLANK}} is here.\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113839",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"Wow! This {{BLANK}} is so majestic!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113841",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Everyone falls in love with {{BLANK}}!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113842",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "\"I don't know, this {{BLANK}} really weirds me out.\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113843",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Begone, evil {{BLANK}}! Begone!!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113845",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Oh my. What a gorgeous {{BLANK}}.\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113846",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Stop! Don't let {{BLANK}} inside!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "113847",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Wow. That {{BLANK}} is ANGRY.\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113566"
+   ],
+   "id": "113848",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Things {{PLAYER}} Hates",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113566"
+   ],
+   "id": "113849",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "{{PLAYER}}'s Favorite Things",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113566"
+   ],
+   "id": "113850",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Hey {{PLAYER}}! I Made This For You!",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113566"
+   ],
+   "id": "113851",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Items From {{PLAYER}}'s Past",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113566"
+   ],
+   "id": "113852",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Seen In {{PLAYER}}'s Imagination",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "GOTH",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113653"
+   ],
+   "id": "113896",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Candy...But SCARY",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "GOTH",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113653"
+   ],
+   "id": "113897",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Pets, But Like, EVIL Pets",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "GOTH",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113653"
+   ],
+   "id": "113898",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Super Scary Graveyard Stuff",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "GOTH",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113653"
+   ],
+   "id": "113899",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Emo Animals",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "GOTH",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113653"
+   ],
+   "id": "113900",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Birds, But Goth",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "GINGERBREAD",
+   "cookieTypes": "GINGERBREAD",
+   "customers": [
+    "113657"
+   ],
+   "id": "113955",
+   "shapes": "GINGERBREAD",
+   "sprinkleTypes": "GINGERBREAD",
+   "text": "The Perfect Dad",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "GINGERBREAD",
+   "cookieTypes": "GINGERBREAD",
+   "customers": [
+    "113657"
+   ],
+   "id": "113956",
+   "shapes": "GINGERBREAD",
+   "sprinkleTypes": "GINGERBREAD",
+   "text": "A Son! A Gingerbread Son!",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "GINGERBREAD",
+   "cookieTypes": "GINGERBREAD",
+   "customers": [
+    "113657"
+   ],
+   "id": "113958",
+   "shapes": "GINGERBREAD",
+   "sprinkleTypes": "GINGERBREAD",
+   "text": "A Daughter! A Gingerbread Daughter!",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "GINGERBREAD",
+   "cookieTypes": "GINGERBREAD",
+   "customers": [
+    "113657"
+   ],
+   "id": "113959",
+   "shapes": "GINGERBREAD",
+   "sprinkleTypes": "GINGERBREAD",
+   "text": "A Delightfully Wacky Aunt",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "GINGERBREAD",
+   "cookieTypes": "GINGERBREAD",
+   "customers": [
+    "113657"
+   ],
+   "id": "113960",
+   "shapes": "GINGERBREAD",
+   "sprinkleTypes": "GINGERBREAD",
+   "text": "A Member Of A Friend Group Called \"The Fellas\"",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114089",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "“I had that nightmare about {{BLANK}} again...”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114091",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "“Wow, I’ve never seen a real-life {{BLANK}} before!”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114096",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "“Careful! This is a very rare {{BLANK}}.”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114098",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "“Ooh! Look at this saucy {{BLANK}}!”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114099",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "“Say hello to your blind date: {{BLANK}}!”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114101",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "“Gone, but not forgotten. RIP {{BLANK}}.”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114106",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "“Always the bridesmaid, never the {{BLANK}}.”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114107",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "“Ahh, nothing beats a refreshing {{BLANK}}.”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "THREE",
+   "customers": [
+    "113992"
+   ],
+   "id": "114109",
+   "shapes": "THREE",
+   "sprinkleTypes": "THREE",
+   "text": "New, Rare Animals",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "THREE",
+   "customers": [
+    "113992"
+   ],
+   "id": "114110",
+   "shapes": "THREE",
+   "sprinkleTypes": "THREE",
+   "text": "Cool New Toys",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "THREE",
+   "customers": [
+    "113992"
+   ],
+   "id": "114111",
+   "shapes": "THREE",
+   "sprinkleTypes": "THREE",
+   "text": "Stuff From The Circus",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "THREE",
+   "customers": [
+    "113992"
+   ],
+   "id": "114112",
+   "shapes": "THREE",
+   "sprinkleTypes": "THREE",
+   "text": "Stuff You See In Dreams",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "THREE",
+   "customers": [
+    "113992"
+   ],
+   "id": "114113",
+   "shapes": "THREE",
+   "sprinkleTypes": "THREE",
+   "text": "A New Type Of Cryptid or Monster",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114129",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "“A {{BLANK}}? Ew. How embarrassing...”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114130",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "“Please don’t tell anyone about my awful {{BLANK}}.”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114131",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "“Wow! These {{BLANK}} are flying off the shelves!”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114137",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "“Wow. I wish I was as cool as {{BLANK}}.”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114139",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Ooh, look at this flirty little {{BLANK}}.\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114141",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "“Ooooh, look at that bougie {{BLANK}}!”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114142",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "“Ahhh!!! A {{BLANK}}! Ahhhhh!”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114146",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "“I am captivated by this gorgeous {{BLANK}}!”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114148",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "“Whenever I see {{BLANK}} it makes me sentimental.”",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "customers": [
+    "113830"
+   ],
+   "id": "114177",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "\"Gen Z LOVES {{BLANK}}!\"",
+   "type": "UGC",
+   "weights": "DEFAULT"
+  }
+ ]
+}

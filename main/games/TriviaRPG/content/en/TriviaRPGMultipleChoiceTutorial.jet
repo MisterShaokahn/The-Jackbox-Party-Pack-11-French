@@ -1,0 +1,134 @@
+{
+ "content": [
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Hostile editorials"
+    },
+    {
+     "correct": false,
+     "text": "Expired food"
+    },
+    {
+     "correct": true,
+     "text": "Trivia"
+    },
+    {
+     "correct": false,
+     "text": "Small nuclear arms"
+    }
+   ],
+   "clue": "This game is called Legends of...",
+   "id": "114180",
+   "isEasy": false,
+   "question": "Monsters in this realm attack using...",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Cardio"
+    },
+    {
+     "correct": true,
+     "text": "Teamwork"
+    },
+    {
+     "correct": false,
+     "text": "Perfect pitch"
+    },
+    {
+     "correct": false,
+     "text": "Proficiency with Microsoft Excel"
+    }
+   ],
+   "clue": "THIS is a TEAM game",
+   "id": "114181",
+   "isEasy": false,
+   "question": "This game requires trivia skills and...",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Bearer bonds"
+    },
+    {
+     "correct": false,
+     "text": "Rare stamps"
+    },
+    {
+     "correct": true,
+     "text": "Gold"
+    },
+    {
+     "correct": false,
+     "text": "Treasured family photos"
+    }
+   ],
+   "clue": "You’ll love how it glitters",
+   "id": "114182",
+   "isEasy": false,
+   "question": "Both your personal and team scores are based on collecting...",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Using the MIND CRYSTAL"
+    },
+    {
+     "correct": true,
+     "text": "TALKING with your team"
+    },
+    {
+     "correct": false,
+     "text": "WISHING very hard"
+    },
+    {
+     "correct": false,
+     "text": "UPLOADING BRAIN to AI"
+    }
+   ],
+   "clue": "Communication is key!",
+   "id": "114192",
+   "isEasy": false,
+   "question": "You can share your thoughts during each question by...",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Answering trivia"
+    },
+    {
+     "correct": false,
+     "text": "Filing HR complaints"
+    },
+    {
+     "correct": false,
+     "text": "Performing diss tracks"
+    },
+    {
+     "correct": false,
+     "text": "Ignoring them"
+    }
+   ],
+   "clue": "Do you need a clue for this TRIVIA?",
+   "id": "114211",
+   "isEasy": false,
+   "question": "You can hurt monsters by...",
+   "theme": "FOREST"
+  }
+ ]
+}

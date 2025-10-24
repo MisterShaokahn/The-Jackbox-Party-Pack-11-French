@@ -1,0 +1,1037 @@
+{
+ "content": [
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "In a word or two, perp describes their parents as “{{SELECTION}}.”",
+   "familiarity": "FRIENDS",
+   "id": "107175",
+   "interrogations": [
+    "What does family mean to you?",
+    "Did you grow up with a lot of rules?"
+   ],
+   "question": "In a word or two, describe your parents.",
+   "reminder": "My Parents Are...",
+   "summary": "PARENTS: “{{SELECTION}}”"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "Target believes that the best year of their life was {{SELECTION}}.",
+   "familiarity": "STRANGERS",
+   "id": "107176",
+   "interrogations": [
+    "Sooooo...how old are you?",
+    "What are your feelings about the early ’00s?"
+   ],
+   "question": "What year would you say was the BEST year of your life so far?",
+   "reminder": "Your Best Year",
+   "summary": "BEST YEAR: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": "Perp’s hometown, in a single word: “{{SELECTION}}”",
+   "familiarity": "STRANGERS",
+   "id": "107178",
+   "interrogations": [
+    "Is there something that your hometown was famous for?",
+    "What emotion do you associate with your hometown?"
+   ],
+   "question": "What is an adjective that describes your hometown?",
+   "reminder": "Describe Ur Hometown",
+   "summary": "HOMETOWN: “{{SELECTION}}”"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "If suspect had to get a tattoo of a single word, that word would be: “{{SELECTION}}”",
+   "familiarity": "FRIENDS",
+   "id": "107196",
+   "interrogations": [
+    "What do you think about tattoos?",
+    "Any tattoos you’ve seen on someone else and admired?",
+    "What would you want a tattoo to communicate?"
+   ],
+   "question": "If you had to get a one-word tattoo, what word would you put on your body?",
+   "reminder": "One-Word Tatt",
+   "summary": "1-WORD TATT: ”{{SELECTION}}”"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": "Target thinks they look best in {{SELECTION}} clothes.",
+   "familiarity": "STRANGERS",
+   "id": "107324",
+   "interrogations": [
+    "What \"season\" are you?",
+    "What color brings out your eyes?"
+   ],
+   "question": "What color clothes are your go-to when attempting to look good?",
+   "reminder": "Dressed in What Color?",
+   "summary": "BEST COLOR: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Perp’s inner-animal: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "107327",
+   "interrogations": [
+    "Mammal, reptile, fish, or bird?",
+    "Does your animal have a tail?"
+   ],
+   "question": "In your heart of hearts, what kind of animal do you think you are?",
+   "reminder": "What Animal?",
+   "starterContent": true,
+   "summary": "ANIMAL: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": "The body of water the perp last tipped their toesies in was: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "107328",
+   "interrogations": [
+    "Was the water cold or warm?",
+    "Was the water someplace manmade or natural?"
+   ],
+   "question": "What was the last body of water you put your feet in?",
+   "reminder": "Piggy Dippin'",
+   "summary": "BODY OF WATER: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "Target loves {{SELECTION}}, but will admit is a very bad film.",
+   "familiarity": "STRANGERS",
+   "id": "107331",
+   "interrogations": [
+    "What’s the genre of the film you love?",
+    "What year did the movie come out?"
+   ],
+   "question": "What’s a movie that you know is bad but you love it anyway?",
+   "reminder": "Bad Movies U Love",
+   "summary": "BAD MOVIE: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "The first song/album the perp ever got for themselves: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "107332",
+   "interrogations": [
+    "What year did you get this album?",
+    "What genre of music were you into at the time?"
+   ],
+   "question": "What was the first song or album you ever bought or downloaded for yourself?",
+   "reminder": "First Song/Album",
+   "summary": "FIRST MUSIC: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Item most recently in target's mouth: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "107452",
+   "interrogations": [
+    "Did you eat anything recently?",
+    "Do you suffer from pica disorder, a condition where you put inedible things in your mouth?"
+   ],
+   "question": "What was the last thing you put in your mouth?",
+   "reminder": "In Ya Mouth",
+   "starterContent": false,
+   "summary": "IN MOUTH: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Perp knows all the words to “{{SELECTION}}.”",
+   "familiarity": "STRANGERS",
+   "id": "107725",
+   "interrogations": [
+    "Show us your “top listens” on your phone.",
+    "Could you do karaoke without the lyrics on screen?"
+   ],
+   "question": "What’s a song you’re confident you know all the lyrics to?",
+   "reminder": "Knows All The Words To...",
+   "summary": "MEMORIZED: \"{{SELECTION}}\""
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Suspect thinks they could convince people to call them “{{SELECTION}}”.",
+   "familiarity": "STRANGERS",
+   "id": "107727",
+   "interrogations": [
+    "What do you expect out of a nickname?",
+    "What’s someone else’s nickname that you’ve admired?",
+    "Make up a nickname for me, right now."
+   ],
+   "question": "What’s a nickname you think you could pull off?",
+   "reminder": "Nickname?",
+   "starterContent": true,
+   "summary": "NICKNAME: \"{{SELECTION}}\""
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Perp maintains a strong brand loyalty to: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "107730",
+   "interrogations": [
+    "Is there a product you absolutely swear by?",
+    "Do you shop brand-name or generic?",
+    "What’s your favorite clothing label?"
+   ],
+   "question": "What’s the name of a brand you’re especially loyal to?",
+   "reminder": "Brand Loyalty",
+   "starterContent": true,
+   "summary": "BRAND: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Pining puppy dog perp had their first major celeb crush on: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "107732",
+   "interrogations": [
+    "What's your crush's background? Actor? Musician?"
+   ],
+   "question": "Who was your first celebrity crush?",
+   "reminder": "First Celeb Crush",
+   "starterContent": true,
+   "summary": "CRUSH: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "Perp's most recent live concert experience: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "107733",
+   "interrogations": [
+    "Who’s your favorite artist?",
+    "What was the best concert you’ve ever been to?"
+   ],
+   "question": "What was the last band or artist you saw live?",
+   "reminder": "Last Live Concert",
+   "summary": "LIVE SHOW: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": "When asked to describe a favorite gift, suspect said: “{{SELECTION}}”",
+   "familiarity": "FRIENDS",
+   "id": "107734",
+   "interrogations": [
+    "Why do you treasure this gift so much?",
+    "Is monetary or sentimental value more important?",
+    "What kind of things do you typically ask for as gifts?"
+   ],
+   "question": "In one word, describe a favorite gift you have received.",
+   "reminder": "Best Gift",
+   "starterContent": true,
+   "summary": "BEST GIFT: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "Target describes their current neighborhood as: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "107736",
+   "interrogations": [
+    "Do you like where you live?",
+    "How well do you know your neighbors?",
+    "How long have you been in your current place?"
+   ],
+   "question": "What’s one word that describes your current neighborhood?",
+   "reminder": "Describe Neighborhood",
+   "summary": "CURRENT ‘HOOD: “{{SELECTION}}”"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Suspect admits their favorite Muppet is {{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "107738",
+   "interrogations": [
+    "What’s your favorite Muppet movie?",
+    "Would you consider yourself more of a Kermit or Miss Piggy?"
+   ],
+   "question": "Which Muppet is your favorite?",
+   "reminder": "Fave Muppet",
+   "summary": "MUPPET: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": "Perp's first on-the-job experience was: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "107745",
+   "interrogations": [
+    "Where did you work in high school or college?"
+   ],
+   "question": "What was your first job?",
+   "reminder": "First Job",
+   "summary": "FIRST JOB: {{SELECTION}}",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "As a kid, suspect dreamed of becoming: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "107746",
+   "interrogations": [
+    "What were your favorite toys to play with as a kid?",
+    "What were you obsessed with as a kid?"
+   ],
+   "question": "As a kid, what did you want to be when you grew up?",
+   "reminder": "Kid Dream Job",
+   "summary": "DREAM JOB: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": "Without any warning, perp could give a speech right now about: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "107747",
+   "interrogations": [
+    "Any recent pop culture obsessions?",
+    "Is there something you got way too into when you were a teenager?"
+   ],
+   "question": "What’s a topic that, with no notice, you could give a 15-minute speech about?",
+   "reminder": "SURPRISE SPEECH",
+   "starterContent": true,
+   "summary": "SPEECH: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "If perp could be a professional athlete in any sport, it would be in: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "107748",
+   "interrogations": [
+    "What sports did you play as a kid?",
+    "What’s your favorite sport to watch?"
+   ],
+   "question": "If you could be a pro athlete in any sport, what would it be?",
+   "reminder": "Sports Pro?",
+   "starterContent": false,
+   "summary": "PRO SPORT: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "Perp wishes they had years of experience in: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "107757",
+   "interrogations": [
+    "If you had a time machine, what would you encourage young you to do?",
+    "What do you wish you were an expert in?"
+   ],
+   "question": "What’s a skill you wish you had YEARS of experience in by now?",
+   "reminder": "Skills You Wish For",
+   "starterContent": true,
+   "summary": "SKILL WISH: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Perp's last outgoing call was reportedly to: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "107764",
+   "interrogations": [
+    "Have you called your parents lately?",
+    "How often do you talk on the phone?",
+    "Have you made any appointments recently?"
+   ],
+   "question": "Without saying their actual name, who was your last outgoing call to?",
+   "reminder": "Last Outgoing Call",
+   "starterContent": true,
+   "summary": "LAST CALL: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": "Perp proudly displays {{SELECTION}} on one of their walls.",
+   "familiarity": "STRANGERS",
+   "id": "107768",
+   "interrogations": [
+    "Do you frame artwork or just tack it up?",
+    "Describe your home aesthetic.",
+    "Any bands you’ve seen in concert?"
+   ],
+   "question": "What’s something hanging in a prominent spot on your walls at home?",
+   "reminder": "Wall Hangings",
+   "starterContent": false,
+   "summary": "ON THE WALL: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": "Perp owns {{SELECTION}}, of all things! How unique!",
+   "familiarity": "STRANGERS",
+   "id": "107947",
+   "interrogations": [
+    "What’s your most prized possession?",
+    "What’s the weirdest thing in your living room, right now?"
+   ],
+   "question": "What’s something you own that you’re pretty sure nobody else here does?",
+   "reminder": "Unique Object",
+   "starterContent": false,
+   "summary": "OWNS UNIQUE: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Suspect describes their personality as: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "108006",
+   "interrogations": [
+    "What's your general outlook on life?",
+    "How do people react to you?"
+   ],
+   "question": "What’s one word you would use to describe your personality?",
+   "reminder": "Personality?",
+   "starterContent": false,
+   "summary": "PERSONALITY: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "Target’s first job title: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "108145",
+   "interrogations": [
+    "How long were you at this job?",
+    "Did you stay working in that industry?"
+   ],
+   "question": "What was your title at your very first job?",
+   "reminder": "First Job Title",
+   "starterContent": true,
+   "summary": "JOB TITLE: {{SELECTION}}",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "Space-bending subject wishes they could teleport to: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "108146",
+   "interrogations": [
+    "Do you wish you were somewhere more comfortable right now?"
+   ],
+   "question": "If you could immediately teleport yourself anywhere right this second, where would you go?",
+   "reminder": "Teleportation",
+   "starterContent": false,
+   "summary": "TELEPORT: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Target’s description of their region of birth: “{{SELECTION}}.”",
+   "familiarity": "STRANGERS",
+   "id": "108148",
+   "interrogations": [
+    "What body of water were you closest to?",
+    "Any major landmarks near you?"
+   ],
+   "question": "In a few words, what would you call the overall region where you grew up?",
+   "reminder": "CHILDHOOD REGION",
+   "summary": "REGION: “{{SELECTION}}”"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Perp thinks they can do {{SELECTION}} push-ups in a minute.",
+   "familiarity": "FRIENDS",
+   "id": "108151",
+   "interrogations": [
+    "Is today leg day or upper body?",
+    "Feel like working on your pecs?"
+   ],
+   "question": "How many push-ups do you think you could do in one minute?",
+   "reminder": "PUSH-UPS",
+   "starterContent": true,
+   "summary": "PUSH-UPS: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Subject of the most recent photo in the perp’s camera roll: {{SELECTION}}.",
+   "familiarity": "STRANGERS",
+   "id": "108185",
+   "interrogations": [
+    "Take a lot of selfies?",
+    "You have a cat or a dog, don’t you?",
+    "How do you feel about food photography?"
+   ],
+   "question": "In a word or two, describe the most recent photo in your camera roll.",
+   "reminder": "Last Pic Taken",
+   "starterContent": true,
+   "summary": "LAST PIC: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Perp associates the word “disgusting” with: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "108688",
+   "interrogations": [
+    "What’s something that totally skeeves you out?",
+    "Can you think of something that makes you throw up in your mouth a little?"
+   ],
+   "question": "When you think of the word “disgusting,” what image comes to your mind?",
+   "reminder": "“Disgusting”?",
+   "starterContent": false,
+   "summary": "“DISGUSTING”: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Our suspect’s toxic trait? {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "108755",
+   "interrogations": [
+    "What’s your biggest red flag?",
+    "What’s a piece of friendly criticism you’ve gotten from close friends or family?"
+   ],
+   "question": "In a word or two, what’s your toxic trait?",
+   "reminder": "TOXIC TRAIT",
+   "starterContent": true,
+   "summary": "TOXIC TRAIT: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Suspect dreams of captaining a vessel called \"{{SELECTION}}.\"",
+   "familiarity": "FRIENDS",
+   "id": "108756",
+   "interrogations": [
+    "What makes a good boat name?",
+    "Do you appreciate a good nautical pun?"
+   ],
+   "question": "If you had a boat, what would you name it?",
+   "reminder": "BOAT NAME",
+   "starterContent": false,
+   "summary": "BOAT NAME: \"{{SELECTION}}\""
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "The word “secret” reminds the perp of: {{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "108783",
+   "interrogations": [
+    "So what do you think your subconscious is trying to tell you (or US)?",
+    "Was that really your FIRST thought or what you think we wanted to hear?"
+   ],
+   "question": "What’s the first thing that comes to mind when you hear the word “secret”?",
+   "reminder": "“Secret” Word",
+   "starterContent": false,
+   "summary": "SECRET: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "If perp had to change religions, they’d try: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "108790",
+   "interrogations": [
+    "Do you believe in reincarnation?",
+    "Would you describe yourself more as religious, or spiritual?"
+   ],
+   "question": "If you had to convert to a new religion, which do you think you could vibe with?",
+   "reminder": "New Religion",
+   "summary": "CONVERT TO: {{SELECTION}}",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Suspect claims to know nothing about the TV show [i]{{SELECTION}}[/i].",
+   "familiarity": "STRANGERS",
+   "id": "108837",
+   "interrogations": [
+    "What’s a show you know a LOT about?",
+    "When a show is popular, do you jump onboard?"
+   ],
+   "question": "What’s a popular TV show you know nothing about?",
+   "reminder": "TV Knowledge",
+   "summary": "KNOW NOTHING: [i]{{SELECTION}}[/i]"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "Suspect believes their photo would be next to “{{SELECTION}}” in the dictionary.",
+   "familiarity": "FRIENDS",
+   "id": "108839",
+   "interrogations": [
+    "Why would your picture NOT be next to this word?"
+   ],
+   "question": "What word, if you looked it up in the dictionary, would have a picture of you next to it?",
+   "reminder": "DICT. PIC",
+   "starterContent": false,
+   "summary": "DEFINITION OF: “{{SELECTION}}”"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "Perp’s response to how long they’ve known {{PLAYER}}: {{SELECTION}}.",
+   "familiarity": "STRANGERS",
+   "id": "108917",
+   "interrogations": [
+    "Care to tell us the story of how you two met?"
+   ],
+   "question": "In a word or two, how long have you known {{PLAYER}}?",
+   "reminder": "Known For How Long?",
+   "starterContent": false,
+   "summary": "KNOWN {{PLAYER}}: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "If perp was a video game boss, their weak spot would be: {{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "109037",
+   "interrogations": [
+    "Have you been injured? Where?",
+    "Do you have a weak stomach?"
+   ],
+   "question": "If you were a video game boss, where would your glowing red weak spot be?",
+   "reminder": "Weak Spot?",
+   "starterContent": false,
+   "summary": "WEAK SPOT: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "Suspect would want to be “Patron Saint of {{SELECTION}}”",
+   "familiarity": "STRANGERS",
+   "id": "109040",
+   "interrogations": [
+    "Who or what out there needs saintly assistance?",
+    "How would you treat your followers?",
+    "Got any favorite saints?"
+   ],
+   "question": "What’s something you would want to be the patron saint of?",
+   "reminder": "Patron Saint?",
+   "starterContent": false,
+   "summary": "Patron Saint: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Phone number that suspect knows by heart belongs to: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "109045",
+   "interrogations": [
+    "Dial it for us!",
+    "Ever remember a phone number because of a catchy jingle?"
+   ],
+   "question": "Without saying the full name, is there a person or place’s phone number you have memorized? Whose?",
+   "reminder": "Memorized Phone #",
+   "starterContent": false,
+   "summary": "PHONE #: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Perp’s got {{SELECTION}} in their pockets!! Right now!!!",
+   "familiarity": "FRIENDS",
+   "id": "109049",
+   "interrogations": [
+    "Empty your pockets!",
+    "Do you have gum on you?",
+    "How big is your purse?"
+   ],
+   "question": "What’s something currently in your purse or pockets?",
+   "reminder": "In Your Pockets",
+   "starterContent": false,
+   "summary": "{{SELECTION}} IN POCKETS"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Perp’s got a lot to show (and tell!) us about: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "109050",
+   "interrogations": [
+    "Let’s hear your show-and-tell speech.",
+    "Are you a sentimental person?",
+    "Do you keep family heirlooms?",
+    "Do you usually buy travel souvenirs?"
+   ],
+   "question": "It’s time for grown-up show-and-tell! What item would you love to present to us?",
+   "reminder": "Show-And-Tell Object",
+   "starterContent": false,
+   "summary": "SHOW-AND-TELL: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Suspect is willing to lick a public train handrail for ${{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "109315",
+   "interrogations": [
+    "Are you a germaphobe or a germaholic?",
+    "Do you get sick easily?",
+    "Do you like doing crazy dares?"
+   ],
+   "question": "How much would someone have to pay you to lick a commuter train handrail?",
+   "reminder": "$$ To Lick",
+   "starterContent": false,
+   "summary": "HANDRAIL LICK: ${{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "Amount of physical cash perp has on hand right this minute: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "109444",
+   "interrogations": [
+    "Well?? Show us the bills!",
+    "What do you have in your wallet right now?"
+   ],
+   "question": "How much cash do you have on you right now?",
+   "reminder": "Cash On Hand",
+   "starterContent": false,
+   "summary": "CASH $$$: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Perp doesn't do THIS thing as much as they used to:  {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "109476",
+   "interrogations": [
+    "Have you changed your diet much in the last few years?",
+    "Did you used to be an athlete?"
+   ],
+   "question": "What’s something you once did frequently, but now don't do anymore?",
+   "reminder": "Doesn't Do ____ Anymore",
+   "summary": "USED TO DO: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Perp knows enough about themselves to know that they are [i]too[/i] into: {{SELECTION}}.",
+   "familiarity": "STRANGERS",
+   "id": "109521",
+   "interrogations": [
+    "Are you usually up to date on current events?",
+    "Tell me about some of your biggest pet peeves.",
+    "How long can you go into any conversation without bringing up your job?"
+   ],
+   "question": "What’s something (hobby, team, fandom) you are a little TOO into?",
+   "reminder": "Too Into ____",
+   "summary": "IN TOO DEEP ON: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "Perp thinks the vibe they give off is: {{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "109757",
+   "interrogations": [
+    "How would you describe your demeanor?",
+    "How do you WISH you were perceived?"
+   ],
+   "question": "In a word or two, what vibe do you think people get from you?",
+   "reminder": "VIBES",
+   "starterContent": true,
+   "summary": "VIBE: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Perp’s hidden talent, either real or desired: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "109758",
+   "interrogations": [
+    "What’s something you can do that might surprise people?",
+    "Are you hiding your light under a bushel?",
+    "How did you acquire your hidden talent?"
+   ],
+   "question": "What’s a hidden talent you possess? (Or wish you had?)",
+   "reminder": "Hidden Talent",
+   "summary": "HIDDEN TALENT: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Target's role model as a youth: {{SELECTION}}.",
+   "familiarity": "STRANGERS",
+   "id": "109760",
+   "interrogations": [
+    "Who has influenced you the most in your life?",
+    "Did you look up to peers, or authority figures?"
+   ],
+   "question": "Who was a role model you had growing up?",
+   "reminder": "Role Model",
+   "starterContent": false,
+   "summary": "ROLE MODEL: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Perp admits to hating the sound of: {{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "109762",
+   "interrogations": [
+    "Are you easily bothered?",
+    "Do you live with a snorer? How about a small child?",
+    "How’s your hearing?"
+   ],
+   "question": "In a word or two, what’s a sound you can’t stand?",
+   "reminder": "Bad Sounds",
+   "summary": "WORST SOUND: {{SELECTION}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": "When in school, perp hated attending {{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "109765",
+   "interrogations": [
+    "Were you one of those kids that loved going to school every day?",
+    "Wanna tell me what PEMDAS stands for?"
+   ],
+   "question": "Which class did you dislike most in school?",
+   "reminder": "Worst Class",
+   "starterContent": true,
+   "summary": "WORST CLASS: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Target says the following: \"As a kid, I was {{SELECTION}}.\"",
+   "familiarity": "STRANGERS",
+   "id": "109766",
+   "interrogations": [
+    "Tell us about your childhood.",
+    "Can you do an impression of yourself as a kid?",
+    "What was a typical day like from your childhood?"
+   ],
+   "question": "In a word or two, finish this sentence: “As a kid, I was...\"",
+   "reminder": "“As a Kid...”",
+   "starterContent": true,
+   "summary": "AS A KID: \"{{SELECTION}}\""
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "A conspiracy the perp kinda believes is true: {{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "109768",
+   "interrogations": [
+    "The government is pretty crazy, huh? What are your thoughts??",
+    "Would you say you're suggestible?"
+   ],
+   "question": "In a few words, what’s a conspiracy theory you kinda believe could be true?",
+   "reminder": "Conspiracy Theory",
+   "starterContent": false,
+   "summary": "CONSPIRACY: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "countrySpecific": false,
+   "evidence": "One word that describes the perp's opinions about the nation: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "112433",
+   "interrogations": [
+    "Are you better or worse off than you were five years ago?",
+    "Do you think your future will be happier, or sadder?"
+   ],
+   "question": "Give us one word that describes how you feel about your life right now.",
+   "reminder": "Country Feelings",
+   "summary": "THE NATION: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Perp is prepped and ready to go under the knife for: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "112434",
+   "interrogations": [
+    "How do you feel about cosmetic surgery?",
+    "What would make you feel more confident in your day to day life?",
+    "What's your opinion on extreme piercings?"
+   ],
+   "question": "If you could get any sort of elective surgery right now, what would it be?",
+   "reminder": "Elective Surgery",
+   "summary": "SURGERY: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "Embarrassed perp would appreciate it if we didn't tell anyone about this: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "112437",
+   "interrogations": [
+    "Do embarrassing memories tend to stick with you for a long time?",
+    "Do you learn anything from being embarassed?",
+    "Do you consider yourself to be a a shame-filled person?"
+   ],
+   "question": "In a word or two, summarize the most embarrassing thing you have ever done.",
+   "reminder": "Embarrassing Event",
+   "summary": "EMBARRASSED: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Penny-pinching perp thinks that {{SELECTION}} costs way too much these days.",
+   "familiarity": "FRIENDS",
+   "id": "112439",
+   "interrogations": [
+    "Has something you like gone up in price unexpectedly in recent years?",
+    "Is there a product you think is overhyped right now?",
+    "Is there a price increase that effects your daily life?"
+   ],
+   "question": "What is something you think is WAY too expensive these days?",
+   "reminder": "Expensive Things!",
+   "starterContent": true,
+   "summary": "EXPENSIVE: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "Target’s idea of a word that’ll make everyone squirm: “{{SELECTION}}”",
+   "familiarity": "FRIENDS",
+   "id": "112440",
+   "interrogations": [
+    "What's your personal association with this word?",
+    "Do you think this word is meant to disgust people, or make them uncomfortable?",
+    "Would you say this word to your mother?"
+   ],
+   "question": "What's a non-curse word you think would make everyone here squirm?",
+   "reminder": "Non-Curse Word",
+   "starterContent": true,
+   "summary": "BAD WORD: \"{{SELECTION}}\""
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "Suspect has felt admiration for the fictional character {{SELECTION}}.",
+   "familiarity": "STRANGERS",
+   "id": "113177",
+   "interrogations": [
+    "What are your idea of heroic qualities?",
+    "GIve me three of your heroes, right now, no thinking.",
+    "Do you look up to a fictional character now? Who is it?"
+   ],
+   "question": "What’s the name of a fictional character (TV, movies, books) you’ve admired?",
+   "reminder": "Fictional Hero",
+   "summary": "FICTION HERO: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "If limited to one musical group for the rest of their life, suspect would choose {{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "113279",
+   "interrogations": [
+    "Name three favorite songs, right now.",
+    "What contributes to a band being your favorite?",
+    "What’s a band you hate?"
+   ],
+   "question": "You can only listen to one musical group for the rest of your life. Who will it be?",
+   "reminder": "LIFETIME MUSIC",
+   "starterContent": true,
+   "summary": "MUSIC 4 LIFE: {{SELECTION}}",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "Suspect thinks others would describe their voice as “{{SELECTION}}”.",
+   "familiarity": "STRANGERS",
+   "id": "113517",
+   "interrogations": [
+    "Just talk for a sec.",
+    "What’s an animal you think you sound like?",
+    "Who’s a celeb you sound like?"
+   ],
+   "question": "What’s a word people might use to describe your voice?",
+   "reminder": "Voice Sound",
+   "summary": "VOICE: “{{SELECTION}}”"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "Perp describes their most-used emoji as: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "113659",
+   "interrogations": [
+    "How often do you use emojis?",
+    "Do you tend to overly-rely on emoji communication?"
+   ],
+   "question": "Using just your words, describe your most-used emoji.",
+   "reminder": "Most Used Emoji",
+   "starterContent": true,
+   "summary": "EMOJI: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "When asked to describe their least favorite job, subject said “{{SELECTION}}”.",
+   "familiarity": "STRANGERS",
+   "id": "113666",
+   "interrogations": [
+    "What makes you dislike a given job?",
+    "Tell us about the people at a job you disliked.",
+    "Wink if you can’t talk about your worst job, because you’re there right now."
+   ],
+   "question": "In a word or two, what’s been your least favorite job?",
+   "reminder": "Worst Job",
+   "summary": "WORST JOB: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "Suspect (as spider) would gain national attention by weaving “{{SELECTION}}” into their web.",
+   "familiarity": "STRANGERS",
+   "id": "113827",
+   "interrogations": [
+    "What is the desired affect of your spiderweb writing?",
+    "Give me two other options you thought about writing on your spiderweb.",
+    "Know the book Charlotte’s Web? Any opinions on it?"
+   ],
+   "question": "As a spider, what word or short phrase would you weave into your web to attract national attention?",
+   "reminder": "SPIDERWEB WRITING",
+   "summary": "Spiderweb: “{{SELECTION}}”"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "Suspect’s first movie seen in a movie theater was about {{SELECTION}}.",
+   "familiarity": "STRANGERS",
+   "id": "114006",
+   "interrogations": [
+    "Tell us more about your first movie theater experience.",
+    "That first movie you saw -- did you ever watch it again?",
+    "How did your first movie go? Were you scared?"
+   ],
+   "question": "Remember the first movie you saw in a theater? What was it about?",
+   "reminder": "First Movie",
+   "summary": "FIRST MOVIE: ABOUT {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "When asked about a simple pleasure of theirs, suspect answered “{{SELECTION}}”.",
+   "familiarity": "FRIENDS",
+   "id": "114417",
+   "interrogations": [
+    "What sends you to your happy place?",
+    "Are you a person of simple pleasures overall?",
+    "Describe two other simple pleasures of yours, right now."
+   ],
+   "question": "In a word or two, what’s a simple pleasure that always puts you in a good mood?",
+   "reminder": "Simple Pleasure",
+   "summary": "SIMPLE PLEASURE: {{SELECTION}}"
+  }
+ ]
+}

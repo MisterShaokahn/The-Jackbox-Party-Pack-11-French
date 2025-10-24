@@ -1,0 +1,186 @@
+{
+ "content": [
+  {
+   "correct": true,
+   "id": "106983",
+   "question": "Most people have 24 ribs."
+  },
+  {
+   "correct": true,
+   "id": "106984",
+   "question": "There are 7 continents."
+  },
+  {
+   "correct": false,
+   "id": "106985",
+   "question": "Facebook was launched before MySpace."
+  },
+  {
+   "correct": false,
+   "id": "106986",
+   "question": "Bill Pullman stars in [i]Twister[/i]."
+  },
+  {
+   "correct": true,
+   "id": "106987",
+   "question": "Lizzo recorded the song “Pink” for the film [i]Barbie[/i]."
+  },
+  {
+   "correct": true,
+   "id": "106988",
+   "question": "The Pythagorean Theorem states a2+b2 = c2."
+  },
+  {
+   "correct": true,
+   "id": "106989",
+   "question": "Muhammad Ali is an Olympic gold medal winner."
+  },
+  {
+   "correct": true,
+   "id": "106990",
+   "question": "The Boxer Rebellion was fought in China."
+  },
+  {
+   "correct": false,
+   "id": "106991",
+   "question": "Melody Ellison is a member of [i]The Baby-Sitters Club[/i]."
+  },
+  {
+   "correct": true,
+   "id": "106992",
+   "question": "Melody Ellison is an American Girl doll."
+  },
+  {
+   "correct": false,
+   "id": "106993",
+   "question": "The Yukon is a Ford model automobile."
+  },
+  {
+   "correct": true,
+   "id": "106994",
+   "question": "Parker Brothers created Monopoly."
+  },
+  {
+   "correct": true,
+   "id": "106995",
+   "question": "The 100 Grand Bar contains crisped rice cereal."
+  },
+  {
+   "correct": true,
+   "id": "106996",
+   "question": "Aphrodite is the Greek goddess of beauty."
+  },
+  {
+   "correct": false,
+   "id": "106997",
+   "question": "H.G. Wells wrote [i]20,000 Leagues Under the Sea[/i]."
+  },
+  {
+   "correct": true,
+   "countrySpecific": true,
+   "id": "106998",
+   "question": "Charles Barkley played for the Phoenix Suns."
+  },
+  {
+   "correct": true,
+   "id": "106999",
+   "question": "Paddington Bear was taken in by the Brown family."
+  },
+  {
+   "correct": false,
+   "id": "107000",
+   "question": "Sashimi is rolled in rice."
+  },
+  {
+   "correct": false,
+   "id": "107001",
+   "question": "Technically, the correct spelling is “Valentines Day.”"
+  },
+  {
+   "correct": true,
+   "id": "107002",
+   "question": "Technically, the correct spelling is “Valentine’s Day.”"
+  },
+  {
+   "correct": false,
+   "id": "107057",
+   "question": "The world-famous “Blue Forest” is in Germany."
+  },
+  {
+   "correct": true,
+   "id": "107058",
+   "question": "Black Forest cake is famous for its cherry filling."
+  },
+  {
+   "correct": true,
+   "id": "107059",
+   "question": "Snoopy is a beagle."
+  },
+  {
+   "correct": false,
+   "id": "107060",
+   "question": "Scooby-Doo is a Saint Bernard."
+  },
+  {
+   "correct": true,
+   "id": "107061",
+   "question": "Lassie is a Collie."
+  },
+  {
+   "correct": true,
+   "id": "107062",
+   "question": "Sudan is the country with the most pyramids."
+  },
+  {
+   "correct": false,
+   "id": "107063",
+   "question": "The book [i]Jurassic Park[/i] was written by John Grisham."
+  },
+  {
+   "correct": true,
+   "id": "107064",
+   "question": "[i]Suits[/i] was the most streamed TV show on Netflix in 2023."
+  },
+  {
+   "correct": false,
+   "countrySpecific": true,
+   "id": "107065",
+   "question": "[i]Is It Cake?[/i] was the most streamed TV show on Netflix in 2023."
+  },
+  {
+   "correct": false,
+   "id": "107066",
+   "question": "There are parts of Africa in 3 of the 4 hemispheres."
+  },
+  {
+   "correct": false,
+   "id": "107067",
+   "question": "Jaundice is a condition that turns your skin blue."
+  },
+  {
+   "correct": false,
+   "id": "107068",
+   "question": "Lionel Messi played for the US in the 2005 World Cup."
+  },
+  {
+   "correct": true,
+   "id": "107070",
+   "question": "Tyrannosaurus Rex lived in the Cretaceous Period."
+  },
+  {
+   "correct": true,
+   "id": "107071",
+   "question": "Venus’s atmosphere is mostly made of carbon dioxide."
+  },
+  {
+   "correct": true,
+   "id": "107072",
+   "question": "The Hundred Years’ War lasted 116 years."
+  },
+  {
+   "correct": false,
+   "id": "107073",
+   "question": "Traditionally, egg nog does NOT actually contain eggs."
+  }
+ ]
+}

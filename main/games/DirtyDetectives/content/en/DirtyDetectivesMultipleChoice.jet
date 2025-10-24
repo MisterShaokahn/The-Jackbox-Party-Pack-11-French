@@ -1,0 +1,6760 @@
+{
+ "content": [
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Le plus vieux"
+     ],
+     "finding": "Le coupable est {{RED}}l'ainé de sa famille",
+     "summary": "ORDRE DE NAISSANCE : {{RED}}L'AINÉ"
+    },
+    {
+     "choices": [
+      "Ni le plus vieux, ni le plus jeune"
+     ],
+     "finding": "Le coupable n'est {{RED}} ni le plus vieux, ni plus jeune de sa famille.",
+     "summary": "ORDRE DE NAISSANCE : {{RED}}AU CENTRE"
+    },
+    {
+     "choices": [
+      "Le plus jeune"
+     ],
+     "finding": "Le coupable est {{RED}}le benjamin de sa famille.",
+     "summary": "ORDRE DE NAISSANCE : {{RED}}BENJAMIN"
+    },
+    {
+     "choices": [
+      "Enfant unique"
+     ],
+     "finding": "Le coupable est {{RED}}enfant unique.",
+     "summary": "ORDRE DE NAISSANCE : {{RED}}ENFANT UNIQUE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "106806",
+   "interrogations": [
+    "Nomme tes frères et soeurs !",
+    "Quel est ton rôle dans ta famille ?"
+   ],
+   "question": "Parmi vos frères et soeurs, vous êtes...",
+   "reminder": "Ordre de naissance",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Oui"
+     ],
+     "finding": "Le suspect {{RED}}a eu une expérience paranormale.",
+     "summary": "PARANORMAL : {{RED}}OUI"
+    },
+    {
+     "choices": [
+      "Non"
+     ],
+     "finding": "Le suspect {{RED}}n'a jamais eu d'expérience paranormale.",
+     "summary": "PARANORMAL: {{RED}}NON"
+    },
+    {
+     "choices": [
+      "Pas sur"
+     ],
+     "finding": "Le suspect n'est {{RED}}pas sur d'avoir eu d'expérience paranormale.",
+     "summary": "PARANORMAL: {{RED}}PEUT-ETRE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "106808",
+   "interrogations": [
+    "Crois-tu aux fantômes ?"
+   ],
+   "question": "Avez-vous déjà eu une expérience paranormale ?",
+   "reminder": "Experience paranormale",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Gaucher",
+      "Droitier"
+     ],
+     "finding": "Le coupable est normal, il est {{RED}}{{SELECTION}}.",
+     "summary": "{{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Aucun des deux"
+     ],
+     "finding": "Le coupable se vante car il est {{RED}}ambidextre.",
+     "summary": "MAINS: {{RED}}AMBIDEXTRE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "106830",
+   "interrogations": [
+    "Which hand flies out to catch you when you fall down?",
+    "Write us something! Right now!"
+   ],
+   "question": "Vous êtes...",
+   "reminder": "Main dominante"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Surabaya",
+      "Sumatra",
+      "Kuala Lumpur"
+     ],
+     "finding": "Le criminel {{RED}}ne connait pas la capitale de l'Indonésie.",
+     "summary": "CAPITALE DE L'INDONESIE: {{RED}}RATÉ"
+    },
+    {
+     "choices": [
+      "Jakarta"
+     ],
+     "finding": "Le criminel {{RED}}connait la capitale de l'Indonésie !",
+     "summary": "CAPITALE DE L'INDONESIE: {{RED}}TROUVÉ"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "106836",
+   "interrogations": [
+    "Did you ever have to memorize world capitals?",
+    "What about the capital of Malaysia?"
+   ],
+   "question": "Quelle est la capitale de l'Indonésie ?",
+   "reminder": "Indonésie"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Oui"
+     ],
+     "finding": "La cible {{RED}}a donné un nom à un objet.",
+     "summary": "NOM D'OBJET : {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Non"
+     ],
+     "finding": "La cible {{RED}}n'a jamais donné de nom à un objet.",
+     "summary": "NOM D'OBJET : {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Seulement une voiture"
+     ],
+     "finding": "Le seul objet pour lequel le coupable a donné un nom est {{RED}}une voiture.",
+     "summary": "NOM D'OBJET : {{RED}}VOITURE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "106838",
+   "interrogations": [
+    "What's a good name for a car?"
+   ],
+   "question": "Avez-vous déjà donné un nom à un objet qui vous appartient ?",
+   "reminder": "Nom d'objet"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Aujourd'hui"
+     ],
+     "finding": "Le coupable triste a pleuré {{RED}}dans les dernières 24h",
+     "summary": "PLEURE : {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Cette semaine"
+     ],
+     "finding": "Le sujet a pleuré {{RED}}cette semaine.",
+     "summary": "PLEURE : {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Ce mois"
+     ],
+     "finding": "Le sujet a pleuré {{RED}}ce mois.",
+     "summary": "PLEURE : {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Il y a plus d'un mois"
+     ],
+     "finding": "Le sujet a pleuré {{RED}}il y a plus d'un mois.",
+     "summary": "PLEURE : > 1 mois"
+    },
+    {
+     "choices": [
+      "Je ne sais plus"
+     ],
+     "finding": "Le coupable a les yeux secs {{RED}}il ne se rappelle pas de la dernière fois où il a pleuré.",
+     "summary": "PLEURE : AUCUNE IDÉE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "106844",
+   "interrogations": [
+    "What makes you cry?",
+    "Walk us through a typical crying moment."
+   ],
+   "question": "À quand remonte la dernière fois où vous avez pleuré ?",
+   "reminder": "Fréquence de pleurs",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Heureux",
+      "Neutre",
+      "Confus",
+      "Agressif",
+      "Focus",
+      "Triste",
+      "Paniqué"
+     ],
+     "finding": "Le sujet se décrit comme ayant un visage “{{SELECTION}}” quand il n'a pas d'expression.",
+     "summary": "VISAGE : {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "106859",
+   "interrogations": [
+    "Is this your resting face right now?",
+    "How have other people described your face?"
+   ],
+   "question": "Quand vous faites aucune expression sur votre visage, vous semblez...",
+   "reminder": "Visage sans expression"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Oui."
+     ],
+     "finding": "Si on lui demande si il est \"une personne à chapeau\", le coupable répond {{RED}}oui, je le suis.",
+     "summary": "CHAPEAU : {{RED}}OUI"
+    },
+    {
+     "choices": [
+      "Non."
+     ],
+     "finding": "Si on lui demande si il est \"une personne à chapeau\", le coupable répond {{RED}}non, pas du tout.",
+     "summary": "CHAPEAU : {{RED}}NON"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "106918",
+   "interrogations": [
+    "Tell us your feelings on hats.",
+    "What’s your current hat situation?",
+    "Do you have a favorite hat?"
+   ],
+   "question": "Êtes-vous une \"personne à chapeau\"",
+   "reminder": "Chapeau",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Je parle beaucoup. VRAIMENT BEAUCOUP"
+     ],
+     "finding": "Le sujet {{RED}}aime parler. ENORMEMENT.",
+     "summary": "PARLER : {{RED}}BEAUCOUP"
+    },
+    {
+     "choices": [
+      "Je parle normalement"
+     ],
+     "finding": "Le sujet parle {{RED}}normalement.",
+     "summary": "PARLER : {{RED}}NORMALEMENT"
+    },
+    {
+     "choices": [
+      "Je parle pas beaucoup."
+     ],
+     "finding": "Le sujet {{RED}}ne parle pas beaucoup.",
+     "summary": "PARLER : {{RED}}RAREMENT"
+    },
+    {
+     "choices": [
+      "Je reste muet"
+     ],
+     "finding": "Le sujet n'a pas répondu à la question, {{RED}}il est silencieux.",
+     "summary": "PARLER : {{RED}}NON"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "106929",
+   "interrogations": [
+    "How much would you say you’ve spoken during this game?",
+    "What’s your opinion on the sound of your own voice?"
+   ],
+   "question": "À quel point avez-vous tendance à parler ?",
+   "reminder": "Parler"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Spiders",
+      "Heights",
+      "Public Speaking",
+      "Blood",
+      "Ghosts",
+      "Germs",
+      "Small Spaces",
+      "The Dark",
+      "Being Alone",
+      "Clowns"
+     ],
+     "finding": "On-edge perp is reportedly scared of {{SELECTION}}.",
+     "summary": "SCARED OF: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "None of the above."
+     ],
+     "finding": "Big, brave perp was {{RED}}not afraid of any of the listed scary things.",
+     "summary": "SCARED OF: {{RED}}????"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "106935",
+   "interrogations": [
+    "Would you consider yourself a nervous person?"
+   ],
+   "question": "Which one of these scary things scares you the most?",
+   "reminder": "Scared Of...",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Morning"
+     ],
+     "finding": "Subject is at their best in the {{RED}}morning.",
+     "summary": "BEST IN: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Afternoon"
+     ],
+     "finding": "Subject is at their best in the {{RED}}afternoon.",
+     "summary": "BEST IN: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Evening"
+     ],
+     "finding": "Subject is at their best in the {{RED}}evening.",
+     "summary": "BEST IN: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Late Night"
+     ],
+     "finding": "Subject is at their best {{RED}}late at night.",
+     "summary": "BEST IN: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107019",
+   "interrogations": [
+    "Talk us through your average daily schedule.",
+    "What’s your sleep schedule like?",
+    "When are you most efficient during the day?"
+   ],
+   "question": "At what time of day do you think you're at your best?",
+   "reminder": "At Your Best?"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I’d love that."
+     ],
+     "finding": "In regards to spontaneous camping, perp says “{{SELECTION}}”",
+     "summary": "CAMPING: {{RED}}LET’S GO"
+    },
+    {
+     "choices": [
+      "I would suffer through it."
+     ],
+     "finding": "In regards to spontaneous camping, perp says “{{SELECTION}}”",
+     "summary": "CAMPING: {{RED}}ENDURE IT"
+    },
+    {
+     "choices": [
+      "I would hate it."
+     ],
+     "finding": "In regards to spontaneous camping, perp {{RED}}would not enjoy it.",
+     "summary": "CAMPING: {{RED}}NO WAY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107026",
+   "interrogations": [
+    "What would you bring with you on a camping trip:?",
+    "Have you camped much in the past?",
+    "Tell us what comes to mind when thinking about camping."
+   ],
+   "question": "How would you feel if someone spontaneously took you camping?",
+   "reminder": "Camping"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "7"
+     ],
+     "finding": "Wow!! Perp has been on all {{RED}}seven continents!",
+     "summary": "CONTINENTS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "6",
+      "5",
+      "4",
+      "3",
+      "2"
+     ],
+     "finding": "Suspect has been on {{SELECTION}} continents.",
+     "summary": "CONTINENTS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Just my own"
+     ],
+     "finding": "Suspect has only been on {{RED}}one continent. (Their own.) (Duh.)",
+     "summary": "CONTINENTS: {{RED}}ONE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107027",
+   "interrogations": [
+    "Where's your dream destination?",
+    "Ever taken a cruise?"
+   ],
+   "question": "How many continents have you been on in your life?",
+   "reminder": "CONTINENTAL TRAVEL"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Introvert"
+     ],
+     "finding": "Suspect is drained by social engagements, and identifies as an {{RED}}introvert.",
+     "summary": "VIBE: {{RED}}INTROVERT"
+    },
+    {
+     "choices": [
+      "Extrovert"
+     ],
+     "finding": "Suspect gains energy in social settings, and identifies as an {{RED}}extrovert.",
+     "summary": "VIBE: {{RED}}EXTROVERT"
+    },
+    {
+     "choices": [
+      "I don't know what you're talking about."
+     ],
+     "finding": "Perp {{RED}}didn't understand the question about introverts & extroverts.",
+     "summary": "VIBE: {{RED}}NO IDEA"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107028",
+   "interrogations": [
+    "What gives you *energy*?",
+    "Do other people fill you up, or suck you dry?",
+    "What’s your energy level right now?"
+   ],
+   "question": "When it comes to being around other people, how do you identify?",
+   "reminder": "Introvert Or Extrovert?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Wrath"
+     ],
+     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
+     "summary": "SIN: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Envy"
+     ],
+     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
+     "summary": "SIN: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Pride"
+     ],
+     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
+     "summary": "SIN: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Greed"
+     ],
+     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
+     "summary": "SIN: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Gluttony"
+     ],
+     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
+     "summary": "SIN: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Sloth"
+     ],
+     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
+     "summary": "SIN: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Lust"
+     ],
+     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
+     "summary": "SIN: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107035",
+   "interrogations": [
+    "Are you a sinful person?"
+   ],
+   "question": "Which deadly sin do you engage in the most?",
+   "reminder": "Deadly Sins",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I'm very good."
+     ],
+     "finding": "Subject describes themselves as {{RED}}“a very good person.”",
+     "summary": "GOOD PERSON? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "I’m mostly good."
+     ],
+     "finding": "Subject believes they are a {{RED}}mostly good person.",
+     "summary": "GOOD PERSON? {{RED}}MOSTLY"
+    },
+    {
+     "choices": [
+      "I’m not the best person."
+     ],
+     "finding": "Subject admits that they're {{RED}}not the best person.",
+     "summary": "GOOD PERSON? {{RED}}MEH"
+    },
+    {
+     "choices": [
+      "I'm a bad person."
+     ],
+     "finding": "Subject fully admits that they are a {{RED}}bad person.",
+     "summary": "GOOD PERSON? {{RED}}NOPE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107077",
+   "interrogations": [
+    "How do you think of yourself?",
+    "What makes a person good or bad? Which are you?",
+    "Do you think you’re better than everyone here?"
+   ],
+   "question": "Do you think you’re a good person?",
+   "reminder": "Good Person?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I love to cook!"
+     ],
+     "finding": "Subject {{RED}}loves cooking.",
+     "summary": "COOKING: {{RED}}LOVES IT"
+    },
+    {
+     "choices": [
+      "I wish I were better."
+     ],
+     "finding": "Subject {{RED}}wishes they were a better cook.",
+     "summary": "COOKING: {{RED}}WANNA IMPROVE"
+    },
+    {
+     "choices": [
+      "I HATE it."
+     ],
+     "finding": "Subject admits they {{RED}}HATE cooking.",
+     "summary": "COOKING: {{RED}}HATE IT"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107079",
+   "interrogations": [
+    "Tell us about some meals you’ve prepared.",
+    "Walk us through your approach to cooking.",
+    "What’d you have for dinner recently?"
+   ],
+   "question": "What’s your stance on cooking?",
+   "reminder": "Cooking?",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes."
+     ],
+     "finding": "Subject thinks that {{RED}}yes, they are fancy.",
+     "summary": "“I’M {{RED}}FANCY!”"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Subject {{RED}}does not consider themselves to be fancy.",
+     "summary": "“I {{RED}}AIN'T FANCY!”"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107118",
+   "interrogations": [
+    "What does “fancy” mean to you?",
+    "What’s your fanciness situation right now?",
+    "Who in this group would you call “fancy”?"
+   ],
+   "question": "Do you consider yourself “fancy”?",
+   "reminder": "Fanciness"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Subject admits that {{RED}}yes, they get scared easily.",
+     "summary": "BOO?: {{RED}}AHH!"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Subject claims that they {{RED}}do not get scared easily.",
+     "summary": "BOO?: {{RED}}NOT SCARED"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107127",
+   "interrogations": [
+    "What scares you?",
+    "What do you think about horror movies?",
+    "When’s the last time something scared you?"
+   ],
+   "question": "Do you scare easily?",
+   "reminder": "U Scared?",
+   "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Being on the edge of a cliff"
+     ],
+     "finding": "Perp thinks that {{RED}}being alone is the scarier option.",
+     "summary": "SCARED: {{RED}}BEING ALONE"
+    },
+    {
+     "choices": [
+      "Being in a thick crowd"
+     ],
+     "finding": "Perp thinks that {{RED}}being in a thick crowd is the scarier option.",
+     "summary": "SCARED: {{RED}}THICK CROWDS"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107207",
+   "interrogations": [
+    "How often do you feel smothered?"
+   ],
+   "question": "In your opinion, which of the following is the scarier prospect?",
+   "reminder": "Scared Of..."
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Aragorn",
+      "Boromir",
+      "Legolas",
+      "Gandalf",
+      "Gimli",
+      "Frodo",
+      "Samwise",
+      "Pippin",
+      "Merry",
+      "Sauron"
+     ],
+     "finding": "In The Fellowship of the Ring, suspect most identifies with {{SELECTION}}.",
+     "summary": "LOTR CHARACTER: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Who are these guys?"
+     ],
+     "finding": "Suspect has not engaged with any LOTR media, and identifies with {{RED}}no one.",
+     "summary": "LOTR: {{RED}}NO ONE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107211",
+   "interrogations": [
+    "What’s your opinion on Gollum?",
+    "Have you considered why eagles were never used to fly to Mordor?",
+    "Do you think you could have destroyed The One Ring?"
+   ],
+   "question": "Which member of [i]The Fellowship of the Ring[/i] do you most identify with?",
+   "reminder": "Fellowship of the Ring"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Gen Z",
+      "Gen Alpha",
+      "Generation Beta",
+      "Gen X",
+      "The Silent Generation",
+      "The Greatest Generation"
+     ],
+     "finding": "Suspect is a member of {{SELECTION}}.",
+     "summary": "GENERATION: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Baby Boomer",
+      "Millennial"
+     ],
+     "finding": "Suspect is a {{SELECTION}}.",
+     "summary": "GENERATION: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107244",
+   "interrogations": [
+    "What year were you born?",
+    "No cap, how old are you, skibidi rizz?"
+   ],
+   "question": "What generation do you consider yourself a part of?",
+   "reminder": "What Generation Are You?",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Entertainment",
+      "Hobbies",
+      "Food",
+      "Family",
+      "Toys",
+      "Homegoods",
+      "Pets"
+     ],
+     "finding": "When suspect has extra money, they spend it on {{SELECTION}}.",
+     "summary": "SPLURGES: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I never splurge."
+     ],
+     "finding": "Suspect {{RED}}does not typically spend extra cash if they have it.",
+     "summary": "SPLURGES: {{RED}}NONE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107270",
+   "interrogations": [
+    "How do you treat yourself?",
+    "What’s in your Amazon cart right now?"
+   ],
+   "question": "What do you usually like to spend your extra cash on?",
+   "reminder": "Extra Ca$$$h"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I hate pranks!"
+     ],
+     "finding": "Do NOT prank the perp, because the perp {{RED}}hates pranks.",
+     "summary": "PRANKS: {{RED}}HATE 'EM"
+    },
+    {
+     "choices": [
+      "I’m neutral on pranks."
+     ],
+     "finding": "Perp is {{RED}}neutral on the idea of pranks.",
+     "summary": "PRANKS: {{RED}}NEUTRAL"
+    },
+    {
+     "choices": [
+      "I like pranks, on occasion."
+     ],
+     "finding": "Perp {{RED}}likes a good prank, but only on occasion.",
+     "summary": "PRANKS: {{RED}}SOMETIMES"
+    },
+    {
+     "choices": [
+      "I love pranks!"
+     ],
+     "finding": "Perp is one of those sickos who {{RED}}loves pranks.",
+     "summary": "PRANKS: {{RED}}LOVE 'EM"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107294",
+   "interrogations": [
+    "Be honest, is there a part of you that’s wondering if this is all a big prank?",
+    "Do you like to prank, or to BE pranked?"
+   ],
+   "question": "How do you feel about pranks?",
+   "reminder": "Like Pranks?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Incredible"
+     ],
+     "finding": "Perp thinks they’re {{RED}}incredible at karaoke.",
+     "summary": "KARAOKE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Okay"
+     ],
+     "finding": "Perp thinks they’re {{RED}}okay at karaoke.",
+     "summary": "KARAOKE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Terrible"
+     ],
+     "finding": "Perp shuns the spotlight, thinks they’re {{RED}}terrible at karaoke.",
+     "summary": "KARAOKE: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107297",
+   "interrogations": [
+    "What’s your go-to karaoke song?",
+    "Describe the crowd while you’re performing karaoke.",
+    "How are you with singing in public in general?"
+   ],
+   "question": "How good do you think you are at karaoke?",
+   "reminder": "Karaoke Prowess",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Weekly"
+     ],
+     "finding": "Suspect volunteers {{RED}}weekly.",
+     "summary": "VOLUNTEER: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Monthly"
+     ],
+     "finding": "Suspect volunteers on a {{RED}}monthly schedule.",
+     "summary": "VOLUNTEER: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Sporadically, maybe once a year."
+     ],
+     "finding": "Suspect volunteers {{RED}}sporadically, maybe once a year.",
+     "summary": "VOLUNTEER: {{RED}}SPORADICALLY"
+    },
+    {
+     "choices": [
+      "Never"
+     ],
+     "finding": "Suspect is apparently ok admitting that they {{RED}}never volunteer.",
+     "summary": "VOLUNTEER: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107304",
+   "interrogations": [
+    "What local organizations are you a part of?",
+    "How busy are your weekends?"
+   ],
+   "question": "How often do you do volunteer work for your community?",
+   "reminder": "Volunteering"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Backstreet Boys",
+      "N*SYNC",
+      "BTS",
+      "One Direction",
+      "New Kids on the Block",
+      "Jonas Brothers",
+      "Beatles",
+      "5 Seconds of Summer"
+     ],
+     "finding": "Suspect is a card-carrying {{SELECTION}} stan.",
+     "summary": "BOY BAND: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I like a boy band that isn't listed here."
+     ],
+     "finding": "Super-indie suspect likes a boy band {{RED}}that wasn't listed, apparently.",
+     "summary": "BOY BAND: {{RED}}???"
+    },
+    {
+     "choices": [
+      "I do not like any boy bands."
+     ],
+     "finding": "Suspect {{RED}}hates all boy bands and, possibly, joy.",
+     "summary": "BOY BAND: {{RED}}NONE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107306",
+   "interrogations": [
+    "So, when were you a teenager?",
+    "Who do you consider to be the ultimate “bad boy”?"
+   ],
+   "question": "Which boy band lights up YOUR world, you teen dream?",
+   "reminder": "Boy Bands!"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Moist",
+      "Discharge",
+      "Chunk",
+      "Roach",
+      "Phlegm",
+      "Orifice",
+      "Literally",
+      "Irregardless"
+     ],
+     "finding": "Target has an irrational reaction to the word {{SELECTION}}.",
+     "summary": "WORST WORD: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107309",
+   "interrogations": [
+    "Go on! Say it!",
+    "How are you with bodily fluids?",
+    "Do you hate it when people make up words?"
+   ],
+   "question": "Which is the WORST word in the following list?",
+   "reminder": "Worst Words",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, I do."
+     ],
+     "finding": "Suspect is known to {{RED}}eat meat.",
+     "summary": "EATS MEAT? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "No, I don’t."
+     ],
+     "finding": "Suspect {{RED}}does not eat meat.",
+     "summary": "EATS MEAT? {{RED}}NO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107311",
+   "interrogations": [
+    "What proteins have you had today?",
+    "What’s the most delicious food in the world, in your opinion?",
+    "Are you a barbeque person?"
+   ],
+   "question": "Do you eat meat?",
+   "reminder": "Meat Eating",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Black"
+     ],
+     "finding": "Suspect known to take their coffee {{RED}}black.",
+     "summary": "COFFEE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "With milk",
+      "With sugar",
+      "With milk & sugar"
+     ],
+     "finding": "Suspect known to take their coffee {{SELECTION}}.",
+     "summary": "COFFEE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I don’t drink coffee."
+     ],
+     "finding": "Suspect claims to {{RED}}not drink coffee.",
+     "summary": "COFFEE: {{RED}}NONE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107316",
+   "interrogations": [
+    "What’s your morning routine?",
+    "How do you wake up in the morning?",
+    "Do you have a standard Starbucks order?"
+   ],
+   "question": "How do you take your coffee?",
+   "reminder": "Coffee"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Suspect is {{RED}}fluent in at least two languages.",
+     "summary": "BILINGUAL: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Suspect {{RED}}does not speak a second language.",
+     "summary": "BILINGUAL: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I speak a second language, but not well."
+     ],
+     "finding": "Suspect speaks a second language, {{RED}}badly.",
+     "summary": "BILINGUAL: {{RED}}BADLY"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107317",
+   "interrogations": [
+    "Did you study a language in school?",
+    "Hablas español?",
+    "Did you study abroad?"
+   ],
+   "question": "Do you speak a second language?",
+   "reminder": "Second Languages",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "1-2"
+     ],
+     "finding": "Suspect uses {{SELECTION}} skincare products.",
+     "summary": "SKIN PRODUCTS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "3-4"
+     ],
+     "finding": "Suspect uses {{SELECTION}} skincare products.",
+     "summary": "SKIN PRODUCTS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "5+"
+     ],
+     "finding": "Suspect is slathered in {{SELECTION}} skincare products.",
+     "summary": "SKIN PRODUCTS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Skin...care...routine?"
+     ],
+     "finding": "Suspect uses absolutely {{RED}}no skincare products.",
+     "summary": "SKIN PRODUCTS: {{RED}}NONE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107318",
+   "interrogations": [
+    "You have great skin! What’s your secret?",
+    "What’s your nighttime routine?"
+   ],
+   "question": "How many products are part of your skincare routine?",
+   "reminder": "Skincare Products",
+   "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Once."
+     ],
+     "finding": "Suspect has shoplifted {{RED}}once.",
+     "summary": "SHOPLIFTED: {{RED}}ONCE"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "Ethical suspect has {{RED}}never, ever shoplifted.",
+     "summary": "SHOPLIFTED: {{RED}}NEVER"
+    },
+    {
+     "choices": [
+      "A handful of times."
+     ],
+     "finding": "Sticky-fingered suspect admits they shoplifted {{RED}}a handful of times.",
+     "summary": "SHOPLIFTED: {{RED}}A BUNCH"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107319",
+   "interrogations": [
+    "If you did shoplift, what did you steal?",
+    "Is shoplifting ethical?",
+    "If you saw someone else shoplifting, would you report them?"
+   ],
+   "question": "Have you ever shoplifted?",
+   "reminder": "Shoplifting",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Window",
+      "Middle",
+      "Aisle"
+     ],
+     "finding": "Suspect prefers the {{SELECTION}} seat on a plane.",
+     "summary": "AIRPLANE SEAT: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I don’t fly."
+     ],
+     "finding": "Suspect doesn't have an airplane seat preference because they {{RED}}do not fly.",
+     "summary": "AIRPLANE SEAT: {{RED}}NONE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107336",
+   "interrogations": [
+    "How was your last flight?",
+    "Do you prefer leg room or a view?"
+   ],
+   "question": "What’s your preferred seat on a plane?",
+   "reminder": "Airplane Seats",
+   "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "No, I mind my own business."
+     ],
+     "finding": "Suspect minds their Ps and Qs, and is {{RED}}not a gossip.",
+     "summary": "GOSSIP: {{RED}}NO"
+    },
+    {
+     "choices": [
+      "A little! I’ll hear a juicy story or two."
+     ],
+     "finding": "Suspect likes a {{RED}}little gossip, on occasion.",
+     "summary": "GOSSIP: {{RED}}SOMETIMES"
+    },
+    {
+     "choices": [
+      "YES. I LOVE TO GOSSIP."
+     ],
+     "finding": "Did you hear?? Suspect {{RED}}LOVES to gossip.",
+     "summary": "GOSSIP: {{RED}}YOU BET"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107340",
+   "interrogations": [
+    "What’s the juiciest bit of tea you’ve heard lately?",
+    "What’s the most scandalous thing a friend of yours has done?"
+   ],
+   "question": "Do you like to gossip?",
+   "reminder": "Gossip Fan?",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Matching PJs or Nightgown"
+     ],
+     "finding": "Perp sleeps in stylish {{RED}}PJs or nightgowns.",
+     "summary": "SLEEPWEAR: {{RED}}MATCH PJs"
+    },
+    {
+     "choices": [
+      "T-shirt and sweats"
+     ],
+     "finding": "Perp sleeps in {{RED}}tees and sweats.",
+     "summary": "SLEEPWEAR: {{RED}}TEES"
+    },
+    {
+     "choices": [
+      "Underwear"
+     ],
+     "finding": "Perp sleeps scantily clad, in their {{RED}}undies.",
+     "summary": "SLEEPWEAR: {{RED}}UNDIES"
+    },
+    {
+     "choices": [
+      "Nothing, nothing at all"
+     ],
+     "finding": "Perp sleeps in the {{RED}}nude.",
+     "summary": "SLEEPWEAR: {{RED}}NUDE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107355",
+   "interrogations": [
+    "Where do you shop for pajamas?",
+    "What feels comfier: Cotton, satin, or nudity?"
+   ],
+   "question": "What sort of clothes do you like to sleep in?",
+   "reminder": "Sleep Attire",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, I can do cartwheel right now!"
+     ],
+     "finding": "Suspect can do a flippin’ cartwheel {{RED}}right now!",
+     "summary": "CARTWHEEL: {{RED}}YES"
+    },
+    {
+     "choices": [
+      "I used to, but I can't anymore."
+     ],
+     "finding": "Suspect {{RED}}used to be able to cartwheel, but can’t now.",
+     "summary": "CARTWHEEL: {{RED}}USED TO"
+    },
+    {
+     "choices": [
+      "Nope, and I never could."
+     ],
+     "finding": "Unflipped suspect has {{RED}}never done a cartwheel.",
+     "summary": "CARTWHEEL: {{RED}}NEVER"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107359",
+   "interrogations": [
+    "Did you ever do gymnastics?",
+    "How’s your sense of balance?"
+   ],
+   "question": "Can you do a cartwheel?",
+   "reminder": "Cartwheels?",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, I lift weights."
+     ],
+     "finding": "Suspect is known to {{RED}}lift weights.",
+     "summary": "LIFT? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "No, I do not lift weights."
+     ],
+     "finding": "Suspect {{RED}}does not lift weights.",
+     "summary": "LIFT? {{RED}}NO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107364",
+   "interrogations": [
+    "How much do you bench?",
+    "Describe the inside of a gym, if you can.",
+    "What comes to mind when you think “fitness”?"
+   ],
+   "question": "Do you lift, bro?",
+   "reminder": "U Lift?",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Return it to the cart depot."
+     ],
+     "finding": "When done with shopping, suspect {{RED}}returns cart to the depot like a good citizen.",
+     "summary": "CART RETURN: {{RED}}BRING TO DEPOT"
+    },
+    {
+     "choices": [
+      "Leave it in the lot."
+     ],
+     "finding": "When done with shopping, suspect just {{RED}}abandons the cart in the parking lot.",
+     "summary": "CART RETURN: {{RED}}ABANDON"
+    },
+    {
+     "choices": [
+      "I buy most of my groceries online."
+     ],
+     "finding": "Suspect does not have an opinion on shopping carts because they {{RED}}buy most groceries online.",
+     "summary": "CART RETURN: {{RED}}ONLINE ONLY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107367",
+   "interrogations": [
+    "Do you think of yourself as a “considerate” person?",
+    "Are you in a rush when you shop?",
+    "Are you the type of person who doesn’t mind getting their steps in?"
+   ],
+   "question": "What do you do with the cart when you’re done grocery shopping?",
+   "reminder": "Shopping Cart"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Magicians",
+      "Clowns",
+      "Influencers",
+      "Foodies",
+      "Politicians",
+      "Divas",
+      "Public Spitters"
+     ],
+     "finding": "Subject thinks {{SELECTION}} are the WORST.",
+     "summary": "WORST: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107443",
+   "interrogations": [
+    "So, who just REALLY harshes your vibe?",
+    "Is it the activities that are annoying, or the people themselves?"
+   ],
+   "question": "Of the following annoying individuals, who is the WORST?",
+   "reminder": "The Worst People"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Changing car tire"
+     ],
+     "finding": "Of all the skills, perp would feel the most confident about {{RED}}changing a tire.",
+     "summary": "SKILL: {{RED}}CAR TIRE"
+    },
+    {
+     "choices": [
+      "Getting a new TV hooked up"
+     ],
+     "finding": "Of all the skills, perp would feel the most confident about {{RED}}getting a new TV hooked up.",
+     "summary": "SKILL: {{RED}}NEW TV"
+    },
+    {
+     "choices": [
+      "Starting a campfire"
+     ],
+     "finding": "Of all the skills, perp would feel the most confident about {{RED}}starting a campfire.",
+     "summary": "SKILL: {{RED}}CAMPFIRE"
+    },
+    {
+     "choices": [
+      "Performing CPR"
+     ],
+     "finding": "Of all the skills, perp would feel the most confident about {{RED}}performing CPR",
+     "summary": "SKILL: {{RED}}CPR"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107574",
+   "interrogations": [
+    "Where did you learn your best skill?",
+    "Walk us through how to perform your best skill.",
+    "What’s involved in mastering a skill?"
+   ],
+   "question": "If you had to perform one of the following tasks RIGHT NOW, which one do you think you could do the best?",
+   "reminder": "Skill Confidence"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "consensus"
+     ],
+     "finding": "Suspect knows that the correct spelling is {{RED}}“CONSENSUS”.",
+     "summary": "“CONSENSUS”: {{RED}}CORRECT"
+    },
+    {
+     "choices": [
+      "concensus",
+      "concencus",
+      "consensis"
+     ],
+     "finding": "When asked about the correct spelling of “CONSENSUS”, {{RED}}suspect got it wrong.",
+     "summary": "“CONSENSUS”: {{RED}}WRONG"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107600",
+   "interrogations": [
+    "Do you proofread emails and texts before sending?",
+    "Was English a strong school subject for you?",
+    "Can you spell “consensus” for us, out loud, right now?"
+   ],
+   "question": "Do you know which of the following is spelled correctly?",
+   "reminder": "The Spelling Question",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Magical",
+      "Creepy",
+      "Crowded",
+      "Expensive",
+      "Not For Me",
+      "The Best"
+     ],
+     "finding": "Subject heard describing theme parks as “{{SELECTION}}.”",
+     "summary": "THEME PARKS: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107765",
+   "interrogations": [
+    "Tell us about your last theme park visit.",
+    "You’re trapped in a theme park. How do you feel?"
+   ],
+   "question": "Theme parks are:",
+   "reminder": "Theme Parks",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Road Runner"
+     ],
+     "finding": "Subject hopes to see the {{RED}}Road Runner evade Wile E. Coyote.",
+     "summary": "PRO: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Wile E. Coyote"
+     ],
+     "finding": "Subject hopes to see {{RED}}Wile E. Coyote defeat the Road Runner.",
+     "summary": "PRO: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107932",
+   "interrogations": [
+    "What do you think about the Coyote / Road Runner dynamic?",
+    "Between Wile E. Coyote and the Road Runner, who’s the villain?",
+    "Between the Road Runner and Wile E. Coyote, who do you most identify with?"
+   ],
+   "question": "Between the coyote and the road runner, who are you rooting for?",
+   "reminder": "Coyote vs. Road Runner",
+   "starterContent": false,
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Perp {{RED}}can whistle! Yay!",
+     "summary": "WHISTLER: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Perp cannot whistle. I REPEAT, {{RED}}PERP CANNOT WHISTLE.",
+     "summary": "WHISTLER: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107949",
+   "interrogations": [
+    "Put your money where your mouth is. Whistle for us."
+   ],
+   "question": "You know how to whistle, don’t you?",
+   "reminder": "Whistler?",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Polite follow-up text."
+     ],
+     "finding": "When not texted back, the perp will {{RED}}politely text a follow-up.",
+     "summary": "NO TEXT? {{RED}}FOLLOW-UP"
+    },
+    {
+     "choices": [
+      "Phone call."
+     ],
+     "finding": "When not texted back, the perp will {{RED}}call their phone.",
+     "summary": "NO TEXT? {{RED}}PHONE CALL"
+    },
+    {
+     "choices": [
+      "Hit ‘em with a “???”"
+     ],
+     "finding": "When not texted back, the perp will {{RED}}just text “???”",
+     "summary": "NO TEXT? {{RED}}”???”"
+    },
+    {
+     "choices": [
+      "Give up. Who cares."
+     ],
+     "finding": "When not texted back, the perp will just {{RED}}give up.",
+     "summary": "NO TEXT? {{RED}}GIVE UP"
+    },
+    {
+     "choices": [
+      "I am the person who forgets to text back."
+     ],
+     "finding": "Perp is a {{RED}}serial not-text-backer.",
+     "summary": "NO TEXT? {{RED}}I FORGOT"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107953",
+   "interrogations": [
+    "What’s your biggest texting pet peeve?",
+    "How many unread texts do you have right now?"
+   ],
+   "question": "You text someone a question and haven’t gotten a text back. Next steps?",
+   "reminder": "Plan After No Text Back",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "To steal someone’s clothes",
+      "A medieval castle",
+      "To fall in love"
+     ],
+     "finding": "Suspect {{RED}}does not know what “defenestrate” means.",
+     "summary": "DEFINE ‘DEFENESTRATE’: {{RED}}COULDN’T"
+    },
+    {
+     "choices": [
+      "To throw someone out of a window"
+     ],
+     "finding": "Hopefully not due to a first-hand experience, but suspect {{RED}}knows what the word \"defenestrate\" means.",
+     "summary": "DEFINE ‘DEFENESTRATE’: {{RED}}CORRECT"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108002",
+   "interrogations": [
+    "Define defenestrate.",
+    "What feeling do you get when people use overly-precise words?"
+   ],
+   "question": "What does the word “defenestrate” mean?",
+   "reminder": "Define Defenestrate",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "A.I."
+     ],
+     "finding": "Perp thinks {{SELECTION}} will cause the apocalypse.",
+     "summary": "APOCALYPSE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Environmental Disaster"
+     ],
+     "finding": "Perp thinks {{SELECTION}} will cause the apocalypse.",
+     "summary": "APOCALYPSE: {{RED}}ENVIRONMENT"
+    },
+    {
+     "choices": [
+      "Warfare"
+     ],
+     "finding": "Perp thinks {{SELECTION}} will cause the apocalypse.",
+     "summary": "APOCALYPSE: {{RED}}WAR"
+    },
+    {
+     "choices": [
+      "Aliens"
+     ],
+     "finding": "Perp thinks humanity will end {{RED}}thanks to aliens.",
+     "summary": "APOCALYPSE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Asteroid"
+     ],
+     "finding": "Perp thinks an {{SELECTION}} will cause the apocalypse.",
+     "summary": "APOCALYPSE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Water Crisis"
+     ],
+     "finding": "Perp thinks a {{SELECTION}} will cause the apocalypse.",
+     "summary": "APOCALYPSE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Humanity will NEVER end"
+     ],
+     "finding": "Optimistic perp believes humanity {{RED}}will never apocalypse itself.",
+     "summary": "APOCALYPSE: {{RED}}NEVER"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108041",
+   "interrogations": [
+    "How do you feel about the rise of A.I.?",
+    "Do you think there are aliens out there?",
+    "Are you climate-conscious?"
+   ],
+   "question": "How do you think humanity will end?",
+   "reminder": "Apocalypse Cause",
+   "starterContent": false,
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "4-5 hours before"
+     ],
+     "finding": "Perp arrives at the airport {{RED}}4-5 hours before a flight.",
+     "summary": "AIRPORT: {{RED}}4-5 HOURS"
+    },
+    {
+     "choices": [
+      "2-3 hours before"
+     ],
+     "finding": "Perp arrives at the airport {{RED}}2-3 hours before a flight.",
+     "summary": "AIRPORT: {{RED}}2-3 HOURS"
+    },
+    {
+     "choices": [
+      "1 hour before"
+     ],
+     "finding": "Perp arrives at the airport {{RED}}1 hour before a flight.",
+     "summary": "AIRPORT: {{RED}}1 HOUR"
+    },
+    {
+     "choices": [
+      "Often right before takeoff"
+     ],
+     "finding": "Perp arrives at the airport {{RED}}just before takeoff.",
+     "summary": "AIRPORT: {{RED}}AT TAKEOFF"
+    },
+    {
+     "choices": [
+      "I don’t fly on planes."
+     ],
+     "finding": "Perp doesn't go to the airport because perp {{RED}}doesn’t fly.",
+     "summary": "AIRPORT: {{RED}}DOESN'T FLY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108042",
+   "interrogations": [
+    "Do you do a lot of traveling?",
+    "How do usually get to the airport?"
+   ],
+   "question": "How early do you arrive at the airport before a flight?",
+   "reminder": "AIRPORT ARRIVAL",
+   "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "countrySpecific": true,
+   "evidence": [
+    {
+     "choices": [
+      "San Diego"
+     ],
+     "finding": "Perp thinks the Warriors play in {{SELECTION}}.",
+     "summary": "WARRIORS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Sacramento"
+     ],
+     "finding": "Perp thinks the Warriors play in {{SELECTION}}.",
+     "summary": "WARRIORS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Los Angeles"
+     ],
+     "finding": "Perp thinks the Warriors play in {{SELECTION}}.",
+     "summary": "WARRIORS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "San Francisco"
+     ],
+     "finding": "Perp thinks the Warriors play in {{SELECTION}}.",
+     "summary": "WARRIORS: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108056",
+   "interrogations": [
+    "You watch a lot of NBA games?",
+    "When was the last time you were in California?"
+   ],
+   "question": "What California city do the NBA’s Golden State Warriors represent?",
+   "reminder": "GOLDEN STATE WARRIORS",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Very",
+      "Somewhat"
+     ],
+     "finding": "Suspect says they’re “{{SELECTION}}” flexible.",
+     "summary": "\"{{SELECTION}}\" FLEXIBLE"
+    },
+    {
+     "choices": [
+      "Not flexible at all."
+     ],
+     "finding": "Suspect says they’re “{{SELECTION}}”",
+     "summary": "FLEXIBLE? {{RED}}NOPE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108068",
+   "interrogations": [
+    "Can you touch your toes for me?",
+    "Did you take gymnastics as a kid?"
+   ],
+   "question": "How flexible are you?",
+   "reminder": "How Flexible?",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Perp is {{RED}}definitely a hater.",
+     "summary": "HATER: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Perp is convinced they are {{RED}}not a hater.",
+     "summary": "HATER: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Sometimes"
+     ],
+     "finding": "Perp  is a hater, but {{RED}}only sometimes.",
+     "summary": "HATER: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108143",
+   "interrogations": [
+    "Someone or something annoy you recently?",
+    "Do you get joy from disliking things?"
+   ],
+   "question": "Are you a hater?",
+   "reminder": "Hater?",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, I am a cool person."
+     ],
+     "finding": "Perp thinks they are a {{RED}}cool person.",
+     "summary": "COOL? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "I try to be cool, but mostly I’m not."
+     ],
+     "finding": "Perp tries to be cool, but is {{RED}}mostly uncool.",
+     "summary": "COOL? {{RED}}MOSTLY NOT"
+    },
+    {
+     "choices": [
+      "I am not cool."
+     ],
+     "finding": "Perp is proudly {{RED}}uncool.",
+     "summary": "COOL? {{RED}}NO"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108144",
+   "interrogations": [
+    "Do you have people in your life who look up to you?",
+    "Have you ever set a trend?",
+    "What does “cool” mean to you?"
+   ],
+   "question": "Would you say you're \"cool\"?",
+   "reminder": "Coolness",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, perfectly."
+     ],
+     "finding": "Perp can say \"he threw three free throws\" {{RED}}perfectly.",
+     "summary": "TONGUE TWISTER: {{RED}}YES!"
+    },
+    {
+     "choices": [
+      "Yes, but not [i]every[/i] time."
+     ],
+     "finding": "Perp can say \"he threw three free throws\" a few times, {{RED}}but not consistently.",
+     "summary": "TONGUE TWISTER: {{RED}}JUST OKAY"
+    },
+    {
+     "choices": [
+      "No, not at all."
+     ],
+     "finding": "Perp can say \"he threw three free throws\" {{RED}}....never. They cannot do it.",
+     "summary": "TONGUE TWISTER: {{RED}}NOPE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108187",
+   "interrogations": [
+    "Let’s hear it. “He threw three free throws.”",
+    "What’s that phrase about “she” and selling seashells again...?"
+   ],
+   "question": "Can you say “he threw three free throws” 3 times without messing up?",
+   "reminder": "The Tongue Twister",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "...All the time."
+     ],
+     "finding": "Subject known to argue with people online {{RED}}“all the time.”",
+     "summary": "ONLINE FIGHT: {{RED}}YES"
+    },
+    {
+     "choices": [
+      "Yes, but I know I shouldn’t!"
+     ],
+     "finding": "Subject argues online, but {{RED}}knows that they shouldn't.",
+     "summary": "ONLINE FIGHT: {{RED}}YES, SRY :("
+    },
+    {
+     "choices": [
+      "Rarely...but not [i]never[/i]."
+     ],
+     "finding": "Subject argues with people online on {{RED}}very rare occasions.",
+     "summary": "ONLINE FIGHT: {{RED}}RARELY"
+    },
+    {
+     "choices": [
+      "Never!"
+     ],
+     "finding": "Subject is good about {{RED}}not arguing with people online.",
+     "summary": "ONLINE FIGHT: {{RED}}NEVER"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108233",
+   "interrogations": [
+    "Tell us about your online activity.",
+    "When faced with an online argument, are you able to walk away?"
+   ],
+   "question": "Do you argue with people online?",
+   "reminder": "Fighting Online"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, very."
+     ],
+     "finding": "Suspect is {{RED}}super superstitious.",
+     "summary": "SUPER- STITIOUS? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "A little."
+     ],
+     "finding": "Suspect self-identifies as {{RED}}a little superstitious.",
+     "summary": "SUPER- STITIOUS? {{RED}}A LITTLE"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "Clear-eyed suspect is {{RED}}not superstitious.",
+     "summary": "SUPER- STITIOUS? {{RED}}NO"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108367",
+   "interrogations": [
+    "How would you feel about walking under a ladder?",
+    "What are your superstitions?",
+    "Are you more or less superstitious now than other times in your life?"
+   ],
+   "question": "Are you superstitious?",
+   "reminder": "Superstitious?",
+   "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Zero"
+     ],
+     "finding": "Perp has somehow achieved {{RED}}inbox zero.",
+     "summary": "UNREAD EMAILS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "<10",
+      "10-100",
+      "100-1,000",
+      ">1,000"
+     ],
+     "finding": "Perp currently has {{SELECTION}} unread emails.",
+     "summary": "UNREAD EMAILS: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108369",
+   "interrogations": [
+    "Let’s see that email inbox!",
+    "How often do you delete emails?",
+    "Does talking about this stress you out?"
+   ],
+   "question": "How many unread emails are in your inbox right now?",
+   "reminder": "Unread Emails",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Babies love me!"
+     ],
+     "finding": "Suspect claims “{{SELECTION}}”",
+     "summary": "BABIES: {{RED}}LOVE ME"
+    },
+    {
+     "choices": [
+      "Babies love me; the feeling is not mutual."
+     ],
+     "finding": "Suspect claims “{{SELECTION}}”",
+     "summary": "BABIES: {{RED}}DON'T LIKE 'EM"
+    },
+    {
+     "choices": [
+      "Babies are ambivalent about me."
+     ],
+     "finding": "Suspect claims “{{SELECTION}}”",
+     "summary": "BABIES: {{RED}}\"EH\" ABOUT ME"
+    },
+    {
+     "choices": [
+      "Babies hate me."
+     ],
+     "finding": "Suspect claims “{{SELECTION}}”",
+     "summary": "BABIES: {{RED}}HATE ME"
+    },
+    {
+     "choices": [
+      "Babies are scared of me."
+     ],
+     "finding": "Suspect claims “{{SELECTION}}”",
+     "summary": "BABIES: {{RED}}SCARED OF ME"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108412",
+   "interrogations": [
+    "You any good at babysitting?",
+    "How do you feel about peek-a-boo?"
+   ],
+   "question": "How do you get along with babies?",
+   "reminder": "Baby Popularity",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "I act younger than my age."
+     ],
+     "finding": "Carefree suspect says they act {{RED}}younger than their age.",
+     "summary": "ACTS: {{RED}}YOUNGER"
+    },
+    {
+     "choices": [
+      "I act exactly my age."
+     ],
+     "finding": "Perp says they behave {{RED}}appropriately for someone their age.",
+     "summary": "ACTS: {{RED}}THEIR AGE"
+    },
+    {
+     "choices": [
+      "I act older than my age."
+     ],
+     "finding": "Mature perp believes they act {{RED}}older than their age.",
+     "summary": "ACTS: {{RED}}OLDER"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108414",
+   "interrogations": [
+    "Would you describe yourself as mature?",
+    "Does retirement sound appealing to you?"
+   ],
+   "question": "Would you say that you “act your age”?",
+   "reminder": "Act Your Age",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Zero"
+     ],
+     "finding": "Perp claims to have {{RED}}no best friends, but hopefully has a rich inner life?",
+     "summary": "BFFS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "One"
+     ],
+     "finding": "Perp has {{RED}}one best friend, which kinda makes sense.",
+     "summary": "BFFS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Two",
+      "Three"
+     ],
+     "finding": "Perp says they have {{SELECTION}} best friends.",
+     "summary": "BFFS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Many"
+     ],
+     "finding": "Popular perp says they have {{RED}}many best friends.",
+     "summary": "BFFS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I don’t believe in the idea of “best friends.”"
+     ],
+     "finding": "Incredulous perp {{RED}}doesn't believe in the concept of having a \"best friend.\"",
+     "summary": "BFFS: {{RED}}FAKE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108435",
+   "interrogations": [
+    "Are you in the market for a new best friend?",
+    "Are you in a lot of wedding parties?"
+   ],
+   "question": "How many best friends would you say you have?",
+   "reminder": "Besties!",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Perp {{RED}}has used a mail-in DNA testing kit.",
+     "summary": "DNA TEST: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Perp {{RED}}has not used a mail-in DNA testing kit.",
+     "summary": "DNA TEST: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No, but one of my relatives has."
+     ],
+     "finding": "One of the perp's {{RED}}family members has done a DNA test.",
+     "summary": "DNA TEST: {{RED}}RELATIVE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108440",
+   "interrogations": [
+    "Are you aware of what conditions run in your family?",
+    "How much do you know about your great great grandparents?",
+    "So, you more of an AncestryDNA person or a 23andMe kind of person?"
+   ],
+   "question": "Have you ever used a mail-in DNA testing kit?",
+   "reminder": "DNA Test",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, always."
+     ],
+     "finding": "Target thinks friendship between exes is {{RED}}always possible.",
+     "summary": "EX FRIENDS: {{RED}}ALWAYS"
+    },
+    {
+     "choices": [
+      "Very rarely."
+     ],
+     "finding": "Target thinks friendship with an ex is {{RED}}very rare.",
+     "summary": "EX FRIENDS: {{RED}}RARE"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "Target thinks friendships with exes are {{RED}}not possible.",
+     "summary": "EX FRIENDS: {{RED}}NEVER"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108447",
+   "interrogations": [
+    "Are you friends with any of your exes?",
+    "Would you be cool with your spouse having lunch with an ex?",
+    "Have any of your relationships ended amicably?"
+   ],
+   "question": "Do you think romantic exes can be friends?",
+   "reminder": "Exes As Friends",
+   "starterContent": true,
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Silent"
+     ],
+     "finding": "Target keeps their phone on {{RED}}silent.",
+     "summary": "PHONE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Vibrate"
+     ],
+     "finding": "Target keeps phone on {{RED}}vibrate.",
+     "summary": "PHONE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Default Ringtone"
+     ],
+     "finding": "Target uses a {{RED}}default phone ringtone.",
+     "summary": "PHONE: {{RED}}DEFAULT TONE"
+    },
+    {
+     "choices": [
+      "A Fun Ringtone"
+     ],
+     "finding": "Attention-seeking target uses a {{RED}}personalized ringtone.",
+     "summary": "PHONE: {{RED}}FUN RINGTONE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108450",
+   "interrogations": [
+    "Can you open your phone to sound settings?",
+    "What’s your number real quick? Gonna give you a call."
+   ],
+   "question": "What sound setting is your phone usually set to?",
+   "reminder": "Phone Settings",
+   "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Light",
+      "Heavy",
+      "Thrashing",
+      "Sweaty",
+      "Normal"
+     ],
+     "finding": "Perp claims to be a {{SELECTION}} sleeper.",
+     "summary": "SLEEP: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I sleepwalk."
+     ],
+     "finding": "Perp is a frequent {{RED}}sleepwalker.",
+     "summary": "SLEEP: {{RED}}SLEEPWALKER"
+    },
+    {
+     "choices": [
+      "I have insomnia."
+     ],
+     "finding": "Unsleeping perp is an admitted {{RED}}insomniac.",
+     "summary": "SLEEP: {{RED}}INSOMNIAC"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108451",
+   "interrogations": [
+    "Do you sleep with a white noise machine?",
+    "Could you fall asleep with the TV on?",
+    "Has anyone ever told you you’re tough to share a bed with?"
+   ],
+   "question": "What kind of sleeper are you?",
+   "reminder": "Sleep Style",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "John",
+      "Paul",
+      "George",
+      "Ringo"
+     ],
+     "finding": "Perp thinks {{SELECTION}} is the best Beatle.",
+     "summary": "BEATLE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Who are these guys?"
+     ],
+     "finding": "Perp is {{RED}}not familiar with The Beatles.",
+     "summary": "BEATLE: {{RED}}WHO??"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108494",
+   "interrogations": [
+    "Are you familiar with any of these fellows' solo work?",
+    "Do you have a favorite Beatles song?"
+   ],
+   "question": "Which Beatle is the best?",
+   "reminder": "Best Beatle",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Home",
+      "Relationships",
+      "Lifestyle",
+      "Communities",
+      "Vehicles",
+      "Jobs",
+      "Personalities",
+      "Talents"
+     ],
+     "finding": "Target tends to feel envious of other people's {{SELECTION}}.",
+     "summary": "JEALOUS OF: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I don't really get jealous."
+     ],
+     "finding": "Target says they {{RED}}don't really get jealous of other people's things! Wow!! Ok!!!",
+     "summary": "JEALOUS OF: {{RED}}NOTHING"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108751",
+   "interrogations": [
+    "If you're not envious of it, what DO you feel about it?",
+    "Did you know you can be covetous of something you already have? Speak on that!"
+   ],
+   "question": "What's something other people have that you tend to admire/be jealous of?",
+   "reminder": "Jealous Of..."
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Pepsi's fine."
+     ],
+     "finding": "For the perp? {{SELECTION}}",
+     "summary": "PEPSI: {{RED}}FINE!"
+    },
+    {
+     "choices": [
+      "Pepsi's not ok."
+     ],
+     "finding": "For this perp? {{SELECTION}}",
+     "summary": "PEPSI: {{RED}}NO THANK U"
+    },
+    {
+     "choices": [
+      "I don’t really drink any cola."
+     ],
+     "finding": "Perp {{RED}}doesn’t really drink cola, Pepsi or otherwise.",
+     "summary": "PEPSI: {{RED}}NO SODA"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108759",
+   "interrogations": [
+    "Let’s talk cola preferences.",
+    "Is it a flavor thing for you? Or just a preference?"
+   ],
+   "question": "Is Pepsi OK?",
+   "reminder": "Is Pepsi OK?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "I cannot teach you how to hit the Griddy."
+     ],
+     "finding": "Suspect {{RED}}cannot teach you how to hit the Griddy.",
+     "summary": "GRIDDY: {{RED}}CAN’T TEACH"
+    },
+    {
+     "choices": [
+      "I would love to teach you how to hit the Griddy."
+     ],
+     "finding": "Suspect {{RED}}can, indeed, teach you how to hit the Griddy.",
+     "summary": "GRIDDY: {{RED}}CAN TEACH"
+    },
+    {
+     "choices": [
+      "I have no idea what this question is referring to."
+     ],
+     "finding": "Perp {{RED}}has no idea what the Griddy even is.",
+     "summary": "GRIDDY: {{RED}}WHAT'S THAT?"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108760",
+   "interrogations": [
+    "Teach. Me. How. To. Griddy.",
+    "In general, what’s your approach to Griddy education?",
+    "What’s the secret to a robust Griddy?"
+   ],
+   "question": "Can you teach me how to hit the griddy?",
+   "reminder": "Teach Me To Griddy?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Mattresses",
+      "Rugs",
+      "Gym Memberships",
+      "Sneakers",
+      "Vet Bills",
+      "Winter Coats",
+      "Academic Courses"
+     ],
+     "finding": "If given the choice, the perp would want their {{SELECTION}} to be half-off forever.",
+     "summary": "HALF-OFF: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108772",
+   "interrogations": [
+    "Were you surprised when you learned how much some of these things cost?",
+    "What's the best bet in the long run?"
+   ],
+   "question": "If you could get one of these items for half off, forever, which would it be?",
+   "reminder": "Half Price Items",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "A Mayor",
+      "A CEO",
+      "A Streamer",
+      "A Train Conductor",
+      "A Motivational Speaker",
+      "A Music Conductor",
+      "A Reality Show Host"
+     ],
+     "finding": "The perp thinks that, among the public figures, they would get along with {{SELECTION}} the best.",
+     "summary": "PUBLIC FIGURE: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108773",
+   "interrogations": [
+    "So, who do you tend to respect?",
+    "Do politicians seem like a good hang to you?"
+   ],
+   "question": "Which of the following public figures do you think you would get along with the best?",
+   "reminder": "Public Figures",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "countrySpecific": false,
+   "evidence": [
+    {
+     "choices": [
+      "The IRS",
+      "Insurance",
+      "School",
+      "The DMV",
+      "Internet Provider",
+      "Gym",
+      "Loan Company",
+      "Streaming Service"
+     ],
+     "finding": "Perp has a particular personal beef with: {{SELECTION}}.",
+     "summary": "BEEF WITH: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I don’t have a beef with any institution."
+     ],
+     "finding": "Target claims to have {{RED}}no beef with any institution. MUST BE NICE.",
+     "summary": "BEEF WITH: {{RED}}NOBODY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108782",
+   "interrogations": [
+    "Where's someplace you never want to go if you can help it?",
+    "How would you take revenge on a large institution?",
+    "What’s the last big institution you had unkind thoughts about?"
+   ],
+   "question": "Which of the following institutions do you have a personal beef with?",
+   "reminder": "Have a Beef With...",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "To Sightsee",
+      "To Party",
+      "To Learn",
+      "To Relax",
+      "To Shop",
+      "To Eat"
+     ],
+     "finding": "Suspect tends to go on vacation “{{SELECTION}}.”",
+     "summary": "VACATION: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108794",
+   "interrogations": [
+    "How much hotel TV do you watch on vacation?",
+    "Do you plan your vacations around restaurants?"
+   ],
+   "question": "Why do you go on vacation?",
+   "reminder": "Vacay Reason",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "McDonald's",
+      "Taco Bell",
+      "Dunkin’",
+      "Olive Garden",
+      "Cheesecake Factory",
+      "Panera",
+      "Red Lobster",
+      "Chili's",
+      "Starbucks"
+     ],
+     "finding": "Perp thinks that {{SELECTION}} would have the best trash.",
+     "summary": "BEST TRASH: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108828",
+   "interrogations": [
+    "What does this place have that needs to be thrown out every night?",
+    "Would their garbage be particularly sloppy?"
+   ],
+   "question": "Which food establishment do you think would have the highest-quality nightly trash?",
+   "reminder": "Best Trash",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Carrie",
+      "Samantha",
+      "Charlotte",
+      "Miranda",
+      "Mr. Big",
+      "Steve",
+      "New York City"
+     ],
+     "finding": "And just like that, when it comes to \"Sex and the City,\" perp thinks they’re a TOTAL {{SELECTION}}.",
+     "summary": "SATC: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I don't know anything about SATC."
+     ],
+     "finding": "Perp has no association with any the colorful metropolitan characters of SATC because they have {{RED}}never seen \"Sex and the City.\"",
+     "summary": "SATC: {{RED}}IDK LOL"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108829",
+   "interrogations": [
+    "Are you carefree or Type A?",
+    "How many double-entendres do you use in a given day?"
+   ],
+   "question": "Which “Sex and the City” character are you?",
+   "reminder": "SATC Character",
+   "starterContent": true,
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Christmas Movie"
+     ],
+     "finding": "Perp says [i]Nightmare Before Christmas[/i] is a movie about {{RED}}Christmas.",
+     "summary": "NIGHTMARE: {{RED}}XMAS"
+    },
+    {
+     "choices": [
+      "Halloween Movie"
+     ],
+     "finding": "Perp says [i]Nightmare Before Christmas[/i] is a movie about {{RED}}Halloween.",
+     "summary": "NIGHTMARE: {{RED}}HALLOWEEN"
+    },
+    {
+     "choices": [
+      "I don't know anything about this movie."
+     ],
+     "finding": "Extremely normal perp {{RED}}knows nothing about [i]Nightmare Before Christmas[/i].",
+     "summary": "NIGHTMARE: {{RED}}IDK"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108832",
+   "interrogations": [
+    "Isn’t the movie about MAKING CHRISTMAS?",
+    "Isn’t the movie about the people of HALLOWEENtown?",
+    "What time of year is the right time to watch [i]Nightmare Before Christmas[/i]?"
+   ],
+   "question": "Is [i]The Nightmare Before Christmas[/i] a Christmas movie or a Halloween movie?",
+   "reminder": "Nightmare Before Christmas",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Big Box Store",
+      "McMansion",
+      "Brutalist Structure",
+      "Strip Mall",
+      "“Party Barn”",
+      "Parking Lot"
+     ],
+     "finding": "Perp thinks the ugliest structure is: {{SELECTION}}.",
+     "summary": "UGLY: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108833",
+   "interrogations": [
+    "If a forest had to be cut down, what would you hate to see built over it the most?",
+    "Describe your most-hated building.",
+    "What makes a building beautiful to you?"
+   ],
+   "question": "What type of building/architecture style is the ugliest?",
+   "reminder": "Ugly Structures",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, I love to chat!"
+     ],
+     "finding": "Regarding chatty cab drivers, suspect {{RED}}actually enjoys them.",
+     "summary": "CHATTY CAB: {{RED}}YES"
+    },
+    {
+     "choices": [
+      "Eh, I can deal."
+     ],
+     "finding": "Suspect doesn’t love it, but is {{RED}}okay with a chatty cab driver.",
+     "summary": "CHATTY CAB: {{RED}}IT'S FINE"
+    },
+    {
+     "choices": [
+      "I hate it."
+     ],
+     "finding": "Suspect {{RED}}HATES a chatty cab driver.",
+     "summary": "CHATTY CAB: {{RED}}NO"
+    },
+    {
+     "choices": [
+      "I’m never in this situation."
+     ],
+     "finding": "Regarding chatty cab drivers, suspect {{RED}}is never in this situation.",
+     "summary": "CHATTY CAB: {{RED}}IDK"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108834",
+   "interrogations": [
+    "Do you find talking with strangers interesting or annoying?",
+    "When you have a conversation with your driver, who usually started it?"
+   ],
+   "question": "Do you mind a chatty cab driver?",
+   "reminder": "Chatty Cab Driver",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Smile",
+      "Personality",
+      "Hair",
+      "Bod",
+      "Eyes"
+     ],
+     "finding": "Suspect believes their best feature is their: {{SELECTION}}.",
+     "summary": "BEST FEATURE: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108835",
+   "interrogations": [
+    "You look in the mirror, and what do you see?",
+    "Does introspection make you uncomfortable?"
+   ],
+   "question": "Of the following, which feature of yours do you like the most?",
+   "reminder": "BEST FEATURES",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "15 Minutes Early",
+      "On Time",
+      "A Little Late",
+      "VERY Late"
+     ],
+     "finding": "When arriving at a dinner with friends, subject tends to be {{SELECTION}}.",
+     "summary": "DINNER ARRIVAL: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "This is stressful. I’m staying in."
+     ],
+     "finding": "Instead of going to a dinner with friends, subject often {{RED}}gives up and stays home.",
+     "summary": "DINNER ARRIVAL: {{RED}}NO-SHOW"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108838",
+   "interrogations": [
+    "Walk us through your restaurant arrival process.",
+    "What do you say to people who arrive late at a restaurant?"
+   ],
+   "question": "When arriving at a dinner with friends, I'm...",
+   "reminder": "Dinner Arrival",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "countrySpecific": true,
+   "evidence": [
+    {
+     "choices": [
+      "I can explain what Scandoval is to you in its entirety."
+     ],
+     "finding": "Perp {{RED}}can explain Scandoval to you in its entirety.",
+     "summary": "SCANDOVAL? {{RED}}EXPERT"
+    },
+    {
+     "choices": [
+      "I’ve heard the word and have a vague idea of what it is."
+     ],
+     "finding": "Perp has {{RED}}a vague idea of what Scandoval is, but no details.",
+     "summary": "SCANDOVAL? {{RED}}FAMILIAR"
+    },
+    {
+     "choices": [
+      "I have no idea what that word means."
+     ],
+     "finding": "Blessedly normal perp has {{RED}}no idea what Scandoval is.",
+     "summary": "SCANDOVAL? {{RED}}IDK"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108842",
+   "interrogations": [
+    "What is Scandoval, or what do you think it is?"
+   ],
+   "question": "Does the word “Scandoval” mean anything to you?",
+   "reminder": "Scandoval?",
+   "starterContent": false,
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I will NEVER order one."
+     ],
+     "finding": "Subject {{RED}}avoids goofy drinks and parasols and whatnot at all costs.",
+     "summary": "GOOFY DRINKS: {{RED}}NEVER"
+    },
+    {
+     "choices": [
+      "I will order one on occasion."
+     ],
+     "finding": "Subject is willing to have goofy drinks with parasols and whatnot {{RED}}on occasion.",
+     "summary": "GOOFY DRINKS: {{RED}}SOMETIMES"
+    },
+    {
+     "choices": [
+      "I will ALWAYS order the goofy drink."
+     ],
+     "finding": "Subject enjoys goofy drinks with parasols and whatnot {{RED}}alllll the time.",
+     "summary": "GOOFY DRINKS: {{RED}}ALWAYS"
+    },
+    {
+     "choices": [
+      "I will order one, but only at brunch."
+     ],
+     "finding": "Subject believes goofy drinks with parasols and whatnot should be enjoyed {{RED}}at brunch.",
+     "summary": "GOOFY DRINKS: {{RED}}BRUNCH"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108848",
+   "interrogations": [
+    "When did you enjoy your last goofy drink?",
+    "What’s your go-to drink order?",
+    "Are you a fun person?"
+   ],
+   "question": "When it comes to goofy drinks with parasols and garnishes and whatnot:",
+   "reminder": "Goofy Drinks",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Cute"
+     ],
+     "finding": "Suspect wants to be described to a blind date as {{SELECTION}}.",
+     "summary": "SAY I’M: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Funny"
+     ],
+     "finding": "Suspect wants to be described to a blind date as {{SELECTION}}.",
+     "summary": "SAY I’M: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Hot"
+     ],
+     "finding": "Suspect wants to be described to a blind date as {{SELECTION}}.",
+     "summary": "SAY I’M: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Smart"
+     ],
+     "finding": "Suspect wants to be described to a blind date as {{SELECTION}}.",
+     "summary": "SAY I’M: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Cool"
+     ],
+     "finding": "Suspect wants to be described to a blind date as {{SELECTION}}.",
+     "summary": "SAY I’M: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Unforgettable"
+     ],
+     "finding": "Suspect wants to be described to a blind date as {{SELECTION}}.",
+     "summary": "SAY I’M: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108862",
+   "interrogations": [
+    "What’s something you can confidently say is your best trait?",
+    "Would you be honest with a new date right away?"
+   ],
+   "question": "If you could only pick one word, how would you want to be described to a blind date?",
+   "reminder": "Blind Date Description",
+   "starterContent": false,
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Deflect with a joke."
+     ],
+     "finding": "Suspect can’t take a compliment, and will {{RED}}deflect with a joke.",
+     "summary": "COMPLIMENT: {{RED}}DEFLECT"
+    },
+    {
+     "choices": [
+      "A simple “thank you.”"
+     ],
+     "finding": "Suspect accepts compliments like a normal person, {{RED}}with a simple “thank you.”",
+     "summary": "COMPLIMENT: {{RED}}”THANK U”"
+    },
+    {
+     "choices": [
+      "Compliment them back."
+     ],
+     "finding": "Suspect accepts compliments by {{RED}}complimenting people back.",
+     "summary": "COMPLIMENT: {{RED}}“NO, U!”"
+    },
+    {
+     "choices": [
+      "Share credit with others."
+     ],
+     "finding": "Suspect accepts compliments by {{RED}}sharing the credit with others.",
+     "summary": "COMPLIMENT: {{RED}}SHARE IT"
+    },
+    {
+     "choices": [
+      "Insist I don’t deserve it."
+     ],
+     "finding": "Suspect’s low self-esteem forces them to insist that they {{RED}}don't deserve compliments.",
+     "summary": "COMPLIMENT: {{RED}}REJECTED"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108902",
+   "interrogations": [
+    "Have I ever told you how talented you are?",
+    "How would you rate your self-confidence?",
+    "You have stunning eyes, by the way...."
+   ],
+   "question": "Someone compliments your work. How do you respond?",
+   "reminder": "Taking Compliments",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "True"
+     ],
+     "finding": "Perp thinks social media has made their life {{RED}}better.",
+     "summary": "SOCIAL MEDIA: {{RED}}LIFE BETTER"
+    },
+    {
+     "choices": [
+      "False"
+     ],
+     "finding": "Perp thinks social media has made their life {{RED}}worse.",
+     "summary": "SOCIAL MEDIA: {{RED}}LIFE WORSE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109027",
+   "interrogations": [
+    "Do you look at your notifications during movies?",
+    "Do you do most of your talking to friends through sites/apps?"
+   ],
+   "question": "True or False: “Social media has made my life better.”",
+   "reminder": "Social Media Life",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I’d take a few, to make sure they get a good one."
+     ],
+     "finding": "Perp would take {{RED}}multiple photos, if a stranger asked.",
+     "summary": "STRANGER PIC: {{RED}}MULTIPLE"
+    },
+    {
+     "choices": [
+      "I would take one photo."
+     ],
+     "finding": "Perp would take {{RED}}a single photo, if asked by a stranger.",
+     "summary": "STRANGER PIC: {{RED}}ONE"
+    },
+    {
+     "choices": [
+      "I probably wouldn’t do this."
+     ],
+     "finding": "Perp would {{RED}}refuse to take a photo, if a stranger asked.",
+     "summary": "STRANGER PIC: {{RED}}NO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109041",
+   "interrogations": [
+    "Let’s see some photos you’ve taken of other people.",
+    "What’s the trick to getting a good photo of someone?",
+    "Take a photo of me right now."
+   ],
+   "question": "A stranger approaches and asks if you’ll take their picture. How do you respond?",
+   "reminder": "Stranger Photo"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, near where I live (or lived)."
+     ],
+     "finding": "Perp saw a friggin’ wild bear {{RED}}near their home!",
+     "summary": "SAW BEAR: {{RED}}AT HOME"
+    },
+    {
+     "choices": [
+      "Yes, while traveling."
+     ],
+     "finding": "Perp saw a friggin’ wild bear {{RED}}on a trip!",
+     "summary": "SAW BEAR: {{RED}}ON A TRIP"
+    },
+    {
+     "choices": [
+      "Yes, it was someone’s pet."
+     ],
+     "finding": "Perp saw a friggin’ bear, and it was {{RED}}someone's pet!",
+     "summary": "SAW BEAR: {{RED}}A PET"
+    },
+    {
+     "choices": [
+      "Never!"
+     ],
+     "finding": "Perp has {{RED}}never seen a friggin’ wild bear!",
+     "summary": "SAW BEAR: {{RED}}NEVER"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109044",
+   "interrogations": [
+    "What kind of animals did you see outside your house growing up?",
+    "Do you take camping or hiking trips?",
+    "Know any rich weirdos with exotic animals?"
+   ],
+   "question": "Have you ever seen a bear outside of a zoo or circus?",
+   "reminder": "Bear Sightings?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Suspect {{RED}}has been kicked out of some sort of place or event.",
+     "summary": "KICKED OUT: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Suspect {{RED}}has never been kicked out of a place or event.",
+     "summary": "KICKED OUT: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109245",
+   "interrogations": [
+    "All right, where have you been kicked out of?"
+   ],
+   "question": "Have you ever been actively kicked out of a place or event?",
+   "reminder": "Kicked Out?"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Suspect {{RED}}has sent food back to the kitchen at a restaurant.",
+     "summary": "SENT FOOD BACK: {{RED}}YES"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Suspect {{RED}}has never sent food back at a restaurant.",
+     "summary": "SENT FOOD BACK: {{RED}}NO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109255",
+   "interrogations": [
+    "Why’d you send it back? Are you picky or was there seriously something wrong with it?",
+    "Are allergies involved?"
+   ],
+   "question": "Have you ever sent food back at a restaurant?",
+   "reminder": "Sent Food Back?",
+   "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Exchange insurance information."
+     ],
+     "finding": "Upon hitting a wizard, perp would {{RED}}exchange insurance info.",
+     "summary": "WIZARD: {{RED}}INSURANCE"
+    },
+    {
+     "choices": [
+      "Inquire if he has healing magicks."
+     ],
+     "finding": "Upon hitting a wizard, perp would {{RED}}ask if he has healing magicks.",
+     "summary": "WIZARD: {{RED}}HEALING MAGICK"
+    },
+    {
+     "choices": [
+      "Flee in fear of being cursed."
+     ],
+     "finding": "Upon hitting a wizard, perp would {{RED}}flee in fear of being cursed.",
+     "summary": "WIZARD: {{RED}}FLEE"
+    },
+    {
+     "choices": [
+      "Hit him again!"
+     ],
+     "finding": "Upon hitting a wizard, perp is {{RED}}backing the car up to hit them again.",
+     "summary": "WIZARD: {{RED}}HIT 'EM AGAIN"
+    },
+    {
+     "choices": [
+      "This is a stupid question."
+     ],
+     "finding": "Perp thought the wizard-car question {{RED}}was stupid and refused to entertain it.",
+     "summary": "WIZARD Q: {{RED}}N/A"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109256",
+   "interrogations": [
+    "So, you think you’re above the wizard question? Where’s your sense of whimsy?",
+    "Walk me through your order of operations re: T-boning a magic man."
+   ],
+   "question": "You hit a wizard with your car. What’s your next move?",
+   "reminder": "WIZARD ACCIDENT",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Zero"
+     ],
+     "finding": "Perp hit the road and keeps in touch with {{RED}}zero friends from school.",
+     "summary": "SCHOOL PALS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "One or two"
+     ],
+     "finding": "Perp keeps in touch with {{SELECTION}} school friends.",
+     "summary": "SCHOOL PALS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "A small group"
+     ],
+     "finding": "Perp keeps in touch with {{SELECTION}} of school friend(s).",
+     "summary": "SCHOOL PALS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Lots!"
+     ],
+     "finding": "Popular perp keeps in touch with {{RED}}sooooo many school friends.",
+     "summary": "SCHOOL PALS: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109271",
+   "interrogations": [
+    "How many school friends do you have in your phone?",
+    "Would you say you were you popular in high school?"
+   ],
+   "question": "How many friends from school (K-12) have you maintained friendships with?",
+   "reminder": "School Friends",
+   "starterContent": false,
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yes!"
+     ],
+     "finding": "If given the opportunity, perp {{RED}}would kiss themselves.",
+     "summary": "KISS MYSELF: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No!"
+     ],
+     "finding": "If given the opportunity, perp {{RED}}would not kiss themselves.",
+     "summary": "KISS MYSELF: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109273",
+   "interrogations": [
+    "How do you feel about romantic cloning?",
+    "Do you think you’re a good kisser?"
+   ],
+   "question": "If you could kiss yourself...would you?",
+   "reminder": "Kiss Urself?",
+   "starterContent": true,
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Concerning the “downward dog” pose in yoga, suspect {{RED}}knows how to do it.",
+     "summary": "DOWNWARD DOG: {{RED}}KNOWS IT"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Concerning the “downward dog” pose in yoga, suspect {{RED}}has no idea how to do it.",
+     "summary": "DOWNWARD DOG: {{RED}}NO IDEA"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109285",
+   "interrogations": [
+    "Please, describe the downward dog pose for us.",
+    "What are your feelings on yoga in general?",
+    "Does the pose actually resemble a dog? Discuss."
+   ],
+   "question": "Do you know how to do the \"downward dog\" yoga pose?",
+   "reminder": "Downward Dog?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "countrySpecific": true,
+   "evidence": [
+    {
+     "choices": [
+      "All the time"
+     ],
+     "finding": "Extremely cool perp got detention in school {{SELECTION}}.",
+     "summary": "DETENTION: {{RED}}ALL THE TIME"
+    },
+    {
+     "choices": [
+      "A few times"
+     ],
+     "finding": "Perp got detention in school {{SELECTION}}.",
+     "summary": "DETENTION: {{RED}}A LITTLE BIT"
+    },
+    {
+     "choices": [
+      "Once"
+     ],
+     "finding": "Perp got detention in school {{SELECTION}}.",
+     "summary": "DETENTION: {{RED}}ONCE"
+    },
+    {
+     "choices": [
+      "Never...so far"
+     ],
+     "finding": "Goody two-shoes perp {{RED}}NEVER got detention in school.",
+     "summary": "DETENTION: {{RED}}NEVER"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109286",
+   "interrogations": [
+    "Were you a good student?",
+    "What did you get in detention for?"
+   ],
+   "question": "Have you ever gotten detention while at school?",
+   "reminder": "Detention?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yeah, that’s fine."
+     ],
+     "finding": "Perp is {{RED}}fine with just leaving a banana peel on the ground.",
+     "summary": "PEEL TOSS: {{RED}}IT'S FINE"
+    },
+    {
+     "choices": [
+      "When in nature, it’s okay."
+     ],
+     "finding": "Perp will leave a banana peel on the ground {{RED}}when in nature.",
+     "summary": "PEEL TOSS: {{RED}}IN NATURE"
+    },
+    {
+     "choices": [
+      "That’s not okay, ever."
+     ],
+     "finding": "Perp is {{RED}}not okay with just leaving a banana peel on the ground.",
+     "summary": "PEEL TOSS: {{RED}}NOT OK!"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109287",
+   "interrogations": [
+    "Please, tell us why this is or isn’t littering.",
+    "How fast do you think the peel is going to decompose?"
+   ],
+   "question": "You’re looking to toss a banana peel and there’s no trash. Is it OK to throw it on the ground?",
+   "reminder": "Banana Peel Toss",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "104"
+     ],
+     "finding": "Mathlete subject {{RED}}knew the answer to 13 x 8!",
+     "summary": "13 x 8 = {{RED}}GOT IT!"
+    },
+    {
+     "choices": [
+      "103",
+      "91",
+      "116"
+     ],
+     "finding": "Someone get the perp a calculator, because they {{RED}}did not know what 13 x 8 was.",
+     "summary": "13 x 8 = {{RED}}LOL IDK"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109319",
+   "interrogations": [
+    "Do you have to deal with number crunching for work or school?",
+    "What’s 13 x 7?"
+   ],
+   "question": "What’s 13 x 8?",
+   "reminder": "13 x 8",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "No, never."
+     ],
+     "finding": "Perp {{RED}}has never visited with a psychic.",
+     "summary": "PSYCHIC: {{RED}}NEVER"
+    },
+    {
+     "choices": [
+      "No, but I’d like to!"
+     ],
+     "finding": "Perp has {{RED}}never visited a psychic, but wants to!",
+     "summary": "PSYCHIC: {{RED}}WANTS TO"
+    },
+    {
+     "choices": [
+      "Once, as a joke."
+     ],
+     "finding": "Perp has visited a psychic {{RED}}once, “as a joke.”",
+     "summary": "PSYCHIC: {{RED}}AS A JOKE"
+    },
+    {
+     "choices": [
+      "Once, earnestly."
+     ],
+     "finding": "Perp has visited a psychic {{RED}}once, seeking real guidance.",
+     "summary": "PSYCHIC: {{RED}}ONCE, 4 REAL"
+    },
+    {
+     "choices": [
+      "Yes, I regularly see a psychic."
+     ],
+     "finding": "Perp visits a psychic {{RED}}all the time.",
+     "summary": "PSYCHIC: {{RED}}OFTEN"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109322",
+   "interrogations": [
+    "What did you ask the psychic?",
+    "Did the psychic make an accurate prediction?",
+    "Do you think all psychics are quacks?"
+   ],
+   "question": "Have you ever visited a psychic?",
+   "reminder": "Visited A Psychic?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes."
+     ],
+     "finding": "Tiger-eyed perp says they're competitive about {{RED}}everything.",
+     "summary": "COMPETITIVE: {{RED}}ALWAYS"
+    },
+    {
+     "choices": [
+      "Only while playing games or sports."
+     ],
+     "finding": "Perp is competitive, {{RED}}but only when playing games or sports.",
+     "summary": "COMPETITIVE: {{RED}}GAMES ONLY"
+    },
+    {
+     "choices": [
+      "Nope!"
+     ],
+     "finding": "Zen perp is {{RED}}not the competitive type.",
+     "summary": "COMPETITIVE: {{RED}}NEVER"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109324",
+   "interrogations": [
+    "If you were losing this game right now, how would that feel?",
+    "Did you play sports growing up?",
+    "Have you ever been called a sore loser?"
+   ],
+   "question": "Are you competitive?",
+   "reminder": "Competitive?",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Museum of Cars, Trucks, and Wheely Things"
+     ],
+     "finding": "Perp would relish a trip to the {{SELECTION}}.",
+     "summary": "MUSEUM: {{RED}}CARS"
+    },
+    {
+     "choices": [
+      "The Bravo TV Museum"
+     ],
+     "finding": "Perp would relish a trip to {{SELECTION}}.",
+     "summary": "MUSEUM: {{RED}}BRAVO"
+    },
+    {
+     "choices": [
+      "The PlayStation History Museum"
+     ],
+     "finding": "Perp would relish a trip to {{SELECTION}}.",
+     "summary": "MUSEUM: {{RED}}PLAYSTATION"
+    },
+    {
+     "choices": [
+      "Museum of 21st Century Fashion"
+     ],
+     "finding": "Perp would relish a trip to the {{SELECTION}}.",
+     "summary": "MUSEUM: {{RED}}FASHION"
+    },
+    {
+     "choices": [
+      "The Snack Museum"
+     ],
+     "finding": "Perp would relish a trip to {{SELECTION}}.",
+     "summary": "MUSEUM: {{RED}}SNACKS"
+    },
+    {
+     "choices": [
+      "Museum of Literary Icons"
+     ],
+     "finding": "Perp would relish a trip to the {{SELECTION}}.",
+     "summary": "MUSEUM: {{RED}}AUTHORS"
+    },
+    {
+     "choices": [
+      "The International Sports Museum"
+     ],
+     "finding": "Perp would relish a trip to {{SELECTION}}.",
+     "summary": "MUSEUM: {{RED}}SPORTS"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109438",
+   "interrogations": [
+    "Do you watch any of the [i]Real Housewives[/i] shows?",
+    "Would you call yourself a gamer?",
+    "I know I can see what you’re wearing, but do you care about fashion at all?"
+   ],
+   "question": "If the following museums were real, which one would you have the best time at?",
+   "reminder": "New Museums!"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Nostalgic",
+      "Embarrassed",
+      "Proud"
+     ],
+     "finding": "Suspect would feel {{SELECTION}} looking at their old social media posts.",
+     "summary": "OLD POSTS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Nothing"
+     ],
+     "finding": "When looking at old social media posts, suspect would {{RED}}feel nothing.",
+     "summary": "OLD POSTS: {{RED}}NO FEELS"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109445",
+   "interrogations": [
+    "Did you post something today?",
+    "Can you think of a post you deeply regret?"
+   ],
+   "question": "How would you feel looking at your earliest social media posts?",
+   "reminder": "Old Post Feelings",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Keeps the engine cool",
+      "Filters out waste products",
+      "Transfers power to the wheels"
+     ],
+     "finding": "Target, apparently, {{RED}}has no idea what a carburetor does.",
+     "summary": "CARBURETOR? {{RED}}IDK"
+    },
+    {
+     "choices": [
+      "Supplies fuel and air to the engine"
+     ],
+     "finding": "Target {{RED}}knows what a carburetor does! Yay!",
+     "summary": "CARBURETOR? {{RED}}GOT IT RIGHT"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109638",
+   "interrogations": [
+    "Have you ever had to fix a car?",
+    "Do you have an older vehicle or a newer model?",
+    "Can you name 5 parts under the hood of a car?"
+   ],
+   "question": "What does a car’s carburetor do?",
+   "reminder": "A Carburetor’s Job",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I can build it!"
+     ],
+     "finding": "Suspect is confident about {{RED}}building their own furniture.",
+     "summary": "FURNITURE: {{RED}}SOLO BUILD"
+    },
+    {
+     "choices": [
+      "I can build it, with some help."
+     ],
+     "finding": "Suspect can build their own furniture, {{RED}}if they have an extra set of hands.",
+     "summary": "FURNITURE: {{RED}}BUILD W/ HELP"
+    },
+    {
+     "choices": [
+      "I’ll get someone else to do it."
+     ],
+     "finding": "Suspect will completely {{RED}}outsource furniture building to someone else.",
+     "summary": "FURNITURE: {{RED}}BUILD? NOT ME!"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109642",
+   "interrogations": [
+    "Are you crafty?",
+    "Do you prefer to get things done yourself?",
+    "In general, would you rather just pay someone else to do it?"
+   ],
+   "question": "You need to assemble a heavy piece of furniture. What’s going down?",
+   "reminder": "Building Furniture",
+   "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "No, I don’t want anyone to use my image."
+     ],
+     "finding": "Perp {{RED}}would not allow the use of their image to make holograms or similar.",
+     "summary": "HOLO-ME: {{RED}}NO"
+    },
+    {
+     "choices": [
+      "Yes, if used ethically."
+     ],
+     "finding": "Perp would allow the use of their image for holograms and stuff {{RED}}if used ethically.",
+     "summary": "HOLO-ME: {{RED}}IF ETHICAL"
+    },
+    {
+     "choices": [
+      "Yes, why should I care? I’m gone."
+     ],
+     "finding": "Perp says, {{RED}}”Use my image for holograms and anything else when I’m gone.”",
+     "summary": "HOLO-ME: {{RED}}YES"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109659",
+   "interrogations": [
+    "What’s wrong with your hologram being a musician?",
+    "Do you think holograms are cool, or concerning?"
+   ],
+   "question": "After you die, people want to use your image for holograms, deepfakes, etc. Do you approve?",
+   "reminder": "Post-Life Hologram?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Badly. I’m sensitive."
+     ],
+     "finding": "Suspect {{RED}}is not good at taking a joke at their expense.",
+     "summary": "TAKE A JOKE? {{RED}}HATES IT"
+    },
+    {
+     "choices": [
+      "Fine – I can act tough."
+     ],
+     "finding": "Suspect will take it on the chin, but {{RED}}they don't really enjoy jokes at their expense.",
+     "summary": "TAKE A JOKE? {{RED}}ACTS TOUGH"
+    },
+    {
+     "choices": [
+      "I’m a good sport!"
+     ],
+     "finding": "Suspect is a good sport and {{RED}}can take a joke at their expense.",
+     "summary": "TAKE A JOKE? {{RED}}GOOD SPORT"
+    },
+    {
+     "choices": [
+      "I love it! Roast me!!!"
+     ],
+     "finding": "Masochist subject absolutely {{RED}}loves jokes being made at their expense.",
+     "summary": "TAKE A JOKE? {{RED}}ROAST ME!"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109662",
+   "interrogations": [
+    "What if I told you people like you are the reason shampoo bottles have directions on them?",
+    "Does it take a lot to make you cry?"
+   ],
+   "question": "How well can you take a joke at your expense?",
+   "reminder": "Take A Joke?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "All the time",
+      "Sometimes",
+      "On rare occasion"
+     ],
+     "finding": "Suspect says they’re “too much” {{SELECTION}}.",
+     "summary": "2 MUCH? {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I’m never too much."
+     ],
+     "finding": "Suspect has {{RED}}never, ever been “too much.”",
+     "summary": "2 MUCH? {{RED}}NEVER"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109699",
+   "interrogations": [
+    "What are you like when you’re too much?",
+    "Would you say you’re “too much,” “extra,” or “a lot”?"
+   ],
+   "question": "How often would you say you are “too much”?",
+   "reminder": "U 2 Much?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "You bet, sweet cheeks."
+     ],
+     "finding": "Perp says they’re a {{RED}}real smooooth talker.",
+     "summary": "SMOOTH TALKER: {{RED}}YES"
+    },
+    {
+     "choices": [
+      "Not really."
+     ],
+     "finding": "Perp {{RED}}mostly doesn’t think of themselves as a smooth talker.",
+     "summary": "SMOOTH TALKER: {{RED}}NOT REALLY"
+    },
+    {
+     "choices": [
+      "NO!"
+     ],
+     "finding": "Perp is absolutely {{RED}}not a smooth talker.",
+     "summary": "SMOOTH TALKER: {{RED}}NO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109702",
+   "interrogations": [
+    "Do you charm customer service people?",
+    "Are you good at meeting a partner’s parents?"
+   ],
+   "question": "Are you a smooth talker?",
+   "reminder": "Smooth Talker?",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Small Talk With Nurse"
+     ],
+     "finding": "Suspect handles a vaccination by {{RED}}making small talk with the nurse.",
+     "summary": "GETTING A SHOT: {{RED}}SMALL TALK"
+    },
+    {
+     "choices": [
+      "Phone / Visual Distraction"
+     ],
+     "finding": "Suspect handles a vaccination with {{RED}}their phone or another visual distraction.",
+     "summary": "GETTING A SHOT: {{RED}}LOOK AWAY"
+    },
+    {
+     "choices": [
+      "Close My Eyes"
+     ],
+     "finding": "Suspect handles a vaccination by {{RED}}closing their eyes.",
+     "summary": "GETTING A SHOT: {{RED}}EYES CLOSED"
+    },
+    {
+     "choices": [
+      "Watch What They’re Doing"
+     ],
+     "finding": "Fearless suspect handles a vaccination by {{RED}}watching it happen.",
+     "summary": "GETTING A SHOT: {{RED}}WATCH"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109704",
+   "interrogations": [
+    "When was your last shot? How did it go?",
+    "Are you scared of getting shots?",
+    "Do you know how to give yourself a shot?"
+   ],
+   "question": "Time for your flu shot! What’s your typical behavior when getting a shot?",
+   "reminder": "Getting A Shot",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Definitely.",
+      "Sometimes.",
+      "Nope!"
+     ],
+     "finding": "When asked if they’re a hypochondriac, perp said: “{{SELECTION}}”",
+     "summary": "HYPO-CHONDRIAC? {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109705",
+   "interrogations": [
+    "Do you ever look up symptoms online?",
+    "Do you always assume the worst about health stuff?",
+    "How are you feeling right now?"
+   ],
+   "question": "Are you a hypochondriac?",
+   "reminder": "Hypochondriac?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Subject believes at the end of Titanic {{RED}}there was room for Jack on the door.",
+     "summary": "ROOM FOR JACK? {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Subject believes at the end of Titanic {{RED}}Jack could not have fit on the door.",
+     "summary": "ROOM FOR JACK? {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I haven’t seen [i]Titanic[/i]."
+     ],
+     "finding": "Subject has no opinion about Rose, Jack, or the door because they {{RED}}have not seen Titanic.",
+     "summary": "TITANIC: {{RED}}HASN'T SEEN IT"
+    },
+    {
+     "choices": [
+      "I truly do not care."
+     ],
+     "finding": "Subject claims they {{RED}}do not care about Rose, Jack, the door or any other part of Titanic.",
+     "summary": "ROOM FOR JACK? {{RED}}TBH, IDC"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109715",
+   "interrogations": [
+    "What makes you an expert in Leonardo DiCaprio’s buoyancy?",
+    "If you love someone, is it okay to let them drown?",
+    "How many floating doors have [i]you[/i] been on?"
+   ],
+   "question": "At the end of [i]Titanic[/i] when Rose is on the floating door, was there enough room for Jack?",
+   "reminder": "Titanic door",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I have cosplayed, and loved it!"
+     ],
+     "finding": "Subject is an {{RED}}enthusiastic cosplayer.",
+     "summary": "COSPLAY: {{RED}}INTO IT"
+    },
+    {
+     "choices": [
+      "I have not cosplayed, but I would try it."
+     ],
+     "finding": "Subject {{RED}}has not cosplayed, but wants to try it.",
+     "summary": "COSPLAY: {{RED}}WANT 2 TRY"
+    },
+    {
+     "choices": [
+      "I have no interest in cosplay."
+     ],
+     "finding": "Suspect {{RED}}has no interest in cosplay.",
+     "summary": "COSPLAY: {{RED}}NO"
+    },
+    {
+     "choices": [
+      "What is “cosplay”?"
+     ],
+     "finding": "Suspect claims to {{RED}}not know what cosplaying is.",
+     "summary": "COSPLAY: {{RED}}WHAT IS IT?"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109775",
+   "interrogations": [
+    "If you [i]were[/i] going to cosplay, who would you be?",
+    "Do you find putting on costumes & pretending to be someone else “fun”?",
+    "What are your thoughts on wigs?"
+   ],
+   "question": "How do you feel about cosplay?",
+   "reminder": "Cosplay?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "When alone, subject is comfortable {{RED}}bursting into song.",
+     "summary": "SOLO SONGS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Quiet, peaceful perp {{RED}}does not sing out loud when they're alone.",
+     "summary": "SOLO SONGS: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "109924",
+   "interrogations": [
+    "Are you happy with your singing ability?",
+    "If you [i]did[/i] sing when alone, what song would it be?"
+   ],
+   "question": "When by yourself, do you sing out loud?",
+   "reminder": "Private Singing",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Subject known to have a {{RED}}sworn nemesis.",
+     "summary": "NEMESIS? {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Saintly subject believes they {{RED}}do not have a nemesis.",
+     "summary": "NEMESIS? {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I have several"
+     ],
+     "finding": "Combative subject has somehow managed to collect {{RED}}several nemeses.",
+     "summary": "NEMESIS? {{RED}}LOTS"
+    },
+    {
+     "choices": [
+      "No, but someone thinks I'M their nemesis."
+     ],
+     "finding": "Peaceful subject has no nemeses, but knows that {{RED}}someone else thinks of them as a nemesis.",
+     "summary": "NEMESIS? {{RED}}I'M SOMEONE'S"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "110041",
+   "interrogations": [
+    "Who’s out there who doesn’t like you?",
+    "What’s it take for someone to become your nemesis?"
+   ],
+   "question": "Would you say you have a \"nemesis\"?",
+   "reminder": "Nemesis?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "No one is scared of me."
+     ],
+     "finding": "Harmless subject claims “{{SELECTION}}”",
+     "summary": "SCARED OF U? {{RED}}NO ONE"
+    },
+    {
+     "choices": [
+      "Yes. One person."
+     ],
+     "finding": "Subject believes they are scary to {{RED}}one person.",
+     "summary": "SCARED OF U? {{RED}}ONE PERSON"
+    },
+    {
+     "choices": [
+      "Many people are scared of me."
+     ],
+     "finding": "Terrifying subject believes they frighten {{RED}}“many people.”",
+     "summary": "SCARED OF U? {{RED}}MANY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "110110",
+   "interrogations": [
+    "What would make you scary?",
+    "Have you frightened people in the past?"
+   ],
+   "question": "Are there people out there in the world who are scared of you?",
+   "reminder": "Am I Scary?"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "2",
+      "5",
+      "4"
+     ],
+     "finding": "Uncultured subject has {{RED}}no idea how many Michelin stars a restaurant can get.",
+     "summary": "MICHELIN: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "3"
+     ],
+     "finding": "Fine-dining suspect {{RED}}knows the max amount of Michelin stars a restaurant can get.",
+     "summary": "MICHELIN: {{RED}}CORRECT"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "111857",
+   "interrogations": [
+    "Ever worked at a nice restaurant?",
+    "Do you think of yourself as a ‘foodie’?",
+    "It’s okay to admit you don’t know Michelin star stuff. I didn’t know either!"
+   ],
+   "question": "What’s the most Michelin stars a restaurant can get?",
+   "reminder": "Michelin Star Max",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Downstage"
+     ],
+     "finding": "Perp knows the section of a stage closest to the audience is called {{RED}}“downstage”.",
+     "summary": "DOWNSTAGE: {{RED}}GOT IT RIGHT"
+    },
+    {
+     "choices": [
+      "Upstage",
+      "Topstage",
+      "Frontstage"
+     ],
+     "finding": "When asked about the part of a stage closest to the audience, {{RED}}perp did not know it’s called “downstage”.",
+     "summary": "DOWNSTAGE: {{RED}}WRONG"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "111858",
+   "interrogations": [
+    "Were you a theater kid?",
+    "Do you think someone with theater knowledge would be good at lying?",
+    "Can you tell me what the different stage directions are?"
+   ],
+   "question": "How would you describe the part of a theater stage that’s closest to the audience?",
+   "reminder": "Stage Directions"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Minnesota Vikings"
+     ],
+     "finding": "Jock subject knows football stuff, including {{RED}}which team is part of the NFC.",
+     "summary": "NFC: {{RED}}CORRECT"
+    },
+    {
+     "choices": [
+      "Miami Dolphins",
+      "Denver Broncos",
+      "Pittsburgh Steelers"
+     ],
+     "finding": "Non-sporty perp {{RED}}does not know which teams are in the NFC.",
+     "summary": "NFC: {{RED}}DIDN’T KNOW"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "111917",
+   "interrogations": [
+    "So, who’s your football team?",
+    "What’s another team in the NFC?",
+    "Do you care about sports?"
+   ],
+   "question": "Which NFL Team is in the National Football Conference?",
+   "reminder": "NFC Team?",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Chromeleon",
+      "Magmammoth"
+     ],
+     "finding": "Perp needs to get to a training center, because they {{RED}}don't know a lot about Pokémon.",
+     "summary": "POKEMON: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "Geodude"
+     ],
+     "finding": "Masterful subject {{RED}}correctly identified the real Pokémon!",
+     "summary": "POKEMON: {{RED}}CORRECT"
+    },
+    {
+     "choices": [
+      "Aguaman",
+      "Meowth Too"
+     ],
+     "finding": "Perp needs to get to a training center, because they {{RED}}don't know a lot about Pokémon.",
+     "summary": "POKEMON: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "I'm a more of a Digimon person."
+     ],
+     "finding": "Perp has refined tastes! They didn't identify a Pokémon because {{RED}}they prefer Digimon.",
+     "summary": "POKEMON: {{RED}}DIGIMON!"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "111976",
+   "interrogations": [
+    "You ever want to be the very best? Like no one ever was?",
+    "I mean, you know who Pikachu is at least, right?",
+    "What does the phrase \"grass type\" mean to you?"
+   ],
+   "question": "Which of these is a Pokémon?",
+   "reminder": "Pokémon Trainer?",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "\"...to see a marching band.\""
+     ],
+     "finding": "Suspect carried on and {{RED}}knew the full My Chemical Romance lyric!",
+     "summary": "MCR: {{RED}}CORRECT"
+    },
+    {
+     "choices": [
+      "\"...to march all with the band.\"",
+      "\"...and guide me by the hand\"",
+      "\"...to dance across the land.\""
+     ],
+     "finding": "Suspect {{RED}}got it wrong when asked to finish the My Chemical Romance song lyric.",
+     "summary": "MCR: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "I've never heard this song."
+     ],
+     "finding": "Suspect claims to have{{RED}}never heard My Chemical Romance’s song, “Welcome to the Black Parade.”",
+     "summary": "MCR: {{RED}}NO IDEA"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "111979",
+   "interrogations": [
+    "Does the name Gerard Way mean anything to you?",
+    "Did you know emo kids in high school? Were YOU an emo kid?"
+   ],
+   "question": "Finish the lyric: “When I was a young boy / my father took me into the city.....”",
+   "reminder": "MCR Fan?",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Green",
+      "Blue",
+      "Red"
+     ],
+     "finding": "Suspect was {{RED}}incorrect regarding the color of Mace Windu’s lightsaber.",
+     "summary": "LIGHT SABER: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "Purple"
+     ],
+     "finding": "Of COURSE the suspect {{RED}}knows the color of Mace Windu’s lightsaber! Who doesn't know that??",
+     "summary": "LIGHT SABER: {{RED}}CORRECT"
+    },
+    {
+     "choices": [
+      "I don't know, and don't care."
+     ],
+     "finding": "Weirdly defensive perp {{RED}}\"doesn't care\" about Mace Windu's lightsaber.",
+     "summary": "LIGHT SABER: {{RED}}GO AWAY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "111980",
+   "interrogations": [
+    "How familiar are you with the Star Wars prequels?",
+    "What colors do you think represent good and evil?",
+    "Does the name Sheev Palpatine mean anything to you?"
+   ],
+   "question": "What color is Mace Windu’s lightsaber?",
+   "reminder": "Mace Windu Saber",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Shades down low"
+     ],
+     "finding": "Don't call the perp a Swiftie, because they {{RED}}could not correctly identify the Taylor Swift lyric.",
+     "summary": "T-SWIFT LYRIC: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "Fly t-shirt"
+     ],
+     "finding": "Don't call the perp a Swiftie, because they {{RED}}could not correctly identify the Taylor Swift lyric.",
+     "summary": "T-SWIFT LYRIC: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "White t-shirt"
+     ],
+     "finding": "Swiftie suspect speedily surmised {{RED}}the correct Taylor Swift lyric!",
+     "summary": "T-SWIFT LYRIC: {{RED}}CORRECT"
+    },
+    {
+     "choices": [
+      "Tiny new skirt"
+     ],
+     "finding": "Don't call the perp a Swiftie, because they {{RED}}could not correctly identify the Taylor Swift lyric.",
+     "summary": "T-SWIFT LYRIC: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "I don't know?"
+     ],
+     "finding": "This perp immediately gave up and {{RED}}didn't even try to identify the music lyric. It was Taylor Swift, btw.",
+     "summary": "T-SWIFT LYRIC: {{RED}}I DUNNO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "111982",
+   "interrogations": [
+    "Would you say that now we've got bad blood?",
+    "Do you even have the foggiest idea of who might sing this lyric?"
+   ],
+   "question": "Finish the lyric: “You got that long hair, slicked back, <BLANK>“",
+   "reminder": "T-Swift Lyrics",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Needy, demanding subject admits to being {{RED}}high-maintenance.",
+     "summary": "HIGH-MAINTENANCE? {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Easy-breezy subject describes themselves as {{RED}}not high-maintenance.",
+     "summary": "HIGH-MAINTENANCE? {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "111992",
+   "interrogations": [
+    "Are you comfortable ordering people to do things for you?",
+    "If you were a tree, would that tree be high-maintenance?",
+    "What’s your reaction when told to “calm down”?"
+   ],
+   "question": "Are you high-maintenance?",
+   "reminder": "High Maintenance?"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Salt Water"
+     ],
+     "finding": "Fish-ignorant suspect {{RED}}does not know where trout live.",
+     "summary": "TROUT: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "Fresh Water"
+     ],
+     "finding": "Fish-savvy suspect {{RED}}knows where trout live.",
+     "summary": "TROUT: {{RED}}CORRECT"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112110",
+   "interrogations": [
+    "Do you enjoy the various fish breeds native to North America?",
+    "Have you ever been fishing? Do you like it?",
+    "Could you describe a trout for us right now?"
+   ],
+   "question": "Where does one typically find trout?",
+   "reminder": "Trout!"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "\"Bicycle - Mountain - Extreme\""
+     ],
+     "finding": "Low-octane perp has {{RED}}absolutely no idea what BMX stands for.",
+     "summary": "BMX: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "\"Biwheel Moto Ten\""
+     ],
+     "finding": "Low-octane perp has {{RED}}absolutely no idea what BMX stands for.",
+     "summary": "BMX: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "\"Bicycle Moto Cross\""
+     ],
+     "finding": "Adrenaline junkie perp {{RED}}knows exactly what BMX stands for.",
+     "summary": "BMX: {{RED}}RIGHT"
+    },
+    {
+     "choices": [
+      "\"Bicicletta Mondo Estremo\""
+     ],
+     "finding": "Low-octane perp has {{RED}}absolutely no idea what BMX stands for.",
+     "summary": "BMX: {{RED}}WRONG"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112111",
+   "interrogations": [
+    "Do you find half-pipe tricks interesting?",
+    "Let's say you know the \"B\" - what's your best guess on the other two letters?",
+    "Does the idea of a high-speed mountain trail appeal to you?"
+   ],
+   "question": "What does the acronym BMX stand for?",
+   "reminder": "BMX!",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Mercedes"
+     ],
+     "finding": "Though they made a good guess, perp {{RED}}has no idea who Lewis Hamilton drives for.",
+     "summary": "HAMILTON F1: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "Red Bull"
+     ],
+     "finding": "Though they made a good guess, perp {{RED}}has no idea who Lewis Hamilton drives for.",
+     "summary": "HAMILTON F1: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "Ferrari"
+     ],
+     "finding": "Zoom-zooming target {{RED}}knows exactly who Lewis Hamilton drives for.",
+     "summary": "HAMILTON F1: {{RED}}CORRECT"
+    },
+    {
+     "choices": [
+      "Aston Martin"
+     ],
+     "finding": "Though they made a good guess, perp {{RED}}has no idea who Lewis Hamilton drives for.",
+     "summary": "HAMILTON F1: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "I was born not knowing about F1, and I'll die not knowing about F1."
+     ],
+     "finding": "Perp does not know - and will never know - {{RED}}anything about F1.",
+     "summary": "HAMILTON F1: {{RED}}DUNNO LOL"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112112",
+   "interrogations": [
+    "Did you ever get into \"Drive to Survive\"?",
+    "Does the word \"Haas\" make you feel anything?",
+    "Do you even know what kind of cars they drive in F1?"
+   ],
+   "question": "In the current year (2025) which Formula 1 team is Lewis Hamilton driving for?",
+   "reminder": "Formula 1 Fun",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Any elevated horizontal surface"
+     ],
+     "finding": "Better get a new contractor, because perp {{RED}}does not know what a lintel is.",
+     "summary": "LINTEL: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "A beam that goes on top of a door"
+     ],
+     "finding": "Construction-savvy perp {{RED}}knows what a lintel is!",
+     "summary": "LINTEL: {{RED}}CORRECT"
+    },
+    {
+     "choices": [
+      "A beam at a door's bottom lip"
+     ],
+     "finding": "Better get a new contractor, because perp {{RED}}does not know what a lintel is.",
+     "summary": "LINTEL: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "The overhanging part of a roof"
+     ],
+     "finding": "Better get a new contractor, because perp {{RED}}does not know what a lintel is.",
+     "summary": "LINTEL: {{RED}}WRONG"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112115",
+   "interrogations": [
+    "Are you a regular watcher of HGTV?",
+    "When you walk through a door, do you know basically how it works?",
+    "How are you with a hammer?"
+   ],
+   "question": "In construction terms, what is a lintel?",
+   "reminder": "Lintels, Baby!",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Ammonia"
+     ],
+     "finding": "Science-minded perp {{RED}}knows EXACTLY what the formula NH3 stands for.",
+     "summary": "NH3: {{RED}}I KNOW IT!"
+    },
+    {
+     "choices": [
+      "Table Salt"
+     ],
+     "finding": "When asked what the chemical formula NH3 stood for, suspect {{RED}}did not know.",
+     "summary": "NH3: {{RED}}DOESN’T KNOW"
+    },
+    {
+     "choices": [
+      "Acetic Acid"
+     ],
+     "finding": "When asked what the chemical formula NH3 stood for, suspect {{RED}}did not know.",
+     "summary": "NH3: {{RED}}DOESN’T KNOW"
+    },
+    {
+     "choices": [
+      "Hyaluronic acid"
+     ],
+     "finding": "When asked what the chemical formula NH3 stood for, suspect {{RED}}did not know.",
+     "summary": "NH3: {{RED}}DOESN’T KNOW"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112117",
+   "interrogations": [
+    "Does NaCl mean anything to you?",
+    "Do you know the difference between inorganic and organic compounds?",
+    "Did you take chemistry in school? If so, how did you do?"
+   ],
+   "question": "What compound does the formula NH3 stand for?",
+   "reminder": "NH3 Just For Me",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "My eyes!"
+     ],
+     "finding": "Suspect {{RED}}does not know where their ossicles are.",
+     "summary": "OSSICLE: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "My hands!"
+     ],
+     "finding": "Suspect {{RED}}does not know where their ossicles are.",
+     "summary": "OSSICLE: {{RED}}WRONG"
+    },
+    {
+     "choices": [
+      "My ears!"
+     ],
+     "finding": "Suspect {{RED}}knows where their ossicles are! Wow!!!",
+     "summary": "OSSICLE: {{RED}}CORRECT"
+    },
+    {
+     "choices": [
+      "My nose!"
+     ],
+     "finding": "Suspect {{RED}}does not know where their ossicles are.",
+     "summary": "OSSICLE: {{RED}}WRONG"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112118",
+   "interrogations": [
+    "How are you with anatomy?",
+    "Have you done a survey of your bones recently?",
+    "Does the anvil and hammer mean anything to you?"
+   ],
+   "question": "Where are your ossicles?",
+   "reminder": "Ossicles",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "...going to change the world."
+     ],
+     "finding": "Techno-friendly suspect says {{RED}}“AI is going to change the world.”",
+     "summary": "AI: {{RED}}CHANGE THE WORLD"
+    },
+    {
+     "choices": [
+      "...a helpful tool."
+     ],
+     "finding": "Suspect says {{RED}}“AI is a helpful tool.”",
+     "summary": "AI: {{RED}}HELPFUL TOOL"
+    },
+    {
+     "choices": [
+      "...going to kill us all."
+     ],
+     "finding": "Suspect says {{RED}}“AI is going to kill us all!”",
+     "summary": "AI: {{RED}}HATES IT"
+    },
+    {
+     "choices": [
+      "...not something I care about."
+     ],
+     "finding": "Suspect says {{RED}}“AI is not something I care about.”",
+     "summary": "AI: {{RED}}DON’T CARE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112290",
+   "interrogations": [
+    "What are some best-case uses for AI?",
+    "Where do you stand on computers vs. people?",
+    "If I were AI, what would you say to me?"
+   ],
+   "question": "Artificial Intelligence (AI) is...",
+   "reminder": "AI?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes. I would beat the ostrich."
+     ],
+     "finding": "Perp is confident that with a year’s prep, {{RED}}they could win a fight against an ostrich.",
+     "summary": "VS. OSTRICH: {{RED}}WIN"
+    },
+    {
+     "choices": [
+      "No. I would lose to the ostrich."
+     ],
+     "finding": "Perp thinks that even with a year’s prep, {{RED}}they would lose a fight against an ostrich.",
+     "summary": "VS. OSTRICH: {{RED}}LOSE"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112580",
+   "interrogations": [
+    "What would be your strategy to taking down an ostrich?",
+    "A year is a long time - what would you do to train for an ostrich fight?"
+   ],
+   "question": "If you had a year to prepare, could you win a fight against an ostrich?",
+   "reminder": "Ostrich Fight",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I’m okay being cremated."
+     ],
+     "finding": "Regarding cremation, perp says: “{{SELECTION}}”",
+     "summary": "CREMATION: {{RED}}YES"
+    },
+    {
+     "choices": [
+      "I am not okay with being cremated."
+     ],
+     "finding": "Regarding cremation, perp says: “{{SELECTION}}”",
+     "summary": "CREMATION: {{RED}}NO"
+    },
+    {
+     "choices": [
+      "I’m not ready to think about this."
+     ],
+     "finding": "Regarding cremation, perp says: “{{SELECTION}}”",
+     "summary": "CREMATION: {{RED}}NOT READY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112581",
+   "interrogations": [
+    "Do you have any religious background that may influence your response?",
+    "Do you have relatives that have chosen to be cremated?",
+    "If you were cremated, where would you want your ashes scattered?"
+   ],
+   "question": "What are your feelings about cremation?",
+   "reminder": "Cremation?",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, humans are naturally good."
+     ],
+     "finding": "Target believes {{RED}}human beings are naturally good.",
+     "summary": "HUMANS: {{RED}}BORN GOOD"
+    },
+    {
+     "choices": [
+      "Humans are born bad, but can learn to be good."
+     ],
+     "finding": "Target believes {{RED}}humans are naturally bad and learn to be good.",
+     "summary": "HUMANS: {{RED}}BORN BAD"
+    },
+    {
+     "choices": [
+      "Humans are born neutral and learn to be good."
+     ],
+     "finding": "Target believes {{RED}}humans are born neutral and learn to be good.",
+     "summary": "HUMANS: {{RED}}BORN NEUTRAL"
+    },
+    {
+     "choices": [
+      "No. Humans are born bad and stay that way."
+     ],
+     "finding": "Target believes {{RED}}humans are born bad and stay that way.",
+     "summary": "HUMANS: {{RED}}BAD FOREVER"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112585",
+   "interrogations": [
+    "Is your opinion influenced by the concept of a soul?",
+    "Do you feel that you have a strong moral compass?",
+    "Which option do you WISH were true?"
+   ],
+   "question": "Do you believe humans are naturally good?",
+   "reminder": "Humans: Good?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Absolutely."
+     ],
+     "finding": "When in nature, perp {{RED}}totally feels like they're part of it.",
+     "summary": "NATURE: {{RED}}PART OF IT!"
+    },
+    {
+     "choices": [
+      "Only after a long time."
+     ],
+     "finding": "When in nature, perp {{RED}}feels like they’re part of it, but only after a long time.",
+     "summary": "NATURE: {{RED}}AFTER A WHILE"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "When in nature, perp {{RED}}does not feel particularly connected to it.",
+     "summary": "NATURE: {{RED}}NO THANKS"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112587",
+   "interrogations": [
+    "Does nature calm you, or make you anxious?",
+    "Do you need to feel comfortable to feel like you're a part of something?",
+    "Has there been a time where you felt “primal” urges?"
+   ],
+   "question": "When you're in nature, do you feel like you're [i]part[/i] of nature?",
+   "reminder": "When In Nature"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "All the time! I always try my best."
+     ],
+     "finding": "Perp says that they’re doing their absolute best {{RED}}all the time.",
+     "summary": "DO UR BEST? {{RED}}24/7"
+    },
+    {
+     "choices": [
+      "Sometimes."
+     ],
+     "finding": "Perp says that they’re doing their absolute best {{RED}}only sometimes.",
+     "summary": "DO UR BEST? {{RED}}SOMETIMES"
+    },
+    {
+     "choices": [
+      "Rarely."
+     ],
+     "finding": "Dangerously honest perp says that they {{RED}}rarely do their absolute best.",
+     "summary": "DO UR BEST? {{RED}}RARELY"
+    },
+    {
+     "choices": [
+      "Never. “Doing your best” is a scam."
+     ],
+     "finding": "Perp freely admits to {{RED}}never doing their best.",
+     "summary": "DO UR BEST? {{RED}}NEVER."
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112590",
+   "interrogations": [
+    "Do you use external metrics to measure \"your best,\" or internal vibes?",
+    "Do you agree with the statement \"Anything worth doing is worth doing well?\"",
+    "What was the last thing you put 100% effort into?"
+   ],
+   "question": "How often would you say you're doing your absolute best?",
+   "reminder": "Do Your Best?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Heck yeah!",
+      "Eh.",
+      "No."
+     ],
+     "finding": "When asked about Cybertrucks, perp said “{{SELECTION}}”",
+     "summary": "CYBERTRUCKS: “{{SELECTION}}”"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112597",
+   "interrogations": [
+    "What is your gut reaction when you see a Cybertruck out on the road?",
+    "What would you say the shape of a Cybertruck is?"
+   ],
+   "question": "....Cybertrucks?",
+   "reminder": "Cybertrucks?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Talk to as many ghosts as possible."
+     ],
+     "finding": "If able to speak to ghosts, perp would {{RED}}talk to as many ghosts as possible.",
+     "summary": "GHOST CHAT: {{RED}}YES, LOTS"
+    },
+    {
+     "choices": [
+      "Talk to ghosts only to solve mysteries."
+     ],
+     "finding": "If able to speak to ghosts, perp would {{RED}}only talk to ghosts to solve mysteries.",
+     "summary": "GHOST CHAT: {{RED}}MYSTERIES"
+    },
+    {
+     "choices": [
+      "Talk to one or two specific ghosts."
+     ],
+     "finding": "If able to speak to ghosts, perp would {{RED}}only talk to one or two specific ghosts.",
+     "summary": "GHOST CHAT: {{RED}}ONE OR TWO"
+    },
+    {
+     "choices": [
+      "I would never talk to ghosts."
+     ],
+     "finding": "Perp has seen enough horror movies to know they would {{RED}}never talk to a ghost.",
+     "summary": "GHOST CHAT: {{RED}}NEVER"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112602",
+   "interrogations": [
+    "How do you think the ghosts would DO the talking?",
+    "What would your first question to a ghost be?",
+    "If a ghost were listening right now, what would you ask it?"
+   ],
+   "question": "If humans were suddenly able to speak to ghosts, what would you do?",
+   "reminder": "Ghost Chats?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Sure!"
+     ],
+     "finding": "Regarding doing personal stuff on a work computer, perp says {{RED}}yes, that’s fine.",
+     "summary": "WORK ‘PUTER: {{RED}}YES"
+    },
+    {
+     "choices": [
+      "Only if it's important."
+     ],
+     "finding": "Regarding doing personal stuff on a work computer, perp says {{RED}}only if it’s really important.",
+     "summary": "WORK ‘PUTER: {{RED}}IF IMPORTANT"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "Regarding doing personal stuff on a work computer, perp says {{RED}}no, that’s not okay.",
+     "summary": "WORK ‘PUTER: {{RED}}NO"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112603",
+   "interrogations": [
+    "How do you feel about the occasional personal Google search?",
+    "If you could bypass firewalls without anyone noticing, would you?",
+    "What kind of “personal” stuff are we talking about here?"
+   ],
+   "question": "Is it okay to use a work computer for personal stuff?",
+   "reminder": "Work Computers",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Burning to Death",
+      "Freezing to Death",
+      "Falling to Your Death",
+      "Drowning (to Death)"
+     ],
+     "finding": "Given the choice of how to exit this world, perp would prefer: {{SELECTION}}",
+     "summary": "RIP: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112604",
+   "interrogations": [
+    "Does speed of death factor into your decision?",
+    "What is an acceptable level of risky behavior to you?"
+   ],
+   "question": "Which of the following deaths would you prefer?",
+   "reminder": "Causes 'O' Death",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Nursing Home Residents"
+     ],
+     "finding": "Suspect thinks the worst group to be nude in front of would be: {{SELECTION}}",
+     "summary": "NUDE, OH NO: {{RED}}NURSING HOME"
+    },
+    {
+     "choices": [
+      "The US Senate"
+     ],
+     "finding": "Suspect thinks the worst group to be nude in front of would be: {{SELECTION}}",
+     "summary": "NUDE, OH NO: {{RED}}SENATE"
+    },
+    {
+     "choices": [
+      "All My Exes"
+     ],
+     "finding": "Suspect thinks the worst group to be nude in front of would be: {{SELECTION}}",
+     "summary": "NUDE, OH NO: {{RED}}EXES"
+    },
+    {
+     "choices": [
+      "Hungry Dogs"
+     ],
+     "finding": "Suspect thinks the worst group to be nude in front of would be: {{SELECTION}}",
+     "summary": "NUDE, OH NO: {{RED}}HUNGRY DOGS"
+    },
+    {
+     "choices": [
+      "Entire Family"
+     ],
+     "finding": "Suspect thinks the worst group to be nude in front of would be: {{SELECTION}}",
+     "summary": "NUDE, OH NO: {{RED}}FAMILY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112605",
+   "interrogations": [
+    "What sort of situation makes you embarrassed?",
+    "What would be the reaction of the group you chose?",
+    "What would be the BEST group to be naked in front of?"
+   ],
+   "question": "Which group would be the worst to be unexpectedly nude in front of?",
+   "reminder": "Public Nudity",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I think other people think about me a lot."
+     ],
+     "finding": "Attention-grabbing perp truly believes other people {{RED}}think about them A LOT.",
+     "summary": "PPL THINK OF ME: {{RED}}A LOT"
+    },
+    {
+     "choices": [
+      "People think about me more than I'm comfortable with."
+     ],
+     "finding": "Paranoid perp thinks other people think about them {{RED}}more frequently than they're comfortable with.",
+     "summary": "PPL THINK OF ME: {{RED}}TOO MUCH"
+    },
+    {
+     "choices": [
+      "People think about me a normal amount."
+     ],
+     "finding": "Perfectly normal perp thinks people think about them {{RED}}a perfectly normal amount.",
+     "summary": "PPL THINK OF ME: {{RED}}NORMAL"
+    },
+    {
+     "choices": [
+      "Thankfully, I don't think people think about me at all."
+     ],
+     "finding": "Peaceful perp is comforted by the idea that {{RED}}other people don't think about them at all.",
+     "summary": "PPL THINK OF ME: {{RED}}NEVER"
+    },
+    {
+     "choices": [
+      "I wish people thought about me more."
+     ],
+     "finding": "Pining perp expresses a wish that {{RED}}people thought about them more.",
+     "summary": "PPL THINK OF ME: {{RED}}MORE PLZ"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112643",
+   "interrogations": [
+    "What is your main feeling when you receive unexpected attention?",
+    "Do you ever feel like you're being observed?"
+   ],
+   "question": "How much do you believe other people think about you?",
+   "reminder": "Thinking of U"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yes, my pet."
+     ],
+     "finding": "When asked if they have ever felt hatred towards an individual animal, perp said: \"{{SELECTION}}\"",
+     "summary": "ANIMAL HATER: {{RED}}MY PET"
+    },
+    {
+     "choices": [
+      "Yes, someone else's pet."
+     ],
+     "finding": "When asked if they have ever felt hatred towards an individual animal, perp said: \"{{SELECTION}}\"",
+     "summary": "ANIMAL HATER: {{RED}}OTHER PPLS PET"
+    },
+    {
+     "choices": [
+      "Yes, a wild animal I met/know of."
+     ],
+     "finding": "When asked if they have ever felt hatred towards an individual animal, perp said: \"{{SELECTION}}\"",
+     "summary": "ANIMAL HATER: {{RED}}WILD ANIMAL"
+    },
+    {
+     "choices": [
+      "Yes, a famous animal."
+     ],
+     "finding": "When asked if they have ever felt hatred towards an individual animal, perp said: \"{{SELECTION}}\"",
+     "summary": "ANIMAL HATER: {{RED}}FAMOUS ANIMAL"
+    },
+    {
+     "choices": [
+      "I hate lots of animals."
+     ],
+     "finding": "When asked if they have ever felt hatred towards an individual animal, perp said: \"{{SELECTION}}\"",
+     "summary": "ANIMAL HATER: {{RED}}LOTS"
+    },
+    {
+     "choices": [
+      "No! Never!!!"
+     ],
+     "finding": "When ask if they have ever felt hatred towards an individual animal, perp said: \"{{SELECTION}}\"",
+     "summary": "ANIMAL HATER: {{RED}}WTF NO?"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112644",
+   "interrogations": [
+    "Do you feel this way because of something an animal did, or didn't do?",
+    "Do you think certain animals can feel hatred right back?"
+   ],
+   "question": "Have you ever felt real-life human hatred towards an individual animal?",
+   "reminder": "Animal Haters"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "countrySpecific": true,
+   "evidence": [
+    {
+     "choices": [
+      "Yes!"
+     ],
+     "finding": "Poll-going perp {{RED}}voted in the last midterm election.",
+     "summary": "MIDTERMS: {{RED}}YES!"
+    },
+    {
+     "choices": [
+      "No, but I tried to!"
+     ],
+     "finding": "Perp says they {{RED}}attempted to, but ultimately did not vote in the last midterm election.",
+     "summary": "MIDTERMS: {{RED}}NO BUT TRIED"
+    },
+    {
+     "choices": [
+      "No, but I have a good reason!"
+     ],
+     "finding": "Perp assures us that {{RED}}they have a good reason for skipping the last midterm election.",
+     "summary": "MIDTERMS: {{RED}}NO BUT GOOD REASON"
+    },
+    {
+     "choices": [
+      "I'm too young to vote!"
+     ],
+     "finding": "Target may or may not cast a ballot in the future, but for now {{RED}}they are too young to vote in a midterm election.",
+     "summary": "MIDTERMS: {{RED}}TOO YOUNG!"
+    },
+    {
+     "choices": [
+      "What are midterm elections?"
+     ],
+     "finding": "Seems like it's time for a civics lesson, because our perp {{RED}}does not know what midterm elections are.",
+     "summary": "MIDTERMS: {{RED}}HUH?"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112645",
+   "interrogations": [
+    "Do you know who your current representatives are?",
+    "Do you think you would vote my mail, or go to a polling place?"
+   ],
+   "question": "Did you vote in the last midterm election?",
+   "reminder": "Midterm Election",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes."
+     ],
+     "finding": "If suspect was able to go back in time and change things, {{RED}}they absolutely would.",
+     "summary": "CHANGE HISTORY? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "If suspect was able to go back in time and change things, {{RED}}they would choose not to.",
+     "summary": "CHANGE HISTORY? {{RED}}NO"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112647",
+   "interrogations": [
+    "If there’s an event you would change, is it small or big?",
+    "Do you believe everything happens for a reason?",
+    "What are your thoughts on the butterfly effect?"
+   ],
+   "question": "If you had the ability to go back in time and change history, would you?",
+   "reminder": "Change History?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yeah!",
+      "Who's asking??",
+      "Fine!",
+      "Been better.",
+      "Lmao, no"
+     ],
+     "finding": "When asked \"....you good?\", perp said \"{{SELECTION}}\"",
+     "summary": "U GOOD? \"{{SELECTION}}\""
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112649",
+   "interrogations": [
+    "What's your overall emotional state today?",
+    "Is there room for improvement in your day at this point?"
+   ],
+   "question": "So...you good?",
+   "reminder": "U Good?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "iPhone"
+     ],
+     "finding": "Perp’s phone is an {{RED}}iPhone.",
+     "summary": "PHONE: {{RED}}iPHONE"
+    },
+    {
+     "choices": [
+      "Android"
+     ],
+     "finding": "Perp’s phone is an {{RED}}Android.",
+     "summary": "PHONE: {{RED}}ANDROID"
+    },
+    {
+     "choices": [
+      "A different type of smart phone"
+     ],
+     "finding": "Perp's phone is {{RED}}a smartphone that isn't an iPhone or Android.",
+     "summary": "PHONE: {{RED}}GENERIC SMART PHONE"
+    },
+    {
+     "choices": [
+      "Flip phone"
+     ],
+     "finding": "Perp’s phone is a {{RED}}flip phone",
+     "summary": "PHONE: {{RED}}FLIP PHONE"
+    },
+    {
+     "choices": [
+      "Landline"
+     ],
+     "finding": "Perp’s phone is keeping the phone company in business by having a {{RED}}landline",
+     "summary": "PHONE: {{RED}}LANDLINE"
+    },
+    {
+     "choices": [
+      "I don't have a phone!"
+     ],
+     "finding": "Perp {{RED}}has NO PHONE whatsoever!",
+     "summary": "PHONE: {{RED}}NONE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112712",
+   "interrogations": [
+    "What are you using to play this game right now?",
+    "What’s important to you in a phone?"
+   ],
+   "question": "What type of phone do you have?",
+   "reminder": "Phone Type"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Love me!"
+     ],
+     "finding": "In general, perp says that \"my exes {{SELECTION}}\"",
+     "summary": "EXES: {{RED}}LOVE ME"
+    },
+    {
+     "choices": [
+      "Hate me."
+     ],
+     "finding": "In general, perp says that \"my exes {{SELECTION}}\"",
+     "summary": "EXES: {{RED}}HATE ME"
+    },
+    {
+     "choices": [
+      "Are \"fine\" with me."
+     ],
+     "finding": "In general, perp says that \"my exes {{SELECTION}}\"",
+     "summary": "EXES: {{RED}}\"FINE\" W/ ME"
+    },
+    {
+     "choices": [
+      "...have no contact with me."
+     ],
+     "finding": "In general, perp says that \"my exes {{SELECTION}}\"",
+     "summary": "EXES: {{RED}}NO CONTACT"
+    },
+    {
+     "choices": [
+      "don’t exist...because I have no exes!"
+     ],
+     "finding": "Perp says that \"my exes {{SELECTION}}\"",
+     "summary": "EXES: {{RED}}NO EXES"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112714",
+   "interrogations": [
+    "Tell me about your exes.",
+    "If we broke up right now, would you be cool about it?",
+    "When’s the last time you saw an ex?"
+   ],
+   "question": "Generally, my exes...",
+   "reminder": "Exes?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Great!"
+     ],
+     "finding": "Perp described their day as \"{{SELECTION}}\"",
+     "summary": "TODAY: \"{{SELECTION}}\""
+    },
+    {
+     "choices": [
+      "Good!"
+     ],
+     "finding": "Perp described their day as \"{{SELECTION}}\"",
+     "summary": "TODAY: \"{{SELECTION}}\""
+    },
+    {
+     "choices": [
+      "Fine."
+     ],
+     "finding": "Perp described their day as \"{{SELECTION}}\"",
+     "summary": "TODAY: \"{{SELECTION}}\""
+    },
+    {
+     "choices": [
+      "Not Great."
+     ],
+     "finding": "Perp described their day as \"{{SELECTION}}\"",
+     "summary": "TODAY: \"{{SELECTION}}\""
+    },
+    {
+     "choices": [
+      "Terrible."
+     ],
+     "finding": "Perp described their day as \"{{SELECTION}}\"",
+     "summary": "TODAY: \"{{SELECTION}}\""
+    },
+    {
+     "choices": [
+      "CATASTROPHIC."
+     ],
+     "finding": "Perp described their day as \"{{SELECTION}}\"",
+     "summary": "TODAY: \"{{SELECTION}}\""
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112715",
+   "interrogations": [
+    "How ya doing buddy?",
+    "Did today start out one way, and ended a different way?"
+   ],
+   "question": "So! How has today been for you?",
+   "reminder": "How U Feeling Today?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Good!"
+     ],
+     "finding": "When playing social deduction games, perp prefers to be {{RED}}good.",
+     "summary": "GAME ROLE? {{RED}}GOOD"
+    },
+    {
+     "choices": [
+      "Evil ;)"
+     ],
+     "finding": "When playing social deduction games, perp prefers to be {{RED}}evil.",
+     "summary": "GAME ROLE? {{RED}}EVIL"
+    },
+    {
+     "choices": [
+      "Not playing."
+     ],
+     "finding": "Oh no! Perp {{RED}}prefers to NOT play social deduction games.",
+     "summary": "GAME ROLE? {{RED}}NOT PLAYING"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112716",
+   "interrogations": [
+    "Did you get the type of role you wanted in this game?",
+    "If you feel panicky during a game, do you like or dislike that feeling?"
+   ],
+   "question": "When playing a social deduction game (like this one) I prefer to be...",
+   "reminder": "Social Deduction"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Sports",
+      "Theater",
+      "Band",
+      "Science",
+      "Religion",
+      "Math",
+      "Outdoor Skills/Survival"
+     ],
+     "finding": "Subject admits to having attended {{SELECTION}} camp.",
+     "summary": "{{SELECTION}} CAMP"
+    },
+    {
+     "choices": [
+      "No camps!"
+     ],
+     "finding": "Subject {{RED}}did not attend any kind of specialty camp.",
+     "summary": "SPECIAL CAMP? {{RED}}NO"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112723",
+   "interrogations": [
+    "If you HAD to attend a specialty camp, right now, which would it be?",
+    "Tell us about the summers of your youth.",
+    "What’s a great thing to learn at camp?"
+   ],
+   "question": "Have you ever attended a camp (summer or otherwise) specializing in one of these?",
+   "reminder": "Special Camp?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes!"
+     ],
+     "finding": "Subject is confident in their ability to {{RED}}explain the stock market.",
+     "summary": "STOCK MARKET: {{RED}}CAN EXPLAIN"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "Subject is {{RED}}unable to explain how the stock market works.",
+     "summary": "STOCK MARKET: {{RED}}NO IDEA"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112724",
+   "interrogations": [
+    "Tell me how Wall Street did today.",
+    "Can you tell me literally anything about the stock market?",
+    "Do you own any stock?"
+   ],
+   "question": "If asked, could you explain how the stock market works?",
+   "reminder": "Stock Market?"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "1-2",
+      "3-10",
+      "more than 10"
+     ],
+     "finding": "Subject claims to have written {{SELECTION}} letters or postcards in the last year.",
+     "summary": "WRITTEN LETTERS: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Zero."
+     ],
+     "finding": "Letter writing seems to not be the subject's thing, because they have written {{RED}}zero letters in the past year.",
+     "summary": "WRITTEN LETTERS: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112725",
+   "interrogations": [
+    "How’s your handwriting?",
+    "Ever had a pen pal?",
+    "Do you own paper and pen? How often are they used?"
+   ],
+   "question": "How many letters (or even postcards) have you written in the last year?",
+   "reminder": "Letter Writing"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Michael",
+      "Gob",
+      "Lindsay",
+      "Buster",
+      "George Michael",
+      "Maeby",
+      "Lucille",
+      "George Sr."
+     ],
+     "finding": "Subject thinks the best [i]Arrested Development[/i] character is {{SELECTION}}.",
+     "summary": "ARRESTED: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "What is [i]Arrested Development[/i]?"
+     ],
+     "finding": "Subject claims to {{RED}}not know what [i]Arrested Development[/i] is.",
+     "summary": "ARRESTED: {{RED}}NO IDEA"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112726",
+   "interrogations": [
+    "What’s your favorite line from [i]Arrested Development[/i]?",
+    "Are you a “main character” or “weird side character” kind of person?",
+    "Who on [i]Arrested Development[/i] do you most identify with?"
+   ],
+   "question": "Who’s the best [i]Arrested Development[/i] character?",
+   "reminder": "Arrested Development"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "5 minutes or less"
+     ],
+     "finding": "Suspect believes an ideal phone call should last {{SELECTION}}.",
+     "summary": "IDEAL CALL: {{RED}}UNDER 5 MIN"
+    },
+    {
+     "choices": [
+      "15 minutes"
+     ],
+     "finding": "Suspect believes an ideal phone call should last {{SELECTION}}.",
+     "summary": "IDEAL CALL: {{RED}}15 MIN"
+    },
+    {
+     "choices": [
+      "30 minutes"
+     ],
+     "finding": "Suspect believes an ideal phone call should last {{SELECTION}}.",
+     "summary": "IDEAL CALL: {{RED}}30 MIN"
+    },
+    {
+     "choices": [
+      "An hour or more"
+     ],
+     "finding": "Suspect believes an ideal phone call should last {{SELECTION}}.",
+     "summary": "IDEAL CALL: {{RED}}HOURS"
+    },
+    {
+     "choices": [
+      "Zero minutes"
+     ],
+     "finding": "Suspect believes an ideal phone call should last {{RED}}zero minutes. There is no phone call.",
+     "summary": "CALL TIME: {{RED}}NO CALLS PLZ"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112729",
+   "interrogations": [
+    "What do you talk about on the phone?",
+    "Do you have pre-planned ideas on how to end a call quickly?",
+    "What’s the longest phone call you’ve ever had?",
+    "When’s the last time you spoke on the phone?"
+   ],
+   "question": "What’s the ideal length of a phone call with a good friend?",
+   "reminder": "Call Length"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Sure"
+     ],
+     "finding": "Suspect says that yes, given the time, {{RED}}they could write a book.",
+     "summary": "WRITE BOOK? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "No way"
+     ],
+     "finding": "No matter how much time you give them, suspect {{RED}}is not writing a book.",
+     "summary": "WRITE BOOK? {{RED}}NO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112730",
+   "interrogations": [
+    "If you [i]were[/i] writing a book, what would it be about?",
+    "How do you feel about big projects?",
+    "Ever read a book and thought, [i]I could do better than this?[/i]"
+   ],
+   "question": "Given enough time, could you write a book?",
+   "reminder": "Write A Book?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes! Goodbye, Earth!"
+     ],
+     "finding": "If asked to join aliens with no time to tell anyone, subject would {{RED}}leave with the aliens.",
+     "summary": "GO WITH ALIENS? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "No. Leave me here, aliens!"
+     ],
+     "finding": "If asked to join aliens with no time to tell anyone, subject would {{RED}}stay here on Earth.",
+     "summary": "GO WITH ALIENS? {{RED}}NO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112806",
+   "interrogations": [
+    "How do you feel about exploring space?",
+    "In your mind, what are the aliens like?",
+    "If you DID leave Earth, what would you miss?"
+   ],
+   "question": "Aliens land and ask you to join them. You don’t have time to tell anyone. Do you go?",
+   "reminder": "Leave With Aliens?",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Gourmet meal"
+     ],
+     "finding": "Suspect’s idea of a great time is a {{SELECTION}}.",
+     "summary": "BEST TIME: {{RED}}GOOD MEAL"
+    },
+    {
+     "choices": [
+      "Wild night with friends"
+     ],
+     "finding": "Suspect’s idea of a great time is a {{SELECTION}}.",
+     "summary": "BEST TIME: {{RED}}NIGHT OUT"
+    },
+    {
+     "choices": [
+      "8 hours of good sleep"
+     ],
+     "finding": "Suspect’s idea of a great time is {{SELECTION}}.",
+     "summary": "BEST TIME: {{RED}}SLEEP"
+    },
+    {
+     "choices": [
+      "A lovely hike"
+     ],
+     "finding": "Suspect’s idea of a great time is a {{SELECTION}}.",
+     "summary": "BEST TIME: {{RED}}HIKE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "112900",
+   "interrogations": [
+    "Share a memory of a great experience.",
+    "What makes a great experience for you?",
+    "You’ve got 8 free hours tomorrow, how are you spending it?"
+   ],
+   "question": "Which of the following experiences would you enjoy the most?",
+   "reminder": "Best Experience"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Nostalgic perp says that {{RED}}they miss the person they used to be.",
+     "summary": "WHO I USED TO BE: {{RED}}MISS IT"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Forward-facing perp says that {{RED}}they do not miss the person they used to be.",
+     "summary": "WHO I USED TO BE: {{RED}}DON'T MISS IT"
+    },
+    {
+     "choices": [
+      "I'm the same as I ever was!"
+     ],
+     "finding": "At-peace perp believes that {{RED}}they are pretty much the same person as they were in their youth.",
+     "summary": "WHO I USED TO BE: {{RED}}I'M THE SAME!"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "113059",
+   "interrogations": [
+    "Is there anything you used to feel that you don't often feel anymore?",
+    "Does the act of maturing give you joy?"
+   ],
+   "question": "Do you miss the person you used to be when you were younger?",
+   "reminder": "Miss Younger Self?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "I'm funny, all the time!"
+     ],
+     "finding": "Laugh-riot suspect says \"{{SELECTION}}\"",
+     "summary": "FUNNY? {{RED}}24/7 BABY"
+    },
+    {
+     "choices": [
+      "I'm funny when appropriate."
+     ],
+     "finding": "Careful comedian suspect is {{RED}}funny when appropriate.",
+     "summary": "FUNNY? {{RED}}AS NEEDED"
+    },
+    {
+     "choices": [
+      "I'm funny with friends and family."
+     ],
+     "finding": "Take the time to get to know the perp, because they're only funny with {{RED}}friends and family.",
+     "summary": "FUNNY? {{RED}}W/ PALS"
+    },
+    {
+     "choices": [
+      "I'm not particularly funny."
+     ],
+     "finding": "Stoic suspect says \"{{SELECTION}}\"",
+     "summary": "FUNNY? {{RED}}NOT REALLY"
+    },
+    {
+     "choices": [
+      "I am not funny AT ALL."
+     ],
+     "finding": "Sternly serious suspect says \"{{SELECTION}}\"",
+     "summary": "FUNNY? {{RED}}SUPER NO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "113060",
+   "interrogations": [
+    "Would you consider your comedy style to be behavioral? Verbal?",
+    "Are you typically the one trying to break the ice?",
+    "Do you think funniness is a matter of skill, or are people born with it?"
+   ],
+   "question": "Are you funny?",
+   "reminder": "R U Funny?"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Perp is aware enough to know that they have definitely {{RED}}bought fast fashion.",
+     "summary": "FAST FASHION: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Perp proudly claims to have {{RED}}never bought fast fashion.",
+     "summary": "FAST FASHION: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I don’t know what that is."
+     ],
+     "finding": "Perp {{RED}}does not know what \"fast fashion\" is.",
+     "summary": "FAST FASHION: {{RED}}WHAT’S THAT?"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "113061",
+   "interrogations": [
+    "Have you ever needed to buy clothes due to an emergency situation?",
+    "What's your favorite clothing brand at the moment?",
+    "What is your definition of fast fashion?"
+   ],
+   "question": "Have you ever purchased something that was \"fast fashion?\"",
+   "reminder": "Fast Fashion"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "No?"
+     ],
+     "finding": "Let's give a big round of applause: the perp {{RED}}does NOT have a tummy ache right now.",
+     "summary": "TUMMY: {{RED}}GOOD"
+    },
+    {
+     "choices": [
+      "Yes :("
+     ],
+     "finding": "Awww. Pepto-popping perp {{RED}}has a tummy ache right now.",
+     "summary": "TUMMY: {{RED}}BAD"
+    },
+    {
+     "choices": [
+      "Well NOW it does."
+     ],
+     "finding": "Suggestible perp claims to have a stomach ache, {{RED}}but only because we asked.",
+     "summary": "TUMMY: {{RED}}NOW I DO!"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "113064",
+   "interrogations": [
+    "What would you say your base stomach comfort level is?",
+    "Do you get anxiety stomachaches?",
+    "How's your overall digestion?"
+   ],
+   "question": "Does your stomach hurt right now?",
+   "reminder": "Stomach? Aches?",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Yes!"
+     ],
+     "finding": "Did you hear? Suspect {{RED}}loves being told big secrets.",
+     "summary": "BIG SECRETS? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "Suspect {{RED}}does not enjoy being told big secrets.",
+     "summary": "BIG SECRETS? {{RED}}NO"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "113143",
+   "interrogations": [
+    "How likely are you to KEEP a secret once you hear it?",
+    "Do you like the feeling of people trusting you?",
+    "Has there been a secret you’ve refused to keep?"
+   ],
+   "question": "Do you like it when people tell you big secrets?",
+   "reminder": "Big Secrets",
+   "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Excited",
+      "Curious",
+      "Depressed",
+      "Anxious",
+      "Relaxed"
+     ],
+     "finding": "When it comes to the idea of getting older, the target feels {{SELECTION}}.",
+     "summary": "AGING? {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "113144",
+   "interrogations": [
+    "Do you think the best years of your life are ahead of you?",
+    "Are you a nostalgic person?",
+    "How much do you worry about the future?"
+   ],
+   "question": "How does the idea of getting older make you feel?",
+   "reminder": "Getting Older?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "YES!"
+     ],
+     "finding": "Go go go! Airborne target {{RED}}WILL go skydiving!",
+     "summary": "SKYDIVING: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "NO!"
+     ],
+     "finding": "Terrestrial target {{RED}}will NOT go skydiving, thank you.",
+     "summary": "SKYDIVING: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "113145",
+   "interrogations": [
+    "What about with an experienced buddy?",
+    "How are you with heights?",
+    "Do you like the feeling of an adrenaline rush?"
+   ],
+   "question": "Wanna go skydiving?",
+   "reminder": "Skydiving!!!"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes"
+     ],
+     "finding": "Presented with two same-size bones, perp believes {{RED}}they could identify the human one.",
+     "summary": "I.D. BONE? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "No"
+     ],
+     "finding": "Presented with two same-size bones, perp {{RED}}does not think they could ID the human one.",
+     "summary": "I.D. BONE? {{RED}}NO"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "113147",
+   "interrogations": [
+    "What differences between bones would you look for?",
+    "Do you have any background in anatomy?",
+    "Are you enjoying this topic of discussion?"
+   ],
+   "question": "Shown two same-size bones, could you identify the human bone from the animal one?",
+   "reminder": "Human Bone I.D."
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "\"Live, Laugh, Love\"",
+      "\"Life's A Beach\"",
+      "\"I'm Fluent In Sarcasm\"",
+      "\"Bless This Mess\"",
+      "\"It's Wine 'O' Clock\"",
+      "\"Keep Calm and Carry On\"",
+      "\"Pobody's Nerfect\"",
+      "\"Coffee Coffee Coffee!\""
+     ],
+     "finding": "Target is most likely to have a wall hanging that says {{SELECTION}}.",
+     "summary": "SIGN: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "113150",
+   "interrogations": [
+    "What's your cringe tolerance, overall?",
+    "Are you particularly spiritual?",
+    "Does your family drive you crazy sometimes?"
+   ],
+   "question": "Which of the following cringy phrases is closest to your life philosophy?",
+   "reminder": "Cringy Phrases",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "Suspect has {{RED}}at no time worn body glitter.",
+     "summary": "GLITTER? {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Yes."
+     ],
+     "finding": "Suspect has at some point in their life {{RED}}worn body glitter.",
+     "summary": "GLITTER? {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Oh, I’ve had a LOT on me."
+     ],
+     "finding": "Suspect wants everybody to know they’ve worn {{RED}}A LOT of body glitter.",
+     "summary": "GLITTER? {{RED}}A LOT"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "113167",
+   "interrogations": [
+    "If you were wearing glitter, where would you put it?",
+    "Say this phrase out loud: “I don’t attend parties, I AM the party.”",
+    "When it comes to costumes, what’s your idea of “going all out”?"
+   ],
+   "question": "Ever had [i]even a little[/i] body glitter on you?",
+   "reminder": "Body Glitter",
+   "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Sure, let’s go!"
+     ],
+     "finding": "Subject is {{RED}}ready to travel everywhere by self-driving car.",
+     "summary": "SELF-DRIVE CAR: {{RED}}YES"
+    },
+    {
+     "choices": [
+      "Not on highways."
+     ],
+     "finding": "Subject will {{RED}}ride in a self-driving car, but not on highways.",
+     "summary": "SELF-DRIVE CAR: {{RED}}NO HIGHWAYS"
+    },
+    {
+     "choices": [
+      "Never."
+     ],
+     "finding": "Subject is {{RED}}not willing to travel by self-driving car.",
+     "summary": "SELF-DRIVE CAR: {{RED}}NEVER"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "113283",
+   "interrogations": [
+    "Are you an early adopter with technology?",
+    "Imagine being in a self-driving car right now. How do you feel?",
+    "Who’s the better driver, people or computers?"
+   ],
+   "question": "How do you feel about riding in a self-driving car?",
+   "reminder": "SELF-DRIVING CAR"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "They’re the best."
+     ],
+     "finding": "When asked about escape rooms, subject says “{{SELECTION}}”.",
+     "summary": "ESCAPE ROOM: {{RED}}LOVE IT"
+    },
+    {
+     "choices": [
+      "I’ll participate if other people are excited."
+     ],
+     "finding": "When it comes to escape rooms, target {{RED}}will participate if other people are jazzed.",
+     "summary": "ESCAPE ROOM: {{RED}}IF I MUST"
+    },
+    {
+     "choices": [
+      "Do not put me in an escape room."
+     ],
+     "finding": "Subject {{RED}}really does not enjoy escape rooms.",
+     "summary": "ESCAPE ROOM: {{RED}}HATE IT"
+    },
+    {
+     "choices": [
+      "What’s an “escape room”?"
+     ],
+     "finding": "Subject is {{RED}}unfamiliar with the concept of escape rooms.",
+     "summary": "ESCAPE ROOM: {{RED}}WHAT IS THAT?"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "113354",
+   "interrogations": [
+    "Have you done an escape room? Talk about your experience.",
+    "What is good/bad about escape rooms?",
+    "Do you like working together to solve problems?"
+   ],
+   "question": "How do you feel about escape rooms?",
+   "reminder": "ESCAPE ROOMS?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes."
+     ],
+     "finding": "Suspect is the kind of person with {{RED}}little daily rituals around things.",
+     "summary": "DAILY RITUALS? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "Suspect has {{RED}}no little daily rituals.",
+     "summary": "DAILY RITUALS? {{RED}}NO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "113450",
+   "interrogations": [
+    "If you did have a daily ritual, what would it be for?",
+    "How do you feel about doing the same thing over & over?",
+    "What does “holding space” mean for you?"
+   ],
+   "question": "Are you the type of person with little daily rituals around stuff?",
+   "reminder": "DAILY RITUALS"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "I have a good sense of direction."
+     ],
+     "finding": "Suspect has {{RED}}an excellent sense of direction.",
+     "summary": "SENSE OF DIRECTION: {{RED}}GOOD"
+    },
+    {
+     "choices": [
+      "Good, if I have my phone."
+     ],
+     "finding": "Suspect is good with travel directions {{RED}}provided they have their phone.",
+     "summary": "DIRECTIONS: {{RED}}MUST HAVE PHONE"
+    },
+    {
+     "choices": [
+      "Bad. I have no sense of direction."
+     ],
+     "finding": "Easily-lost suspect has {{RED}}no sense of direction.",
+     "summary": "SENSE OF DIRECTION: {{RED}}NONE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "113516",
+   "interrogations": [
+    "When’s the last time you got lost?",
+    "Can you usually find “due north”?",
+    "Do you rely on others to help you find stuff?"
+   ],
+   "question": "How are you with travel directions?",
+   "reminder": "Travel Directions"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "I would probably take charge."
+     ],
+     "finding": "In a crisis, suspect would {{RED}}probably take charge.",
+     "summary": "DURING CRISIS: {{RED}}TAKE CHARGE"
+    },
+    {
+     "choices": [
+      "I would assist whoever’s in charge."
+     ],
+     "finding": "In a crisis, suspect would {{RED}}assist whoever was in charge.",
+     "summary": "DURING CRISIS: {{RED}}ASSIST"
+    },
+    {
+     "choices": [
+      "If I’m being honest, I would panic."
+     ],
+     "finding": "In a crisis, suspect admits {{RED}}”Let’s be honest, I would panic.”",
+     "summary": "DURING CRISIS: {{RED}}PANIC"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "113665",
+   "interrogations": [
+    "Have you ever been in a crisis?",
+    "Imagine a crisis happening right now. Walk us through your reaction.",
+    "How do you tend to react to disasters?"
+   ],
+   "question": "How do you think you’d behave in a crisis?",
+   "reminder": "CRISIS ROLE"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "I love that stuff!"
+     ],
+     "finding": "When it comes to massages and spa days, suspect {{RED}}loves that stuff.",
+     "summary": "SPA STUFF? {{RED}}LOVES IT"
+    },
+    {
+     "choices": [
+      "Haven’t done much, but I like the idea."
+     ],
+     "finding": "When it comes to massages and spa days, suspect {{RED}}hasn’t done much but likes the idea.",
+     "summary": "SPA STUFF? {{RED}}WANTS TO"
+    },
+    {
+     "choices": [
+      "Not really my thing."
+     ],
+     "finding": "When it comes to massages and spa days, suspect {{RED}}is not into that.",
+     "summary": "SPA STUFF? {{RED}}”NOT FOR ME”"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "113858",
+   "interrogations": [
+    "Tell me about your approach to self-care.",
+    "When’s the last time you got a massage?",
+    "Is it easy or difficult for you to relax?"
+   ],
+   "question": "How do you feel about massages, spa days, that kind of thing?",
+   "reminder": "SPA STUFF",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Good Sushi",
+      "Ribs",
+      "Candy",
+      "Fresh Baguettes",
+      "Tacos",
+      "Heirloom Tomatoes",
+      "Pet Food"
+     ],
+     "finding": "Given the option to have this brought to their house for the rest of their life, suspect would choose: {{SELECTION}}.",
+     "summary": "Free 4 Life: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114047",
+   "interrogations": [
+    "Do you tend to eat the same things? Do you mix it up?",
+    "Fine dining or comfort food?",
+    "What would you pair with your chosen unlimited food?"
+   ],
+   "question": "You can have one of these brought to your house, for free, for the rest of your life. Which will it be?",
+   "reminder": "Free Food 4 Life"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Starting a band"
+     ],
+     "finding": "Suspect thinks a big life change for them that people would probably believe: {{SELECTION}}.",
+     "summary": "LIFE CHANGE: {{RED}}BAND"
+    },
+    {
+     "choices": [
+      "Opening a pizza place"
+     ],
+     "finding": "Suspect thinks a big life change for them that people would probably believe: {{SELECTION}}.",
+     "summary": "LIFE CHANGE: {{RED}}PIZZA"
+    },
+    {
+     "choices": [
+      "Living off-grid in the woods"
+     ],
+     "finding": "Suspect thinks a big life change for them that people would probably believe: {{SELECTION}}.",
+     "summary": "LIFE CHANGE: {{RED}}WOODS"
+    },
+    {
+     "choices": [
+      "Becoming a doctor"
+     ],
+     "finding": "Suspect thinks a big life change for them that people would probably believe: {{SELECTION}}.",
+     "summary": "LIFE CHANGE: {{RED}}MED SCHOOL"
+    },
+    {
+     "choices": [
+      "Raising alpacas"
+     ],
+     "finding": "Suspect thinks a big life change for them that people would probably believe: {{SELECTION}}.",
+     "summary": "LIFE CHANGE: {{RED}}ALPACAS"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114119",
+   "interrogations": [
+    "Talk to us about what “shaking it up” looks like to you.",
+    "What in your life would you want to be totally different?",
+    "Are any of these choices something you’ve thought about before?"
+   ],
+   "question": "Which of these life direction changes could you announce & people would say “Yeah, that makes sense”?",
+   "reminder": "LIFE CHANGE"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Sci-Fi Nerd"
+     ],
+     "finding": "Among the many types of nerd, suspect identifies as a {{SELECTION}}.",
+     "summary": "NERD CLASS: {{RED}}SCI-FI"
+    },
+    {
+     "choices": [
+      "Crafting Projects Nerd"
+     ],
+     "finding": "Among the many types of nerd, suspect identifies as a {{SELECTION}}.",
+     "summary": "NERD CLASS: {{RED}}CRAFTS"
+    },
+    {
+     "choices": [
+      "Music Nerd"
+     ],
+     "finding": "Among the many types of nerd, suspect identifies as a {{SELECTION}}.",
+     "summary": "NERD CLASS: {{RED}}MUSIC"
+    },
+    {
+     "choices": [
+      "Book Nerd"
+     ],
+     "finding": "Among the many types of nerd, suspect identifies as a {{SELECTION}}.",
+     "summary": "NERD CLASS: {{RED}}BOOKS"
+    },
+    {
+     "choices": [
+      "History Nerd"
+     ],
+     "finding": "Among the many types of nerd, suspect identifies as a {{SELECTION}}.",
+     "summary": "NERD CLASS: {{RED}}HISTORY"
+    },
+    {
+     "choices": [
+      "My nerd class is not shown here."
+     ],
+     "finding": "Suspect identifies as a type of nerd {{RED}}not listed in the available choices.",
+     "summary": "NERD CLASS: {{RED}}NOT LISTED"
+    },
+    {
+     "choices": [
+      "I am not a nerd."
+     ],
+     "finding": "Among the many types of nerd, suspect claims they are {{RED}}not a nerd at all.",
+     "summary": "NERD CLASS: {{RED}}NOT A NERD"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "114124",
+   "interrogations": [
+    "Tell us about your nerd journey.",
+    "Have you always been the same type of nerd?",
+    "Does your nerd class involve collecting stuff?"
+   ],
+   "question": "What class of nerd are you?",
+   "reminder": "NERD TYPE"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "I played a sport."
+     ],
+     "finding": "Suspect’s connection to school sports was {{RED}}actually playing a sport.",
+     "summary": "SCHOOL SPORTS: {{RED}}PLAYED"
+    },
+    {
+     "choices": [
+      "I provided cheer or spirit."
+     ],
+     "finding": "Suspect’s connection to school sports was {{RED}}providing cheer or spirit.",
+     "summary": "SCHOOL SPORTS: {{RED}}CHEER/SPIRIT"
+    },
+    {
+     "choices": [
+      "I was a mascot."
+     ],
+     "finding": "Suspect’s connection to school sports was {{RED}}being the mascot.",
+     "summary": "SCHOOL SPORTS: {{RED}}MASCOT"
+    },
+    {
+     "choices": [
+      "I watched from the bleachers."
+     ],
+     "finding": "Suspect’s connection to school sports was {{RED}}watching from the bleachers.",
+     "summary": "SCHOOL SPORTS: {{RED}}SPECTATOR"
+    },
+    {
+     "choices": [
+      "I had no involvement."
+     ],
+     "finding": "Suspect known to have had {{RED}}no involvement with school sports.",
+     "summary": "SCHOOL SPORTS: {{RED}}NOT INVOLVED"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114172",
+   "interrogations": [
+    "Did you go to a sporty school?",
+    "What feelings come up when sports is mentioned?",
+    "Tell us about your team mascot."
+   ],
+   "question": "What was your involvement with school sports?",
+   "reminder": "School Sports"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "I love them."
+     ],
+     "finding": "When asked about roller coasters and thrill rides, suspect says “{{SELECTION}}”",
+     "summary": "THRILL RIDES: {{RED}}LOVES THEM"
+    },
+    {
+     "choices": [
+      "I’ll endure them, if other people want to ride."
+     ],
+     "finding": "When asked about roller coasters and thrill rides, suspect {{RED}}endures them, if others want to ride.",
+     "summary": "THRILL RIDES: {{RED}}ENDURES THEM"
+    },
+    {
+     "choices": [
+      "No thank you."
+     ],
+     "finding": "When asked about roller coasters and thrill rides, suspect says {{RED}}no, they will not ride them.",
+     "summary": "THRILL RIDES: {{RED}}NO WAY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "114183",
+   "interrogations": [
+    "Tell us about an amusement park trip.",
+    "What’s your favorite part of an amusement park?",
+    "Do you like intentionally scaring yourself?"
+   ],
+   "question": "How do you feel about roller coasters and other thrill rides?",
+   "reminder": "Thrill Rides"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Yes."
+     ],
+     "finding": "If asked to explain the basic steps behind making bread, suspect says {{RED}}yes, they could do it.",
+     "summary": "EXPLAIN BREAD? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "If asked to explain the basic steps behind making bread, suspect says {{RED}}no, they have no idea.",
+     "summary": "EXPLAIN BREAD? {{RED}}CANNOT"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114184",
+   "interrogations": [
+    "Have you made your own bread?",
+    "Well, go on. Tell us how to make bread.",
+    "How are your general cooking skills?"
+   ],
+   "question": "If asked, could you explain the basic steps behind making bread?",
+   "reminder": "Making Bread"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Gory",
+      "Suspenseful",
+      "Bizarre",
+      "Funny"
+     ],
+     "finding": "Suspect prefers their horror movies to be {{SELECTION}}.",
+     "summary": "HORROR TYPE: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "I don’t like any kind of horror movie."
+     ],
+     "finding": "Suspect has no horror movie preference, as {{RED}}they don’t like horror movies at all.",
+     "summary": "DISLIKES {{RED}}ALL HORROR"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114213",
+   "interrogations": [
+    "What’s the last scary movie you’ve seen?",
+    "What’s the best scary movie of all time?",
+    "Tell us about a horror movie moment you’ll never forget."
+   ],
+   "question": "I like my horror movies:",
+   "reminder": "Horror Type"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "A few"
+     ],
+     "finding": "Concerning cassette mixtapes, suspect has owned {{RED}}a few of them.",
+     "summary": "MIXTAPES: {{RED}}A FEW"
+    },
+    {
+     "choices": [
+      "Lots"
+     ],
+     "finding": "Suspect has owned {{RED}}a large amount of cassette mixtapes.",
+     "summary": "MIXTAPES: {{RED}}LOTS"
+    },
+    {
+     "choices": [
+      "None"
+     ],
+     "finding": "Concerning cassette mixtapes, suspect {{RED}}has never owned one.",
+     "summary": "MIXTAPES: {{RED}}NONE"
+    },
+    {
+     "choices": [
+      "I don’t even understand what’s being described"
+     ],
+     "finding": "Concerning cassette mixtapes, suspect {{RED}}does not even know what they are.",
+     "summary": "MIXTAPES: {{RED}}WHAT IS THIS?"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114255",
+   "interrogations": [
+    "Describe your approach to making a mixtape.",
+    "Got any mixtapes in your home right now?",
+    "Off the top of your head, what’s a good song to start a mixtape with?"
+   ],
+   "question": "How many audio cassette mix tapes have you owned in your life?",
+   "reminder": "Mixtapes"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Sure, I’d say I’m lucky."
+     ],
+     "finding": "Suspect considers themselves to be {{RED}}lucky.",
+     "summary": "LUCKY? {{RED}}YES"
+    },
+    {
+     "choices": [
+      "Not really."
+     ],
+     "finding": "When asked if they consider themselves lucky, suspect says “{{SELECTION}}”.",
+     "summary": "LUCKY? {{RED}}NO"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "114402",
+   "interrogations": [
+    "Can you recall a moment where you felt lucky?",
+    "Do you feel lucky right now?",
+    "Do you believe in luck at all?"
+   ],
+   "question": "Do you consider yourself lucky?",
+   "reminder": "Lucky?"
+  }
+ ]
+}

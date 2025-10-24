@@ -1,0 +1,475 @@
+{
+ "content": [
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Vampires",
+    "Zombies",
+    "Werewolves",
+    "Mummies"
+   ],
+   "evidence": "When fighting monsters, suspect would choose to fight {{SELECTION-1}} first and {{SELECTION-3}} last.",
+   "familiarity": "FRIENDS",
+   "id": "107564",
+   "interrogations": [
+    "What’s your plan for fighting monsters?",
+    "In your opinion, what’s the strongest monster of all?",
+    "Do you think you’d survive any of these fights?"
+   ],
+   "question": "Put these monsters in the order you’d be willing to fight them:",
+   "reminder": "Monster Fight",
+   "summary": "FIGHT: {{SELECTION-1}} FIRST, {{SELECTION-4}} LAST"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "choiceLimit": 3,
+   "choices": [
+    "Biking",
+    "Swimming",
+    "Running"
+   ],
+   "evidence": "Perp believes that in a triathlon, they would be best at {{SELECTION-1}}, and worst at {{SELECTION-3}}.",
+   "familiarity": "FRIENDS",
+   "id": "107570",
+   "interrogations": [
+    "Walk us through your approach to triathlon events.",
+    "When’s the last time you swam? Biked?"
+   ],
+   "question": "Rank these triathlon events by how well you think you’d do in them, from best to worst.",
+   "reminder": "Triathlon",
+   "starterContent": true,
+   "summary": "TRI: BEST {{SELECTION-1}}, WORST {{SELECTION-3}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "choiceLimit": 4,
+   "choices": [
+    "Keys",
+    "Wallet",
+    "Earbuds",
+    "Phone"
+   ],
+   "evidence": "When leaving the house, target's {{SELECTION-1}} is/are more important to them than their {{SELECTION-4}}.",
+   "familiarity": "STRANGERS",
+   "id": "107592",
+   "interrogations": [
+    "Which of these items have you forgotten most recently?",
+    "Do you carry a bag or is it all pockets for you?"
+   ],
+   "question": "In what order do you check that you have these items before leaving the house?",
+   "reminder": "Leaving Home",
+   "summary": "Leaving Home: {{SELECTION-1}} BEFORE {{SELECTION-4}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "choiceLimit": 4,
+   "choices": [
+    "Cook 10 meals",
+    "Chat for 5 hours",
+    "Clean moldy gutters",
+    "Drive 90 minutes to the airport"
+   ],
+   "evidence": "Perp would rather {{SELECTION-1}} for their neighbor than {{SELECTION-4}}.",
+   "familiarity": "FRIENDS",
+   "id": "107597",
+   "interrogations": [
+    "So... you got any neighbors?",
+    "Do you feel energized by long conversations?"
+   ],
+   "question": "Your neighbor needs some help around the house. Rank these from \"most likely to do\" to \"least likely to do\":",
+   "reminder": "Helping Neighbors",
+   "summary": "{{SELECTION-1}} BEFORE {{SELECTION-4}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "choiceLimit": 5,
+   "choices": [
+    "New Car",
+    "House",
+    "Education",
+    "Helping Others",
+    "Debt Reduction"
+   ],
+   "evidence": "Lotto-winning perp would prioritize {{SELECTION-1}} over {{SELECTION-4}}.",
+   "familiarity": "FRIENDS",
+   "id": "107598",
+   "interrogations": [
+    "Got your eye on anything nice these days?"
+   ],
+   "question": "If you won the lotto, what would you do with the money, and in what order?",
+   "reminder": "Lottery Choices",
+   "summary": "{{SELECTION-1}} OVER {{SELECTION-4}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "choiceLimit": 3,
+   "choices": [
+    "Feet",
+    "Farts",
+    "Fish"
+   ],
+   "evidence": "Perp prefers the smell of {{SELECTION-1}} over the the smell of {{SELECTION-3}}.",
+   "familiarity": "FRIENDS",
+   "id": "108165",
+   "interrogations": [
+    "Big fan of the smell of tootsies, huh?",
+    "You ever take a whiff when you toot-toot?",
+    "You like sushi?"
+   ],
+   "question": "Rank these smells from best to worst!",
+   "reminder": "Yucky Smells",
+   "starterContent": true,
+   "summary": "{{SELECTION-1}} SMELL > {{SELECTION-3}} SMELL"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Fashion Designer",
+    "Sushi Chef",
+    "Dental Hygienist",
+    "Pro Basketball Coach",
+    "Calculus Teacher"
+   ],
+   "evidence": "Suspect thinks they're more prepped to be a {{SELECTION-1}} than a {{SELECTION-5}}.",
+   "familiarity": "FRIENDS",
+   "id": "108666",
+   "interrogations": [
+    "Do you have any athletic coaching experience?",
+    "What is your relationship to the world of fashion?",
+    "What kind of math grades did you get in school?"
+   ],
+   "question": "On a scale of “Great Job!” to “Fired!,” rank the following jobs in order of how good you would be at them with no prep.",
+   "reminder": "Hard Occupations",
+   "starterContent": false,
+   "summary": "BETTER AT {{SELECTION-1}} THAN {{SELECTION-5}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "70s",
+    "80s",
+    "90s",
+    "2000s",
+    "2010s"
+   ],
+   "evidence": "Perp loves music of the {{SELECTION-1}} most, and music of the {{SELECTION-4}} least.",
+   "familiarity": "FRIENDS",
+   "id": "108796",
+   "interrogations": [
+    "What era of boy band is your favorite?",
+    "What was the first band you were into?",
+    "What’s one of your favorite concert experiences?"
+   ],
+   "question": "Rank the following time periods by how much you like their music.",
+   "reminder": "Music Prefs",
+   "starterContent": false,
+   "summary": "LOVES {{SELECTION-1}} MUSIC, NOT REALLY {{SELECTION-5}} MUSIC"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 6,
+   "choices": [
+    "Strength",
+    "Dexterity",
+    "Constitution",
+    "Intelligence",
+    "Wisdom",
+    "Charisma"
+   ],
+   "evidence": "In D&D, perp would be a high {{SELECTION-1}}, low {{SELECTION-6}} character.",
+   "familiarity": "FRIENDS",
+   "id": "108798",
+   "interrogations": [
+    "You have to get past a guard, what do you do?",
+    "How good are you at checking for traps?"
+   ],
+   "question": "If you were a Dungeons & Dragons character, rank these core skills of yours from best to worst:",
+   "reminder": "D&D Skills",
+   "starterContent": true,
+   "summary": "HIGH {{SELECTION-1}}, LOW {{SELECTION-6}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Ryan Gosling",
+    "Stephen Curry",
+    "Ariana Grande",
+    "Greta Thunberg",
+    "{{PLAYER}}"
+   ],
+   "evidence": "Perp reportedly thinks {{SELECTION-1}} is cooler than {{SELECTION-5}}.",
+   "familiarity": "FRIENDS",
+   "id": "109029",
+   "interrogations": [
+    "Who do you think is the coolest celebrity?",
+    "What’s the coolest thing about {{PLAYER}}?"
+   ],
+   "question": "Rank the following individuals by how cool you think they are.",
+   "reminder": "Cool People",
+   "starterContent": true,
+   "summary": "{{SELECTION-1}} > {{SELECTION-5}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "choiceLimit": 6,
+   "choices": [
+    "[i]Jeopardy![/i]",
+    "[i]Wheel of Fortune[/i]",
+    "[i]Top Chef[/i]",
+    "[i]Survivor[/i]"
+   ],
+   "evidence": "Perp thinks they would crush it on {{SELECTION-1}}, but lose on {{SELECTION-4}}.",
+   "familiarity": "FRIENDS",
+   "id": "109030",
+   "interrogations": [
+    "What’s your approach to winning game shows?",
+    "How are your trivia skills versus your cooking skills?"
+   ],
+   "question": "Rank the following shows by how well you could do in each one.",
+   "reminder": "Reality Winners",
+   "starterContent": true,
+   "summary": "WIN {{SELECTION-1}}, LOSE {{SELECTION-4}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "choiceLimit": 6,
+   "choices": [
+    "World War II",
+    "The Infinity War",
+    "The Trojan War",
+    "The Console Wars",
+    "Cake Wars",
+    "The Clone Wars"
+   ],
+   "evidence": "Target knows wayyyyy more about {{SELECTION-1}} than {{SELECTION-6}}.",
+   "familiarity": "FRIENDS",
+   "id": "109660",
+   "interrogations": [
+    "Are you a history buff?",
+    "Have you seen all the [i]Avengers[/i] films?",
+    "Do you watch baking shows?"
+   ],
+   "question": "Rank these wars by how much you know about them (most to least).",
+   "reminder": "The Art of \"Wars\"",
+   "starterContent": true,
+   "summary": "KNOWS {{SELECTION-1}}, NOT {{SELECTION-6}}",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 3,
+   "choices": [
+    "Space",
+    "Orlando",
+    "[i]Arby’s[/i]"
+   ],
+   "countrySpecific": true,
+   "evidence": "Subject would go to {{SELECTION-1}} before they went to {{SELECTION-3}}.",
+   "familiarity": "STRANGERS",
+   "id": "114000",
+   "interrogations": [
+    "Tell us your feelings about Orlando.",
+    "When was your last [i]Arby’s[/i] meal?",
+    "How do you feel about space travel?"
+   ],
+   "question": "Rank these in order of where you’d like to go:",
+   "reminder": "Where Ya Goin’?",
+   "summary": "GO TO {{SELECTION-1}} BEFORE {{SELECTION-3}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "choiceLimit": 3,
+   "choices": [
+    "Burning Man",
+    "Antarctica",
+    "The Jersey Shore"
+   ],
+   "evidence": "Suspect would go to {{SELECTION-1}} before they went to {{SELECTION-3}}.",
+   "familiarity": "STRANGERS",
+   "id": "114005",
+   "interrogations": [
+    "What makes a good trip for you?",
+    "How do you feel about frozen wastelands?",
+    "Do you like crowds? How about desert art experiences?"
+   ],
+   "question": "Rank these locations in the order of how much you’d want to visit:",
+   "reminder": "Where Ya Goin’?",
+   "summary": "TRAVEL: {{SELECTION-1}} BEFORE {{SELECTION-3}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "choiceLimit": 5,
+   "choices": [
+    "A Map",
+    "A Chainsaw",
+    "Medicine",
+    "A Horse",
+    "Matches"
+   ],
+   "evidence": "When gearing up for a zombie apocalypse, suspect wants {{SELECTION-1}} most of all, and {{SELECTION-5}} the least.",
+   "familiarity": "STRANGERS",
+   "id": "114022",
+   "interrogations": [
+    "Walk us through your approach to survival.",
+    "Do you think you could operate a chainsaw?",
+    ""
+   ],
+   "question": "It’s the zombie apocalypse. Rank by how much you’d want these on hand:",
+   "reminder": "Zombie War Supplies",
+   "summary": "Zombie War: {{SELECTION-1}} First, {{SELECTION-5}} Last"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "A Walk",
+    "A Nap",
+    "Movies-TV",
+    "A Bath",
+    "Reading"
+   ],
+   "evidence": "When it’s time to recharge, suspect favors {{SELECTION-1}} but would only choose {{SELECTION-5}} as their last option.",
+   "familiarity": "STRANGERS",
+   "id": "114046",
+   "interrogations": [
+    "Describe what “downtime” means to you.",
+    "Can you fall asleep easily?",
+    "Where do you like to walk?"
+   ],
+   "question": "It’s time to recharge. Rank these activities in the order you’d consider them:",
+   "reminder": "Recharge Options",
+   "summary": "RECHARGE: {{SELECTION-1}} First, {{SELECTION-5}} Last"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Clean",
+    "Fast",
+    "Friendly",
+    "Popular",
+    "Nearby"
+   ],
+   "evidence": "When choosing a restaurant, suspect wants it to be {{SELECTION-1}}, doesn’t care if it’s {{SELECTION-5}}.",
+   "familiarity": "STRANGERS",
+   "id": "114079",
+   "interrogations": [
+    "Tell us about your favorite restaurant.",
+    "How important is cleanliness to you?",
+    "How far will you travel to try a new place?"
+   ],
+   "question": "Rank these restaurant qualities in their order of importance to you.",
+   "reminder": "Restaurant Prefs",
+   "summary": "RESTAURANT: WANTS {{SELECTION-1}} OVER {{SELECTION-5}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Traffic",
+    "Mosquitoes",
+    "Taxes",
+    "Social media"
+   ],
+   "evidence": "Given the choice, suspect would completely get rid of {{SELECTION-1}} first, and {{SELECTION-4}} last.",
+   "familiarity": "STRANGERS",
+   "id": "114118",
+   "interrogations": [
+    "What bothers you on a day-to-day basis?",
+    "How much do you think about finance?",
+    "Do you worry about upsetting the delicate balance of life?"
+   ],
+   "question": "If you could completely remove things from modern life, rank these in the order you’d have them disappear:",
+   "reminder": "Make It Go Away",
+   "summary": "GET RID OF: {{SELECTION-1}} FIRST, {{SELECTION-4}} LAST"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "choiceLimit": 4,
+   "choices": [
+    "Beach",
+    "Couch",
+    "Forest",
+    "Bookstore"
+   ],
+   "evidence": "When looking for their “happy place”, suspect would head towards a {{SELECTION-1}} first and a {{SELECTION-4}} last.",
+   "familiarity": "STRANGERS",
+   "id": "114238",
+   "interrogations": [
+    "Tell us more about your happy place.",
+    "What’s a typical beach visit like for you?",
+    "What are you looking for in a happy place?"
+   ],
+   "question": "Rank these happy places in your order of preference:",
+   "reminder": "Happy Place",
+   "summary": "HAPPY PL: {{SELECTION-1}} FIRST, {{SELECTION-4}} LAST"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Phone",
+    "Pants",
+    "Snacks",
+    "Soap"
+   ],
+   "evidence": "Suspect would find it hardest to live without “{{SELECTION-1}}”, but not hard to live without “{{SELECTION-4}}”",
+   "familiarity": "STRANGERS",
+   "id": "114373",
+   "interrogations": [
+    "What’s your relationship with pants?",
+    "Walk us through how you ordered your choices of what to live without.",
+    "Got any favorite snacks?"
+   ],
+   "question": "Put these in order of how hard it would be to live without them.",
+   "reminder": "Can’t Live Without",
+   "summary": "CAN’T LIVE WITHOUT: {{SELECTION-1}} FIRST, {{SELECTION-4}} LAST"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Puppy",
+    "Firewood",
+    "Silk",
+    "Cotton Candy"
+   ],
+   "evidence": "Suspect on record saying that {{SELECTION-1}} feels better than {{SELECTION-4}}.",
+   "familiarity": "STRANGERS",
+   "id": "114419",
+   "interrogations": [
+    "What makes something nice to touch, in your opinion?",
+    "Share your thoughts on cotton candy.",
+    "When’s the last time you encountered any of these items?"
+   ],
+   "question": "Put these in the order they’d feel nice to touch.",
+   "reminder": "Good Feels",
+   "summary": "FEELS: {{SELECTION-1}} NICER THAN {{SELECTION-4}}"
+  }
+ ]
+}
