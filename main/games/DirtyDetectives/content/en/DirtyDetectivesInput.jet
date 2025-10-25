@@ -3,49 +3,49 @@
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "In a word or two, perp describes their parents as “{{SELECTION}}.”",
+   "evidence": "En un mot ou deux, le coupable décrit ses parents comme “{{SELECTION}}.”",
    "familiarity": "FRIENDS",
    "id": "107175",
    "interrogations": [
     "What does family mean to you?",
     "Did you grow up with a lot of rules?"
    ],
-   "question": "In a word or two, describe your parents.",
-   "reminder": "My Parents Are...",
-   "summary": "PARENTS: “{{SELECTION}}”"
+   "question": "En un ou deux mots, décrivez vos parents.",
+   "reminder": "Mes parents sont...",
+   "summary": "PARENTS : “{{SELECTION}}”"
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
-   "evidence": "Target believes that the best year of their life was {{SELECTION}}.",
+   "evidence": "Le suspect pense que la meilleure année de sa vie était {{SELECTION}}.",
    "familiarity": "STRANGERS",
    "id": "107176",
    "interrogations": [
     "Sooooo...how old are you?",
     "What are your feelings about the early ’00s?"
    ],
-   "question": "What year would you say was the BEST year of your life so far?",
-   "reminder": "Your Best Year",
-   "summary": "BEST YEAR: {{SELECTION}}"
+   "question": "Quelle année était la meilleure de votre vie jusqu'à présent ?",
+   "reminder": "Votre meilleure année",
+   "summary": "MEILLEURE ANNÉE : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "TESTIMONY",
-   "evidence": "Perp’s hometown, in a single word: “{{SELECTION}}”",
+   "evidence": "La ville natale du suspect, en un mot : “{{SELECTION}}”",
    "familiarity": "STRANGERS",
    "id": "107178",
    "interrogations": [
     "Is there something that your hometown was famous for?",
     "What emotion do you associate with your hometown?"
    ],
-   "question": "What is an adjective that describes your hometown?",
-   "reminder": "Describe Ur Hometown",
-   "summary": "HOMETOWN: “{{SELECTION}}”"
+   "question": "Quel adjectif utiliseriez-vous pour décrire votre ville natale ?",
+   "reminder": "Décrivez votre ville natale",
+   "summary": "VILLE NATALE : “{{SELECTION}}”"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "If suspect had to get a tattoo of a single word, that word would be: “{{SELECTION}}”",
+   "evidence": "Si le suspect devait se faire tatouer un seul mot, ce mot serait : “{{SELECTION}}”",
    "familiarity": "FRIENDS",
    "id": "107196",
    "interrogations": [
@@ -53,114 +53,114 @@
     "Any tattoos you’ve seen on someone else and admired?",
     "What would you want a tattoo to communicate?"
    ],
-   "question": "If you had to get a one-word tattoo, what word would you put on your body?",
-   "reminder": "One-Word Tatt",
-   "summary": "1-WORD TATT: ”{{SELECTION}}”"
+   "question": "Si vous deviez vous faire tatouer un mot, quel mot mettriez-vous sur votre corps ?",
+   "reminder": "Tatouage d’un mot",
+   "summary": "TATOUAGE : ”{{SELECTION}}”"
   },
   {
    "appearance": "EARLY",
    "category": "TESTIMONY",
-   "evidence": "Target thinks they look best in {{SELECTION}} clothes.",
+   "evidence": "Le suspect pense qu'il a meilleur apparence dans des vêtements {{SELECTION}}.",
    "familiarity": "STRANGERS",
    "id": "107324",
    "interrogations": [
     "What \"season\" are you?",
     "What color brings out your eyes?"
    ],
-   "question": "What color clothes are your go-to when attempting to look good?",
-   "reminder": "Dressed in What Color?",
-   "summary": "BEST COLOR: {{SELECTION}}"
+   "question": "Quelle couleur de vêtements portez-vous lorsque vous essayez de bien paraître ?",
+   "reminder": "Vêtements de quelle couleur ?",
+   "summary": "MEILLEURE COULEUR : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Perp’s inner-animal: {{SELECTION}}",
+   "evidence": "L'animal intérieur du suspect : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "107327",
    "interrogations": [
     "Mammal, reptile, fish, or bird?",
     "Does your animal have a tail?"
    ],
-   "question": "In your heart of hearts, what kind of animal do you think you are?",
-   "reminder": "What Animal?",
+   "question": "Dans votre coeur, quel genre d'animal pensez-vous être ?",
+   "reminder": "Quel animal ?",
    "starterContent": true,
-   "summary": "ANIMAL: {{SELECTION}}"
+   "summary": "ANIMAL : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "TESTIMONY",
-   "evidence": "The body of water the perp last tipped their toesies in was: {{SELECTION}}",
+   "evidence": "Le dernier plan d'eau dans lequel le suspect a trempé ses orteils était : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "107328",
    "interrogations": [
     "Was the water cold or warm?",
     "Was the water someplace manmade or natural?"
    ],
-   "question": "What was the last body of water you put your feet in?",
-   "reminder": "Piggy Dippin'",
-   "summary": "BODY OF WATER: {{SELECTION}}"
+   "question": "Dans quel plan d'eau avez-vous trempé vos orteils en dernier ?",
+   "reminder": "Petits orteils dans l'eau",
+   "summary": "PLAN D'EAU : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
-   "evidence": "Target loves {{SELECTION}}, but will admit is a very bad film.",
+   "evidence": "Le suspect aime {{SELECTION}}, mais admet que c'est un très mauvais film.",
    "familiarity": "STRANGERS",
    "id": "107331",
    "interrogations": [
     "What’s the genre of the film you love?",
     "What year did the movie come out?"
    ],
-   "question": "What’s a movie that you know is bad but you love it anyway?",
-   "reminder": "Bad Movies U Love",
-   "summary": "BAD MOVIE: {{SELECTION}}"
+   "question": "Quel film est considéré comme mauvais mais vous l'aimez quand même ?",
+   "reminder": "Pire film préféré",
+   "summary": "MAUVAIS FILM : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "The first song/album the perp ever got for themselves: {{SELECTION}}",
+   "evidence": "Le premier morceau/album que le suspect a acheté : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "107332",
    "interrogations": [
     "What year did you get this album?",
     "What genre of music were you into at the time?"
    ],
-   "question": "What was the first song or album you ever bought or downloaded for yourself?",
-   "reminder": "First Song/Album",
-   "summary": "FIRST MUSIC: {{SELECTION}}"
+   "question": "Quel a été le premier son ou album que vous avez acheté ou téléchargé pour vous-même ?",
+   "reminder": "Premier son/album acheté",
+   "summary": "PREMIERE MUSIQUE : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Item most recently in target's mouth: {{SELECTION}}",
+   "evidence": "L'objet entré le plus récemment dans la bouche du coupable : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "107452",
    "interrogations": [
     "Did you eat anything recently?",
     "Do you suffer from pica disorder, a condition where you put inedible things in your mouth?"
    ],
-   "question": "What was the last thing you put in your mouth?",
-   "reminder": "In Ya Mouth",
+   "question": "Quelle est la dernière chose que vous avez mise dans votre bouche ?",
+   "reminder": "Dans la bouche",
    "starterContent": false,
-   "summary": "IN MOUTH: {{SELECTION}}"
+   "summary": "DANS LA BOUCHE : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Perp knows all the words to “{{SELECTION}}.”",
+   "evidence": "Le coupable connaît tous les mots de “{{SELECTION}}.”",
    "familiarity": "STRANGERS",
    "id": "107725",
    "interrogations": [
     "Show us your “top listens” on your phone.",
     "Could you do karaoke without the lyrics on screen?"
    ],
-   "question": "What’s a song you’re confident you know all the lyrics to?",
-   "reminder": "Knows All The Words To...",
-   "summary": "MEMORIZED: \"{{SELECTION}}\""
+   "question": "Quelle chanson connaissez-vous par coeur ?",
+   "reminder": "Tous les mots de la chanson...",
+   "summary": "MÉMORISÉE : \"{{SELECTION}}\""
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Suspect thinks they could convince people to call them “{{SELECTION}}”.",
+   "evidence": "Le suspect pense qu'il pourrait convaincre les gens de l'appeler “{{SELECTION}}”.",
    "familiarity": "STRANGERS",
    "id": "107727",
    "interrogations": [
@@ -168,15 +168,15 @@
     "What’s someone else’s nickname that you’ve admired?",
     "Make up a nickname for me, right now."
    ],
-   "question": "What’s a nickname you think you could pull off?",
-   "reminder": "Nickname?",
+   "question": "Donnez un surnom que vous pensez pouvoir porter ?",
+   "reminder": "Surnom ?",
    "starterContent": true,
-   "summary": "NICKNAME: \"{{SELECTION}}\""
+   "summary": "SURNOM : \"{{SELECTION}}\""
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Perp maintains a strong brand loyalty to: {{SELECTION}}",
+   "evidence": "Le suspect reste fidèle à la marque : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "107730",
    "interrogations": [
@@ -184,43 +184,43 @@
     "Do you shop brand-name or generic?",
     "What’s your favorite clothing label?"
    ],
-   "question": "What’s the name of a brand you’re especially loyal to?",
-   "reminder": "Brand Loyalty",
+   "question": "Donnez le nom d'une marque pour laquelle vous restez loyal ?",
+   "reminder": "Fidélité à une marque",
    "starterContent": true,
-   "summary": "BRAND: {{SELECTION}}"
+   "summary": "MARQUE : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Pining puppy dog perp had their first major celeb crush on: {{SELECTION}}",
+   "evidence": "Le suspect a eu son premier grand coup de coeur pour : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "107732",
    "interrogations": [
     "What's your crush's background? Actor? Musician?"
    ],
-   "question": "Who was your first celebrity crush?",
-   "reminder": "First Celeb Crush",
+   "question": "Pour qui avez-vous eu votre premier grand coup de coeur ?",
+   "reminder": "Premier grand coup de coeur",
    "starterContent": true,
-   "summary": "CRUSH: {{SELECTION}}"
+   "summary": "CRUSH : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "evidence": "Perp's most recent live concert experience: {{SELECTION}}",
+   "evidence": "Le dernier concert en direct du suspect : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "107733",
    "interrogations": [
     "Who’s your favorite artist?",
     "What was the best concert you’ve ever been to?"
    ],
-   "question": "What was the last band or artist you saw live?",
-   "reminder": "Last Live Concert",
-   "summary": "LIVE SHOW: {{SELECTION}}"
+   "question": "Quelle était le dernier groupe de musique ou artiste que vous avez vu en direct ?",
+   "reminder": "Dernier concert en direct",
+   "summary": "CONCERT : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "FORENSICS",
-   "evidence": "When asked to describe a favorite gift, suspect said: “{{SELECTION}}”",
+   "evidence": "Quand on lui a demandé de décrire un cadeau préféré, le suspect a dit : “{{SELECTION}}”",
    "familiarity": "FRIENDS",
    "id": "107734",
    "interrogations": [
@@ -228,15 +228,15 @@
     "Is monetary or sentimental value more important?",
     "What kind of things do you typically ask for as gifts?"
    ],
-   "question": "In one word, describe a favorite gift you have received.",
-   "reminder": "Best Gift",
+   "question": "En un mot, décrivez le cadeau favori que vous avez reçu",
+   "reminder": "Meilleur cadeau reçu",
    "starterContent": true,
-   "summary": "BEST GIFT: {{SELECTION}}"
+   "summary": "MEILLEUR CADEAU : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
-   "evidence": "Target describes their current neighborhood as: {{SELECTION}}",
+   "evidence": "Le coupable décrit son quartier actuel comme : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "107736",
    "interrogations": [
@@ -244,101 +244,87 @@
     "How well do you know your neighbors?",
     "How long have you been in your current place?"
    ],
-   "question": "What’s one word that describes your current neighborhood?",
-   "reminder": "Describe Neighborhood",
-   "summary": "CURRENT ‘HOOD: “{{SELECTION}}”"
-  },
-  {
-   "appearance": "LATE",
-   "category": "PROFILE",
-   "evidence": "Suspect admits their favorite Muppet is {{SELECTION}}.",
-   "familiarity": "FRIENDS",
-   "id": "107738",
-   "interrogations": [
-    "What’s your favorite Muppet movie?",
-    "Would you consider yourself more of a Kermit or Miss Piggy?"
-   ],
-   "question": "Which Muppet is your favorite?",
-   "reminder": "Fave Muppet",
-   "summary": "MUPPET: {{SELECTION}}"
+   "question": "Donnez un mot qui décrirait votre quartier dans lequel vous vivez ?",
+   "reminder": "Décrire le quartier",
+   "summary": "QUARTIER ACTUEL : “{{SELECTION}}”"
   },
   {
    "appearance": "EARLY",
    "category": "TESTIMONY",
-   "evidence": "Perp's first on-the-job experience was: {{SELECTION}}",
+   "evidence": "La première expérience professionnelle du suspect était : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "107745",
    "interrogations": [
     "Where did you work in high school or college?"
    ],
-   "question": "What was your first job?",
-   "reminder": "First Job",
-   "summary": "FIRST JOB: {{SELECTION}}",
+   "question": "Quelle était votre premier emploi ?",
+   "reminder": "Premier emploi",
+   "summary": "PREMIER EMPLOI : {{SELECTION}}",
    "x": false
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
-   "evidence": "As a kid, suspect dreamed of becoming: {{SELECTION}}",
+   "evidence": "Enfant, le suspect rêvait de devenir : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "107746",
    "interrogations": [
     "What were your favorite toys to play with as a kid?",
     "What were you obsessed with as a kid?"
    ],
-   "question": "As a kid, what did you want to be when you grew up?",
-   "reminder": "Kid Dream Job",
-   "summary": "DREAM JOB: {{SELECTION}}"
+   "question": "Enfant, que vouliez-vous devenir à l'âge adulte ?",
+   "reminder": "Métier de rêve d'enfant",
+   "summary": "RÊVE D'ENFANT : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "TESTIMONY",
-   "evidence": "Without any warning, perp could give a speech right now about: {{SELECTION}}",
+   "evidence": "Sans aucun avertissement, le suspect pourrait faire un discours en ce moment sur : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "107747",
    "interrogations": [
     "Any recent pop culture obsessions?",
     "Is there something you got way too into when you were a teenager?"
    ],
-   "question": "What’s a topic that, with no notice, you could give a 15-minute speech about?",
-   "reminder": "SURPRISE SPEECH",
+   "question": "Sur quoi pourriez-vous faire un discours surprise en ce moment ?",
+   "reminder": "SPEECH SURPRISE",
    "starterContent": true,
-   "summary": "SPEECH: {{SELECTION}}"
+   "summary": "SPEECH : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
-   "evidence": "If perp could be a professional athlete in any sport, it would be in: {{SELECTION}}",
+   "evidence": "Si le suspect pouvait être un athlète professionnel dans n'importe quel sport, ce serait dans : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "107748",
    "interrogations": [
     "What sports did you play as a kid?",
     "What’s your favorite sport to watch?"
    ],
-   "question": "If you could be a pro athlete in any sport, what would it be?",
-   "reminder": "Sports Pro?",
+   "question": "Si vous pouviez être un athlète professionnel dans n'importe quel sport, quel serait-il ?",
+   "reminder": "Sportif professionnel ?",
    "starterContent": false,
-   "summary": "PRO SPORT: {{SELECTION}}"
+   "summary": "SPORTIF PRO : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
-   "evidence": "Perp wishes they had years of experience in: {{SELECTION}}",
+   "evidence": "Le suspect souhaite avoir des années d'expérience dans : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "107757",
    "interrogations": [
     "If you had a time machine, what would you encourage young you to do?",
     "What do you wish you were an expert in?"
    ],
-   "question": "What’s a skill you wish you had YEARS of experience in by now?",
-   "reminder": "Skills You Wish For",
+   "question": "Donnez une compétence dans laquelle vous souhaitez avoir des ANNÉES d'expérience maintenant ?",
+   "reminder": "Compétences souhaitées",
    "starterContent": true,
-   "summary": "SKILL WISH: {{SELECTION}}"
+   "summary": "COMPÉTENCE : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Perp's last outgoing call was reportedly to: {{SELECTION}}",
+   "evidence": "Le dernier appel sortant du suspect était apparemment à : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "107764",
    "interrogations": [
@@ -346,15 +332,15 @@
     "How often do you talk on the phone?",
     "Have you made any appointments recently?"
    ],
-   "question": "Without saying their actual name, who was your last outgoing call to?",
-   "reminder": "Last Outgoing Call",
+   "question": "Sans dire leur nom, qui avez-vous appelé en dernier ?",
+   "reminder": "Dernier appel sortant",
    "starterContent": true,
-   "summary": "LAST CALL: {{SELECTION}}"
+   "summary": "DERNIER APPEL : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "FORENSICS",
-   "evidence": "Perp proudly displays {{SELECTION}} on one of their walls.",
+   "evidence": "Le coupable affiche fièrement {{SELECTION}} sur l'un de ses murs.",
    "familiarity": "STRANGERS",
    "id": "107768",
    "interrogations": [
@@ -362,104 +348,104 @@
     "Describe your home aesthetic.",
     "Any bands you’ve seen in concert?"
    ],
-   "question": "What’s something hanging in a prominent spot on your walls at home?",
-   "reminder": "Wall Hangings",
+   "question": "Qu'y a-t-il d'accroché à un endroit bien en vue sur les murs de votre maison ?",
+   "reminder": "Accrochages muraux",
    "starterContent": false,
-   "summary": "ON THE WALL: {{SELECTION}}"
+   "summary": "SUR LE MUR : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "FORENSICS",
-   "evidence": "Perp owns {{SELECTION}}, of all things! How unique!",
+   "evidence": "Le coupable possède {{SELECTION}} ! Comme c'est unique !",
    "familiarity": "STRANGERS",
    "id": "107947",
    "interrogations": [
     "What’s your most prized possession?",
     "What’s the weirdest thing in your living room, right now?"
    ],
-   "question": "What’s something you own that you’re pretty sure nobody else here does?",
-   "reminder": "Unique Object",
+   "question": "Qu'est-ce que vous possédez et dont vous êtes presque sûr que personne d'autre ici ne possède ?",
+   "reminder": "Objet unique",
    "starterContent": false,
-   "summary": "OWNS UNIQUE: {{SELECTION}}"
+   "summary": "OBJET UNIQUE: {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Suspect describes their personality as: {{SELECTION}}",
+   "evidence": "Le suspect décrit sa personnalité comme : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "108006",
    "interrogations": [
     "What's your general outlook on life?",
     "How do people react to you?"
    ],
-   "question": "What’s one word you would use to describe your personality?",
-   "reminder": "Personality?",
+   "question": "Donnez un mot qui décrirait votre personnalité.",
+   "reminder": "Personnalité ?",
    "starterContent": false,
-   "summary": "PERSONALITY: {{SELECTION}}"
+   "summary": "PERSONNALITÉ : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
-   "evidence": "Target’s first job title: {{SELECTION}}",
+   "evidence": "Titre du premier emploi de la cible : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "108145",
    "interrogations": [
     "How long were you at this job?",
     "Did you stay working in that industry?"
    ],
-   "question": "What was your title at your very first job?",
-   "reminder": "First Job Title",
+   "question": "Quel était votre titre à votre tout premier emploi ?",
+   "reminder": "Titre du premier emploi",
    "starterContent": true,
-   "summary": "JOB TITLE: {{SELECTION}}",
+   "summary": "TITRE DU POSTE : {{SELECTION}}",
    "x": false
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "evidence": "Space-bending subject wishes they could teleport to: {{SELECTION}}",
+   "evidence": "Le sujet capable de plier l'espace souhaite pouvoir se téléporter à : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "108146",
    "interrogations": [
     "Do you wish you were somewhere more comfortable right now?"
    ],
-   "question": "If you could immediately teleport yourself anywhere right this second, where would you go?",
-   "reminder": "Teleportation",
+   "question": "Si vous pouviez vous téléporter immédiatement n'importe où en ce moment, où iriez-vous ?",
+   "reminder": "Téléportation",
    "starterContent": false,
-   "summary": "TELEPORT: {{SELECTION}}"
+   "summary": "TÉLÉPORTATION : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Target’s description of their region of birth: “{{SELECTION}}.”",
+   "evidence": "Description de la région de naissance de la cible : “{{SELECTION}}.”",
    "familiarity": "STRANGERS",
    "id": "108148",
    "interrogations": [
     "What body of water were you closest to?",
     "Any major landmarks near you?"
    ],
-   "question": "In a few words, what would you call the overall region where you grew up?",
-   "reminder": "CHILDHOOD REGION",
-   "summary": "REGION: “{{SELECTION}}”"
+   "question": "En quelques mots, comment décririez-vous la région dans laquelle vous avez grandi ?",
+   "reminder": "RÉGION D'ENFANCE",
+   "summary": "RÉGION : “{{SELECTION}}”"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Perp thinks they can do {{SELECTION}} push-ups in a minute.",
+   "evidence": "Le suspect pense pouvoir faire {{SELECTION}} pompes en une minute.",
    "familiarity": "FRIENDS",
    "id": "108151",
    "interrogations": [
     "Is today leg day or upper body?",
     "Feel like working on your pecs?"
    ],
-   "question": "How many push-ups do you think you could do in one minute?",
-   "reminder": "PUSH-UPS",
+   "question": "Combien de pompes pouvez-vous faire en une minute ?",
+   "reminder": "POMPES",
    "starterContent": true,
-   "summary": "PUSH-UPS: {{SELECTION}}"
+   "summary": "POMPES : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Subject of the most recent photo in the perp’s camera roll: {{SELECTION}}.",
+   "evidence": "Sujet de la photo la plus récente dans l'appareil photo du suspect : {{SELECTION}}.",
    "familiarity": "STRANGERS",
    "id": "108185",
    "interrogations": [
@@ -467,147 +453,147 @@
     "You have a cat or a dog, don’t you?",
     "How do you feel about food photography?"
    ],
-   "question": "In a word or two, describe the most recent photo in your camera roll.",
-   "reminder": "Last Pic Taken",
+   "question": "En un mot ou deux, décrivez la photo la plus récente dans votre appareil photo.",
+   "reminder": "Dernière photo prise",
    "starterContent": true,
-   "summary": "LAST PIC: {{SELECTION}}"
+   "summary": "DERNIÈRE PHOTO : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Perp associates the word “disgusting” with: {{SELECTION}}",
+   "evidence": "Le suspect associe le mot “dégoûtant” à : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "108688",
    "interrogations": [
     "What’s something that totally skeeves you out?",
     "Can you think of something that makes you throw up in your mouth a little?"
    ],
-   "question": "When you think of the word “disgusting,” what image comes to your mind?",
-   "reminder": "“Disgusting”?",
+   "question": "Quand vous pensez au mot “dégoûtant”, quelle image vous vient à l'esprit ?",
+   "reminder": "“Dégoûtant” ?",
    "starterContent": false,
-   "summary": "“DISGUSTING”: {{SELECTION}}"
+   "summary": "“DÉGOÛTANT” : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Our suspect’s toxic trait? {{SELECTION}}",
+   "evidence": "Le trait toxique de notre suspect ? {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "108755",
    "interrogations": [
     "What’s your biggest red flag?",
     "What’s a piece of friendly criticism you’ve gotten from close friends or family?"
    ],
-   "question": "In a word or two, what’s your toxic trait?",
-   "reminder": "TOXIC TRAIT",
+   "question": "En un mot ou deux, quel est votre trait toxique ?",
+   "reminder": "TRAIT TOXIQUE",
    "starterContent": true,
-   "summary": "TOXIC TRAIT: {{SELECTION}}"
+   "summary": "TRAIT TOXIQUE : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Suspect dreams of captaining a vessel called \"{{SELECTION}}.\"",
+   "evidence": "Le suspect rêve de piloter un navire appelé \"{{SELECTION}}.\"",
    "familiarity": "FRIENDS",
    "id": "108756",
    "interrogations": [
     "What makes a good boat name?",
     "Do you appreciate a good nautical pun?"
    ],
-   "question": "If you had a boat, what would you name it?",
-   "reminder": "BOAT NAME",
+   "question": "Si vous aviez un bateau, comment l'appelleriez-vous ?",
+   "reminder": "NOM DU BATEAU",
    "starterContent": false,
-   "summary": "BOAT NAME: \"{{SELECTION}}\""
+   "summary": "NOM DU BATEAU : \"{{SELECTION}}\""
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "The word “secret” reminds the perp of: {{SELECTION}}.",
+   "evidence": "Le mot “secret” rappelle au suspect : {{SELECTION}}.",
    "familiarity": "FRIENDS",
    "id": "108783",
    "interrogations": [
     "So what do you think your subconscious is trying to tell you (or US)?",
     "Was that really your FIRST thought or what you think we wanted to hear?"
    ],
-   "question": "What’s the first thing that comes to mind when you hear the word “secret”?",
-   "reminder": "“Secret” Word",
+   "question": "Quelle est la première chose qui vous vient à l'esprit lorsque vous entendez le mot “secret” ?",
+   "reminder": "Mot “Secret”",
    "starterContent": false,
-   "summary": "SECRET: {{SELECTION}}"
+   "summary": "SECRET : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "If perp had to change religions, they’d try: {{SELECTION}}",
+   "evidence": "Si le suspect devait changer de religion, il essaierait : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "108790",
    "interrogations": [
     "Do you believe in reincarnation?",
     "Would you describe yourself more as religious, or spiritual?"
    ],
-   "question": "If you had to convert to a new religion, which do you think you could vibe with?",
-   "reminder": "New Religion",
-   "summary": "CONVERT TO: {{SELECTION}}",
+   "question": "Si vous deviez vous convertir à une nouvelle religion, laquelle pensez-vous que vous pourriez adopter ?",
+   "reminder": "Nouvelle Religion",
+   "summary": "CONVERTIR À : {{SELECTION}}",
    "x": false
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Suspect claims to know nothing about the TV show [i]{{SELECTION}}[/i].",
+   "evidence": "Le suspect ne sait rien sur la série télévisée [i]{{SELECTION}}[/i].",
    "familiarity": "STRANGERS",
    "id": "108837",
    "interrogations": [
     "What’s a show you know a LOT about?",
     "When a show is popular, do you jump onboard?"
    ],
-   "question": "What’s a popular TV show you know nothing about?",
-   "reminder": "TV Knowledge",
-   "summary": "KNOW NOTHING: [i]{{SELECTION}}[/i]"
+   "question": "Donnez une série télévisée populaire que vous ne connaissez pas du tout ?",
+   "reminder": "Connaissance TV",
+   "summary": "NE CONNAÎT PAS : [i]{{SELECTION}}[/i]"
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "evidence": "Suspect believes their photo would be next to “{{SELECTION}}” in the dictionary.",
+   "evidence": "Le suspect pense que sa photo serait à côté de “{{SELECTION}}” dans le dictionnaire.",
    "familiarity": "FRIENDS",
    "id": "108839",
    "interrogations": [
     "Why would your picture NOT be next to this word?"
    ],
-   "question": "What word, if you looked it up in the dictionary, would have a picture of you next to it?",
-   "reminder": "DICT. PIC",
+   "question": "Quel mot, si vous le cherchiez dans le dictionnaire, aurait une photo de vous à côté ?",
+   "reminder": "PHOTO DEFINITION",
    "starterContent": false,
-   "summary": "DEFINITION OF: “{{SELECTION}}”"
+   "summary": "DEFINITION DE : “{{SELECTION}}”"
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "evidence": "Perp’s response to how long they’ve known {{PLAYER}}: {{SELECTION}}.",
+   "evidence": "Le suspect connait {{PLAYER}} depuis : {{SELECTION}}.",
    "familiarity": "STRANGERS",
    "id": "108917",
    "interrogations": [
     "Care to tell us the story of how you two met?"
    ],
-   "question": "In a word or two, how long have you known {{PLAYER}}?",
-   "reminder": "Known For How Long?",
+   "question": "En un mot ou deux, depuis combien de temps connaissez-vous {{PLAYER}}?",
+   "reminder": "Connaissance depuis ?",
    "starterContent": false,
-   "summary": "KNOWN {{PLAYER}}: {{SELECTION}}"
+   "summary": "RENCONTRE {{PLAYER}}: {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "If perp was a video game boss, their weak spot would be: {{SELECTION}}.",
+   "evidence": "Si le coupable était un boss de jeu vidéo, son point faible serait : {{SELECTION}}.",
    "familiarity": "FRIENDS",
    "id": "109037",
    "interrogations": [
     "Have you been injured? Where?",
     "Do you have a weak stomach?"
    ],
-   "question": "If you were a video game boss, where would your glowing red weak spot be?",
-   "reminder": "Weak Spot?",
+   "question": "Si vous étiez un boss de jeu vidéo, où serait votre point faible rougeoyant ?",
+   "reminder": "Point Faible ?",
    "starterContent": false,
-   "summary": "WEAK SPOT: {{SELECTION}}"
+   "summary": "POINT FAIBLE: {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
-   "evidence": "Suspect would want to be “Patron Saint of {{SELECTION}}”",
+   "evidence": "Le suspect voudrait être le “Dieu de {{SELECTION}}”",
    "familiarity": "STRANGERS",
    "id": "109040",
    "interrogations": [
@@ -615,30 +601,30 @@
     "How would you treat your followers?",
     "Got any favorite saints?"
    ],
-   "question": "What’s something you would want to be the patron saint of?",
-   "reminder": "Patron Saint?",
+   "question": "Si vous pouviez devenir un dieu, vous seriez le dieu de quoi ?",
+   "reminder": "Dieu de ?",
    "starterContent": false,
-   "summary": "Patron Saint: {{SELECTION}}"
+   "summary": "Dieu de : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Phone number that suspect knows by heart belongs to: {{SELECTION}}",
+   "evidence": "Le numéro de téléphone que le suspect connaît par coeur appartient à : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "109045",
    "interrogations": [
     "Dial it for us!",
     "Ever remember a phone number because of a catchy jingle?"
    ],
-   "question": "Without saying the full name, is there a person or place’s phone number you have memorized? Whose?",
-   "reminder": "Memorized Phone #",
+   "question": "Sans dire le nom complet, y a-t-il un numéro de téléphone d'une personne ou d'un lieu que vous avez mémorisé ? Lequel ?",
+   "reminder": "Numéro de téléphone mémorisé",
    "starterContent": false,
-   "summary": "PHONE #: {{SELECTION}}"
+   "summary": "TELEPHONE #: {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Perp’s got {{SELECTION}} in their pockets!! Right now!!!",
+   "evidence": "Le coupable a {{SELECTION}} dans ses poches !! En ce moment même !!!",
    "familiarity": "FRIENDS",
    "id": "109049",
    "interrogations": [
@@ -646,15 +632,15 @@
     "Do you have gum on you?",
     "How big is your purse?"
    ],
-   "question": "What’s something currently in your purse or pockets?",
-   "reminder": "In Your Pockets",
+   "question": "Qu'est-ce qui se trouve actuellement dans votre sac à main ou vos poches ?",
+   "reminder": "Dans vos poches",
    "starterContent": false,
-   "summary": "{{SELECTION}} IN POCKETS"
+   "summary": "{{SELECTION}} DANS LES POCHES"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Perp’s got a lot to show (and tell!) us about: {{SELECTION}}",
+   "evidence": "Le coupable a beaucoup à montrer (et à raconter !) sur : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "109050",
    "interrogations": [
@@ -663,15 +649,15 @@
     "Do you keep family heirlooms?",
     "Do you usually buy travel souvenirs?"
    ],
-   "question": "It’s time for grown-up show-and-tell! What item would you love to present to us?",
-   "reminder": "Show-And-Tell Object",
+   "question": "C'est l'heure de parler ! Quel objet aimeriez-vous nous présenter ?",
+   "reminder": "Présentation d'objet",
    "starterContent": false,
-   "summary": "SHOW-AND-TELL: {{SELECTION}}"
+   "summary": "OBJET : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Suspect is willing to lick a public train handrail for ${{SELECTION}}.",
+   "evidence": "Le suspect est prêt à lécher une barre d'appui de train public pour {{SELECTION}}€.",
    "familiarity": "FRIENDS",
    "id": "109315",
    "interrogations": [
@@ -679,44 +665,44 @@
     "Do you get sick easily?",
     "Do you like doing crazy dares?"
    ],
-   "question": "How much would someone have to pay you to lick a commuter train handrail?",
-   "reminder": "$$ To Lick",
+   "question": "Pour combien d'euros seriez-vous prêt à lécher une barre d'appui de train public ?",
+   "reminder": "€ pour lécher",
    "starterContent": false,
-   "summary": "HANDRAIL LICK: ${{SELECTION}}"
+   "summary": "BARRE D'APPUI : {{SELECTION}}€"
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "evidence": "Amount of physical cash perp has on hand right this minute: {{SELECTION}}",
+   "evidence": "Montant d'argent liquide que le suspect a sur lui en ce moment : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "109444",
    "interrogations": [
     "Well?? Show us the bills!",
     "What do you have in your wallet right now?"
    ],
-   "question": "How much cash do you have on you right now?",
-   "reminder": "Cash On Hand",
+   "question": "Combien d'argent liquide avez-vous sur vous en ce moment ?",
+   "reminder": "Argent liquide",
    "starterContent": false,
-   "summary": "CASH $$$: {{SELECTION}}"
+   "summary": "ARGENT LIQUIDE : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Perp doesn't do THIS thing as much as they used to:  {{SELECTION}}",
+   "evidence": "Le coupable ne fait plus autant ceci qu'avant : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "109476",
    "interrogations": [
     "Have you changed your diet much in the last few years?",
     "Did you used to be an athlete?"
    ],
-   "question": "What’s something you once did frequently, but now don't do anymore?",
-   "reminder": "Doesn't Do ____ Anymore",
-   "summary": "USED TO DO: {{SELECTION}}"
+   "question": "Qu'est ce que vous faisiez frequemment avant, mais que vous ne faites plus maintenant ?",
+   "reminder": "Ne fait plus ____",
+   "summary": "FAISAIT : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Perp knows enough about themselves to know that they are [i]too[/i] into: {{SELECTION}}.",
+   "evidence": "Le coupable sait assez de choses sur lui-même pour savoir qu'il est [i]trop[/i] dans : {{SELECTION}}.",
    "familiarity": "STRANGERS",
    "id": "109521",
    "interrogations": [
@@ -724,21 +710,21 @@
     "Tell me about some of your biggest pet peeves.",
     "How long can you go into any conversation without bringing up your job?"
    ],
-   "question": "What’s something (hobby, team, fandom) you are a little TOO into?",
-   "reminder": "Too Into ____",
-   "summary": "IN TOO DEEP ON: {{SELECTION}}"
+   "question": "Y a-t-il quelque chose (loisir, équipe, fan club) qui vous passionne un peu TROP ?",
+   "reminder": "Trop dans ____",
+   "summary": "TROP DANS : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "evidence": "Perp thinks the vibe they give off is: {{SELECTION}}.",
+   "evidence": "Le coupable pense que le vibe qu'il dégage est : {{SELECTION}}.",
    "familiarity": "FRIENDS",
    "id": "109757",
    "interrogations": [
     "How would you describe your demeanor?",
     "How do you WISH you were perceived?"
    ],
-   "question": "In a word or two, what vibe do you think people get from you?",
+   "question": "En un mot ou deux, quel vibe laissez-vous au gens que vous croisez ?",
    "reminder": "VIBES",
    "starterContent": true,
    "summary": "VIBE: {{SELECTION}}"
@@ -746,7 +732,7 @@
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Perp’s hidden talent, either real or desired: {{SELECTION}}",
+   "evidence": "Le talent caché du coupable, réel ou désiré : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "109758",
    "interrogations": [
@@ -754,29 +740,29 @@
     "Are you hiding your light under a bushel?",
     "How did you acquire your hidden talent?"
    ],
-   "question": "What’s a hidden talent you possess? (Or wish you had?)",
-   "reminder": "Hidden Talent",
-   "summary": "HIDDEN TALENT: {{SELECTION}}"
+   "question": "Quel est le talent cache que vous possédez ? (Ou que vous aimeriez avoir ?)",
+   "reminder": "Talent Caché",
+   "summary": "TALENT CACHÉ : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Target's role model as a youth: {{SELECTION}}.",
+   "evidence": "Le modèle du coupable dans sa jeunesse : {{SELECTION}}.",
    "familiarity": "STRANGERS",
    "id": "109760",
    "interrogations": [
     "Who has influenced you the most in your life?",
     "Did you look up to peers, or authority figures?"
    ],
-   "question": "Who was a role model you had growing up?",
-   "reminder": "Role Model",
+   "question": "Qui était votre modèle quand vous étiez enfant ?",
+   "reminder": "Modèle d'enfance",
    "starterContent": false,
-   "summary": "ROLE MODEL: {{SELECTION}}"
+   "summary": "MODÈLE D'ENFANCE : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Perp admits to hating the sound of: {{SELECTION}}.",
+   "evidence": "Le coupable admet détester le son de : {{SELECTION}}.",
    "familiarity": "FRIENDS",
    "id": "109762",
    "interrogations": [
@@ -784,29 +770,29 @@
     "Do you live with a snorer? How about a small child?",
     "How’s your hearing?"
    ],
-   "question": "In a word or two, what’s a sound you can’t stand?",
-   "reminder": "Bad Sounds",
-   "summary": "WORST SOUND: {{SELECTION}}"
+   "question": "En un mot ou deux, quel est le son que vous ne pouvez pas supporter ?",
+   "reminder": "Pire son",
+   "summary": "PIRE SON : {{SELECTION}}"
   },
   {
    "appearance": "EARLY",
    "category": "TESTIMONY",
-   "evidence": "When in school, perp hated attending {{SELECTION}}.",
+   "evidence": "A l'école, le coupable détestait assister à {{SELECTION}}.",
    "familiarity": "FRIENDS",
    "id": "109765",
    "interrogations": [
     "Were you one of those kids that loved going to school every day?",
     "Wanna tell me what PEMDAS stands for?"
    ],
-   "question": "Which class did you dislike most in school?",
-   "reminder": "Worst Class",
+   "question": "Quelle classe détestiez-vous le plus à l'école ?",
+   "reminder": "Pire classe",
    "starterContent": true,
-   "summary": "WORST CLASS: {{SELECTION}}"
+   "summary": "PIRE CLASSE : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Target says the following: \"As a kid, I was {{SELECTION}}.\"",
+   "evidence": "Le coupable dit ce qui suit : \"Quand j'étais enfant, j'étais {{SELECTION}}.\"",
    "familiarity": "STRANGERS",
    "id": "109766",
    "interrogations": [
@@ -814,45 +800,45 @@
     "Can you do an impression of yourself as a kid?",
     "What was a typical day like from your childhood?"
    ],
-   "question": "In a word or two, finish this sentence: “As a kid, I was...\"",
-   "reminder": "“As a Kid...”",
+   "question": "En un mot ou deux, terminez cette phrase : “Quand j'étais enfant, j'étais...\"",
+   "reminder": "“Quand j'étais enfant...”",
    "starterContent": true,
-   "summary": "AS A KID: \"{{SELECTION}}\""
+   "summary": "QUAND J'ÉTAIS ENFANT : \"{{SELECTION}}\""
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "evidence": "A conspiracy the perp kinda believes is true: {{SELECTION}}.",
+   "evidence": "Une théorie du complot que le coupable croit un peu vraie : {{SELECTION}}.",
    "familiarity": "FRIENDS",
    "id": "109768",
    "interrogations": [
     "The government is pretty crazy, huh? What are your thoughts??",
     "Would you say you're suggestible?"
    ],
-   "question": "In a few words, what’s a conspiracy theory you kinda believe could be true?",
-   "reminder": "Conspiracy Theory",
+   "question": "En quelques mots, quelle est une théorie du complot que vous croyez un peu vraie ?",
+   "reminder": "Théorie du complot",
    "starterContent": false,
-   "summary": "CONSPIRACY: {{SELECTION}}"
+   "summary": "THÉORIE DU COMPLOT : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
    "countrySpecific": false,
-   "evidence": "One word that describes the perp's opinions about the nation: {{SELECTION}}",
+   "evidence": "Un mot qui décrit les opinions du coupable sur la vie : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "112433",
    "interrogations": [
     "Are you better or worse off than you were five years ago?",
     "Do you think your future will be happier, or sadder?"
    ],
-   "question": "Give us one word that describes how you feel about your life right now.",
-   "reminder": "Country Feelings",
-   "summary": "THE NATION: {{SELECTION}}"
+   "question": "Donnez-nous un mot qui décrit comment vous vous sentez par rapport à votre vie en ce moment.",
+   "reminder": "Sentiments sur la vie",
+   "summary": "LA VIE : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Perp is prepped and ready to go under the knife for: {{SELECTION}}",
+   "evidence": "Le coupable est prêt à passer sur le billard pour : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "112434",
    "interrogations": [
@@ -860,14 +846,14 @@
     "What would make you feel more confident in your day to day life?",
     "What's your opinion on extreme piercings?"
    ],
-   "question": "If you could get any sort of elective surgery right now, what would it be?",
-   "reminder": "Elective Surgery",
-   "summary": "SURGERY: {{SELECTION}}"
+   "question": "Si vous pouviez subir n'importe quelle intervention chirurgicale non urgente dès maintenant, laquelle choisiriez-vous ?",
+   "reminder": "Chirurgie élective",
+   "summary": "CHIRURGIE : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "evidence": "Embarrassed perp would appreciate it if we didn't tell anyone about this: {{SELECTION}}",
+   "evidence": "Le coupable serait reconnaissant si nous ne disions à personne cela : {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "112437",
    "interrogations": [
@@ -875,14 +861,14 @@
     "Do you learn anything from being embarassed?",
     "Do you consider yourself to be a a shame-filled person?"
    ],
-   "question": "In a word or two, summarize the most embarrassing thing you have ever done.",
-   "reminder": "Embarrassing Event",
-   "summary": "EMBARRASSED: {{SELECTION}}"
+   "question": "En un mot ou deux, résumez la chose la plus embarrassante que vous ayez jamais faite.",
+   "reminder": "Événement embarrassant",
+   "summary": "EMBARRASSÉ : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Penny-pinching perp thinks that {{SELECTION}} costs way too much these days.",
+   "evidence": "Le coupable pense que {{SELECTION}} coûte beaucoup trop cher de nos jours.",
    "familiarity": "FRIENDS",
    "id": "112439",
    "interrogations": [
@@ -890,15 +876,15 @@
     "Is there a product you think is overhyped right now?",
     "Is there a price increase that effects your daily life?"
    ],
-   "question": "What is something you think is WAY too expensive these days?",
-   "reminder": "Expensive Things!",
+   "question": "Qu'est-ce qui, selon vous, coûte beaucoup trop cher de nos jours ?",
+   "reminder": "Choses chères !",
    "starterContent": true,
-   "summary": "EXPENSIVE: {{SELECTION}}"
+   "summary": "CHER : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "evidence": "Target’s idea of a word that’ll make everyone squirm: “{{SELECTION}}”",
+   "evidence": "L'idée du coupable d'un mot qui fera mal à tout le monde : “{{SELECTION}}”",
    "familiarity": "FRIENDS",
    "id": "112440",
    "interrogations": [
@@ -906,15 +892,15 @@
     "Do you think this word is meant to disgust people, or make them uncomfortable?",
     "Would you say this word to your mother?"
    ],
-   "question": "What's a non-curse word you think would make everyone here squirm?",
-   "reminder": "Non-Curse Word",
+   "question": "Quel est un mot non offensant que vous pensez faire mal à tout le monde ici ?",
+   "reminder": "MOT",
    "starterContent": true,
-   "summary": "BAD WORD: \"{{SELECTION}}\""
+   "summary": "MAUVAIS MOT : \"{{SELECTION}}\""
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
-   "evidence": "Suspect has felt admiration for the fictional character {{SELECTION}}.",
+   "evidence": "Le coupable admire le personnage fictif : {{SELECTION}}.",
    "familiarity": "STRANGERS",
    "id": "113177",
    "interrogations": [
@@ -922,14 +908,14 @@
     "GIve me three of your heroes, right now, no thinking.",
     "Do you look up to a fictional character now? Who is it?"
    ],
-   "question": "What’s the name of a fictional character (TV, movies, books) you’ve admired?",
-   "reminder": "Fictional Hero",
-   "summary": "FICTION HERO: {{SELECTION}}"
+   "question": "Quel personnage fictif (TV, films, livres) avez-vous admiré ?",
+   "reminder": "Héros fictif",
+   "summary": "HÉROS FICTIF : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "If limited to one musical group for the rest of their life, suspect would choose {{SELECTION}}.",
+   "evidence": "Si le coupable était limité à un seul groupe musical pour le reste de sa vie, il choisirait {{SELECTION}}.",
    "familiarity": "FRIENDS",
    "id": "113279",
    "interrogations": [
@@ -937,16 +923,16 @@
     "What contributes to a band being your favorite?",
     "What’s a band you hate?"
    ],
-   "question": "You can only listen to one musical group for the rest of your life. Who will it be?",
-   "reminder": "LIFETIME MUSIC",
+   "question": "Vous ne pouvez écouter qu'un seul groupe musical pour le reste de votre vie. Lequel ?",
+   "reminder": "Groupe musical unique",
    "starterContent": true,
-   "summary": "MUSIC 4 LIFE: {{SELECTION}}",
+   "summary": "MUSIQUE À VIE : {{SELECTION}}",
    "x": false
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "evidence": "Suspect thinks others would describe their voice as “{{SELECTION}}”.",
+   "evidence": "Le coupable pense que les autres décriraient sa voix comme “{{SELECTION}}”.",
    "familiarity": "STRANGERS",
    "id": "113517",
    "interrogations": [
@@ -954,29 +940,29 @@
     "What’s an animal you think you sound like?",
     "Who’s a celeb you sound like?"
    ],
-   "question": "What’s a word people might use to describe your voice?",
-   "reminder": "Voice Sound",
-   "summary": "VOICE: “{{SELECTION}}”"
+   "question": "Quel mot les autres utiliseraient pour décrire votre voix ?",
+   "reminder": "Son de la voix",
+   "summary": "VOIX : “{{SELECTION}}”"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Perp describes their most-used emoji as: {{SELECTION}}",
+   "evidence": "Le coupable décrit son emoji le plus utilisé comme : {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "113659",
    "interrogations": [
     "How often do you use emojis?",
     "Do you tend to overly-rely on emoji communication?"
    ],
-   "question": "Using just your words, describe your most-used emoji.",
-   "reminder": "Most Used Emoji",
+   "question": "En utilisant uniquement vos mots, décrivez votre emoji le plus utilisé.",
+   "reminder": "Emoji le plus utilisé",
    "starterContent": true,
-   "summary": "EMOJI: {{SELECTION}}"
+   "summary": "EMOJI : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "When asked to describe their least favorite job, subject said “{{SELECTION}}”.",
+   "evidence": "Lorsque l'on demande au suspect de décrire son emploi le moins aimé, il répond “{{SELECTION}}”.",
    "familiarity": "STRANGERS",
    "id": "113666",
    "interrogations": [
@@ -984,14 +970,14 @@
     "Tell us about the people at a job you disliked.",
     "Wink if you can’t talk about your worst job, because you’re there right now."
    ],
-   "question": "In a word or two, what’s been your least favorite job?",
-   "reminder": "Worst Job",
-   "summary": "WORST JOB: {{SELECTION}}"
+   "question": "En un mot ou deux, quel a été votre emploi le moins aimé ?",
+   "reminder": "Pire emploi",
+   "summary": "PIRE EMPLOI : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "Suspect (as spider) would gain national attention by weaving “{{SELECTION}}” into their web.",
+   "evidence": "Le coupable (en tant qu'araignée) attirerait l'attention nationale en tissant “{{SELECTION}}” dans sa toile.",
    "familiarity": "STRANGERS",
    "id": "113827",
    "interrogations": [
@@ -999,14 +985,14 @@
     "Give me two other options you thought about writing on your spiderweb.",
     "Know the book Charlotte’s Web? Any opinions on it?"
    ],
-   "question": "As a spider, what word or short phrase would you weave into your web to attract national attention?",
-   "reminder": "SPIDERWEB WRITING",
-   "summary": "Spiderweb: “{{SELECTION}}”"
+   "question": "En tant qu'araignée, quel mot ou courte phrase tisseriez-vous dans votre toile pour attirer l'attention nationale ?",
+   "reminder": "ÉCRITURE DE LA TOILE D'ARAIGNÉE",
+   "summary": "Toile d'araignée : “{{SELECTION}}”"
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
-   "evidence": "Suspect’s first movie seen in a movie theater was about {{SELECTION}}.",
+   "evidence": "Le premier film vu par le suspect dans un cinéma parlait de {{SELECTION}}.",
    "familiarity": "STRANGERS",
    "id": "114006",
    "interrogations": [
@@ -1014,14 +1000,14 @@
     "That first movie you saw -- did you ever watch it again?",
     "How did your first movie go? Were you scared?"
    ],
-   "question": "Remember the first movie you saw in a theater? What was it about?",
-   "reminder": "First Movie",
-   "summary": "FIRST MOVIE: ABOUT {{SELECTION}}"
+   "question": "Rappelez-vous du premier film que vous avez vu dans un cinéma ? De quoi s'agissait-il ?",
+   "reminder": "Premier film",
+   "summary": "PREMIER FILM : {{SELECTION}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "When asked about a simple pleasure of theirs, suspect answered “{{SELECTION}}”.",
+   "evidence": "Lorsque l'on demande au suspect de décrire un plaisir simple, il répond “{{SELECTION}}”.",
    "familiarity": "FRIENDS",
    "id": "114417",
    "interrogations": [
@@ -1029,9 +1015,9 @@
     "Are you a person of simple pleasures overall?",
     "Describe two other simple pleasures of yours, right now."
    ],
-   "question": "In a word or two, what’s a simple pleasure that always puts you in a good mood?",
-   "reminder": "Simple Pleasure",
-   "summary": "SIMPLE PLEASURE: {{SELECTION}}"
+   "question": "En un mot ou deux, quel est un plaisir simple qui vous met toujours de bonne humeur ?",
+   "reminder": "Plaisir simple",
+   "summary": "PLAISIR SIMPLE : {{SELECTION}}"
   }
  ]
 }
