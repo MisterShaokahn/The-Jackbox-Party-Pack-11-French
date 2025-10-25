@@ -1,0 +1,28 @@
+{
+  "table": {
+    "en": {
+      "PAUSE_PAUSED": "En pause",
+      "PAUSE_ARE_YOU_SURE": "Voulez-vous quitter ?",
+      "PAUSE_PROGRESS_LOST": "La progression actuelle sera perdue.",
+      "PAUSE_YES": "Quitter",
+      "PAUSE_NO": "Reprendre",
+      "PAUSE_SELECT": "Sélectionner",
+      "PAUSE_CLOSE": "Fermer",
+      "PAUSE_RESUME": "Reprendre",
+      "PAUSE_SETTINGS": "Paramètres",
+      "PAUSE_RESTART": "Retourner au menu du jeu",
+      "PAUSE_BACK_TO_PACK": "Retourner au pack",
+      "PAUSE_EXIT_TO_DESKTOP": "Quitter",
+      "PAUSE_CONFIRMATION_YES": "Oui",
+      "PAUSE_CONFIRMATION_NO": "Non",
+      "PAUSE_CONFIRMATION_EXIT": "Voulez-vous quitter ?",
+      "PAUSE_CONFIRMATION_RESTART": "Voulez-vous relancer ce jeu ?",
+      "PAUSE_CONFIRMATION_BACK_TO_PACK": "Voulez-vous choisir un autre jeu ?",
+      "PAUSE_CHOOSE_ON_DEVICE": "Choisissez sur votre appareil",
+      "BACK": "Retour",
+      "SELECT": "Sélectionner"
+    },
+    "priority": 2,
+    "id": "106737"
+  }
+}
