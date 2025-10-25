@@ -46,10 +46,7 @@
    "riddle": "Je recueille ce que l’on verse chaque jour\nTransparent comme l’air, fragile en mon contour\nOn me brise parfois par maladresse ou par jeu\nEt je reflète le monde quand vous regardez en feu\n\nQue suis-je ?"
   },
   {
-   "altSpellings": [
-    "A fence",
-    "Fencing"
-   ],
+   "altSpellings": [],
    "answer": "Fence",
    "clue": "I won’t try to whitewash the answer",
    "id": "112359",
@@ -410,7 +407,7 @@
     "A Spell"
    ],
    "answer": "Spell",
-   "clue": "“A-B-R-A-C-A-D-A-B-R-A” is an example",
+   "clue": "“A-B-R-A-C-A-D-A-B-R-A” est un exemple",
    "id": "114278",
    "riddle": "Hold a Bee to see who’s my ruler\nA feat for wizards and grade schoolers\nFound in books or farmer dog song\nIn this sentance, I’m done wrong\n\nQue suis-je ?"
   }
