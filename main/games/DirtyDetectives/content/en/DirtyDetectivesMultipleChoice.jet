@@ -326,26 +326,26 @@
    "evidence": [
     {
      "choices": [
-      "Spiders",
-      "Heights",
-      "Public Speaking",
-      "Blood",
-      "Ghosts",
-      "Germs",
-      "Small Spaces",
-      "The Dark",
-      "Being Alone",
-      "Clowns"
+      "Les araignées",
+      "Les hauteurs",
+      "Prendre la parole en public",
+      "Le sang",
+      "Les fantômes",
+      "Les microbes",
+      "Les endroits clos",
+      "Le noir",
+      "Être seul",
+      "Les clowns"
      ],
-     "finding": "On-edge perp is reportedly scared of {{SELECTION}}.",
-     "summary": "SCARED OF: {{SELECTION}}"
+     "finding": "{{SELECTION}} fait peur au coupable.",
+     "summary": "PEUR : {{SELECTION}}"
     },
     {
      "choices": [
-      "None of the above."
+      "Rien de toute cette liste."
      ],
-     "finding": "Big, brave perp was {{RED}}not afraid of any of the listed scary things.",
-     "summary": "SCARED OF: {{RED}}????"
+     "finding": "Le grand et brave coupable {{RED}}n'est pas effrayé par la liste que nous lui avons donné.",
+     "summary": "PEUR : {{RED}}????"
     }
    ],
    "familiarity": "STRANGERS",
@@ -353,8 +353,8 @@
    "interrogations": [
     "Would you consider yourself a nervous person?"
    ],
-   "question": "Which one of these scary things scares you the most?",
-   "reminder": "Scared Of...",
+   "question": "Qu'est ce qui vous fait le plus peur ?",
+   "reminder": "Peur de...",
    "starterContent": true
   },
   {
@@ -363,31 +363,31 @@
    "evidence": [
     {
      "choices": [
-      "Morning"
+      "Le matin"
      ],
-     "finding": "Subject is at their best in the {{RED}}morning.",
-     "summary": "BEST IN: {{SELECTION}}"
+     "finding": "Le sujet est au meilleur de sa forme le {{RED}}matin.",
+     "summary": "AU MIEUX : {{SELECTION}}"
     },
     {
      "choices": [
-      "Afternoon"
+      "L'après-midi"
      ],
-     "finding": "Subject is at their best in the {{RED}}afternoon.",
-     "summary": "BEST IN: {{SELECTION}}"
+     "finding": "Le sujet est au meilleur de sa forme l'{{RED}}après-midi.",
+     "summary": "AU MIEUX : {{SELECTION}}"
     },
     {
      "choices": [
-      "Evening"
+      "En soirée"
      ],
-     "finding": "Subject is at their best in the {{RED}}evening.",
-     "summary": "BEST IN: {{SELECTION}}"
+     "finding": "Le sujet est au meilleur de sa forme {{RED}}en soirée.",
+     "summary": "AU MIEUX : {{SELECTION}}"
     },
     {
      "choices": [
-      "Late Night"
+      "Tard le soir"
      ],
-     "finding": "Subject is at their best {{RED}}late at night.",
-     "summary": "BEST IN: {{SELECTION}}"
+     "finding": "Le sujet est au meilleur de sa forme {{RED}}tard le soir.",
+     "summary": "AU MIEUX : {{SELECTION}}"
     }
    ],
    "familiarity": "STRANGERS",
@@ -397,8 +397,8 @@
     "What’s your sleep schedule like?",
     "When are you most efficient during the day?"
    ],
-   "question": "At what time of day do you think you're at your best?",
-   "reminder": "At Your Best?"
+   "question": "À quel moment de la journée pensez-vous être au meilleur de votre forme ?",
+   "reminder": "Au meilleur de vous-mêmes ?"
   },
   {
    "appearance": "LATE",
@@ -406,24 +406,24 @@
    "evidence": [
     {
      "choices": [
-      "I’d love that."
+      "J'adorerais ça"
      ],
-     "finding": "In regards to spontaneous camping, perp says “{{SELECTION}}”",
-     "summary": "CAMPING: {{RED}}LET’S GO"
+     "finding": "En ce qui concerne le camping sauvage, le coupable a dit “{{SELECTION}}”",
+     "summary": "CAMPING : {{RED}}OUI OUI OUI"
     },
     {
      "choices": [
-      "I would suffer through it."
+      "Je souffrirais en silence"
      ],
-     "finding": "In regards to spontaneous camping, perp says “{{SELECTION}}”",
-     "summary": "CAMPING: {{RED}}ENDURE IT"
+     "finding": "En ce qui concerne le camping sauvage, le coupable a dit “{{SELECTION}}”",
+     "summary": "CAMPING: {{RED}}BOF"
     },
     {
      "choices": [
-      "I would hate it."
+      "Je détesterais ça."
      ],
-     "finding": "In regards to spontaneous camping, perp {{RED}}would not enjoy it.",
-     "summary": "CAMPING: {{RED}}NO WAY"
+     "finding": "En ce qui concerne le camping sauvage, le coupable {{RED}}n'apprécierait pas.",
+     "summary": "CAMPING: {{RED}}JAMAIS"
     }
    ],
    "familiarity": "FRIENDS",
@@ -433,7 +433,7 @@
     "Have you camped much in the past?",
     "Tell us what comes to mind when thinking about camping."
    ],
-   "question": "How would you feel if someone spontaneously took you camping?",
+   "question": "Comment vous sentiriez-vous si quelqu'un vous emmenait spontanément faire du camping ?",
    "reminder": "Camping"
   },
   {
@@ -444,8 +444,8 @@
      "choices": [
       "7"
      ],
-     "finding": "Wow!! Perp has been on all {{RED}}seven continents!",
-     "summary": "CONTINENTS: {{SELECTION}}"
+     "finding": "Waouh ! Le criminel a voyagé sur les {{RED}}sept continents !",
+     "summary": "CONTINENTS : {{SELECTION}}"
     },
     {
      "choices": [
@@ -455,15 +455,15 @@
       "3",
       "2"
      ],
-     "finding": "Suspect has been on {{SELECTION}} continents.",
-     "summary": "CONTINENTS: {{SELECTION}}"
+     "finding": "Le criminel a visité {{SELECTION}} continents.",
+     "summary": "CONTINENTS : {{SELECTION}}"
     },
     {
      "choices": [
-      "Just my own"
+      "Juste le mien"
      ],
-     "finding": "Suspect has only been on {{RED}}one continent. (Their own.) (Duh.)",
-     "summary": "CONTINENTS: {{RED}}ONE"
+     "finding": "Le suspect a été seulement sur {{RED}}un continent. (Le sien.)",
+     "summary": "CONTINENTS : {{RED}}UN"
     }
    ],
    "familiarity": "STRANGERS",
@@ -472,8 +472,8 @@
     "Where's your dream destination?",
     "Ever taken a cruise?"
    ],
-   "question": "How many continents have you been on in your life?",
-   "reminder": "CONTINENTAL TRAVEL"
+   "question": "Combien de continents avez-vous visités dans votre vie ?",
+   "reminder": "VOYAGE CONTINENTAL"
   },
   {
    "appearance": "EARLY",
@@ -481,24 +481,24 @@
    "evidence": [
     {
      "choices": [
-      "Introvert"
+      "Introverti"
      ],
-     "finding": "Suspect is drained by social engagements, and identifies as an {{RED}}introvert.",
-     "summary": "VIBE: {{RED}}INTROVERT"
+     "finding": "Le suspect est épuisé par les engagements sociaux et se sent {{RED}}introverti.",
+     "summary": "VIBE : {{RED}}INTROVERTI"
     },
     {
      "choices": [
-      "Extrovert"
+      "Extraverti"
      ],
-     "finding": "Suspect gains energy in social settings, and identifies as an {{RED}}extrovert.",
-     "summary": "VIBE: {{RED}}EXTROVERT"
+     "finding": "Le suspect puise son énergie dans les situations sociales et se sent {{RED}}extraverti.",
+     "summary": "VIBE : {{RED}}EXTRAVERTI"
     },
     {
      "choices": [
-      "I don't know what you're talking about."
+      "Je ne sais pas de quoi vous parlez."
      ],
-     "finding": "Perp {{RED}}didn't understand the question about introverts & extroverts.",
-     "summary": "VIBE: {{RED}}NO IDEA"
+     "finding": "Le suspect {{RED}}n'a pas compris la question sur les personnes introverties et extraverties",
+     "summary": "VIBE : {{RED}}AUCUNE IDÉE"
     }
    ],
    "familiarity": "STRANGERS",
@@ -508,8 +508,8 @@
     "Do other people fill you up, or suck you dry?",
     "What’s your energy level right now?"
    ],
-   "question": "When it comes to being around other people, how do you identify?",
-   "reminder": "Introvert Or Extrovert?",
+   "question": "Quand vous êtes en compagnie d'autres personnes, comment vous identifiez-vous ?",
+   "reminder": "Introverti ou extraverti ?",
    "starterContent": false
   },
   {
@@ -518,52 +518,16 @@
    "evidence": [
     {
      "choices": [
-      "Wrath"
+      "La colère",
+      "L'envie",
+      "L'orgueil",
+      "L'avidité",
+      "La gourmandise",
+      "La paresse",
+      "La luxure"
      ],
-     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
-     "summary": "SIN: {{SELECTION}}"
-    },
-    {
-     "choices": [
-      "Envy"
-     ],
-     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
-     "summary": "SIN: {{SELECTION}}"
-    },
-    {
-     "choices": [
-      "Pride"
-     ],
-     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
-     "summary": "SIN: {{SELECTION}}"
-    },
-    {
-     "choices": [
-      "Greed"
-     ],
-     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
-     "summary": "SIN: {{SELECTION}}"
-    },
-    {
-     "choices": [
-      "Gluttony"
-     ],
-     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
-     "summary": "SIN: {{SELECTION}}"
-    },
-    {
-     "choices": [
-      "Sloth"
-     ],
-     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
-     "summary": "SIN: {{SELECTION}}"
-    },
-    {
-     "choices": [
-      "Lust"
-     ],
-     "finding": "Please forgive perp, for their most frequent sin of {{SELECTION}}.",
-     "summary": "SIN: {{SELECTION}}"
+     "finding": "Pardonnez au coupable son péché le plus fréquent, celui de {{SELECTION}}.",
+     "summary": "PÉCHÉ : {{SELECTION}}"
     }
    ],
    "familiarity": "FRIENDS",
@@ -571,8 +535,8 @@
    "interrogations": [
     "Are you a sinful person?"
    ],
-   "question": "Which deadly sin do you engage in the most?",
-   "reminder": "Deadly Sins",
+   "question": "Quel péché capital commettez-vous le plus souvent ?",
+   "reminder": "PÉCHÉS CAPITAUX",
    "x": true
   },
   {
@@ -581,31 +545,31 @@
    "evidence": [
     {
      "choices": [
-      "I'm very good."
+      "Je suis une très bonne personne"
      ],
-     "finding": "Subject describes themselves as {{RED}}“a very good person.”",
-     "summary": "GOOD PERSON? {{RED}}YES"
+     "finding": "Le sujet se décrit comme étant {{RED}}“une très bonne personne.”",
+     "summary": "BONNE PERSONNE ? {{RED}}OUI"
     },
     {
      "choices": [
-      "I’m mostly good."
+      "Je suis une bonne personne... la plupart du temps"
      ],
-     "finding": "Subject believes they are a {{RED}}mostly good person.",
-     "summary": "GOOD PERSON? {{RED}}MOSTLY"
+     "finding": "Le sujet se décrit comme étant {{RED}}une bonne personne, mais pas tout le temps.",
+     "summary": "BONNE PERSONNE ? {{RED}}EN PARTIE"
     },
     {
      "choices": [
-      "I’m not the best person."
+      "Je suis pas la meilleure des personnes"
      ],
-     "finding": "Subject admits that they're {{RED}}not the best person.",
-     "summary": "GOOD PERSON? {{RED}}MEH"
+     "finding": "Le sujet admet que {{RED}}ce n'est pas la meilleure des personnes.",
+     "summary": "BONNE PERSONNE ? {{RED}}MOUAIS"
     },
     {
      "choices": [
-      "I'm a bad person."
+      "Je suis une mauvaise personne"
      ],
-     "finding": "Subject fully admits that they are a {{RED}}bad person.",
-     "summary": "GOOD PERSON? {{RED}}NOPE"
+     "finding": "Le sujet admet qu'il est {{RED}}une mauvaise personne.",
+     "summary": "BONNE PERSONNE ? {{RED}}NON"
     }
    ],
    "familiarity": "STRANGERS",
@@ -615,8 +579,8 @@
     "What makes a person good or bad? Which are you?",
     "Do you think you’re better than everyone here?"
    ],
-   "question": "Do you think you’re a good person?",
-   "reminder": "Good Person?"
+   "question": "Pensez-vous êtes une bonne personne ?",
+   "reminder": "Bonne personne ?"
   },
   {
    "appearance": "EARLY",
@@ -624,24 +588,24 @@
    "evidence": [
     {
      "choices": [
-      "I love to cook!"
+      "J'adore cuisiner !"
      ],
-     "finding": "Subject {{RED}}loves cooking.",
-     "summary": "COOKING: {{RED}}LOVES IT"
+     "finding": "Le sujet {{RED}}adore cuisiner.",
+     "summary": "CUISINE : {{RED}}ADORE"
     },
     {
      "choices": [
-      "I wish I were better."
+      "Si seulement j'étais meilleur"
      ],
-     "finding": "Subject {{RED}}wishes they were a better cook.",
-     "summary": "COOKING: {{RED}}WANNA IMPROVE"
+     "finding": "Le sujet {{RED}}aimerait être meilleur en cuisine.",
+     "summary": "CUISINE : {{RED}}PAS TRES BON"
     },
     {
      "choices": [
-      "I HATE it."
+      "Je déteste la cuisine"
      ],
-     "finding": "Subject admits they {{RED}}HATE cooking.",
-     "summary": "COOKING: {{RED}}HATE IT"
+     "finding": "Le sujet admet qu'il {{RED}}déteste la cuisine.",
+     "summary": "CUISINE : {{RED}}DÉGOUT"
     }
    ],
    "familiarity": "STRANGERS",
@@ -651,8 +615,8 @@
     "Walk us through your approach to cooking.",
     "What’d you have for dinner recently?"
    ],
-   "question": "What’s your stance on cooking?",
-   "reminder": "Cooking?",
+   "question": "Qu'est ce que vous pensez de la cuisine ?",
+   "reminder": "Cuisine ?",
    "starterContent": true
   },
   {
@@ -661,17 +625,17 @@
    "evidence": [
     {
      "choices": [
-      "Yes."
+      "Oui."
      ],
-     "finding": "Subject thinks that {{RED}}yes, they are fancy.",
-     "summary": "“I’M {{RED}}FANCY!”"
+     "finding": "Le sujet pense que {{RED}}oui, il est chic.",
+     "summary": "“JE SUIS {{RED}}CHIC !”"
     },
     {
      "choices": [
-      "No"
+      "Non"
      ],
-     "finding": "Subject {{RED}}does not consider themselves to be fancy.",
-     "summary": "“I {{RED}}AIN'T FANCY!”"
+     "finding": "Le sujet {{RED}}ne se considère comme une personne chic.",
+     "summary": "“JE {{RED}}NE SUIS PAS CHIC !”"
     }
    ],
    "familiarity": "STRANGERS",
@@ -681,8 +645,8 @@
     "What’s your fanciness situation right now?",
     "Who in this group would you call “fancy”?"
    ],
-   "question": "Do you consider yourself “fancy”?",
-   "reminder": "Fanciness"
+   "question": "Est ce que vous vous considérez comme étant chic ?",
+   "reminder": "Chic"
   },
   {
    "appearance": "LATE",
@@ -690,17 +654,17 @@
    "evidence": [
     {
      "choices": [
-      "Yes"
+      "Oui"
      ],
-     "finding": "Subject admits that {{RED}}yes, they get scared easily.",
-     "summary": "BOO?: {{RED}}AHH!"
+     "finding": "Le sujet admet que {{RED}}oui, il est effrayé très facilement",
+     "summary": "BOO ? : {{RED}}AHH!"
     },
     {
      "choices": [
-      "No"
+      "Non"
      ],
-     "finding": "Subject claims that they {{RED}}do not get scared easily.",
-     "summary": "BOO?: {{RED}}NOT SCARED"
+     "finding": "Le sujet {{RED}}n'est pas effrayé facilement.",
+     "summary": "BOO ? : {{RED}}PAS PEUR"
     }
    ],
    "familiarity": "FRIENDS",
@@ -710,8 +674,8 @@
     "What do you think about horror movies?",
     "When’s the last time something scared you?"
    ],
-   "question": "Do you scare easily?",
-   "reminder": "U Scared?",
+   "question": "Est ce que vous être effrayé facilement",
+   "reminder": "Vous avez peur ?",
    "starterContent": false
   },
   {
@@ -720,17 +684,17 @@
    "evidence": [
     {
      "choices": [
-      "Being on the edge of a cliff"
+      "Être seul au bord d'une falaise"
      ],
-     "finding": "Perp thinks that {{RED}}being alone is the scarier option.",
-     "summary": "SCARED: {{RED}}BEING ALONE"
+     "finding": "Le coupable pense qu'être {{RED}}seul est l'option la plus effrayante.",
+     "summary": "PEUR : {{RED}}ÊTRE SEUL"
     },
     {
      "choices": [
-      "Being in a thick crowd"
+      "Être dans une foule dense"
      ],
-     "finding": "Perp thinks that {{RED}}being in a thick crowd is the scarier option.",
-     "summary": "SCARED: {{RED}}THICK CROWDS"
+     "finding": "Le coupable pense qu'{{RED}}être dans une foule dense est l'option la plus effrayante",
+     "summary": "PEUR : {{RED}}FOULE DENSE"
     }
    ],
    "familiarity": "FRIENDS",
@@ -738,8 +702,8 @@
    "interrogations": [
     "How often do you feel smothered?"
    ],
-   "question": "In your opinion, which of the following is the scarier prospect?",
-   "reminder": "Scared Of..."
+   "question": "Selon vous, quelle est l'option la plus effrayante",
+   "reminder": "Peur de..."
   },
   {
    "appearance": "EARLY",
@@ -752,21 +716,21 @@
       "Legolas",
       "Gandalf",
       "Gimli",
-      "Frodo",
-      "Samwise",
+      "Frodon",
+      "Sam",
       "Pippin",
       "Merry",
       "Sauron"
      ],
-     "finding": "In The Fellowship of the Ring, suspect most identifies with {{SELECTION}}.",
-     "summary": "LOTR CHARACTER: {{SELECTION}}"
+     "finding": "Dans la communauté de l'anneau, le suspect s'identifie comme {{SELECTION}}.",
+     "summary": "LOTR : {{SELECTION}}"
     },
     {
      "choices": [
-      "Who are these guys?"
+      "Qui sont ces gens ?"
      ],
-     "finding": "Suspect has not engaged with any LOTR media, and identifies with {{RED}}no one.",
-     "summary": "LOTR: {{RED}}NO ONE"
+     "finding": "Le suspect n'a jamais été en contact avec le seigneur des anneaux et ne s'identifie à {{RED}}personne.",
+     "summary": "LOTR: {{RED}}PERSONNE"
     }
    ],
    "familiarity": "STRANGERS",
@@ -776,8 +740,8 @@
     "Have you considered why eagles were never used to fly to Mordor?",
     "Do you think you could have destroyed The One Ring?"
    ],
-   "question": "Which member of [i]The Fellowship of the Ring[/i] do you most identify with?",
-   "reminder": "Fellowship of the Ring"
+   "question": "Quel membre de [i]La Communauté de l'Anneau[/i] vous ressemble le plus ?",
+   "reminder": "La communauté de l'anneau"
   },
   {
    "appearance": "LATE",
@@ -785,22 +749,22 @@
    "evidence": [
     {
      "choices": [
-      "Gen Z",
-      "Gen Alpha",
-      "Generation Beta",
-      "Gen X",
-      "The Silent Generation",
-      "The Greatest Generation"
+      "La gen Z",
+      "La génération Alpha",
+      "La génération Beta",
+      "La génération X",
+      "La génération silencieuse",
+      "La meilleure génération",
+      "La génération Y"
      ],
-     "finding": "Suspect is a member of {{SELECTION}}.",
-     "summary": "GENERATION: {{SELECTION}}"
+     "finding": "Le suspect fait partie de {{SELECTION}}.",
+     "summary": "GENERATION : {{SELECTION}}"
     },
     {
      "choices": [
-      "Baby Boomer",
-      "Millennial"
+      "Baby Boomer"
      ],
-     "finding": "Suspect is a {{SELECTION}}.",
+     "finding": "Le suspect fait partie des {{SELECTION}}.",
      "summary": "GENERATION: {{SELECTION}}"
     }
    ],
@@ -810,8 +774,8 @@
     "What year were you born?",
     "No cap, how old are you, skibidi rizz?"
    ],
-   "question": "What generation do you consider yourself a part of?",
-   "reminder": "What Generation Are You?",
+   "question": "À quelle génération pensez-vous appartenir ?",
+   "reminder": "De quelle génération êtes-vous ?",
    "starterContent": true
   },
   {
@@ -820,23 +784,23 @@
    "evidence": [
     {
      "choices": [
-      "Entertainment",
-      "Hobbies",
-      "Food",
-      "Family",
-      "Toys",
-      "Homegoods",
-      "Pets"
+      "Le divertissement",
+      "Les loisirs",
+      "La nourriture",
+      "La famille",
+      "Les jouets",
+      "Des meubles",
+      "Des animaux"
      ],
-     "finding": "When suspect has extra money, they spend it on {{SELECTION}}.",
-     "summary": "SPLURGES: {{SELECTION}}"
+     "finding": "Lorsque le suspect a de l'argent supplémentaire, il le dépense pour {{SELECTION}}.",
+     "summary": "DEPENSES : {{SELECTION}}"
     },
     {
      "choices": [
-      "I never splurge."
+      "J'investis moi en fait"
      ],
-     "finding": "Suspect {{RED}}does not typically spend extra cash if they have it.",
-     "summary": "SPLURGES: {{RED}}NONE"
+     "finding": "Le suspect {{RED}}ne dépense pas d'argent supplémentaire.",
+     "summary": "DEPENSES : {{RED}}JAMAIS"
     }
    ],
    "familiarity": "FRIENDS",
@@ -845,8 +809,8 @@
     "How do you treat yourself?",
     "What’s in your Amazon cart right now?"
    ],
-   "question": "What do you usually like to spend your extra cash on?",
-   "reminder": "Extra Ca$$$h"
+   "question": "Dans quoi dépensez-vous votre argent quand vous en avez en trop ?",
+   "reminder": "Les dépenses"
   },
   {
    "appearance": "LATE",
@@ -854,31 +818,31 @@
    "evidence": [
     {
      "choices": [
-      "I hate pranks!"
+      "Je déteste ça !"
      ],
-     "finding": "Do NOT prank the perp, because the perp {{RED}}hates pranks.",
-     "summary": "PRANKS: {{RED}}HATE 'EM"
+     "finding": "Ne faites pas de pranks au coupable car il {{RED}}déteste ça ! ",
+     "summary": "PRANKS : {{RED}}NON NON NON"
     },
     {
      "choices": [
-      "I’m neutral on pranks."
+      "Je suis neutre"
      ],
-     "finding": "Perp is {{RED}}neutral on the idea of pranks.",
-     "summary": "PRANKS: {{RED}}NEUTRAL"
+     "finding": "Le coupable est {{RED}}neutre face à un prank.",
+     "summary": "PRANKS : {{RED}}NEUTRE"
     },
     {
      "choices": [
-      "I like pranks, on occasion."
+      "J'aime les pranks à l'occasion"
      ],
-     "finding": "Perp {{RED}}likes a good prank, but only on occasion.",
-     "summary": "PRANKS: {{RED}}SOMETIMES"
+     "finding": "Le coupable {{RED}}aime les bons pranks, mais à certaines occasions.",
+     "summary": "PRANKS : {{RED}}DES FOIS"
     },
     {
      "choices": [
-      "I love pranks!"
+      "J'adore les pranks !"
      ],
-     "finding": "Perp is one of those sickos who {{RED}}loves pranks.",
-     "summary": "PRANKS: {{RED}}LOVE 'EM"
+     "finding": "Perp est l'un de ces malades qui {{RED}}adore les pranks.",
+     "summary": "PRANKS : {{RED}}ADORE"
     }
    ],
    "familiarity": "STRANGERS",
@@ -887,8 +851,8 @@
     "Be honest, is there a part of you that’s wondering if this is all a big prank?",
     "Do you like to prank, or to BE pranked?"
    ],
-   "question": "How do you feel about pranks?",
-   "reminder": "Like Pranks?"
+   "question": "Que pensez-vous des pranks ?",
+   "reminder": "Les pranks, vous aimez bien ?"
   },
   {
    "appearance": "EARLY",
@@ -896,24 +860,24 @@
    "evidence": [
     {
      "choices": [
-      "Incredible"
+      "Je suis incroyable"
      ],
-     "finding": "Perp thinks they’re {{RED}}incredible at karaoke.",
-     "summary": "KARAOKE: {{SELECTION}}"
+     "finding": "Le coupable pense qu'il est {{RED}}incroyable au karaoké.",
+     "summary": "KARAOKE : INCROYABLE"
     },
     {
      "choices": [
-      "Okay"
+      "Je me débrouille"
      ],
-     "finding": "Perp thinks they’re {{RED}}okay at karaoke.",
-     "summary": "KARAOKE: {{SELECTION}}"
+     "finding": "Le coupable {{RED}}se débrouille au karaoké.",
+     "summary": "KARAOKE: C'EST OK"
     },
     {
      "choices": [
-      "Terrible"
+      "Je suis horrible"
      ],
-     "finding": "Perp shuns the spotlight, thinks they’re {{RED}}terrible at karaoke.",
-     "summary": "KARAOKE: {{SELECTION}}"
+     "finding": "Le coupale fuit les projecteurs, il est {{RED}}horrible au karaoké.",
+     "summary": "KARAOKE : HORRIBLE"
     }
    ],
    "familiarity": "FRIENDS",
@@ -923,8 +887,8 @@
     "Describe the crowd while you’re performing karaoke.",
     "How are you with singing in public in general?"
    ],
-   "question": "How good do you think you are at karaoke?",
-   "reminder": "Karaoke Prowess",
+   "question": "À quel point pensez-vous être doué pour le karaoké ?",
+   "reminder": "Karaoke",
    "starterContent": true
   },
   {
@@ -933,31 +897,31 @@
    "evidence": [
     {
      "choices": [
-      "Weekly"
+      "Une fois par semaine ou plus"
      ],
-     "finding": "Suspect volunteers {{RED}}weekly.",
-     "summary": "VOLUNTEER: {{SELECTION}}"
+     "finding": "Le suspect est bénévole {{RED}}une fois par semaine ou plus",
+     "summary": "BENEVOLAT : {{RED}}1+/Semaine"
     },
     {
      "choices": [
-      "Monthly"
+      "Une fois ou deux par mois"
      ],
-     "finding": "Suspect volunteers on a {{RED}}monthly schedule.",
-     "summary": "VOLUNTEER: {{SELECTION}}"
+     "finding": "Le suspect est bénévole {{RED}}une fois ou deux par mois",
+     "summary": "BENEVOLAT : {{RED}}1+/Mois"
     },
     {
      "choices": [
-      "Sporadically, maybe once a year."
+      "Une fois par an"
      ],
-     "finding": "Suspect volunteers {{RED}}sporadically, maybe once a year.",
-     "summary": "VOLUNTEER: {{RED}}SPORADICALLY"
+     "finding": "Le suspect est bénévole {{RED}}une fois par an",
+     "summary": "BENEVOLAT : {{RED}}1/AN"
     },
     {
      "choices": [
-      "Never"
+      "Jamais !"
      ],
-     "finding": "Suspect is apparently ok admitting that they {{RED}}never volunteer.",
-     "summary": "VOLUNTEER: {{SELECTION}}"
+     "finding": "Le suspect est enjoué de dire qu'il {{RED}}ne fait jamais de bénévolat.",
+     "summary": "BENEVOLAT : {{SELECTION}}"
     }
    ],
    "familiarity": "STRANGERS",
@@ -966,50 +930,8 @@
     "What local organizations are you a part of?",
     "How busy are your weekends?"
    ],
-   "question": "How often do you do volunteer work for your community?",
-   "reminder": "Volunteering"
-  },
-  {
-   "appearance": "LATE",
-   "category": "PROFILE",
-   "evidence": [
-    {
-     "choices": [
-      "Backstreet Boys",
-      "N*SYNC",
-      "BTS",
-      "One Direction",
-      "New Kids on the Block",
-      "Jonas Brothers",
-      "Beatles",
-      "5 Seconds of Summer"
-     ],
-     "finding": "Suspect is a card-carrying {{SELECTION}} stan.",
-     "summary": "BOY BAND: {{SELECTION}}"
-    },
-    {
-     "choices": [
-      "I like a boy band that isn't listed here."
-     ],
-     "finding": "Super-indie suspect likes a boy band {{RED}}that wasn't listed, apparently.",
-     "summary": "BOY BAND: {{RED}}???"
-    },
-    {
-     "choices": [
-      "I do not like any boy bands."
-     ],
-     "finding": "Suspect {{RED}}hates all boy bands and, possibly, joy.",
-     "summary": "BOY BAND: {{RED}}NONE"
-    }
-   ],
-   "familiarity": "STRANGERS",
-   "id": "107306",
-   "interrogations": [
-    "So, when were you a teenager?",
-    "Who do you consider to be the ultimate “bad boy”?"
-   ],
-   "question": "Which boy band lights up YOUR world, you teen dream?",
-   "reminder": "Boy Bands!"
+   "question": "À quelle fréquence faites-vous du bénévolat",
+   "reminder": "Bénévolat"
   },
   {
    "appearance": "EARLY",
@@ -1017,17 +939,17 @@
    "evidence": [
     {
      "choices": [
-      "Moist",
-      "Discharge",
-      "Chunk",
-      "Roach",
-      "Phlegm",
+      "Humide",
+      "Écoulement",
+      "Morceau",
+      "Cafard",
+      "Mucosité",
       "Orifice",
-      "Literally",
-      "Irregardless"
+      "Littéralement",
+      "Indépendamment"
      ],
-     "finding": "Target has an irrational reaction to the word {{SELECTION}}.",
-     "summary": "WORST WORD: {{SELECTION}}"
+     "finding": "La cible a une réaction irrationnelle au mot {{SELECTION}}.",
+     "summary": "PIRE MOT : {{SELECTION}}"
     }
    ],
    "familiarity": "STRANGERS",
@@ -1037,8 +959,8 @@
     "How are you with bodily fluids?",
     "Do you hate it when people make up words?"
    ],
-   "question": "Which is the WORST word in the following list?",
-   "reminder": "Worst Words",
+   "question": "Quel est le pire mot dans la liste suivante ?",
+   "reminder": "Pires mots",
    "x": true
   },
   {
@@ -1047,17 +969,17 @@
    "evidence": [
     {
      "choices": [
-      "Yes, I do."
+      "Oui."
      ],
-     "finding": "Suspect is known to {{RED}}eat meat.",
-     "summary": "EATS MEAT? {{RED}}YES"
+     "finding": "Le suspect {{RED}}mange de la viande.",
+     "summary": "VIANDE ? {{RED}}OUI"
     },
     {
      "choices": [
-      "No, I don’t."
+      "Non."
      ],
-     "finding": "Suspect {{RED}}does not eat meat.",
-     "summary": "EATS MEAT? {{RED}}NO"
+     "finding": "Le suspect {{RED}}ne mange pas de viande.",
+     "summary": "VIANDE ? {{RED}}NON"
     }
    ],
    "familiarity": "STRANGERS",
@@ -1067,8 +989,8 @@
     "What’s the most delicious food in the world, in your opinion?",
     "Are you a barbeque person?"
    ],
-   "question": "Do you eat meat?",
-   "reminder": "Meat Eating",
+   "question": "Mangez-vous de la viande ?",
+   "reminder": "Viandard",
    "starterContent": true
   },
   {
@@ -1077,26 +999,26 @@
    "evidence": [
     {
      "choices": [
-      "Black"
+      "Noir"
      ],
-     "finding": "Suspect known to take their coffee {{RED}}black.",
-     "summary": "COFFEE: {{SELECTION}}"
+     "finding": "Le suspect prend un café bien {{RED}}noir.",
+     "summary": "CAFÉ: {{SELECTION}}"
     },
     {
      "choices": [
-      "With milk",
-      "With sugar",
-      "With milk & sugar"
+      "Avec du lait",
+      "Avec du sucre",
+      "Avec du lait et du sucre"
      ],
-     "finding": "Suspect known to take their coffee {{SELECTION}}.",
-     "summary": "COFFEE: {{SELECTION}}"
+     "finding": "Le suspect prend un café {{SELECTION}}.",
+     "summary": "CAFÉ : {{SELECTION}}"
     },
     {
      "choices": [
-      "I don’t drink coffee."
+      "Je ne bois pas de café"
      ],
-     "finding": "Suspect claims to {{RED}}not drink coffee.",
-     "summary": "COFFEE: {{RED}}NONE"
+     "finding": "Le suspect ne {{RED}}boit pas de café.",
+     "summary": "CAFÉ : {{RED}}NON"
     }
    ],
    "familiarity": "STRANGERS",
@@ -1106,8 +1028,8 @@
     "How do you wake up in the morning?",
     "Do you have a standard Starbucks order?"
    ],
-   "question": "How do you take your coffee?",
-   "reminder": "Coffee"
+   "question": "Comment prenez-vous votre café ?",
+   "reminder": "Café"
   },
   {
    "appearance": "EARLY",
@@ -1115,24 +1037,24 @@
    "evidence": [
     {
      "choices": [
-      "Yes"
+      "Oui"
      ],
-     "finding": "Suspect is {{RED}}fluent in at least two languages.",
-     "summary": "BILINGUAL: {{SELECTION}}"
+     "finding": "Le suspect parle {{RED}}courrament au moins deux langues.",
+     "summary": "BILINGUE : {{SELECTION}}"
     },
     {
      "choices": [
-      "No"
+      "Non"
      ],
-     "finding": "Suspect {{RED}}does not speak a second language.",
-     "summary": "BILINGUAL: {{SELECTION}}"
+     "finding": "Le suspect {{RED}}ne parle pas de deuxième langue.",
+     "summary": "BILINGUE : {{SELECTION}}"
     },
     {
      "choices": [
-      "I speak a second language, but not well."
+      "Je parle une seconde langue mais pas très bien"
      ],
-     "finding": "Suspect speaks a second language, {{RED}}badly.",
-     "summary": "BILINGUAL: {{RED}}BADLY"
+     "finding": "Le suspect parle une deuxième langue, {{RED}}mais mal.",
+     "summary": "BILINGUE : {{RED}}PAS VRAIMENT"
     }
    ],
    "familiarity": "STRANGERS",
@@ -1142,8 +1064,8 @@
     "Hablas español?",
     "Did you study abroad?"
    ],
-   "question": "Do you speak a second language?",
-   "reminder": "Second Languages",
+   "question": "Parlez-vous une seconde langue ?",
+   "reminder": "Seconde langue",
    "starterContent": true
   },
   {
