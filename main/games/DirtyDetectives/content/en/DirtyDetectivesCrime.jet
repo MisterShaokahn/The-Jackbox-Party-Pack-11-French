@@ -2,441 +2,386 @@
  "content": [
   {
    "choices": [
-    "Rolling Pin",
-    "Trophy",
-    "Block Of Ice",
-    "Axe",
-    "Saxophone",
-    "Ceremonial Scissors"
+    "Un rouleau à pâtisserie",
+    "Un trophée",
+    "Un bloc de glace",
+    "Une hache",
+    "Un saxophone",
+    "Des ciseaux cérémoniels"
    ],
    "crime": {
-    "description": "Bonked Someone With {{SELECTION}}",
-    "offense": "BLUDGEONING",
-    "summary": "BLUDGEONED W/ {{SELECTION}}",
+    "description": "avec {{SELECTION}}",
+    "offense": "COUP MORTEL",
+    "summary": "COUP AVEC {{SELECTION}}",
     "title": [
-     "Knock Knock, Who’s Dead?",
+     "Toc toc, Qui est mort ?",
      "Ba-Da Bing, Ba-Da Boom, Ba-Da Bye-Bye",
-     "Whacked On, Whacked Off",
-     "Raindrops (And Worse) Keep Falling On My Head",
-     "Let’s Concuss Your Future"
+     "Construisons votre avenir, un coup à la fois"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112196",
-   "question": "Which would have the most satisfying heft for bonking someone on the head?",
+   "question": "Lequel aurait le poids le plus satisfaisant pour frapper quelqu'un à la tête ?",
    "starterContent": false
   },
   {
    "choices": [
-    "Paintings",
+    "Peintures",
     "Sculptures",
-    "Jewelled Eggs",
-    "Weapons",
-    "Dinosaurs",
-    "Sarcophagi",
+    "Oeufs de Fabergé",
+    "Armes",
+    "Dinosaures",
+    "Sarcophages",
     "Miniatures"
    ],
    "crime": {
-    "description": "Of Rare {{SELECTION}} From The Museum",
-    "offense": "THEFT",
-    "summary": "STOLE FROM MUSEUM: {{SELECTION}}",
+    "description": "De {{SELECTION}} rares du musée",
+    "offense": "VOL",
+    "summary": "A DÉROBÉ AU MUSÉE : {{SELECTION}}",
     "title": [
-     "Now Museum, Now You Don’t",
-     "Exit Through The Grift Shop",
-     "Crime Is Free On The First Wednesday Of Every Month",
-     "Timeless Treasures, Thieving Pleasures",
-     "Please Do Not Pocket The Exhibits"
+     "Sortie par la boutique de souvenirs",
+     "Le crime est gratuit le premier mercredi de chaque mois",
+     "Trésors intemporels, plaisirs de voleurs",
+     "Veuillez ne pas mettre les expositions dans vos poches"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "112197",
-   "question": "When I’m stealing from – I mean, visiting – a museum, I’m headed towards the...",
+   "question": "Quand je vole - je veux dire visite - un musée, je me dirige vers...",
    "starterContent": true
   },
   {
    "choices": [
-    "Steamroller",
-    "Ice Cream Truck",
-    "Zamboni",
-    "Duck Tour Vehicle",
-    "Golf Cart",
-    "Weinermobile",
-    "Taco Truck"
+    "Camion de crème glacée",
+    "Transpalette",
+    "Voiture de golf",
+    "Food-truck"
    ],
    "crime": {
-    "description": "Vehicular Manslaughter By {{SELECTION}}",
-    "offense": "MURDER",
-    "summary": "HIT VICTIM WITH: {{SELECTION}}",
+    "description": "Homicide involontaire par {{SELECTION}}",
+    "offense": "MEURTRE",
+    "summary": "VICTIME ÉCRASÉE PAR : {{SELECTION}}",
     "title": [
-     "Look Both Ways Before Murdering",
-     "Murder Over 55 MPH",
-     "Road Trip... To Murderville",
-     "The Fast And The Murderous"
+     "Regardez des deux côtés avant de renverser",
+     "Meurtre à plus de 20KM/H",
+     "Road Trip... Vers Murderville",
+     "Rapide et Meurtrier"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "112198",
-   "question": "If you [i]were[/i] going to drive over someone, what vehicle would you use?",
+   "question": "Si vous deviez écraser quelqu'un, quel véhicule utiliseriez-vous ?",
    "starterContent": true,
    "x": false
   },
   {
    "choices": [
-    "Peacock",
-    "Lemur",
-    "Tarantula",
-    "Pygmy Hippo",
-    "Koala",
-    "Gila Monster"
+    "Un Paon",
+    "Un Lémurien",
+    "Une Tarantule",
+    "Un Hippopotame nain",
+    "Un Koala",
+    "Un Monstre de Gila"
    ],
    "crime": {
-    "description": "Of A {{SELECTION}} From The Zoo",
-    "offense": "THEFT",
-    "summary": "ANIMAL-NAPPING: {{SELECTION}}",
+    "description": "D'{{SELECTION}} du zoo",
+    "offense": "VOL",
+    "summary": "ANIMAL-NAPPING : {{SELECTION}}",
     "title": [
-     "Please Don’t Feed The Burglars",
-     "I’m A Zoo Thief, And I’m Not Lion",
-     "If A Boar Sees You Stealing, Pray It Doesn’t Squeal",
-     "The Five Claw Discount"
+     "Ne nourissez pas les cambrioleurs",
+     "Si un sanglier vous voit voler, priez pour qu'il ne crie pas"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "112199",
-   "question": "You’ve got room in your coat for ONE zoo animal. Which are you grabbing?"
+   "question": "Vous avez de la place pour un animal sous votre veste. Lequel de ces animaux volez-vous ?"
   },
   {
    "choices": [
-    "Lead Pipe",
-    "Baseball Bat",
-    "Golf Club",
-    "Boat Oar",
-    "Big Rock",
-    "Hammer",
-    "Kettlebell"
+    "Un tube en Plomb",
+    "Une batte de Baseball",
+    "Un club de Golf",
+    "Une rame de Bateau",
+    "Une grosse Pierre",
+    "Un marteau",
+    "Un haltère"
    ],
    "crime": {
-    "description": "Beaned Someone With A {{SELECTION}}",
-    "offense": "BLUDGEONING",
-    "summary": "BLUDGEONING WITH: {{SELECTION}}",
+    "description": "A frappé quelqu'un avec un {{SELECTION}}",
+    "offense": "COUP MORTEL",
+    "summary": "COUP AVEC : {{SELECTION}}",
     "title": [
-     "Playing the Hits",
-     "Rock, Caper, Shivers",
-     "Whack-A-Soul"
+     "Pierre, Feuille, Marteau",
+     "Tape-taupe sans la taupe"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112200",
-   "question": "Just out of curiosity, which of the following blunt objects do you have in your house?",
+   "question": "Juste par curiosité, lequel de ces objets suivants avez-vous chez vous ?",
    "starterContent": true
   },
   {
    "choices": [
-    "The Louvre",
-    "The White House",
+    "Le Louvre",
+    "La Maison Blanche",
     "Fort Knox",
-    "The Tower Of London",
-    "The Large Hadron Collider",
-    "The Svalbard Seed Vault",
-    "The Vatican"
+    "La Tour de Londres",
+    "Le Grand Collisionneur de Hadron",
+    "La réserve mondiale de semences de Svalbard",
+    "Le Vatican"
    ],
    "crime": {
-    "description": "Stole From Their Chosen Target, {{SELECTION}}",
-    "offense": "BURGLARY",
-    "summary": "STOLE FROM: {{SELECTION}}",
+    "description": "A volé à sa cible : {{SELECTION}}",
+    "offense": "CAMBRIOLAGE",
+    "summary": "VOL : {{SELECTION}}",
     "title": [
-     "Thefted And Bereft-ed",
-     "What’s Yours Is Mine... Eventually",
-     "I Can’t Put My Sticky Finger On It",
-     "Criminals... Be Shopping"
+     "Volé et Dépossédé",
+     "Ce qui est à vous est à moi... Éventuellement",
+     "Les criminels... font du shopping"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112201",
-   "question": "Which contains things that you’d want to steal the MOST?",
+   "question": "Quel endroit contient les objets que vous voudriez voler le PLUS ?",
    "starterContent": true
   },
   {
    "choices": [
     "Shrek",
     "Shrek II",
-    "Shrek the Third",
-    "Shrek: Forever After",
-    "Puss In Boots",
-    "Puss In Boots: The Last Wish",
-    "Coyote Ugly"
+    "Shrek le Troisième",
+    "Shrek : Il Était Une Fois",
+    "Le chat botté",
+    "Le chat botté : Le Dernier Souhait"
    ],
    "crime": {
-    "description": "Illegal Download of {{SELECTION}}",
-    "offense": "ONLINE PIRACY",
-    "summary": "DOWNLOADED: {{SELECTION}}",
+    "description": "Téléchargement illégal de {{SELECTION}}",
+    "offense": "PIRATAGE EN LIGNE",
+    "summary": "TÉLÉCHARGÉ : {{SELECTION}}",
     "title": [
-     "Crimes Have Layers",
-     "If AMC Could See Me Now",
-     "Save Me An Aisle Seat... In Jail"
+     "Tout droit pris de Netflix",
+     "Quelqu'un m'a dit un jour..."
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112202",
-   "question": "Which of the following movies would you be most likely to illegally download?",
+   "question": "Lequel de ces films seriez-vous le plus susceptible de télécharger illégalement ?",
    "starterContent": true
   },
   {
    "choices": [
-    "The Corleones",
-    "The Foot Clan",
-    "Los Pollos Hermanos",
-    "Team Rocket",
-    "The Sopranos",
-    "Ocean's 11"
+    "Un Piano",
+    "Un Cybertruck",
+    "Un Coffre-Fort",
+    "Un Flipper",
+    "Un Boulet de Canon",
+    "Un Anvil ACME",
+    "Un Cercueil",
+    "Un Lit King-Size"
    ],
    "crime": {
-    "description": "Alongside Their Crime Family of Choice, {{SELECTION}}",
-    "offense": "RACKETEERING",
-    "summary": "CRIMINAL ORGANIZATION: {{SELECTION}}",
+    "description": "Victime écrasée par {{SELECTION}}",
+    "offense": "ÉCRASEMENT",
+    "summary": "ÉCRASÉ PAR : {{SELECTION}}",
     "title": [
-     "The Apple Doesn't Fall Far From The Spree",
-     "This Wasn’t In The Mob Description",
-     "If I Could Turn Back Organized Crime"
-    ]
-   },
-   "familiarity": "FRIENDS",
-   "id": "112203",
-   "question": "Which of the following criminal organizations do you vibe with the most?",
-   "starterContent": true
-  },
-  {
-   "choices": [
-    "Grand Piano",
-    "Cybertruck",
-    "Safe",
-    "Pinball Machine",
-    "Cannonball",
-    "ACME Anvil",
-    "Casket",
-    "King-Size Bed"
-   ],
-   "crime": {
-    "description": "Smashed Victim With An Airborne {{SELECTION}}",
-    "offense": "CRUSHING",
-    "summary": "CRUSHED WITH: {{SELECTION}}",
-    "title": [
-     "Gravity Falls, Gravity Kills",
-     "A Crime From Up Above",
-     "What Goes Up Must Throw Down"
+     "La gravité tue",
+     "Un Crime Venant Du Ciel",
+     "Ce Qui Monte Doit Redescendre"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "112204",
-   "question": "Which of these would be the [i]most[/i] satisfying to drop on someone?",
+   "question": "Lequel de ces objets serait le [i]plus[/i] satisfaisant à lancer sur quelqu'un ?",
    "starterContent": true
   },
   {
    "choices": [
-    "The Eiffel Tower",
-    "A Cruise Ship",
-    "Mt. Everest",
-    "The EPCOT Ball",
-    "The Space Needle",
-    "The Hoover Dam",
-    "The “Rocky” Stairs"
+    "La Tour Eiffel",
+    "Un Paquebot de Croisière",
+    "Le Mont Everest",
+    "L'Empire State Building",
+    "La Station Spatiale Internationale"
    ],
    "crime": {
-    "description": "Just Sorta Shoved Victim Off Of {{SELECTION}}",
-    "offense": "HIGH-UP HOMICIDE",
-    "summary": "PUSHED OFF OF: {{SELECTION}}",
+    "description": "Il a juste poussé la victime hors de {{SELECTION}}",
+    "offense": "HOMICIDE DE HAUTE ALTITUDE",
+    "summary": "POUSSÉ DE : {{SELECTION}}",
     "title": [
-     "Enable Push Notifications...About Murder",
-     "I Can See My Untimely Demise From Here!",
-     "Legends Of The Fall",
-     "You Have A Real Altitude Problem",
-     "Push It Real Dead",
-     "Can You Feel The Shove Tonight"
+     "Je peux voir ma mort prématurée d'ici !"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112205",
-   "question": "Finish this sentence: “I’d [i]most[/i] like to push someone off of...”",
+   "question": "Complétez cette phrase : « J'aimerais [i]beaucoup[/i] pousser quelqu'un du haut de... »",
    "starterContent": true
   },
   {
    "choices": [
-    "Scorpion",
-    "Poison Dart Frog",
-    "Cobra",
-    "Black Widow",
-    "Horse With a Gun",
-    "Jellyfish"
+    "Un scorpion",
+    "Une Grenouille Venimeuse",
+    "Un Cobra",
+    "Une Veuve Noire",
+    "Un Cheval Avec Un Fusil",
+    "Une Méduse"
    ],
    "crime": {
-    "description": "Assassination Via Vicious {{SELECTION}}",
-    "offense": "ANIMAL ATTACK",
-    "summary": "ANIMAL ATTACK: {{SELECTION}}",
+    "description": "Assassinat avec {{SELECTION}}",
+    "offense": "ATTAQUE ANIMALE",
+    "summary": "ATTAQUE ANIMALE : {{SELECTION}}",
     "title": [
-     "The Circle of Life...and Death",
-     "Animal Double-Crossing",
-     "Who’s Endangered Now?",
-     "Narrate This, Attenborough",
-     "Say Hello To My Little Fauna",
-     "Hiss Hiss, Bang Bang"
+     "Le Cercle de la Vie... et de la Mort",
+     "Qui est en Danger Maintenant ?",
+     "Venin et Vengeance",
+     "La chaine alimentaire se venge"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112206",
-   "question": "If you were an assassin, which deadly animal would you use to take down your enemy?",
+   "question": "Si vous étiez un assassin, quel animal mortel utiliseriez-vous pour éliminer votre ennemi ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Fireworks Factory",
-    "Water Park",
-    "Glitter Warehouse",
-    "Waffle House",
-    "Gothic Mansion",
-    "Sunglass Hut"
+    "Une usine de feux d'artifice",
+    "Un parc aquatique",
+    "Un entrepôt de paillettes",
+    "Un magasin de meubles",
+    "Un manoir gothique",
+    "Une bibliothèque universitaire"
    ],
    "crime": {
-    "description": "Chose To Send A {{SELECTION}} Up In Flames",
-    "offense": "ARSON",
-    "summary": "ARSON: {{SELECTION}}",
+    "description": "A choisi de mettre {{SELECTION}} en flammes",
+    "offense": "INCENDIE",
+    "summary": "INCENDIE : {{SELECTION}}",
     "title": [
-     "Little Pyres Everywhere",
-     "Seeing An Old Flame, And Many New Ones",
-     "Burn Around, Bright Eyes",
-     "It’s Not The Heat, It’s The Culpability",
-     "You’ve Met Your Match(es)"
+     "Des petits bûchers partout",
+     "Ce n'est pas la chaleur, c'est la culpabilité"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112207",
-   "question": "Which of these (unoccupied) spaces would you most want to burn down?",
+   "question": "Lequel de ces espaces (inoccupés) aimeriez-vous le plus brûler ?",
    "starterContent": true
   },
   {
    "choices": [
-    "A Quote",
-    "A Phone Number",
-    "Gossip",
-    "A Lewd Image",
-    "A Confession",
-    "A Poll Question"
+    "Une citation",
+    "Un numéro de téléphone",
+    "Un dessin osé",
+    "Une confession",
+    "Un discours politique"
    ],
    "crime": {
-    "description": "Chose To Draw {{SELECTION}} On Bathroom Wall",
-    "offense": "VANDALISM",
+    "description": "Dessin d'{{SELECTION}} sur un mur de toilettes publiques",
+    "offense": "VANDALISME",
     "summary": "GRAFFITI: {{SELECTION}}",
     "title": [
-     "For A Good Time, Call 911",
-     "The Writing’s On The Stall",
-     "Justice Always Has The Last Word",
-     "There’s Nothing Comic Sans About Crime",
-     "Are You Inking What I’m Inking",
-     "The Ink Of Crime Has No Eraser"
+     "La justice a toujours le dernier mot",
+     "Il n'y a rien de Comique Sans MS face à un crime",
+     "L'encre du crime ne sèche jamais"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112208",
-   "question": "Oh look, a Sharpie and a blank bathroom wall. What are you going to add?",
+   "question": "Oh, regarde, un marqueur et un mur de toilettes vierge. Qu'est-ce que vous allez écrire ?",
    "starterContent": true
   },
   {
    "choices": [
-    "75 mph",
-    "90 mph",
-    "120 mph",
-    "150 mph",
-    "200 mph"
+    "30 km/h",
+    "90 km/h",
+    "130 km/h",
+    "180 km/h",
+    "220 km/h"
    ],
    "countrySpecific": true,
    "crime": {
-    "description": "At Criminal’s Personal Best, {{SELECTION}}",
-    "offense": "SPEEDING",
-    "summary": "SPEEDING: {{SELECTION}}",
+    "description": "Le record du criminel, {{SELECTION}}",
+    "offense": "EXCÈS DE VITESSE",
+    "summary": "EXCÈS DE VITESSE : {{SELECTION}}",
     "title": [
-     "Life In The Fast Blame",
-     "Justice In The Rear Mirror",
-     "Today’s Special: My Dust",
-     "But Officer, Unlimited Apps Ends At 7",
-     "Get Me To The Jail On Time",
-     "Breaking The Impound Barrier"
+     "Et avec 3 grammes dans le sang",
+     "Justice dans le rétroviseur",
+     "Mais monsieur l'agent, je faisais sécher ma voiture !",
+     "Surement habité par l'esprit de Michael Schumacher",
+     "Ca doit être le vent qui l'a poussé"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "112209",
-   "question": "To the nearest MPH, what’s the fastest non-airborne speed you’ve ever achieved?",
+   "question": "À quelques kilomètres près, quelle est la vitesse la plus rapide que vous ayez jamais atteinte au volant (ou au guidon) ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Embezzling",
-    "Forgery",
-    "Burglary",
-    "Treason",
-    "Mail Fraud",
-    "Cyber Crime"
+    "Détournement de fonds",
+    "Faux documents",
+    "Cambriolage",
+    "Trahison",
+    "Fraude postale",
+    "Cybercriminalité"
    ],
    "crime": {
-    "description": "As The Crime Of Choice To Protect Their Family!",
+    "description": "Comme crime de choix pour protéger leur famille !",
     "offense": "{{SELECTION}}",
-    "summary": "{{SELECTION}} TO PROTECT FAMILY",
+    "summary": "{{SELECTION}} POUR PROTÉGER LA FAMILLE",
     "title": [
-     "Blood Is Thicker, THEN Water",
-     "Family Tree, Bad Apples",
-     "What I Woodn’t Do For My Family Tree",
-     "It Runs (Across State Lines) In The Family"
+     "Le Sang Est Plus Important Que L'Eau",
+     "Qu'est Ce Que Je Ne Ferais Pas Pour Mon Arbre Généalogique",
+     "J'ai appris ça de ma mère"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112210",
-   "question": "If you had to commit a crime to protect your family, which would you be most OK doing?",
+   "question": "Si vous deviez commettre un crime pour protéger votre famille, lequel seriez-vous le plus disposé à commettre ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Forklifting",
-    "Chinchilla Breeding",
-    "Helicopter Piloting",
-    "Funeral Cosmetology",
-    "Crane Driving",
-    "Deep Sea Welding"
+    "Conduite de Chariot élévateur",
+    "Élevage de chinchillas",
+    "Pilotage d'hélicoptère",
+    "Cosmétologie post‑mortem",
+    "Conduite de grue",
+    "Soudage en profondeur"
    ],
    "crime": {
-    "description": "Without a License!",
+    "description": "Sans permis !",
     "offense": "{{SELECTION}}",
-    "summary": "UNLICENSED {{SELECTION}}",
+    "summary": "SANS PERMIS : {{SELECTION}}",
     "title": [
-     "Certifiably Criminal",
-     "No License & Registration, Please",
-     "But Officer, I Watched A Masterclass Video",
-     "I’m A “Learn While Doing” Kind Of Criminal",
-     "Evil Has No Time For Paperwork"
+     "Pas de permis, pas de problème",
+     "Pas de permis & d'immatriculation, s'il vous plaît",
+     "Mais monsieur l'agent, j'ai regardé des tutos sur YouTube !",
+     "Je suis un criminel qui apprend sur le tas",
+     "Le Mal N'a Pas Le Temps Pour La Paperasse"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "112211",
-   "question": "Which of these would you be willing to try, even without a license?"
+   "question": "Qu'est ce que vous seriez le plus susceptible de faire sans permis / formation ?"
   },
   {
    "choices": [
-    "Trespassing",
-    "Counterfeiting",
-    "Identity Theft",
-    "Detonation",
-    "Carjacking"
+    "Intrusion",
+    "Faux documents",
+    "Vol d'identité",
+    "Détonation",
+    "Vol de voiture"
    ],
    "crime": {
-    "description": "As Someone’s Chosen Contribution To A Heist",
+    "description": "Comme rôle choisi par quelqu'un à un braquage",
     "offense": "{{SELECTION}}",
-    "summary": "HEIST CRIME: {{SELECTION}}",
+    "summary": "BRAQUAGE : {{SELECTION}}",
     "title": [
-     "One Last Job Job",
-     "Ocean’s (4-8 Players)",
-     "Together, We Can Climb The Heist Mountain",
-     "Reservoir Puppies"
+     "Un dernier travail avant la retraite",
+     "Ca s'est surement passé au Louvre",
+     "Ensemble, nous pouvons gravir la montagne du braquage"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112212",
-   "question": "Time to divvy up roles for the big heist. Which do you want?",
+   "question": "C'est l'heure de diviser les rôles pour le grand braquage. Lequel voulez-vous ?",
    "starterContent": true
   },
   {
@@ -451,389 +396,337 @@
     "Beyoncé"
    ],
    "crime": {
-    "description": "Reckless Impersonation of Chosen Target, {{SELECTION}}",
-    "offense": "IDENTITY THEFT",
-    "summary": "IMPERSONATED: {{SELECTION}}",
+    "description": "Impersonation de {{SELECTION}}",
+    "offense": "VOL D'IDENTITÉ",
+    "summary": "IMPERSONNÉ : {{SELECTION}}",
     "title": [
-     "We Are Who We Pretend To Thieve",
-     "It’s A Wonderful Stolen Life",
-     "Mission Imposter-able",
-     "Love Your New Identity, Where’d You Get It?"
+     "Nous Sommes Ce Que Nous Prétendons Voler",
+     "C'est Une Vie Volée Merveilleuse",
+     "C'est une bonne situation ça, non ?"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112213",
-   "question": "Which public figure do you think you could do a half-decent impression of?",
+   "question": "Selon vous, quelle personnalité publique pourriez-vous imiter de manière assez convaincante ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Turpentine",
-    "Bleach",
-    "Nail Polish Remover",
-    "Bug Repellent",
-    "Varnish",
-    "Antifreeze",
-    "Drano"
+    "Du Liquide lave-glace",
+    "De l'Eau de Javel",
+    "Du Dissolvant pour vernis à ongles",
+    "Du Répulsif à insectes",
+    "Du Vernis",
+    "De l'Antigel",
+    "De l'Huile pour moteur"
    ],
    "crime": {
-    "description": "Dosed Victim With The Most Available Option, {{SELECTION}}",
-    "offense": "POISONING",
-    "summary": "POISON: {{SELECTION}}",
+    "description": "Victime traitée avec {{SELECTION}}",
+    "offense": "EMPOISONNEMENT",
+    "summary": "POISON : {{SELECTION}}",
     "title": [
-     "Does This Taste Weird To You?",
-     "Cyanide Rather Not",
-     "For You, From The Killer At The End Of The Bar",
-     "Ain’t That An Arsenic In The Head?",
-     "Looks Like You’re Past Your Expiration Date"
+     "Ca a quel goût, déjà ?",
+     "Bien mieux que la mort aux rats",
+     "Tout ça donne soif"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112214",
-   "question": "Which dangerous liquid could you obtain most easily?",
+   "question": "Quel liquide dangereux pourriez-vous vous procurer le plus facilement ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Icicle",
-    "Knitting Needle",
-    "Nail File",
-    "Swiss Army Knife",
-    "Letter Opener",
-    "Safety Razor",
-    "Scissor Blade"
+    "Une stalagmite",
+    "Une aiguille",
+    "Une lime à ongles",
+    "Un couteau suisse",
+    "Un couteau à beurre",
+    "Un rasoir",
+    "Une lame de ciseaux"
    ],
    "crime": {
-    "description": "With An Unrealistically Sharp {{SELECTION}}",
-    "offense": "STABBING",
-    "summary": "STABBED WITH: {{SELECTION}}",
+    "description": "Avec {{SELECTION}} vraiment bien aiguisé",
+    "offense": "MEURTRE",
+    "summary": "MEURTRE AVEC : {{SELECTION}}",
     "title": [
-     "Punctured Pride",
-     "Downton Stabby",
-     "Getting The Point Across",
-     "Cuts Both Ways (JK It Only Cuts You)"
+     "Un honneur perforé",
+     "Je pensais pas que ça couperait si bien"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112215",
-   "question": "Which of these sharp objects would you use for diabolical purposes?",
+   "question": "Lequel de ces objets tranchants utiliseriez-vous à des fins diaboliques ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Reliable Car",
-    "Private Jet",
-    "Hot Air Balloon",
-    "Sportscar",
-    "Motorcycle",
-    "Jet Ski",
-    "Snowmobile"
+    "Une voiture... normale",
+    "Un jet privé",
+    "Une montgolfière",
+    "Une voiture de sport",
+    "Une moto",
+    "Un jet ski",
+    "Une motoneige"
    ],
    "crime": {
-    "description": "Of Criminal’s Vehicle Of Choice, A {{SELECTION}}",
-    "offense": "THEFT",
-    "summary": "STOLEN {{SELECTION}}",
+    "description": "Du véhicule préféré du criminel : {{SELECTION}}",
+    "offense": "VOL",
+    "summary": "{{SELECTION}} volé(e)",
     "title": [
-     "Riding Shotgun With Justice",
-     "I’m Wheely Sorry, Officer",
-     "Why Walk When You Can Steal?",
-     "Gotta Love That “New Stolen Vehicle” Smell"
+     "Pourquoi marcher quand on peut voler ?"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112216",
-   "question": "Which vehicle would you MOST like to steal?",
+   "question": "Quel véhicule aimeriez-vous le plus voler ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Sporting goods store",
-    "Hardware store",
-    "Toy store",
-    "Record store",
-    "Electronics store",
-    "Clothing store",
-    "Kitchen supply store"
+    "Magasin d'articles de sport",
+    "Magasin de bricolage",
+    "Magasin de jouets",
+    "Magasin de disques",
+    "Magasin d'électronique",
+    "Magasin de vêtements",
+    "Magasin d'articles de cuisine"
    ],
    "crime": {
-    "description": "From Their Preferred Target, A {{SELECTION}}",
-    "offense": "PETTY THEFT",
-    "summary": "STOLE FROM: {{SELECTION}}",
+    "description": "Dans le magasin préféré du criminel : Un {{SELECTION}}",
+    "offense": "PETIT VOL",
+    "summary": "VOL DANS : UN {{SELECTION}}",
     "title": [
-     "Smash And Grab And Grab And Grab",
-     "Stealing Hearts And Okay, Fine, Cash",
-     "Re-Inventing The Steal",
-     "Some Like It Shoplifted"
+     "Il s'en ait mis plein les poches",
+     "Ré-inventant le shopping"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112217",
-   "question": "If you knew you would never get caught, which store would you steal from?",
+   "question": "Si vous saviez que vous ne vous feriez jamais prendre, dans quel magasin iriez-vous voler ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Skittles",
-    "Junior Mints",
-    "Swedish Fish",
-    "Warheads",
-    "Snickers",
-    "Hot Tamales"
-   ],
-   "crime": {
-    "description": "Illegally Brewed {{SELECTION}}-Flavored Moonshine",
-    "offense": "BOOTLEGGING",
-    "summary": "BOOTLEG FLAVOR: {{SELECTION}}",
-    "title": [
-     "I Made This Juice In My Bathtub",
-     "Ginning Up Controversy",
-     "I Make It Look Speakeasy",
-     "Never Skip Bootleg Day"
-    ]
-   },
-   "familiarity": "FRIENDS",
-   "id": "112218",
-   "question": "Which of these would make the best flavored liquor?",
-   "starterContent": true,
-   "x": true
-  },
-  {
-   "choices": [
-    "Chester Cheetah",
-    "Tony the Tiger",
+    "Chase de la Pat' Patrouille",
+    "Babouche le singe",
     "Bugs Bunny",
-    "Sandy Cheeks",
-    "Puss in Boots",
-    "Brian Griffin"
+    "Sandy de Bob l'éponge",
+    "Le chat botté"
    ],
    "crime": {
-    "description": "Wailed On Their Chosen Target, {{SELECTION}}",
-    "offense": "ANIMAL ABUSE",
-    "summary": "KICKED {{SELECTION}}’S BUTT",
+    "description": "A frappé sa cible favorite : {{SELECTION}}",
+    "offense": "MALTRAITANCE ANIMALE",
+    "summary": "A FRAPPÉ {{SELECTION}}",
     "title": [
-     "Animal Control Freak",
-     "Animal Harm",
-     "Animal Kingdom Kombat",
-     "Danger At Thirty Frames A Second",
-     "Ink & Paint, Meet Fists & Bruises",
-     "Squash, Stretch, Smack, Scream"
+     "Maniaque du contrôle des animaux",
+     "Mauvais traitements envers les animaux",
+     "Danger à 30 images par seconde"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112219",
-   "question": "Which cartoon animal do you think you could take in a fight?",
+   "question": "Quel animal de dessin animé pensez-vous pouvoir battre dans un combat ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Tiger",
+    "Tigre",
     "Lion",
-    "Leopard",
+    "Léopard",
     "Jaguar",
-    "Cheetah",
-    "Snow Leopard"
+    "Guépard",
+    "Léopard des neiges"
    ],
    "crime": {
-    "description": "Stole An Exotic {{SELECTION}}",
-    "offense": "CAT BURGLARY",
-    "summary": "CAT BURGLED: {{SELECTION}}",
+    "description": "Vol d'un {{SELECTION}} exotique",
+    "offense": "CHAT-NAPPING",
+    "summary": "CHAT-NAPPÉ : {{SELECTION}}",
     "title": [
-     "Snatchin' & Scratchin'",
-     "Wallets and Jewels, Right Meow",
-     "Pspsps Me Deadly"
+     "Surement en train de faire ses griffes sur un canapé"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112220",
-   "question": "Which of these beautiful big kitties do you wish you could have as a pet?",
+   "question": "Lequel de ces beaux gros chatons aimeriez-vous avoir comme animal de compagnie ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Speedy the Molerat",
-    "Zippo the Rodent",
-    "Mr. Rapid Hamster",
-    "Craig Agility",
-    "Blue Sampson",
+    "Speedy le rat des champs",
+    "Zippo le rongeur",
+    "M. Hamster Rapide",
+    "Craig le ragondin supersonique",
+    "Bleuet la boule piquante",
     "Allard Niekamp"
    ],
    "crime": {
-    "description": "Selling Sonic T-shirts That Say “{{SELECTION}}”",
-    "offense": "IP THEFT",
-    "summary": "STOLEN SONIC: {{SELECTION}}",
+    "description": "Vente de t-shirt Sonic avec le texte “{{SELECTION}}”",
+    "offense": "CONTREFAÇON",
+    "summary": "SONIC VOLÉ : {{SELECTION}}",
     "title": [
-     "\"The Silver Hoop Collector\""
+     "\"Le collectionneur de cerceaux en argent\""
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112221",
-   "question": "Of these options, which alternate name for Sonic the Hedgehog do you think won't get us sued?",
+   "question": "Parmi ces options, quel nom alternatif pour Sonic le hérisson pensez-vous utiliser ?",
    "starterContent": false
   },
   {
    "choices": [
-    "[i]The Secret[/i]",
-    "[i]Everyone Poops[/i]",
-    "[i]Anne of Green Gables[/i]",
-    "[i]The Very Hungry Caterpillar[/i]",
-    "[i]Fourth Wing[/i]",
-    "[i]The Alchemist[/i]",
-    "[i]Marley & Me[/i]"
+    "[i]Le Secret[/i]",
+    "[i]Tout le monde fait caca[/i]",
+    "[i]Anne et la maison aux pignons verts[/i]",
+    "[i]La très affamée chenille[/i]",
+    "[i]Quatrième aile[/i]",
+    "[i]L'alchimiste[/i]",
+    "[i]Marley & Moi[/i]"
    ],
    "crime": {
-    "description": "Took The Credit For Writing {{SELECTION}}",
-    "offense": "PLAGIARISM",
-    "summary": "PLAGIARIZING: {{SELECTION}}",
+    "description": "S'est attribué le mérite d'avoir écrit {{SELECTION}}",
+    "offense": "PLAGIAT",
+    "summary": "PLAGIAT : {{SELECTION}}",
     "title": [
-     "Murder, I Wrote",
-     "Took The Words Right Out Of My Mouth",
-     "Your Words, Not Mine",
-     "Say My Pen Name",
-     "Stealing Books Requires Real Spine",
-     "Putting The “Author” In “Flouting Authority”"
+     "Ce n'est pas moi, c'est vous",
+     "Vos mots, pas les miens",
+     "Dites mon nom d'artiste",
+     "Voler des livres nécessite du courage"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112222",
-   "question": "You’re gonna try and convince a gullible person you wrote a book. Which has the best chance?",
+   "question": "Vous allez essayer de convaincre une personne crédule que vous avez écrit un livre. Lequel a le plus de chances ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Steal From Billionaires",
-    "Expose Corruption",
-    "Destroy Social Media",
-    "Shut Down Polluters",
-    "Hunt State Secrets",
-    "Cyberbully a Nemesis"
+    "Voler des miliardaires",
+    "Exposer la corruption",
+    "Détruire les réseaux sociaux",
+    "Mettre fin aux scammers",
+    "Dévoiler les secrets d'État",
+    "Cyberharceler un ennemi"
    ],
    "crime": {
-    "description": "Hacked The Web To {{SELECTION}}",
-    "offense": "CYBERCRIME",
-    "summary": "HACKING TARGET: {{SELECTION}}",
+    "description": "Piratage pour {{SELECTION}}",
+    "offense": "CYBERCRIMINALITÉ",
+    "summary": "PIRATAGE : {{SELECTION}}",
     "title": [
-     "There’s No Firewall Around Your Heart",
-     "You’ve CAPTCHA’d My Attention",
-     "Code To Joy",
-     "Here’s Lookin’ Through Your Computer, Kid",
-     "Keyboard To Death"
+     "Il n'y a pas de pare-feu près de ton coeur",
+     "Mais pourtant j'ai un antivirus",
+     "Et ce n'était pas si compliqué que ça",
+     "Le problème se trouve entre la chaise et le clavier"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112223",
-   "question": "Imagine you’re the world’s greatest hacker. What do you do with your talents?",
+   "question": "Imaginez que vous soyez le plus grand hacker au monde. Que feriez-vous de vos talents ?",
    "starterContent": true
   },
   {
    "choices": [
-    "A Food Bank",
-    "An Animal Shelter",
-    "Public Schools",
-    "Church",
-    "Relatives",
-    "Private Museums",
-    "Science Research",
-    "Myself"
+    "Une association caritative",
+    "Un refuge pour animaux",
+    "Des écoles publiques",
+    "Une église",
+    "Des parents",
+    "Des musées privés",
+    "Des recherches scientifiques",
+    "Moi-même"
    ],
    "crime": {
-    "description": "Took Money From The Rich To Give To {{SELECTION}}",
-    "offense": "STEALING",
-    "summary": "STOLE CASH FOR: {{SELECTION}}",
+    "description": "A pris l'argent des riches pour le donner à {{SELECTION}}",
+    "offense": "VOL",
+    "summary": "A VOLÉ DE L'ARGENT POUR : {{SELECTION}}",
     "title": [
-     "Merry Men and Scary Ends",
-     "Yoink For Justice",
-     "Men in Fights"
+     "Pour la justice !"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "112224",
-   "question": "You’re in a Robin Hood-type situation, and stole a stack of cash from the rich! Who will you give it to?",
+   "question": "Vous êtes dans une situation de type Robin des Bois et avez volé une liasse de billets aux riches ! À qui allez-vous la donner ?",
    "starterContent": false
   },
   {
    "choices": [
-    "A Stadium",
-    "An Ice Cream Store",
-    "A Pet Store",
-    "A Bank",
-    "A Theme Park",
-    "An Arcade",
-    "An Abandoned Mall"
+    "Un stade",
+    "Un magasin de glaces",
+    "Un magasin pour animaux",
+    "Une banque",
+    "Un parc d'attractions",
+    "Une salle d'arcade",
+    "Un centre commercial abandonné"
    ],
    "crime": {
-    "description": "Criminal Chose To Sneak Into {{SELECTION}}",
-    "offense": "TRESPASSING",
-    "summary": "TRESPASSING: {{SELECTION}}",
+    "description": "Le criminel a choisi de s'introduire furtivement dans {{SELECTION}}",
+    "offense": "INTRUSION",
+    "summary": "INTRUSION : {{SELECTION}}",
     "title": [
-     "\"You’re Not Supposed To B&E Here\"",
-     "Gimme A Break-In",
-     "I’m Ready For My Close Up, Mr. Security Camera",
-     "The Revolving Door Of Justice",
-     "“Sorry, We’re Closed” Is My Love Language"
+     "\"Vous n'êtes pas censé cambrioler ici\"",
+     "Je suis prêt, M. La caméra de sécurité",
+     "La porte tournante de la justice",
+     "“Désolé, nous sommes fermés” est ma phrase fétiche"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112225",
-   "question": "Which would be the best building to sneak into when it’s closed?",
+   "question": "Quel serait le meilleur bâtiment dans lequel se faufiler lorsqu'il est fermé ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Concert",
-    "Sporting Event",
-    "Political Rally",
-    "Reality Show Taping",
-    "Romantic Tryst",
-    "Family Event",
-    "Shopping Spree"
+    "Un Concert",
+    "Un Événement Sportif",
+    "Un Rassemblement Politique",
+    "Un Tournage de Télé-réalité",
+    "Une Rencontre Romantique",
+    "Un Événement Familial",
+    "Une Virée Shopping"
    ],
    "crime": {
-    "description": "Skipped School For A {{SELECTION}}",
-    "offense": "TRUANCY",
-    "summary": "SKIPPED SCHOOL FOR: {{SELECTION}}",
+    "description": "A raté l'école pour {{SELECTION}}",
+    "offense": "ABSENTÉISME",
+    "summary": "A RATÉ L'ÉCOLE POUR : {{SELECTION}}",
     "title": [
-     "To The Window, To The AWOL",
-     "Hooky, Line & Sinker",
-     "A Is For Absent",
-     "My Skips Don’t Lie",
-     "Itchin’ For Some Ditchin’"
+     "La fenêtre était ouverte",
+     "A c'est pour Absent",
+     "Pas de soucis, c'était le cours de sport"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "112226",
-   "question": "When you were a student, which of the following would you DEFINITELY skip school for?",
+   "question": "Quand vous étiez étudiant, pour laquelle des raisons suivantes auriez-vous SANS AUCUN DOUTE séché les cours ?",
    "starterContent": true,
    "x": false
   },
   {
    "choices": [
-    "Tupperware",
-    "Timeshares",
-    "Kitchen Knives",
-    "Improv Classes",
-    "Athleisure Wear",
-    "Skincare Products"
+    "Tupperwares",
+    "Calendriers personnalisés",
+    "Couteaux de cuisine",
+    "Cours d'improvisation",
+    "Vêtements de sport",
+    "Produits de soin de la peau"
    ],
    "crime": {
-    "description": "Built Around Their Commodity Of Choice, {{SELECTION}}",
-    "offense": "PYRAMID SCHEMING",
-    "summary": "PYRAMID SCHEME: {{SELECTION}}",
+    "description": "Conçu autour de leur produit de prédilection, les {{SELECTION}}",
+    "offense": "SYSTÈME PYRAMIDAL",
+    "summary": "SYSTÈME PYRAMIDAL : {{SELECTION}}",
     "title": [
-     "Ponzi Wishes and Caviar Schemes",
-     "“How’d You Like To Be Your Own Boss?”",
-     "Green Eggs & Scam",
-     "Pyramidnight Run",
-     "Scheme Weaver"
+     "Vous êtes plus égyptien ou Ponzi ?",
+     "\"Que diriez-vous d'être votre propre patron ?\"",
+     "\"Mais ce qui est super avec ce produit : ...\"",
+     "Venez avec moi et arrondissez vos fins de mois"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112227",
-   "question": "If you were running a pyramid scheme, which do you think you’d be best at selling?",
+   "question": "Si vous dirigiez un système pyramidal, lequel choisiriez-vous ?",
    "starterContent": true
   },
   {
    "choices": [
-    "Real Housewives",
     "Marvel",
     "Harry Potter",
     "Star Wars",
@@ -841,315 +734,207 @@
     "Pokémon"
    ],
    "crime": {
-    "description": "Permanently Ended The {{SELECTION}} Universe, Forever",
-    "offense": "FRANCHISE MURDER",
-    "summary": "Killed {{SELECTION}} Franchise",
+    "description": "A mis fin à {{SELECTION}}",
+    "offense": "MEURTRE DE FRANCHISE",
+    "summary": "A TUÉ LA FRANCHISE {{SELECTION}}",
     "title": [
-     "Welcome To The Murder Cinematic Universe",
-     "Prequels, Sequels And Crime Spreequels",
-     "Leaving Soon At A Theater Near You",
-     "Spin Off Into Oblivion",
-     "Lethally Toxic Fandom"
+     "Bienvenue dans l'univers cinématographique du meurtre",
+     "Préquelles, suites et meurtres en série",
+     "Bientôt dans un cinéma près de chez vous"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112228",
-   "question": "Which franchise would you like to see permanently ended with no more additions, ever again?"
+   "question": "Quelle franchise aimeriez-vous voir définitivement arrêtée, à jamais ?"
   },
   {
    "choices": [
-    "Tiny Dog",
-    "Smurf",
-    "Seagull",
-    "Porg",
-    "Swan",
+    "Petit chien",
+    "Schtroumpf",
+    "Mouette",
+    "Porg (Star Wars)",
+    "Cygne",
     "Roomba"
    ],
    "crime": {
-    "description": "A Poor, Defenseless {{SELECTION}}!",
-    "offense": "KICKING!",
-    "summary": "KICKED A: {{SELECTION}}",
+    "description": "Un(e) pauvre {{SELECTION}} sans défense !",
+    "offense": "COUP DE PIED !",
+    "summary": "A TAPÉ : {{SELECTION}}",
     "title": [
-     "Kick A Little, Talk A Little",
-     "One Of These Days, These Boots Are Gonna... Kill You",
-     "I Get A (Life-Threatening) Kick Outta You",
-     "A Roundhouse Divided Cannot Stand",
-     "Footing the Bill",
-     "The Third Little Pig Made His House Out Of KICKS"
+     "Un de ces jours, ces bottes vont... vous tuer",
+     "Une maison divisée ne peut tenir debout"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112229",
-   "question": "If you [i]had[/i] to kick one of these, which would it be?",
+   "question": "Si vous deviez donner un coup de pied à l'un d'eux, lequel choisiriez-vous ?",
    "starterContent": true
   },
   {
    "choices": [
-    "[i]Casino Royale[/i]",
-    "[i]Saw[/i]",
-    "[i]Midsommar[/i]",
-    "[i]Clue[/i]",
-    "[i]Psycho[/i]",
-    "[i]Hannibal[/i]",
-    "[i]The Godfather[/i]"
+    "Des Abeilles",
+    "Un Rocher",
+    "Du Chanvre",
+    "Des Huiles Essentielles",
+    "Du Corail",
+    "Un Glaçon",
+    "Du Sable",
+    "Un Ours"
    ],
    "crime": {
-    "description": "In The Style Of The Film {{SELECTION}}",
-    "offense": "MOVIE-THEMED MURDER",
-    "summary": "MURDER IN STYLE OF: {{SELECTION}}",
+    "description": "Homicide durable, en utilisant uniquement {{SELECTION}}",
+    "offense": "ECO-CRIME",
+    "summary": "MEURTRE NATUREL AVEC : {{SELECTION}}",
     "title": [
-     "Let’s All Go To The Lobby...To Kill Someone",
-     "Lights, Camera, Murder",
-     "Box Office Poison",
-     "We Come To This Place For Murder",
-     "Rated ‘K’ For Kill"
-    ]
-   },
-   "familiarity": "FRIENDS",
-   "id": "112230",
-   "question": "You’d like to pay tribute to a film with your own crime. Which film will it be?",
-   "x": false
-  },
-  {
-   "choices": [
-    "Bees",
-    "A Boulder",
-    "Hemp",
-    "Essential Oils",
-    "Coral",
-    "An Icicle",
-    "Quicksand",
-    "A Bear"
-   ],
-   "crime": {
-    "description": "Sustainably-Grown Homicide, Using Only {{SELECTION}}",
-    "offense": "ECO-MURDER",
-    "summary": "NATURAL MURDER VIA: {{SELECTION}}",
-    "title": [
-     "Mother Earth...Meet Father Death",
-     "Follow The Carbon Footprints",
-     "Murder Most Bio-Degradable",
-     "Farm To Table To Grave",
-     "Garden Of Getting Even"
+     "Mère nature... rencontre Père terreur",
+     "Suivez les empreintes carbone",
+     "Meurtre le plus biodégradable",
+     "De la ferme à la table, puis à la tombe"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112231",
-   "question": "Say you promised to [i]only[/i] conduct murders using natural materials. Which of the following would you use?"
+   "question": "Supposons que vous ayez promis de ne commettre des meurtres qu'à l'aide de matériaux naturels. Lequel des éléments suivants utiliseriez-vous ?"
   },
   {
    "choices": [
-    "Sword",
-    "Falcon",
-    "Poison Mead",
-    "Joust Lance",
-    "Turkey Leg",
-    "Mace",
-    "Horseshoe",
-    "Bow & Arrow"
-   ],
-   "crime": {
-    "description": "Committed Using Yon {{SELECTION}} At Renaissance Faire",
-    "offense": "YE OLDE MURDER",
-    "summary": "REN FAIRE MURDER: {{SELECTION}}",
-    "title": [
-     "The Elf Ears Are Fake, The Danger Is Real",
-     "Medieval, Most Evil",
-     "Serf’s Down, Jig’s Up",
-     "Death By Knight Fall",
-     "Ye Usual Subjects",
-     "Hear Me, Spear Thee",
-     "Well Well Well, We Mead Again"
-    ]
-   },
-   "familiarity": "FRIENDS",
-   "id": "112232",
-   "question": "You’ve decided to murder someone at the Ren Faire, as one does. What are you using?",
-   "starterContent": true
-  },
-  {
-   "choices": [
-    "War & Peace",
-    "Bleak House",
-    "The Bible",
-    "Infinite Jest",
-    "The Giving Tree",
-    "Middlemarch",
-    "It",
+    "Harry Potter",
+    "La Bible",
+    "Dictionnaire Larousse",
+    "Astérix le Gaulois",
+    "Ça",
     "Moby Dick"
    ],
    "crime": {
-    "description": "With Their Weapon Of Choice, {{SELECTION}}",
-    "offense": "BOOK BLUDGEONING",
-    "summary": "Smacked With {{SELECTION}}",
+    "description": "Avec son arme de prédilection, {{SELECTION}}",
+    "offense": "COUP LITTÉRAIRE",
+    "summary": "Frappé par {{SELECTION}}",
     "title": [
-     "Take One Last Look, It’s In A Book",
-     "Book Marks The Spot",
-     "Let Me Bounce Some Ideas Off You",
-     "The Ending’s Gonna Kill You",
-     "Words Matter, Words Murder"
+     "La fin va vous faire mourir",
+     "Les mots comptent, les mots tuent"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "112233",
-   "question": "You’ve decided to give someone a good bonking on the head with a book. Which do you use?"
+   "question": "Vous avez décidé de donner un bon coup sur la tête à quelqu'un avec un livre. Lequel utilisez-vous ?"
   },
   {
    "choices": [
-    "An Ice Skate Blade",
-    "A Bowling Ball",
-    "A Pickleball Paddle",
-    "The Olympic Torch",
-    "A Baseball Bat",
-    "A Javelin",
-    "A Curling Stone",
-    "One Hot Dog Vendor"
+    "Une lame de patin à glace",
+    "Une boule de bowling",
+    "Une raquette de tennis",
+    "La flamme olympique",
+    "Une batte de baseball",
+    "Un javelot",
+    "Une pierre de curling",
+    "Un vendeur de hot-dogs"
    ],
    "crime": {
-    "description": "Using Culprit’s Weapon of Choice, {{SELECTION}}",
-    "offense": "ATHLETIC MURDER",
-    "summary": "SPORTY MURDER WITH {{SELECTION}}",
+    "description": "En utilisant {{SELECTION}}",
+    "offense": "MEURTRE ATHLÉTIQUE",
+    "summary": "MEURTRE SPORTIF AVEC {{SELECTION}}",
     "title": [
-     "Take Me Out At The Ballgame",
-     "Fifty-Yard-Dash To The Afterlife",
-     "We’ve Got Murder, How ‘Bout You?"
+     "Emmenez-moi au match",
+     "Sprint de cinquante mètres vers l'au-delà"
     ]
    },
    "familiarity": "FRIENDS",
    "id": "112270",
-   "question": "You’ve decided to take someone out in the sportiest way possible. Which item do you think you could wield with the most skill?"
+   "question": "Vous avez décidé d'éliminer quelqu'un de la manière la plus sportive possible. Quel objet pensez-vous pouvoir manier avec le plus de compétence ?"
   },
   {
    "choices": [
-    "Boiling Hot Tea",
-    "Rabid Kitty",
-    "Poison Cocoa",
-    "Smothered By Quilts",
-    "Garden Shears",
-    "Death Hug",
-    "Knitting Needle"
+    "Un thé bouillant",
+    "Un chat enragé",
+    "Un chocolat chaud empoisonné",
+    "Une suffocation par un oreiller",
+    "Une cisaille de jardin",
+    "Une aiguille à tricoter"
    ],
    "crime": {
-    "description": "Via Subject’s Favorite Method: {{SELECTION}}",
-    "offense": "COZY MURDER",
-    "summary": "COZY MURDER: {{SELECTION}}",
+    "description": "Via la méthode préférée du sujet : {{SELECTION}}",
+    "offense": "MEURTRE PAISIBLE",
+    "summary": "MEURTRE PAISIBLE AVEC {{SELECTION}}",
     "title": [
-     "This One’s For You, Jessica Fletcher",
-     "A Snuggle Before Dying",
-     "Over The River And Through The Woods, That’s Where You’ll Be Found",
-     "Werther’s Original Sin",
-     "The Killer Wore A Cardigan"
+     "Un câlin avant de mourir"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "112599",
-   "question": "You’ve decided to murder someone in the coziest way possible. What’s the best method for the job?",
+   "question": "Vous avez décidé d'assassiner quelqu'un de la manière la plus paisible possible. Quelle est la meilleure méthode pour y parvenir ?",
    "x": true
   },
   {
    "choices": [
-    "A Hershey’s Kiss",
-    "An Orchid",
-    "A Lottery Ticket",
-    "A Screwdriver",
-    "A Baseball Card",
-    "A Pet Toy",
-    "An iTunes Gift Card",
-    "A 20-Sided Die",
-    "A Sleepytime Teabag",
-    "A Peacock Feather"
+    "Une orchidée",
+    "Un billet de loterie",
+    "Un tournevis",
+    "Une carte de baseball",
+    "Un jouet pour animal de compagnie",
+    "Une carte-cadeau",
+    "Un dé à 20 faces",
+    "Un sachet de thé",
+    "Une plume de paon"
    ],
    "crime": {
-    "description": "Including The Criminal’s Calling Card, {{SELECTION}}",
-    "offense": "MURDER",
-    "summary": "CALLING CARD: {{SELECTION}}",
+    "description": "Où a été retrouvé {{SELECTION}}",
+    "offense": "MEURTRE",
+    "summary": "CARTE DE VISITE : {{SELECTION}}",
     "title": [
-     "The Card Is Calling From Inside The House",
-     "Hallmarked For Death",
-     "Murder... From Both Of Us",
-     "Murder Most On Brand"
+     "Marqué par la mort"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "113168",
-   "question": "You want to spice up your crimes by leaving a calling card. Of these options, which feels good?"
+   "question": "Vous voulez pimenter vos crimes en laissant une carte de visite. Lequel de ces éléments vous semble le mieux ?"
   },
   {
    "choices": [
-    "Ferret",
-    "Cat",
-    "Parakeet",
-    "Snake",
-    "Dog",
-    "Turtle"
+    "Un furet",
+    "Un chat",
+    "Un perroquet",
+    "Un serpent",
+    "Un chien",
+    "Une tortue"
    ],
    "crime": {
-    "description": "Via The Criminal’s Lethally Trained {{SELECTION}}",
-    "offense": "MURDER",
-    "summary": "MURDER BY TRAINED {{SELECTION}}",
+    "description": "Avec {{SELECTION}} entraîné",
+    "offense": "MEURTRE",
+    "summary": "MEURTRE PAR {{SELECTION}} ENTRAÎNÉ",
     "title": [
-     "Sit, Stay, Kill",
-     "Why Play Dead When You Can Make Dead?",
-     "Man’s Best Friend; Justice’s Worst Enemy",
-     "Crime: The Greatest Treat Of All",
-     "They Don’t Talk About This Part Of Obedience School"
+     "Le meilleur ami de l'homme ; le pire ennemi de la justice",
+     "Pourquoi faire le mort quand on peut faire des morts ?",
+     "Le crime : La plus grande friandise de toutes"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "113772",
-   "question": "If you could train a pet to commit crime on your behalf, which pet would you use?"
+   "question": "Si vous pouviez entrainer un animal pour faire un crime à votre place, lequel choisiriez-vous ?"
   },
   {
    "choices": [
-    "Talks Over Movies",
-    "Cuts In Line",
-    "Interrupts",
-    "Says “Irregardless”",
-    "Is Always Late",
-    "Checks Phone Too Much",
-    "Cancels Plans"
+    "Parle pendant les films",
+    "Coupe la file",
+    "Interrompt",
+    "Dit « Nonobstant »",
+    "Est toujours en retard",
+    "Vérifie trop son téléphone",
+    "Annule des plans au dernier moment"
    ],
    "crime": {
-    "description": "Lost It Over Someone Who {{SELECTION}}",
-    "offense": "ANNOYED MURDER",
-    "summary": "Killed Someone Who {{SELECTION}}",
+    "description": "En a eu marre à cause de quelqu'un qui {{SELECTION}}",
+    "offense": "MEURTRE AGRESSIF",
+    "summary": "MEURTRE AGRESSIF : {{SELECTION}}",
     "title": [
-     "Kill Softly And Carry A Big Stickler",
-     "Peeving Is The Hardest Part",
-     "Miss Manners Doesn’t Miss",
-     "You’re Gonna Etiquette What’s Coming To You"
+     "Et il a bien raison",
+     "Juste un petit coup de pied au derrière",
+     "La patience a des limites"
     ]
    },
    "familiarity": "STRANGERS",
    "id": "113973",
-   "question": "Who annoys you so much you’d consider the unthinkable? Is it someone who…",
+   "question": "Qui vous agace tellement que vous envisageriez l'impensable ? Est-ce quelqu'un qui...",
    "x": true
-  },
-  {
-   "choices": [
-    "Tightrope Fall",
-    "Lion Mauling",
-    "Cannon Misfire",
-    "Elephant Stomp",
-    "Clown Car Accident",
-    "Poison Popcorn"
-   ],
-   "crime": {
-    "description": "By Criminal’s Preferred Method, The Ol’ {{SELECTION}}",
-    "offense": "CIRCUS MURDER",
-    "summary": "CIRCUS MURDER: {{SELECTION}}",
-    "title": [
-     "Big Top, Won’t Stop",
-     "The Latest Showman",
-     "There’s A Cadaver Born Every Minute",
-     "The Greatest Show No Longer On Earth",
-     "I Accidentally Fell Through A Burnin’ Ring Of Fire",
-     "Three Rings And A Chalk Outline"
-    ]
-   },
-   "familiarity": "STRANGERS",
-   "id": "114048",
-   "question": "You’ve chosen to bump someone off at the circus. Which method will you use?"
   }
  ]
 }
