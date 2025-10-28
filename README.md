@@ -6,10 +6,10 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 
 | Jeu  | Textes du jeu | Fichiers internes (images, polices, etc) | Sous-titres | Site internet (https://laboxdejack.fr/) | Doublage | Crédits |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Doominate  | ✅ | ❌ | ❌ | ❌ | ❌ | MisterShaokahn, Alexandre ROY |
-| Hear Say  | ✅ | ❌ | ❌ | ❌ | ❌ | MisterShaokahn, Alexandre ROY | 
-| Cookie Haus  | ❌ | ❌ | ❌ | ❌ | ❌ | Alexandre ROY |
-| Suspectives  | ✅ | ❌ | ❌ | ❌ | ❌ | Alexis L, Alexandre ROY |
+| Doominate  | ✅ | ✅ | ❌ | ❌ | ❌ | MisterShaokahn, Alexandre ROY |
+| Hear Say  | ✅ | ✅ | ❌ | ❌ | ❌ | MisterShaokahn, Alexandre ROY | 
+| Cookie Haus  | ❌ | ✅ | ❌ | ❌ | ❌ | Alexandre ROY |
+| Suspectives  | ✅ | ✅ | ❌ | ❌ | ❌ | Alexis L, Alexandre ROY |
 | Legends of Trivia | ❌ | ❌ | ❌ | ❌ | ❌ | Alexandre ROY |
 
 ✅ Terminé</br>
