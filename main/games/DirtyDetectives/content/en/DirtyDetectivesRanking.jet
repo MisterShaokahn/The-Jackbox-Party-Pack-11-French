@@ -7,10 +7,10 @@
    "choices": [
     "Vampires",
     "Zombies",
-    "Werewolves",
-    "Mummies"
+    "Loups-Garous",
+    "Momies"
    ],
-   "evidence": "When fighting monsters, suspect would choose to fight {{SELECTION-1}} first and {{SELECTION-3}} last.",
+   "evidence": "En combattant des monstres, le suspect choisirait de combattre {{SELECTION-1}} en premier et {{SELECTION-4}} en dernier.",
    "familiarity": "FRIENDS",
    "id": "107564",
    "interrogations": [
@@ -18,104 +18,104 @@
     "In your opinion, what’s the strongest monster of all?",
     "Do you think you’d survive any of these fights?"
    ],
-   "question": "Put these monsters in the order you’d be willing to fight them:",
-   "reminder": "Monster Fight",
-   "summary": "FIGHT: {{SELECTION-1}} FIRST, {{SELECTION-4}} LAST"
+   "question": "Mettez ces monstres dans l'ordre dans lequel vous seriez prêt à les combattre :",
+   "reminder": "Combat de monstres",
+   "summary": "COMBAT : {{SELECTION-1}} EN PREMIER, {{SELECTION-4}} EN DERNIER"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
    "choiceLimit": 3,
    "choices": [
-    "Biking",
-    "Swimming",
-    "Running"
+    "Cyclisme",
+    "Natation",
+    "Course"
    ],
-   "evidence": "Perp believes that in a triathlon, they would be best at {{SELECTION-1}}, and worst at {{SELECTION-3}}.",
+   "evidence": "Le coupable pense que dans un triathlon, il serait meilleur en {{SELECTION-1}} et pire en {{SELECTION-3}}.",
    "familiarity": "FRIENDS",
    "id": "107570",
    "interrogations": [
     "Walk us through your approach to triathlon events.",
     "When’s the last time you swam? Biked?"
    ],
-   "question": "Rank these triathlon events by how well you think you’d do in them, from best to worst.",
+   "question": "Classez ces épreuves de triathlon par ordre de préférence, de la meilleure à la pire.",
    "reminder": "Triathlon",
    "starterContent": true,
-   "summary": "TRI: BEST {{SELECTION-1}}, WORST {{SELECTION-3}}"
+   "summary": "TRI. : MEILLEUR {{SELECTION-1}}, PIRE {{SELECTION-3}}"
   },
   {
    "appearance": "EARLY",
    "category": "FORENSICS",
    "choiceLimit": 4,
    "choices": [
-    "Keys",
-    "Wallet",
-    "Earbuds",
-    "Phone"
+    "Clés",
+    "Portefeuille",
+    "Écouteurs",
+    "Téléphone"
    ],
-   "evidence": "When leaving the house, target's {{SELECTION-1}} is/are more important to them than their {{SELECTION-4}}.",
+   "evidence": "Lorsque le suspect quitte la maison, son / ses {{SELECTION-1}} sont plus importantes pour lui que son / ses {{SELECTION-4}}.",
    "familiarity": "STRANGERS",
    "id": "107592",
    "interrogations": [
     "Which of these items have you forgotten most recently?",
     "Do you carry a bag or is it all pockets for you?"
    ],
-   "question": "In what order do you check that you have these items before leaving the house?",
-   "reminder": "Leaving Home",
-   "summary": "Leaving Home: {{SELECTION-1}} BEFORE {{SELECTION-4}}"
+   "question": "Dans quel ordre vérifiez-vous que vous avez ces objets avant de quitter la maison ?",
+   "reminder": "Objets essentiels",
+   "summary": "Objets essentiels : {{SELECTION-1}} AVANT {{SELECTION-4}}"
   },
   {
    "appearance": "EARLY",
    "category": "TESTIMONY",
    "choiceLimit": 4,
    "choices": [
-    "Cook 10 meals",
-    "Chat for 5 hours",
-    "Clean moldy gutters",
-    "Drive 90 minutes to the airport"
+    "Cuisiner 10 plats",
+    "Discuter pendant 5 heures",
+    "Nettoyer des gouttières moisis",
+    "Conduire 90 minutes jusqu'à l'aéroport"
    ],
-   "evidence": "Perp would rather {{SELECTION-1}} for their neighbor than {{SELECTION-4}}.",
+   "evidence": "Le coupable préfère {{SELECTION-1}} pour son voisin plutôt que {{SELECTION-4}}.",
    "familiarity": "FRIENDS",
    "id": "107597",
    "interrogations": [
     "So... you got any neighbors?",
     "Do you feel energized by long conversations?"
    ],
-   "question": "Your neighbor needs some help around the house. Rank these from \"most likely to do\" to \"least likely to do\":",
-   "reminder": "Helping Neighbors",
-   "summary": "{{SELECTION-1}} BEFORE {{SELECTION-4}}"
+   "question": "Votre voisin a besoin d'aide autour de la maison. Classez ces tâches de \"plus susceptible de faire\" à \"moins susceptible de faire\" :",
+   "reminder": "Aider les voisins",
+   "summary": "{{SELECTION-1}} AVANT {{SELECTION-4}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
    "choiceLimit": 5,
    "choices": [
-    "New Car",
-    "House",
-    "Education",
-    "Helping Others",
-    "Debt Reduction"
+    "Acheter une nouvelle voiture",
+    "Acheter une maison",
+    "Se former",
+    "Aider les autres",
+    "Réduire ses dettes"
    ],
-   "evidence": "Lotto-winning perp would prioritize {{SELECTION-1}} over {{SELECTION-4}}.",
+   "evidence": "Si le coupable gagne au lotto, il donnerait la priorité à {{SELECTION-1}} plutôt qu'à {{SELECTION-4}}.",
    "familiarity": "FRIENDS",
    "id": "107598",
    "interrogations": [
     "Got your eye on anything nice these days?"
    ],
-   "question": "If you won the lotto, what would you do with the money, and in what order?",
-   "reminder": "Lottery Choices",
-   "summary": "{{SELECTION-1}} OVER {{SELECTION-4}}"
+   "question": "Si vous gagnez au lotto, que feriez-vous de l'argent, et dans quel ordre ?",
+   "reminder": "Priorités du lotto",
+   "summary": "{{SELECTION-1}} AVANT {{SELECTION-4}}"
   },
   {
    "appearance": "EARLY",
    "category": "FORENSICS",
    "choiceLimit": 3,
    "choices": [
-    "Feet",
-    "Farts",
-    "Fish"
+    "Pieds",
+    "Pets",
+    "Poissons"
    ],
-   "evidence": "Perp prefers the smell of {{SELECTION-1}} over the the smell of {{SELECTION-3}}.",
+   "evidence": "Le coupable préfère la senteur des {{SELECTION-1}} à celle des {{SELECTION-3}}.",
    "familiarity": "FRIENDS",
    "id": "108165",
    "interrogations": [
@@ -123,23 +123,23 @@
     "You ever take a whiff when you toot-toot?",
     "You like sushi?"
    ],
-   "question": "Rank these smells from best to worst!",
+   "question": "Classez ces senteurs de la plus agréable à la moins agréable :",
    "reminder": "Yucky Smells",
    "starterContent": true,
-   "summary": "{{SELECTION-1}} SMELL > {{SELECTION-3}} SMELL"
+   "summary": "ODEUR DES {{SELECTION-1}} > {{SELECTION-3}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
    "choiceLimit": 5,
    "choices": [
-    "Fashion Designer",
-    "Sushi Chef",
-    "Dental Hygienist",
-    "Pro Basketball Coach",
-    "Calculus Teacher"
+    "Designer de mode",
+    "Chef sushi",
+    "Hygiéniste dentaire",
+    "Entraîneur de basket-ball",
+    "Professeur de mathématiques"
    ],
-   "evidence": "Suspect thinks they're more prepped to be a {{SELECTION-1}} than a {{SELECTION-5}}.",
+   "evidence": "Le suspect pense qu'il est mieux préparé à être un {{SELECTION-1}} qu'un {{SELECTION-5}}.",
    "familiarity": "FRIENDS",
    "id": "108666",
    "interrogations": [
@@ -147,23 +147,23 @@
     "What is your relationship to the world of fashion?",
     "What kind of math grades did you get in school?"
    ],
-   "question": "On a scale of “Great Job!” to “Fired!,” rank the following jobs in order of how good you would be at them with no prep.",
+   "question": "Sur une échelle de “Super travail !” à “Viré !”, classez les emplois suivants en fonction de votre aptitude à les exercer sans préparation.",
    "reminder": "Hard Occupations",
    "starterContent": false,
-   "summary": "BETTER AT {{SELECTION-1}} THAN {{SELECTION-5}}"
+   "summary": "MIEUX À {{SELECTION-1}} QU'À {{SELECTION-5}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
    "choiceLimit": 5,
    "choices": [
-    "70s",
-    "80s",
-    "90s",
-    "2000s",
-    "2010s"
+    "Années 70",
+    "Années 80",
+    "Années 90",
+    "Années 2000",
+    "Années 2010"
    ],
-   "evidence": "Perp loves music of the {{SELECTION-1}} most, and music of the {{SELECTION-4}} least.",
+   "evidence": "Le coupable préfère la musique des {{SELECTION-1}}, et la musique des {{SELECTION-5}} le moins.",
    "familiarity": "FRIENDS",
    "id": "108796",
    "interrogations": [
@@ -171,34 +171,34 @@
     "What was the first band you were into?",
     "What’s one of your favorite concert experiences?"
    ],
-   "question": "Rank the following time periods by how much you like their music.",
-   "reminder": "Music Prefs",
+   "question": "Classez les périodes suivantes en fonction de l'appréciation de leur musique.",
+   "reminder": "Préférences musicales",
    "starterContent": false,
-   "summary": "LOVES {{SELECTION-1}} MUSIC, NOT REALLY {{SELECTION-5}} MUSIC"
+   "summary": "ADORE LES {{SELECTION-1}}, DETESTE LES {{SELECTION-5}}"
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
    "choiceLimit": 6,
    "choices": [
-    "Strength",
-    "Dexterity",
+    "Force",
+    "Dextérité",
     "Constitution",
     "Intelligence",
-    "Wisdom",
-    "Charisma"
+    "Sagesse",
+    "Charisme"
    ],
-   "evidence": "In D&D, perp would be a high {{SELECTION-1}}, low {{SELECTION-6}} character.",
+   "evidence": "Dans D&D, le coupable serait un personnage avec un.e haute {{SELECTION-1}} et un.e faible {{SELECTION-6}}.",
    "familiarity": "FRIENDS",
    "id": "108798",
    "interrogations": [
     "You have to get past a guard, what do you do?",
     "How good are you at checking for traps?"
    ],
-   "question": "If you were a Dungeons & Dragons character, rank these core skills of yours from best to worst:",
-   "reminder": "D&D Skills",
+   "question": "Si vous étiez un personnage de Dungeons & Dragons, classez ces compétences de base de la meilleure à la pire :",
+   "reminder": "Compétences D&D",
    "starterContent": true,
-   "summary": "HIGH {{SELECTION-1}}, LOW {{SELECTION-6}}"
+   "summary": "HAUTE {{SELECTION-1}}, FAIBLE {{SELECTION-6}}"
   },
   {
    "appearance": "LATE",
@@ -211,15 +211,15 @@
     "Greta Thunberg",
     "{{PLAYER}}"
    ],
-   "evidence": "Perp reportedly thinks {{SELECTION-1}} is cooler than {{SELECTION-5}}.",
+   "evidence": "Le coupable pense que {{SELECTION-1}} est plus cool que {{SELECTION-5}}.",
    "familiarity": "FRIENDS",
    "id": "109029",
    "interrogations": [
     "Who do you think is the coolest celebrity?",
     "What’s the coolest thing about {{PLAYER}}?"
    ],
-   "question": "Rank the following individuals by how cool you think they are.",
-   "reminder": "Cool People",
+   "question": "Classez les individus suivants en fonction de leur coolitude.",
+   "reminder": "Personnes cool",
    "starterContent": true,
    "summary": "{{SELECTION-1}} > {{SELECTION-5}}"
   },
@@ -228,36 +228,36 @@
    "category": "TESTIMONY",
    "choiceLimit": 6,
    "choices": [
-    "[i]Jeopardy![/i]",
-    "[i]Wheel of Fortune[/i]",
+    "[i]Des chiffres et des lettres[/i]",
+    "[i]La roue de la fortune[/i]",
     "[i]Top Chef[/i]",
-    "[i]Survivor[/i]"
+    "[i]Koh-lanta[/i]"
    ],
-   "evidence": "Perp thinks they would crush it on {{SELECTION-1}}, but lose on {{SELECTION-4}}.",
+   "evidence": "Le coupable pense qu'il gagnerait à {{SELECTION-1}}, mais perdrait à {{SELECTION-4}}.",
    "familiarity": "FRIENDS",
    "id": "109030",
    "interrogations": [
     "What’s your approach to winning game shows?",
     "How are your trivia skills versus your cooking skills?"
    ],
-   "question": "Rank the following shows by how well you could do in each one.",
-   "reminder": "Reality Winners",
+   "question": "Classez les émissions suivantes en fonction de vos performances potentielles.",
+   "reminder": "Gagnant ou perdant",
    "starterContent": true,
-   "summary": "WIN {{SELECTION-1}}, LOSE {{SELECTION-4}}"
+   "summary": "GAGNE {{SELECTION-1}}, PERD {{SELECTION-4}}"
   },
   {
    "appearance": "LATE",
    "category": "FORENSICS",
    "choiceLimit": 6,
    "choices": [
-    "World War II",
+    "La 2nde Guerre mondiale",
     "The Infinity War",
-    "The Trojan War",
-    "The Console Wars",
-    "Cake Wars",
-    "The Clone Wars"
+    "La Guerre de Troie",
+    "Les Guerres de consoles",
+    "Bed War",
+    "La Guerre des clones"
    ],
-   "evidence": "Target knows wayyyyy more about {{SELECTION-1}} than {{SELECTION-6}}.",
+   "evidence": "Le suspect sait beaucoup plus de choses sur {{SELECTION-1}} que sur {{SELECTION-6}}.",
    "familiarity": "FRIENDS",
    "id": "109660",
    "interrogations": [
@@ -265,10 +265,10 @@
     "Have you seen all the [i]Avengers[/i] films?",
     "Do you watch baking shows?"
    ],
-   "question": "Rank these wars by how much you know about them (most to least).",
-   "reminder": "The Art of \"Wars\"",
+   "question": "Classez ces guerres en fonction de ce que vous savez à leur sujet (du plus au moins).",
+   "reminder": "L'Art des \"Guerres\"",
    "starterContent": true,
-   "summary": "KNOWS {{SELECTION-1}}, NOT {{SELECTION-6}}",
+   "summary": "CONNAÎT {{SELECTION-1}}, NE CONNAÎT PAS {{SELECTION-6}}",
    "x": false
   },
   {
@@ -276,12 +276,12 @@
    "category": "PROFILE",
    "choiceLimit": 3,
    "choices": [
-    "Space",
-    "Orlando",
-    "[i]Arby’s[/i]"
+    "L'espace",
+    "La normandie",
+    "[i]Burger King[/i]"
    ],
    "countrySpecific": true,
-   "evidence": "Subject would go to {{SELECTION-1}} before they went to {{SELECTION-3}}.",
+   "evidence": "Le sujet irait à {{SELECTION-1}} avant d'aller à {{SELECTION-3}}.",
    "familiarity": "STRANGERS",
    "id": "114000",
    "interrogations": [
@@ -289,43 +289,22 @@
     "When was your last [i]Arby’s[/i] meal?",
     "How do you feel about space travel?"
    ],
-   "question": "Rank these in order of where you’d like to go:",
-   "reminder": "Where Ya Goin’?",
-   "summary": "GO TO {{SELECTION-1}} BEFORE {{SELECTION-3}}"
-  },
-  {
-   "appearance": "EARLY",
-   "category": "FORENSICS",
-   "choiceLimit": 3,
-   "choices": [
-    "Burning Man",
-    "Antarctica",
-    "The Jersey Shore"
-   ],
-   "evidence": "Suspect would go to {{SELECTION-1}} before they went to {{SELECTION-3}}.",
-   "familiarity": "STRANGERS",
-   "id": "114005",
-   "interrogations": [
-    "What makes a good trip for you?",
-    "How do you feel about frozen wastelands?",
-    "Do you like crowds? How about desert art experiences?"
-   ],
-   "question": "Rank these locations in the order of how much you’d want to visit:",
-   "reminder": "Where Ya Goin’?",
-   "summary": "TRAVEL: {{SELECTION-1}} BEFORE {{SELECTION-3}}"
+   "question": "Classez ces lieux par ordre de préférence :",
+   "reminder": "Où allez-vous ?",
+   "summary": "ALLEZ À {{SELECTION-1}} AVANT {{SELECTION-3}}"
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
    "choiceLimit": 5,
    "choices": [
-    "A Map",
-    "A Chainsaw",
-    "Medicine",
-    "A Horse",
-    "Matches"
+    "Une carte",
+    "Une tronçonneuse",
+    "Des médicaments",
+    "Un cheval",
+    "Des allumettes"
    ],
-   "evidence": "When gearing up for a zombie apocalypse, suspect wants {{SELECTION-1}} most of all, and {{SELECTION-5}} the least.",
+   "evidence": "En se préparant pour une apocalypse zombie, le suspect veut {{SELECTION-1}} avant tout, et {{SELECTION-5}} le moins.",
    "familiarity": "STRANGERS",
    "id": "114022",
    "interrogations": [
@@ -333,22 +312,22 @@
     "Do you think you could operate a chainsaw?",
     ""
    ],
-   "question": "It’s the zombie apocalypse. Rank by how much you’d want these on hand:",
-   "reminder": "Zombie War Supplies",
-   "summary": "Zombie War: {{SELECTION-1}} First, {{SELECTION-5}} Last"
+   "question": "C'est l'apocalypse zombie. Classez ces objets par ordre de préférence :",
+   "reminder": "Outil d'apocalypse zombie",
+   "summary": "Apocalypse zombie : {{SELECTION-1}} en premier, {{SELECTION-5}} en dernier"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
    "choiceLimit": 5,
    "choices": [
-    "A Walk",
-    "A Nap",
-    "Movies-TV",
-    "A Bath",
-    "Reading"
+    "Une promenade",
+    "Une sieste",
+    "Films-Séries",
+    "Un bain",
+    "Lecture"
    ],
-   "evidence": "When it’s time to recharge, suspect favors {{SELECTION-1}} but would only choose {{SELECTION-5}} as their last option.",
+   "evidence": "Quand c'est l'heure de récupérer ses forces, le suspect privilégie {{SELECTION-1}} mais ne choisirait {{SELECTION-5}} qu'en dernier recours.",
    "familiarity": "STRANGERS",
    "id": "114046",
    "interrogations": [
@@ -356,22 +335,22 @@
     "Can you fall asleep easily?",
     "Where do you like to walk?"
    ],
-   "question": "It’s time to recharge. Rank these activities in the order you’d consider them:",
-   "reminder": "Recharge Options",
-   "summary": "RECHARGE: {{SELECTION-1}} First, {{SELECTION-5}} Last"
+   "question": "C'est l'heure de récupérer ses forces. Classez ces activités par ordre de préférence :",
+   "reminder": "Options de recharge",
+   "summary": "RECHARGE : {{SELECTION-1}} en premier, {{SELECTION-5}} en dernier"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
    "choiceLimit": 5,
    "choices": [
-    "Clean",
-    "Fast",
-    "Friendly",
-    "Popular",
-    "Nearby"
+    "Propre",
+    "Rapide",
+    "Amical",
+    "Populaire",
+    "À proximité"
    ],
-   "evidence": "When choosing a restaurant, suspect wants it to be {{SELECTION-1}}, doesn’t care if it’s {{SELECTION-5}}.",
+   "evidence": "Quand il choisit un restaurant, le coupable veut que ce soit {{SELECTION-1}}, et ne se soucie pas que ce soit {{SELECTION-5}}.",
    "familiarity": "STRANGERS",
    "id": "114079",
    "interrogations": [
@@ -379,21 +358,21 @@
     "How important is cleanliness to you?",
     "How far will you travel to try a new place?"
    ],
-   "question": "Rank these restaurant qualities in their order of importance to you.",
-   "reminder": "Restaurant Prefs",
-   "summary": "RESTAURANT: WANTS {{SELECTION-1}} OVER {{SELECTION-5}}"
+   "question": "Classez ces qualités de restaurant par ordre d'importance pour vous.",
+   "reminder": "Préférences de restaurant",
+   "summary": "RESTAURANT : VEUT {{SELECTION-1}} PLUTÔT QUE {{SELECTION-5}}"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
    "choiceLimit": 4,
    "choices": [
-    "Traffic",
-    "Mosquitoes",
-    "Taxes",
-    "Social media"
+    "Embouteillages",
+    "Moustiques",
+    "Impôts",
+    "Réseaux sociaux"
    ],
-   "evidence": "Given the choice, suspect would completely get rid of {{SELECTION-1}} first, and {{SELECTION-4}} last.",
+   "evidence": "Si il avait le choix, le suspect se débarrasserait complètement de {{SELECTION-1}} en premier, et de {{SELECTION-4}} en dernier.",
    "familiarity": "STRANGERS",
    "id": "114118",
    "interrogations": [
@@ -401,21 +380,21 @@
     "How much do you think about finance?",
     "Do you worry about upsetting the delicate balance of life?"
    ],
-   "question": "If you could completely remove things from modern life, rank these in the order you’d have them disappear:",
-   "reminder": "Make It Go Away",
-   "summary": "GET RID OF: {{SELECTION-1}} FIRST, {{SELECTION-4}} LAST"
+   "question": "Si vous pouviez complètement supprimer des choses, classez-les dans l'ordre dans lequel vous voudriez qu'elles disparaissent :",
+   "reminder": "Faites-le disparaître",
+   "summary": "À ÉLIMINER : {{SELECTION-1}} EN PREMIER, {{SELECTION-4}} EN DERNIER"
   },
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
    "choiceLimit": 4,
    "choices": [
-    "Beach",
-    "Couch",
-    "Forest",
-    "Bookstore"
+    "La plage",
+    "Le canapé",
+    "La forêt",
+    "Une librairie"
    ],
-   "evidence": "When looking for their “happy place”, suspect would head towards a {{SELECTION-1}} first and a {{SELECTION-4}} last.",
+   "evidence": "Pour trouver leur « endroit heureux », le suspect se dirigerait d'abord vers {{SELECTION-1}} et en dernier vers {{SELECTION-4}}.",
    "familiarity": "STRANGERS",
    "id": "114238",
    "interrogations": [
@@ -423,21 +402,21 @@
     "What’s a typical beach visit like for you?",
     "What are you looking for in a happy place?"
    ],
-   "question": "Rank these happy places in your order of preference:",
-   "reminder": "Happy Place",
-   "summary": "HAPPY PL: {{SELECTION-1}} FIRST, {{SELECTION-4}} LAST"
+   "question": "Classez ces endroits heureux par ordre de préférence :",
+   "reminder": "Endroit heureux",
+   "summary": "ENDROIT HEUREUX : {{SELECTION-1}} EN PREMIER, {{SELECTION-4}} EN DERNIER"
   },
   {
    "appearance": "LATE",
    "category": "PROFILE",
    "choiceLimit": 4,
    "choices": [
-    "Phone",
-    "Pants",
+    "Téléphone",
+    "Pantalon",
     "Snacks",
-    "Soap"
+    "Savon"
    ],
-   "evidence": "Suspect would find it hardest to live without “{{SELECTION-1}}”, but not hard to live without “{{SELECTION-4}}”",
+   "evidence": "Le suspect aurait le plus de mal à vivre sans “{{SELECTION-1}}”, mais pas sans “{{SELECTION-4}}”",
    "familiarity": "STRANGERS",
    "id": "114373",
    "interrogations": [
@@ -445,21 +424,21 @@
     "Walk us through how you ordered your choices of what to live without.",
     "Got any favorite snacks?"
    ],
-   "question": "Put these in order of how hard it would be to live without them.",
-   "reminder": "Can’t Live Without",
-   "summary": "CAN’T LIVE WITHOUT: {{SELECTION-1}} FIRST, {{SELECTION-4}} LAST"
+   "question": "Classez ces éléments par ordre de difficulté à vivre sans eux.",
+   "reminder": "Incontournable",
+   "summary": "INCONTOURNABLE : {{SELECTION-1}} EN PREMIER, {{SELECTION-4}} EN DERNIER"
   },
   {
    "appearance": "EARLY",
    "category": "PROFILE",
    "choiceLimit": 4,
    "choices": [
-    "Puppy",
-    "Firewood",
-    "Silk",
-    "Cotton Candy"
+    "Un chiot",
+    "Un chaton",
+    "La soie",
+    "La barbe à papa"
    ],
-   "evidence": "Suspect on record saying that {{SELECTION-1}} feels better than {{SELECTION-4}}.",
+   "evidence": "Le suspect pense que {{SELECTION-1}} est plus agréable au toucher que {{SELECTION-4}}.",
    "familiarity": "STRANGERS",
    "id": "114419",
    "interrogations": [
@@ -467,9 +446,9 @@
     "Share your thoughts on cotton candy.",
     "When’s the last time you encountered any of these items?"
    ],
-   "question": "Put these in the order they’d feel nice to touch.",
-   "reminder": "Good Feels",
-   "summary": "FEELS: {{SELECTION-1}} NICER THAN {{SELECTION-4}}"
+   "question": "Classez ces éléments par ordre de sensation agréable au toucher.",
+   "reminder": "Bonnes Sensations",
+   "summary": "SENSATIONS : {{SELECTION-1}} PLUS AGRÉABLE QUE {{SELECTION-4}}"
   }
  ]
 }

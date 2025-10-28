@@ -1,0 +1,42 @@
+{
+  "table": {
+    "en": {
+      "INTERNET_CONNECTED": "Nous venons de découvrir internet.",
+      "INTERNET_DISCONNECTED": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Vérifiez que votre connexion Internet fonctionne correctement.",
+      "ROOM_DESTROYED": "Nous sommes désolés, une erreur réseau est survenue et votre salle a été détruite.<br />Vérifiez que votre connexion Internet fonctionne correctement.",
+      "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "Nous sommes désolés, une erreur réseau est survenue et votre salle a été détruite.<br/>Vérifiez que votre connexion Internet fonctionne correctement. (Cause : 1)",
+      "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "Nous sommes désolés, une erreur réseau est survenue et votre salle a été détruite.<br/>Vérifiez que votre connexion Internet fonctionne correctement. (Cause : 2)",
+      "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "Nous sommes désolés, une erreur réseau est survenue et votre salle a été détruite.<br/>Vérifiez que votre connexion Internet fonctionne correctement. (Cause : 3)",
+      "ROOM_EXIT_CAUSE_DISCONNECT": "Nous sommes désolés, une erreur réseau est survenue et votre salle a été détruite.<br/>Vérifiez que votre connexion Internet fonctionne correctement. (Cause : 4)",
+      "ROOM_EXIT_CAUSE_BY_REQUEST": "Nous sommes désolés, une erreur réseau est survenue et votre salle a été détruite.<br/>Vérifiez que votre connexion Internet fonctionne correctement. (Cause : 5)",
+      "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "Nous sommes désolés, une erreur réseau est survenue et votre salle a été détruite.<br/>Vérifiez que votre connexion Internet fonctionne correctement. (Cause : 6)",
+      "SOCKET_DISCONNECTED": "Nous sommes désolés, nous avons perdu votre connexion aux serveurs de Jackbox Games.",
+      "TIMEOUT": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Vérifiez que votre connexion Internet fonctionne correctement.",
+      "TIMEOUT_INTERNET": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs.<br />Vérifiez que votre connexion Internet fonctionne correctement.",
+      "USER_DISCONNECT": "Nous sommes désolés, le serveur vous a déconnecté(e). Veuillez réessayer.",
+      "USER_ACCESS_DENIED": "Nous sommes désolés, nous ne pouvons pas poursuivre.",
+      "START_PRIVILEGE_ERROR": "Nous sommes désolés, nous ne pouvons pas poursuivre.",
+      "TROPHY_PREPARE_ERROR": "Nous sommes désolés, nous ne pouvons pas poursuivre.",
+      "SAVE_PREPARE_FAIL": "Nous sommes désolés, nous ne pouvons pas poursuivre.",
+      "LICENSE_ERROR": "Nous sommes désolés, nous avons perdu la licence pour ce contenu !",
+      "LOST_LICENSE": "Nous sommes désolés, nous avons perdu la licence pour ce contenu !",
+      "STEAM_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Steam.",
+      "TWITCH_PRIME_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Twitch Prime.",
+      "LOST_DLC": "Nous sommes désolés, nous n'avons pas trouvé la licence pour votre DLC. Retour au menu…",
+      "START": "DÉMARRER",
+      "SKIP": "PASSER",
+      "LOADING": "CHARGEMENT…",
+      "SWITCH_USER": "CHANGER D'UTILISATEUR",
+      "LEGAL": "Created & Developed by Jackbox Games, Inc. Game and Software © 2025 Jackbox Games, Inc. All rights reserved. Jackbox Games and the Jackbox Games logo are registered trademarks of Jackbox Games, Inc. Legends of Trivia, Suspectives, Doominate, Hear Say, Cookie Haus, and Party Pack are trademarks of Jackbox Games, Inc. All other trademarks and logos are the property of their respective owners.",
+      "LEGAL_CRIWARE": "Powered by “CRIWARE”. CRIWARE is a trademark of CRI Middleware Co., Ltd.",
+      "LEGAL_FMOD": "This product uses FMOD Sound System by Firelight Technologies",
+      "LANGUAGE_NAME": "English",
+      "LANGUAGE": "Langue",
+      "USER_RESTRICTION": "Désolé, les contrôles parentaux vous empêchent de continuer.",
+      "PSN_LOGOUT": "Vous avez été déconnecté du « PlayStation™Network ». Vous devez être connecté\\nau « PlayStation™Network » pour jouer en ligne. Connectez-vous !",
+      "GENERIC_ERROR": "Une erreur est survenue."
+    },
+    "priority": 1,
+    "id": "106738"
+  }
+}
