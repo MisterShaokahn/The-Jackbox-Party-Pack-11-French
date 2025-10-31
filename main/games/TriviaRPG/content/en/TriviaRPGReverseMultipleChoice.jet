@@ -970,7 +970,7 @@
         },
         {
           "clue": "Trois doigts pliés, le pouce dessous",
-          "text": "Lettre formée avec la main en langue des signes américaine"
+          "text": "Lettre formée avec la main plate vers soi, les doigts bien serrés et le pouce plié en LSF"
         },
         {
           "clue": "Première lettre de Munich",
@@ -986,8 +986,8 @@
     {
       "questions": [
         {
-          "clue": "Ah, pitié pour un fou !",
-          "text": "Équipe à laquelle appartenait M. T"
+      "clue": "Langue française",
+      "text": "Peut servir d’article ou de préposition selon le contexte."
         },
         {
           "clue": "La première véritable Alpha",
@@ -1019,12 +1019,12 @@
           "text": "Symbole d’un strike"
         },
         {
-          "clue": "Son nom était Charles Xavier",
-          "text": "Nom du hibou dans [i]Mister Rogers’ Neighborhood[/i] et [i]Daniel Tiger[/i]"
+      "clue": "Culture populaire",
+      "text": "Lettre emblématique de mutants célèbres chez Marvel.
         },
         {
           "clue": "Elon Musk adore cette lettre",
-          "text": "Ancien nom de Twitter"
+          "text": "Nouveau nom de Twitter"
         },
         {
           "clue": "Superman a cette vision rayonnante",
@@ -1072,7 +1072,7 @@
         },
         {
           "clue": "Ce n’est pas “FOOOORK”",
-          "text": "Cri de guerre du héros [i]The Tick[/i]"
+          "text": "Peut être à café ou à soupe"
         },
         {
           "clue": "Son vrai nom est Spooner",
@@ -1105,7 +1105,7 @@
         },
         {
           "clue": "Couteau au singulier",
-          "text": "Ils sont [i]sortis[/i] dans le film policier de 2019"
+          "text": "Ils ont été [i]tirés[/i] dans le film policier de 2019"
         },
         {
           "clue": "Comme une lame de samouraï",
@@ -1130,10 +1130,10 @@
         },
         {
           "clue": "Et elle s’en sert pour se coiffer",
-          "text": "Ariel appelle ceci un “dinglehopper”"
+          "text": "Ariel appelle ceci un “zirgoflex”"
         },
         {
-          "clue": "Rime avec “pork”",
+          "clue": "Rime avec “machette”",
           "text": "Partie à deux dents du vélo tenant la roue avant"
         }
       ],
@@ -1159,7 +1159,7 @@
         },
         {
           "clue": "Rime avec “top licks”",
-          "text": "Les plus anciens connus étaient en bronze et datent de 1200 av. J.-C."
+          "text": "Son format connu le plus ancien était en bronze et date de 1200 av. J.-C."
         }
       ],
       "text": "Baguettes"
