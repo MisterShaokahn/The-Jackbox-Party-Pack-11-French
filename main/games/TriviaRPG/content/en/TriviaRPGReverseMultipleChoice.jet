@@ -1076,7 +1076,7 @@
         },
         {
           "clue": "Son vrai nom est Spooner",
-          "text": "Surnom d’un détenu dans [i]Paddington 2[/i]"
+          "text": "Cet outil n'existe pas dans [i]Matrix[/i]"
         },
         {
           "clue": "Rime avec “moon”",
@@ -1143,11 +1143,11 @@
       "questions": [
         {
           "clue": "Commence par un C",
-          "text": "Valse pour piano simple et célèbre"
+          "text": "Pain long et croustillant"
         },
         {
           "clue": "Ni cuillère ni fourchette",
-          "text": "Le mythe du “ciel rond et terre carrée” a inspiré sa forme"
+          "text": "Objet utilisé pour frapper des tambours"
         },
         {
           "clue": "Rime avec “drop bricks”",
@@ -1211,7 +1211,7 @@
         },
         {
           "clue": "______ Powers",
-          "text": "Personnage des années 90 connu pour “Shagadelic, baby!”"
+          "text": "Personnage des années 90 connu pour “C'est niquédélique, bébé!”"
         },
         {
           "clue": "Pas Paris",
@@ -1224,7 +1224,7 @@
       "questions": [
         {
           "clue": "Go with the Flo",
-          "text": "Elle chante “Dog Days Are Over” avec son groupe"
+          "text": "Elle + The Machine chantent ensemble"
         },
         {
           "clue": "Ni Paris ni Sydney",
@@ -1261,7 +1261,7 @@
         },
         {
           "clue": "Sid pour les intimes",
-          "text": "________ Carton, personnage central de [i]Un conte de deux villes[/i]"
+          "text": "________ Fox, aventurière de la série du même nom."
         },
         {
           "clue": "Le pays d’en bas",
@@ -1283,20 +1283,20 @@
           "text": "Cocktail rougeâtre à base de rhum"
         },
         {
-          "clue": "Pensez au climat de la Floride",
-          "text": "Équipe sportive de l’Université de Miami"
+      "clue": "Souffle mythologique",
+      "text": "Dans la Bible, Jonas fut avalé par une créature marine lors d’un de ceux-ci"
         },
         {
           "clue": "Catégories 1 à 5",
           "text": "Mesuré selon l’échelle Saffir-Simpson"
         },
         {
-          "clue": "Il pleut beaucoup pendant tout le film",
-          "text": "Type de fête dans [i]Bodies Bodies Bodies[/i]"
+      "clue": "“Katrina” l’a prouvé",
+      "text": "Responsable de l’inondation de La Nouvelle-Orléans en 2005"
         },
         {
           "clue": "Surnom lié à la puissance de ses coups",
-          "text": "Chanson de Bob Dylan sur un boxeur condamné à tort"
+          "text": "Chanson de Stéphanie de Monaco sortie en 1986"
         }
       ],
       "text": "Ouragan"
@@ -1309,19 +1309,19 @@
         },
         {
           "clue": "Il galope comme le vent",
-          "text": "Nom du cheval de Zorro"
+          "text": "Nom d'une X-men"
         },
         {
-          "clue": "Université située dans le Tennessee",
-          "text": "Nom de l’équipe sportive de King University"
+      "clue": "Pas de cœur ni de courage",
+      "text": "Emporte Dorothy dans [i]Le Magicien d’Oz[/i]"
         },
         {
           "clue": "[i]Twisters[/i]",
           "text": "Film de 2024 où Glen Powell et Daisy Edgar-Jones les pourchassent"
         },
         {
-          "clue": "Ne se termine pas par un “e”",
-          "text": "Avion militaire européen : le Panavia ___"
+      "clue": "Danse destructrice",
+      "text": "Souvent décrite comme un “doigt de Dieu”"
         }
       ],
       "text": "Tornade"
@@ -1334,7 +1334,7 @@
         },
         {
           "clue": "Ça brûle, brûle, brûle...",
-          "text": "Chanson de Johnny Cash “Ring of ___”"
+          "text": "Chanson de Johnny Halliday “Allumer le  ___”"
         },
         {
           "clue": "_____ & Cendres",
@@ -1392,11 +1392,11 @@
         },
         {
           "clue": "Nom de famille West, prénom différent",
-          "text": "Prénom du premier enfant de Kim Kardashian et Kanye West"
+          "text": "Prénom du premier enfant de Kim Kardashian et Kanye West"*
         },
         {
           "clue": "Allitération",
-          "text": "Film d’Hitchcock : _____ [i]by Northwest[/i]"
+          "text": "Film d’Hitchcock : _____ [i]by Northwest[/i]"*
         },
         {
           "clue": "Direction vers la maison du Père Noël",
@@ -1404,7 +1404,7 @@
         },
         {
           "clue": "N’a qu’une seule voyelle",
-          "text": "Il a quitté l’armée après l’affaire Iran-Contra"
+          "text": "Il a quitté l’armée après l’affaire Iran-Contra"*
         }
       ],
       "text": "Nord"
@@ -1417,19 +1417,19 @@
         },
         {
           "clue": "S pour Sydney",
-          "text": "Sydney est la capitale de la Nouvelle-______-Galles-du-Sud"
+          "text": "Sydney est la capitale de la Nouvelle-Galles-du-________"
         },
         {
           "clue": "Le deuxième mot est “Afrique”",
-          "text": "Ville du Cap se trouve en ______ Afrique"
+          "text": "La Ville du Cap se trouve en Afrique du _______"
         },
         {
           "clue": "Quelle direction mène au Mexique depuis les États-Unis ?",
-          "text": "Vieille chanson de Gene Autry : “____ of the Border (Down Mexico Way)”"
+          "text": "Vieille chanson de Gene Autry : “____ of the Border (Down Mexico Way)”"*
         },
         {
           "clue": "“Shout, shout, let it all out!”",
-          "text": "Anagramme du titre d’une chanson de Tears for Fears"
+          "text": "Anagramme du titre d’une chanson de Tears for Fears"*
         }
       ],
       "text": "Sud"
@@ -1442,7 +1442,7 @@
         },
         {
           "clue": "Commence aussi par une voyelle",
-          "text": "___ [i]of Eden[/i], roman de John Steinbeck"
+          "text": "À ___ [i]d'Éden[/i], roman de John Steinbeck"
         },
         {
           "clue": "Opposée à sa sœur de l’Ouest",
@@ -1450,11 +1450,11 @@
         },
         {
           "clue": "Prénom : Clint",
-          "text": "___wood, réalisateur de [i]Million Dollar Baby[/i] et [i]Juror #2[/i]"
+          "text": "___wood, réalisateur de [i]Million Dollar Baby[/i] et [i]Juror #2[/i]"*
         },
         {
           "clue": "Ajoutez un “y” au début",
-          "text": "Ajoutez un “y” pour obtenir un champignon utilisé dans la bière"
+          "text": "Ajoutez un “y” pour obtenir un champignon utilisé dans la bière"*
         }
       ],
       "text": "Est"
@@ -1463,7 +1463,7 @@
       "questions": [
         {
           "clue": "Le soleil se couche sur son nom",
-          "text": "Adam qui jouait Batman dans la série télé des années 1960"
+          "text": "Adam qui jouait Batman dans la série télé des années 1960"*
         },
         {
           "clue": "Autrement dit “allez à gauche” sur la carte",
@@ -1471,11 +1471,11 @@
         },
         {
           "clue": "Dernier mot par ordre alphabétique",
-          "text": "Comédie musicale de 1957 : ___ [i]Side Story[/i]"
+          "text": "Comédie musicale de 1957 : ___ [i]Side Story[/i]"*
         },
         {
           "clue": "Une série sur des robots cow-boys",
-          "text": "___[i]World[/i] sur HBO"
+          "text": "___[i]World[/i] sur HBO"*
         },
         {
           "clue": "Opposé de l’est",
