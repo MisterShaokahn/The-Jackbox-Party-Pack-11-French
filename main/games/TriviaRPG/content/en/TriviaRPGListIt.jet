@@ -6300,6 +6300,559 @@
    "category": "Human Biology",
    "id": "114160",
    "question": "Les groupes sanguins (Système de Landsteiner)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Openheimer"
+     ],
+     "answer": "Oppenheimer"
+    },
+    {
+     "altSpellings": [
+      "Tenent",
+      "Tennet"
+     ],
+     "answer": "Tenet"
+    },
+    {
+     "altSpellings": [
+      "Dunkirk"
+     ],
+     "answer": "Dunkerque"
+    },
+    {
+     "altSpellings": [
+      "Interstellaire"
+     ],
+     "answer": "Interstellar"
+    },
+    {
+     "altSpellings": [
+      "Dark Knight Rises",
+      "Ascension du Chevalier Noir",
+      "L'Ascension du Chevalier Noir"
+     ],
+     "answer": "The Dark Knight Rises"
+    },
+    {
+     "altSpellings": [
+      "Origine"
+     ],
+     "answer": "Inception"
+    },
+    {
+     "altSpellings": [
+      "Dark Knight",
+      "The Dark Knight",
+      "Chevalier noir",
+      "Le Chevalier noir",
+      "The Dark Knight, Le Chevalier Noir"
+     ],
+     "answer": "The Dark Knight : Le Chevalier Noir"
+    },
+    {
+     "altSpellings": [
+      "Prestige",
+      "The Prestige"
+     ],
+     "answer": "Le Prestige"
+    },
+    {
+     "altSpellings": [
+      "Batman",
+      "Batman : Le Commencement"
+     ],
+     "answer": "Batman Begins"
+    },
+    {
+     "altSpellings": [
+      "Insomnie"
+     ],
+     "answer": "Insomnia"
+    },
+    {
+     "altSpellings": [
+      "Momento"
+     ],
+     "answer": "Memento"
+    },
+    {
+     "altSpellings": [
+      "Following",
+      "Suiveur"
+     ],
+     "answer": "Following, le suiveur"
+    },
+    {
+     "altSpellings": [
+      "Odyssey",
+      "The Odyssey",
+      "Odyssée"
+     ],
+     "answer": "L'Odyssée"
+    }
+   ],
+   "category": "Autuer’s Ouvre",
+   "id": "114719",
+   "question": "Films réalisés par Christopher Nolan"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Indian Elephant",
+      "African Elephant",
+      "Bull elephant",
+      "Elephant",
+      "éléphant"
+     ],
+     "answer": "Éléphant"
+    },
+    {
+     "altSpellings": [
+      "King Cobra"
+     ],
+     "answer": "Cobra"
+    },
+    {
+     "altSpellings": [
+      "Tiger"
+     ],
+     "answer": "Tigre"
+    },
+    {
+     "altSpellings": [
+      "Hippo",
+      "Hippopotamus"
+     ],
+     "answer": "Hippopotame"
+    },
+    {
+     "altSpellings": [
+      "Gorilla"
+     ],
+     "answer": "Gorille"
+    },
+    {
+     "altSpellings": [
+      "African Lion"
+     ],
+     "answer": "Lion"
+    },
+    {
+     "altSpellings": [
+      "Gazelle",
+      "Antelope",
+      "Antilopes"
+     ],
+     "answer": "Antilope"
+    },
+    {
+     "altSpellings": [
+      "Wildebeest"
+     ],
+     "answer": "Gnou"
+    },
+    {
+     "altSpellings": [
+      "Giraffe"
+     ],
+     "answer": "Girafe"
+    },
+    {
+     "altSpellings": [
+      "Zebra"
+     ],
+     "answer": "Zèbre"
+    },
+    {
+     "altSpellings": [
+      "Vulture"
+     ],
+     "answer": "Vautour"
+    },
+    {
+     "altSpellings": [
+      "Rhino",
+      "Black rhino",
+      "Rhinoceros"
+     ],
+     "answer": "Rhinocéros"
+    },
+    {
+     "altSpellings": [
+      "Spotted hyena",
+      "Hyena"
+     ],
+     "answer": "Hyène"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Crocodile"
+    },
+    {
+     "altSpellings": [
+      "Monkey",
+      "Singe"
+     ],
+     "answer": "Macaque"
+    },
+    {
+     "altSpellings": [
+      "Baboon"
+     ],
+     "answer": "Babouin"
+    },
+    {
+     "altSpellings": [
+      "Chimpanzee"
+     ],
+     "answer": "Chimpanzé"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Piranha"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Toucan"
+    },
+    {
+     "altSpellings": [
+      "Buffalo",
+      "Buffle"
+     ],
+     "answer": "Bison"
+    },
+    {
+     "altSpellings": [
+      "Boa constrictor"
+     ],
+     "answer": "Python"
+    },
+    {
+     "altSpellings": [
+      "Butterflies",
+      "Butterfly",
+      "Papillons"
+     ],
+     "answer": "Papillon"
+    },
+    {
+     "altSpellings": [
+      "Hornbill"
+     ],
+     "answer": "Calao"
+    }
+   ],
+   "category": "Jungle Cruise Fauna",
+   "id": "114736",
+   "question": "Animaux vus dans le Jungle Cruise de Disneyland"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Weights",
+      "Weightlifting",
+      "Strength training",
+      "Strength",
+      "Force",
+      "Muscle",
+      "Musculaire"
+     ],
+     "answer": "Renforcement musculaire"
+    },
+    {
+     "altSpellings": [
+      "Biking",
+      "Cycle",
+      "Bike",
+      "Recumbent bike",
+      "Bicycling",
+      "Cycling",
+      "Vélo"
+     ],
+     "answer": "Cyclisme"
+    },
+    {
+     "altSpellings": [
+      "Run",
+      "Sprint",
+      "Sprinting",
+      "Distance running",
+      "Treadmill",
+      "Running"
+     ],
+     "answer": "Course"
+    },
+    {
+     "altSpellings": [
+      "Row",
+      "Row machine",
+      "Rowing"
+     ],
+     "answer": "Aviron"
+    },
+    {
+     "altSpellings": [
+      "Somatic exercises"
+     ],
+     "answer": "Yoga"
+    },
+    {
+     "altSpellings": [
+      "Meditate",
+      "Meditation"
+     ],
+     "answer": "Méditation"
+    },
+    {
+     "altSpellings": [
+      "Stretch",
+      "Cooldown",
+      "Cool down",
+      "Stretching",
+      "Etirements",
+      "Etirement",
+      "Étirement"
+     ],
+     "answer": "Étirements"
+    },
+    {
+     "altSpellings": [
+      "Walk",
+      "Walking",
+      "Marcher"
+     ],
+     "answer": "Marche"
+    },
+    {
+     "altSpellings": [
+      "Nature",
+      "Outdoor running",
+      "Outdoors",
+      "Outdoor",
+      "Plein air",
+      "Dehors"
+     ],
+     "answer": "Extérieur"
+    },
+    {
+     "altSpellings": [
+      "Bodyweight",
+      "HIIT",
+      "Boxing",
+      "Interval",
+      "Interval training"
+     ],
+     "answer": "Cardio"
+    }
+   ],
+   "category": "Exercise",
+   "id": "114763",
+   "question": "Jusqu'en 2025, les dix catégories de cours de fitness disponibles sur le site web de Peloton"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Citizen Cane",
+      "Citizen Cain",
+      "Citoyen Kane"
+     ],
+     "answer": "Citizen Kane"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Casablanca"
+    },
+    {
+     "altSpellings": [
+      "Godfather",
+      "The Godfather",
+      "Parrain"
+     ],
+     "answer": "Le Parrain"
+    },
+    {
+     "altSpellings": [
+      "Gone with the Wind"
+     ],
+     "answer": "Autant en emporte le vent"
+    },
+    {
+     "altSpellings": [
+      "Lawerence of Arabia",
+      "Lawrence of Arabia",
+      "Lawerence d'Arabie"
+     ],
+     "answer": "Lawrence d'Arabie"
+    },
+    {
+     "altSpellings": [
+      "Wizard of Oz",
+      "The Wizard of Oz",
+      "Magicien d'Oz"
+     ],
+     "answer": "Le Magicien d'Oz"
+    },
+    {
+     "altSpellings": [
+      "Graduate",
+      "The Graduate",
+      "Lauréat"
+     ],
+     "answer": "Le Lauréat"
+    },
+    {
+     "altSpellings": [
+      "On the Waterfront"
+     ],
+     "answer": "Sur les quais"
+    },
+    {
+     "altSpellings": [
+      "Shindlers List",
+      "Shindler’s List",
+      "Schindlers List",
+      "Schindler’s List"
+     ],
+     "answer": "La Liste de Schindler"
+    },
+    {
+     "altSpellings": [
+      "Singing in the Rain",
+      "Singin’ in the Rain"
+     ],
+     "answer": "Chantons sous la pluie"
+    },
+    {
+     "altSpellings": [
+      "Vertigo"
+     ],
+     "answer": "Sueurs froides"
+    },
+    {
+     "altSpellings": [
+      "Comme un taureau sauvage"
+     ],
+     "answer": "Raging Bull"
+    }
+   ],
+   "category": "Classic Film",
+   "id": "114780",
+   "question": "Les dix meilleurs films de tous les temps d'après l'American Film Institute (Indice: ce sont que des classiques)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Umoja",
+      "Unification",
+      "Unity"
+     ],
+     "answer": "Unité"
+    },
+    {
+     "altSpellings": [
+      "Self-Determined",
+      "Kujichagulia",
+      "autonomy",
+      "Free will",
+      "Will",
+      "Self Determination",
+      "Self Determined",
+      "Define ourselves",
+      "Define Self",
+      "Self-Determination",
+      "Auto-Détermination",
+      "Détermination"
+     ],
+     "answer": "Autodétermination"
+    },
+    {
+     "altSpellings": [
+      "Support Others",
+      "Economics",
+      "Financial",
+      "Cooperation",
+      "Co-operation",
+      "Financial Cooperation",
+      "Fianancial",
+      "Ujamaa",
+      "Support",
+      "Mutual Profit",
+      "Cooperative Economics",
+      "Économie",
+      "Coopération"
+     ],
+     "answer": "Économie coopérative"
+    },
+    {
+     "altSpellings": [
+      "Community",
+      "Responsibilitey",
+      "Collective Work",
+      "Ujima",
+      "Responsible",
+      "Responsibility and Collective Work",
+      "Responsibility",
+      "Communauté",
+      "Travail",
+      "Travail et responsabilité collective",
+      "Responsabilité collective"
+     ],
+     "answer": "Responsabilité"
+    },
+    {
+     "altSpellings": [
+      "Motivation",
+      "Cause",
+      "Intent",
+      "Objectives",
+      "Objective",
+      "Goals",
+      "Goal",
+      "Intention",
+      "Purposeful",
+      "Nia",
+      "Vocation",
+      "Purpose",
+      "Objectif",
+      "Objectifs"
+     ],
+     "answer": "But"
+    },
+    {
+     "altSpellings": [
+      "Creative",
+      "Creation",
+      "Imagination",
+      "Kuumba",
+      "Creativity",
+      "Création",
+      "Créatif"
+     ],
+     "answer": "Créativité"
+    },
+    {
+     "altSpellings": [
+      "Imani",
+      "Faithful",
+      "Belief",
+      "Faithfulness",
+      "Faith"
+     ],
+     "answer": "Foi"
+    }
+   ],
+   "category": "Spiritual Holidays",
+   "countrySpecific": true,
+   "id": "114781",
+   "question": "Les sept principes de Kwanzaa"
   }
  ]
 }
