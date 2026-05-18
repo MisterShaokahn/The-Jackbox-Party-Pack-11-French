@@ -24,13 +24,13 @@
             "encounters": [
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Gélacube",
+                    "monsterConfigID": "Goobicle",
                     "doIntro": false,
                     "doOutroRun": true
                 },
                 {
                     "triviaType": "ReverseMultipleChoice",
-                    "monsterConfigID": "Buissœil",
+                    "monsterConfigID": "Sneaklops",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -100,7 +100,7 @@
                 },
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Joe l'Avare",
+                    "monsterConfigID": "Greedy Joe",
                     "doIntro": false,
                     "doOutroRun": true
                 },
@@ -141,13 +141,13 @@
                 },
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Joe au gros Bâton",
+                    "monsterConfigID": "Big Stick Joe",
                     "doIntro": false,
                     "doOutroRun": true
                 },
                 {
                     "triviaType": "ReverseMultipleChoice",
-                    "monsterConfigID": "Mega-Buissœil",
+                    "monsterConfigID": "Mega-Sneaklops",
                     "doIntro": false,
                     "doOutroRun": true
                 },
@@ -176,7 +176,7 @@
                 },
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Joe l'Avare",
+                    "monsterConfigID": "Greedy Joe",
                     "doIntro": false,
                     "doOutroRun": true
                 },
@@ -213,13 +213,13 @@
                 },
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Joe au gros Bâton",
+                    "monsterConfigID": "Big Stick Joe",
                     "doIntro": false,
                     "doOutroRun": true
                 },
                 {
                     "triviaType": "ReverseMultipleChoice",
-                    "monsterConfigID": "Mega-Buissœil",
+                    "monsterConfigID": "Mega-Sneaklops",
                     "doIntro": false,
                     "doOutroRun": true
                 },
@@ -341,7 +341,7 @@
             "encounters": [
                 {
                     "triviaType": "ReverseMultipleChoice",
-                    "monsterConfigID": "Buissœil séché",
+                    "monsterConfigID": "Dry Sneaklops",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
