@@ -260,7 +260,7 @@
             "boss": false
         },
         {
-            "id": "Me The Ogre",
+            "id": "Moi L'Ogre",
             "enemyDesign": "Enemy2",
             "enemyHealthScalar": 5,
             "monsterDamageOnAttack": 250,
@@ -426,7 +426,7 @@
             "boss": true
         },
         {
-            "id": "The Ogre Returns",
+            "id": "Le Retour de l'Ogre",
             "enemyDesign": "Enemy2",
             "enemyHealthScalar": 5,
             "monsterDamageOnAttack": 250,
