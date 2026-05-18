@@ -10459,789 +10459,790 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Classic Literature",
-   "choices": [
-    {
-     "correct": false,
-     "text": "6-inch-tall people"
-    },
-    {
-     "correct": false,
-     "text": "Giants"
-    },
-    {
-     "correct": true,
-     "text": "Intelligent horses"
-    },
-    {
-     "correct": false,
-     "text": "Fair-haired immortals"
-    }
-   ],
-   "clue": "The name of the land might be the sound these things regularly make.",
-   "id": "114708",
-   "isEasy": false,
-   "question": "In [i]Gulliver’s Travels[/i] by Jonathan Swift, who lives in Houyhnhnm Land?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Publish or Perish",
-   "choices": [
-    {
-     "correct": false,
-     "text": "That’s a filigree"
-    },
-    {
-     "correct": false,
-     "text": "That’s an interstitial"
-    },
-    {
-     "correct": false,
-     "text": "That’s a plumb bob"
-    },
-    {
-     "correct": true,
-     "text": "That’s a drop cap"
-    }
-   ],
-   "clue": "If someone thinks it’s “filigree,” disagree",
-   "id": "114715",
-   "isEasy": false,
-   "question": "When a paragraph begins with a big ole decorative capital letter, what’s that called?",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Anglicized Anthems",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Netherlands"
-    },
-    {
-     "correct": false,
-     "text": "Sweden"
-    },
-    {
-     "correct": false,
-     "text": "Germany"
-    },
-    {
-     "correct": false,
-     "text": "Australia"
-    }
-   ],
-   "clue": "The William in question was “William of Orange”",
-   "id": "114717",
-   "isEasy": false,
-   "question": "When translated to English, which country’s national anthem is just titled “William”?",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Ye Olde Tradesmen",
-   "choices": [
-    {
-     "correct": false,
-     "text": "A cobbler"
-    },
-    {
-     "correct": true,
-     "text": "A cooper"
-    },
-    {
-     "correct": false,
-     "text": "A milliner"
-    },
-    {
-     "correct": false,
-     "text": "A glazier"
-    }
-   ],
-   "clue": "Call a cobbler for shoes and a glazier for glass",
-   "id": "114724",
-   "isEasy": false,
-   "question": "Dang it, my dope new barrel just broke. Who should I call to fix my barrel?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "War Zones",
-   "choices": [
-    {
-     "correct": false,
-     "text": "The Hundred Years’ War"
-    },
-    {
-     "correct": false,
-     "text": "World War II"
-    },
-    {
-     "correct": true,
-     "text": "The War of 1812"
-    },
-    {
-     "correct": false,
-     "text": "World War I"
-    }
-   ],
-   "clue": "It went down before WWI.",
-   "countrySpecific": false,
-   "id": "114734",
-   "isEasy": false,
-   "question": "Mon Dieu! This war WASN’T fought on French soil!",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Chef Terms",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Egg"
-    },
-    {
-     "correct": true,
-     "text": "Ginger"
-    },
-    {
-     "correct": false,
-     "text": "Butter"
-    },
-    {
-     "correct": false,
-     "text": "White wine"
-    }
-   ],
-   "clue": "Not an animal by-product.",
-   "id": "114735",
-   "isEasy": false,
-   "question": "In cooking, which of these common ingredients is an “aromatic”?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Musical Mascots",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Iron Maiden"
-    },
-    {
-     "correct": false,
-     "text": "Black Sabbath"
-    },
-    {
-     "correct": false,
-     "text": "Judas Priest"
-    },
-    {
-     "correct": false,
-     "text": "The Grateful Dead"
-    }
-   ],
-   "clue": "How Ironic!",
-   "id": "114737",
-   "isEasy": false,
-   "question": "Eddie the Head is the skeletal mascot for what band? (You’ll see him on all their album art.)",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Poetic License",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Death"
-    },
-    {
-     "correct": false,
-     "text": "God"
-    },
-    {
-     "correct": false,
-     "text": "The Devil"
-    },
-    {
-     "correct": false,
-     "text": "Herself"
-    }
-   ],
-   "clue": "Appropriately, it was published posthumously.",
-   "id": "114747",
-   "isEasy": false,
-   "question": "In her famous poem, who kindly stopped for Emily Dickinson?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Animals",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Brain"
-    },
-    {
-     "correct": false,
-     "text": "Heart"
-    },
-    {
-     "correct": true,
-     "text": "Stomach"
-    },
-    {
-     "correct": false,
-     "text": "Eyes"
-    }
-   ],
-   "clue": "Don’t worry, they have a heart and a brain",
-   "id": "114753",
-   "isEasy": false,
-   "question": "Which organ is the majestic seahorse missing?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Literary Heroes",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]The Scarlet Pimpernel[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]The Man in the Iron Mask[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]The Count of Monte Cristo[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]The Phantom of the Opera[/i]"
-    }
-   ],
-   "clue": "I Count three wrong answers",
-   "id": "114754",
-   "isEasy": false,
-   "question": "You know the literary hero Edmond Dantès? Or, as he’s better known...",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Transportation",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Hawaii"
-    },
-    {
-     "correct": false,
-     "text": "Puerto Rico"
-    },
-    {
-     "correct": true,
-     "text": "U.S. Virgin Islands"
-    },
-    {
-     "correct": false,
-     "text": "Nevada"
-    }
-   ],
-   "clue": "Think territory, not state",
-   "countrySpecific": true,
-   "id": "114755",
-   "isEasy": false,
-   "question": "Where in the U.S. do cars drive on the left side of the road?",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Nutrition",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Almonds"
-    },
-    {
-     "correct": false,
-     "text": "Avocado"
-    },
-    {
-     "correct": true,
-     "text": "Applesauce"
-    },
-    {
-     "correct": false,
-     "text": "Aloe juice"
-    }
-   ],
-   "clue": "It’s in the fruit family",
-   "id": "114756",
-   "isEasy": false,
-   "question": "If you’re gathering supplies for the BRAT diet, what would you need to buy for the “A”?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Big Animal",
-   "choices": [
-    {
-     "correct": false,
-     "text": "It’s the LARGEST RODENT in the Western Hemisphere"
-    },
-    {
-     "correct": true,
-     "text": "It’s the LARGEST MARSUPIAL in the Western Hemisphere"
-    },
-    {
-     "correct": false,
-     "text": "It’s the LARGEST CANINE in the Western Hemisphere"
-    },
-    {
-     "correct": false,
-     "text": "It’s the SMALLEST BEAR in the Western Hemisphere"
-    }
-   ],
-   "clue": "Ya know, like a kangaroo",
-   "id": "114757",
-   "isEasy": false,
-   "question": "Chonky Creature Check: Which of these statements about opossums is true?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Sports",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Soccer"
-    },
-    {
-     "correct": false,
-     "text": "Baseball"
-    },
-    {
-     "correct": true,
-     "text": "Lacrosse"
-    },
-    {
-     "correct": false,
-     "text": "Bowling"
-    }
-   ],
-   "clue": "It’s one of the sports with sticks and helmets",
-   "id": "114758",
-   "isEasy": false,
-   "question": "Canada’s two national sports are ice hockey and which of the following?",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Common Toiletries",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Calcium carbonate"
-    },
-    {
-     "correct": false,
-     "text": "Chloride"
-    },
-    {
-     "correct": true,
-     "text": "Fluoride"
-    },
-    {
-     "correct": false,
-     "text": "Baking soda"
-    }
-   ],
-   "clue": "Sometimes you gotta ride out the “flu”",
-   "countrySpecific": false,
-   "id": "114759",
-   "isEasy": false,
-   "question": "All-chemy! What is the active ingredient found in standard-issue tubes of Crest, Colgate and Aquafresh toothpastes?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Golf",
-   "choices": [
-    {
-     "correct": true,
-     "text": "The Masters Tournament"
-    },
-    {
-     "correct": false,
-     "text": "The U.S. Open"
-    },
-    {
-     "correct": false,
-     "text": "The PGA Championship"
-    },
-    {
-     "correct": false,
-     "text": "The Ryder Cup"
-    }
-   ],
-   "clue": "Not the U.S. Open",
-   "id": "114761",
-   "isEasy": false,
-   "question": "Which golf tournament awards champions with a green jacket?",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Mundane Medicine",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Gah! My leg fell asleep!"
-    },
-    {
-     "correct": false,
-     "text": "Yikes! I got a sunburn!"
-    },
-    {
-     "correct": false,
-     "text": "Ah! My hair’s falling out!"
-    },
-    {
-     "correct": false,
-     "text": "Zzz! I’m sleepwalking!"
-    }
-   ],
-   "clue": "It’s a sleeping one... but not the real sleeping one",
-   "id": "114762",
-   "isEasy": false,
-   "question": "If one of your party suffers from “paresthesia,” they might say…",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Famous Quotes",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Dorothy Parker"
-    },
-    {
-     "correct": true,
-     "text": "James Baldwin"
-    },
-    {
-     "correct": false,
-     "text": "Alice Walker"
-    },
-    {
-     "correct": false,
-     "text": "J.D. Salinger"
-    }
-   ],
-   "clue": "This is how you Win against Bald-faced lies!",
-   "id": "114765",
-   "isEasy": false,
-   "question": "Deception Fail! “I can’t believe what you say, because I see what you do” is a quote from an essay by…",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Asian Art",
-   "choices": [
-    {
-     "correct": false,
-     "text": "A whale"
-    },
-    {
-     "correct": false,
-     "text": "A sunset"
-    },
-    {
-     "correct": false,
-     "text": "A flock of birds"
-    },
-    {
-     "correct": true,
-     "text": "Mount Fuji"
-    }
-   ],
-   "clue": "Try and Mount an attack on the monster",
-   "id": "114767",
-   "isEasy": false,
-   "question": "You know that big wave painting, Hokusai’s [i]The Great Wave off Kanagawa[/i]? What’s in the background?",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Tomorrow and Tomorrow and Tomorrow",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]I Love Lucy[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]The Honeymooners[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Gilligan’s Island[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]The Man from U.N.C.L.E.[/i]"
-    }
-   ],
-   "clue": "Wife, I will physically harm you into outer space!",
-   "id": "114768",
-   "isEasy": false,
-   "question": "“This is where Ralph dresses up like a man from space!” What classic TV show is Marty talking about in [i]Back to the Future[/i]?",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Animal Advocates",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Chimpanzees"
-    },
-    {
-     "correct": false,
-     "text": "Gorillas"
-    },
-    {
-     "correct": false,
-     "text": "Bonobos"
-    },
-    {
-     "correct": false,
-     "text": "Human beings"
-    }
-   ],
-   "clue": "Knows everything from “A” to “Zee”",
-   "id": "114769",
-   "isEasy": false,
-   "question": "Dr. Jane Goodall was considered the world’s foremost expert on which type of ape?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Hats Off",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Bowler"
-    },
-    {
-     "correct": true,
-     "text": "Boater"
-    },
-    {
-     "correct": false,
-     "text": "Boxtop"
-    },
-    {
-     "correct": false,
-     "text": "Beret"
-    }
-   ],
-   "clue": "It would float like a boat",
-   "id": "114771",
-   "isEasy": false,
-   "question": "A magical straw hat with a flat top and ribbon band would be a blessed...",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Hotel Chains",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Ritz-Carlton"
-    },
-    {
-     "correct": false,
-     "text": "Hilton"
-    },
-    {
-     "correct": false,
-     "text": "Marriott"
-    },
-    {
-     "correct": true,
-     "text": "Four Seasons"
-    }
-   ],
-   "clue": "More like the Four Options",
-   "id": "114772",
-   "isEasy": false,
-   "question": "Your party needs lodging! Select the global hotel chain that was founded in Canada!",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Ocean Predator",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Whale shark"
-    },
-    {
-     "correct": false,
-     "text": "Mako shark"
-    },
-    {
-     "correct": false,
-     "text": "Salmon shark"
-    },
-    {
-     "correct": true,
-     "text": "Wobbegong"
-    }
-   ],
-   "clue": "Woe to the wrong answers",
-   "id": "114773",
-   "isEasy": false,
-   "question": "Not all sharks must keep swimming! Which of these sharks hunts by burying itself in sand and staying still?",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Measuring Time",
-   "choices": [
-    {
-     "correct": false,
-     "text": "The names of months"
-    },
-    {
-     "correct": false,
-     "text": "The length of weeks"
-    },
-    {
-     "correct": false,
-     "text": "The number of days"
-    },
-    {
-     "correct": true,
-     "text": "The frequency of leap years"
-    }
-   ],
-   "clue": "No idea? Take a leap of faith",
-   "id": "114774",
-   "isEasy": false,
-   "question": "What’s the only difference between the Gregorian and Julian calendars?",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Fast Food",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Popeyes"
-    },
-    {
-     "correct": false,
-     "text": "McDonald’s"
-    },
-    {
-     "correct": false,
-     "text": "KFC"
-    },
-    {
-     "correct": true,
-     "text": "Taco Bell"
-    }
-   ],
-   "clue": "No Fire sauce for kids",
-   "countrySpecific": true,
-   "id": "114775",
-   "isEasy": false,
-   "question": "As of 2025, which fast food restaurant has NO kids’ meals on their menu?",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Baseball",
-   "choices": [
-    {
-     "correct": true,
-     "text": "15 seconds"
-    },
-    {
-     "correct": false,
-     "text": "30 seconds"
-    },
-    {
-     "correct": false,
-     "text": "45 seconds"
-    },
-    {
-     "correct": false,
-     "text": "60 seconds"
-    }
-   ],
-   "clue": "It’s less than a minute",
-   "id": "114776",
-   "isEasy": false,
-   "question": "If there are no runners on base, how many seconds does a baseball pitcher have to throw the ball?",
-   "theme": "DESERT"
-  },
-  {
-   "category": "The Solar System",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Mercury"
-    },
-    {
-     "correct": false,
-     "text": "Venus"
-    },
-    {
-     "correct": true,
-     "text": "Mars"
-    },
-    {
-     "correct": false,
-     "text": "Earth"
-    }
-   ],
-   "clue": "You can’t find it on Google Maps",
-   "id": "114777",
-   "isEasy": false,
-   "question": "On which planet can you find Olympus Mons, the largest volcano in our solar system?",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Animals",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Venom"
-    },
-    {
-     "correct": true,
-     "text": "Antibiotics"
-    },
-    {
-     "correct": false,
-     "text": "Milk"
-    },
-    {
-     "correct": false,
-     "text": "Tears"
-    }
-   ],
-   "clue": "It’s like they make their own penicillin",
-   "id": "114778",
-   "isEasy": false,
-   "question": "What are porcupine quills covered in?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Musicals",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]South Pacific[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]Miss Saigon[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Come From Away[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Hamilton[/i]"
-    }
-   ],
-   "clue": "It’s set during the Vietnam War",
-   "id": "114779",
-   "isEasy": false,
-   "question": "What Broadway musical typically has a helicopter onstage during act two?",
-   "theme": "CASTLE"
-  }
- ]
+"category": "Littérature classique",
+"choices": [
+{
+"correct": false,
+"text": "Des personnages de 15 cm de haut"
+},
+{
+"correct": false,
+"text": "Des géants"
+},
+{
+"correct": true,
+"text": "Des chevaux intelligents"
+},
+{
+"correct": false,
+"text": "Des immortels aux cheveux clairs"
 }
+],
+"clue": "Le nom du pays ressemble peut-être au bruit que ces créatures font régulièrement.",
+"id": "114708",
+"isEasy": false,
+"question": "Dans [i]Les Voyages de Gulliver[/i] de Jonathan Swift, qui vit au pays des Houyhnhnms ?",
+"theme": "FORÊT"
+},
+{
+"category": "Publier ou périr",
+"choices": [
+{
+"correct": false,
+"text": "C’est un filigrane"
+},
+{
+"correct": false,
+"text": "C’est un interstitiel"
+},
+{
+"correct": false,
+"text": "C’est un fil à plomb"
+},
+{
+"correct": true,
+"text": "C’est une lettrine"
+}
+],
+"clue": "Si quelqu’un pense que c’est un « filigrane », contredis-le",
+"id": "114715",
+"isEasy": false,
+"question": "Quand un paragraphe commence par une grande lettre majuscule décorative, comment appelle-t-on ça ?",
+"theme": "DÉSERT"
+},
+{
+"category": "Hymnes anglicisés",
+"choices": [
+{
+"correct": true,
+"text": "Pays-Bas"
+},
+{
+"correct": false,
+"text": "Suède"
+},
+{
+"correct": false,
+"text": "Allemagne"
+},
+{
+"correct": false,
+"text": "Australie"
+}
+],
+"clue": "Le William en question était « Guillaume d’Orange »",
+"id": "114717",
+"isEasy": false,
+"question": "Traduit en anglais, l’hymne national de quel pays s’intitule tout simplement « William » ?",
+"theme": "MONTAGNE"
+},
+{
+"category": "Métiers d’antan",
+"choices": [
+{
+"correct": false,
+"text": "Un cordonnier"
+},
+{
+"correct": true,
+"text": "Un tonnelier"
+},
+{
+"correct": false,
+"text": "Un chapelier"
+},
+{
+"correct": false,
+"text": "Un vitrier"
+}
+],
+"clue": "On appelle un cordonnier pour les chaussures et un vitrier pour les vitres",
+"id": "114724",
+"isEasy": false,
+"question": "Zut, mon super nouveau tonneau vient de casser. Qui dois-je appeler pour réparer mon tonneau ?",
+"theme": "FORÊT"
+},
+{
+"category": "Zones de guerre",
+"choices": [
+{
+"correct": false,
+"text": "La guerre de Cent Ans"
+},
+{
+"correct": false,
+"text": "La Seconde Guerre mondiale"
+},
+{
+"correct": true,
+"text": "La guerre de 1812"
+},
+{
+"correct": false,
+"text": "La Première Guerre mondiale"
+}
+],
+"clue": "Elle a eu lieu avant la Première Guerre mondiale.",
+"countrySpecific": false,
+"id": "114734",
+"isEasy": false,
+"question": "Mon Dieu ! Cette guerre ne s’est PAS déroulée sur le sol français !",
+"theme": "CHÂTEAU"
+},
+{
+"category": "Termes de cuisine",
+"choices": [
+{
+"correct": false,
+"text": "Œuf"
+},
+{
+"correct": true,
+"text": "Gingembre"
+},
+{
+"correct": false,
+"text": "Beurre"
+},
+{
+"correct": false,
+"text": "Vin blanc"
+}
+],
+"clue": "Ce n’est pas un sous-produit animal.",
+"id": "114735",
+"isEasy": false,
+"question": "En cuisine, lequel de ces ingrédients courants est un aromate ?",
+"theme": "FORÊT"
+},
+{
+"category": "Mascottes musicales",
+"choices": [
+{
+"correct": true,
+"text": "Iron Maiden"
+},
+{
+"correct": false,
+"text": "Black Sabbath"
+},
+{
+"correct": false,
+"text": "Judas Priest"
+},
+{
+"correct": false,
+"text": "The Grateful Dead"
+}
+],
+"clue": "Quelle ironie !",
+"id": "114737",
+"isEasy": false,
+"question": "Eddie the Head est la mascotte squelettique de quel groupe ? (On le voit sur toutes leurs pochettes d’album.)",
+"theme": "CIMETIÈRE"
+},
+{
+"category": "Licence poétique",
+"choices": [
+{
+"correct": true,
+"text": "La Mort"
+},
+{
+"correct": false,
+"text": "Dieu"
+},
+{
+"correct": false,
+"text": "Le Diable"
+},
+{
+"correct": false,
+"text": "Elle-même"
+}
+],
+"clue": "Comme il se doit, le poème a été publié à titre posthume.",
+"id": "114747",
+"isEasy": false,
+"question": "Dans son célèbre poème, qui s’est gentiment arrêté pour Emily Dickinson ?",
+"theme": "FORÊT"
+},
+{
+"category": "Animaux",
+"choices": [
+{
+"correct": false,
+"text": "Cerveau"
+},
+{
+"correct": false,
+"text": "Cœur"
+},
+{
+"correct": true,
+"text": "Estomac"
+},
+{
+"correct": false,
+"text": "Yeux"
+}
+],
+"clue": "Pas d’inquiétude, ils ont bien un cœur et un cerveau",
+"id": "114753",
+"isEasy": false,
+"question": "De quel organe le majestueux hippocampe est-il dépourvu ?",
+"theme": "CHÂTEAU"
+},
+{
+"category": "Héros littéraires",
+"choices": [
+{
+"correct": false,
+"text": "[i]Le Mouron rouge[/i]"
+},
+{
+"correct": false,
+"text": "[i]L’Homme au masque de fer[/i]"
+},
+{
+"correct": true,
+"text": "[i]Le Comte de Monte-Cristo[/i]"
+},
+{
+"correct": false,
+"text": "[i]Le Fantôme de l’Opéra[/i]"
+}
+],
+"clue": "Je compte trois mauvaises réponses",
+"id": "114754",
+"isEasy": false,
+"question": "Tu connais le héros littéraire Edmond Dantès ? Ou, comme on le connaît mieux...",
+"theme": "CHÂTEAU"
+},
+{
+"category": "Transport",
+"choices": [
+{
+"correct": false,
+"text": "Hawaï"
+},
+{
+"correct": false,
+"text": "Porto Rico"
+},
+{
+"correct": true,
+"text": "Îles Vierges américaines"
+},
+{
+"correct": false,
+"text": "Nevada"
+}
+],
+"clue": "Pense territoire, pas État",
+"countrySpecific": true,
+"id": "114755",
+"isEasy": false,
+"question": "Où, aux États-Unis, roule-t-on à gauche ?",
+"theme": "DÉSERT"
+},
+{
+"category": "Nutrition",
+"choices": [
+{
+"correct": false,
+"text": "Amandes"
+},
+{
+"correct": false,
+"text": "Avocat"
+},
+{
+"correct": true,
+"text": "Compote de pommes"
+},
+{
+"correct": false,
+"text": "Jus d’aloe vera"
+}
+],
+"clue": "C’est dans la famille des fruits",
+"id": "114756",
+"isEasy": false,
+"question": "Si tu fais des provisions pour le régime BRAT, que dois-tu acheter pour le « A » ?",
+"theme": "FORÊT"
+},
+{
+"category": "Gros animal",
+"choices": [
+{
+"correct": false,
+"text": "C’est le PLUS GRAND RONGEUR de l’hémisphère occidental"
+},
+{
+"correct": true,
+"text": "C’est le PLUS GRAND MARSUPIAL de l’hémisphère occidental"
+},
+{
+"correct": false,
+"text": "C’est le PLUS GRAND CANIDÉ de l’hémisphère occidental"
+},
+{
+"correct": false,
+"text": "C’est le PLUS PETIT OURS de l’hémisphère occidental"
+}
+],
+"clue": "Tu sais, comme un kangourou",
+"id": "114757",
+"isEasy": false,
+"question": "Contrôle de créature bien dodue : laquelle de ces affirmations sur les opossums est vraie ?",
+"theme": "FORÊT"
+},
+{
+"category": "Sports",
+"choices": [
+{
+"correct": false,
+"text": "Football"
+},
+{
+"correct": false,
+"text": "Baseball"
+},
+{
+"correct": true,
+"text": "Crosse"
+},
+{
+"correct": false,
+"text": "Bowling"
+}
+],
+"clue": "C’est l’un des sports avec crosses et casques",
+"id": "114758",
+"isEasy": false,
+"question": "Les deux sports nationaux du Canada sont le hockey sur glace et lequel des suivants ?",
+"theme": "MONTAGNE"
+},
+{
+"category": "Produits de toilette courants",
+"choices": [
+{
+"correct": false,
+"text": "Carbonate de calcium"
+},
+{
+"correct": false,
+"text": "Chlorure"
+},
+{
+"correct": true,
+"text": "Fluor"
+},
+{
+"correct": false,
+"text": "Bicarbonate de soude"
+}
+],
+"clue": "Parfois, il faut prendre son mal en patience avec le « flu »",
+"countrySpecific": false,
+"id": "114759",
+"isEasy": false,
+"question": "Al-chimie ! Quel est l’ingrédient actif présent dans les tubes classiques de dentifrice Crest, Colgate et Aquafresh ?",
+"theme": "CHÂTEAU"
+},
+{
+"category": "Golf",
+"choices": [
+{
+"correct": true,
+"text": "Le Masters"
+},
+{
+"correct": false,
+"text": "L’U.S. Open"
+},
+{
+"correct": false,
+"text": "Le Championnat PGA"
+},
+{
+"correct": false,
+"text": "La Ryder Cup"
+}
+],
+"clue": "Ce n’est pas l’U.S. Open",
+"id": "114761",
+"isEasy": false,
+"question": "Quel tournoi de golf remet une veste verte à ses vainqueurs ?",
+"theme": "DÉSERT"
+},
+{
+"category": "Médecine du quotidien",
+"choices": [
+{
+"correct": true,
+"text": "Aïe ! J’ai la jambe qui dort !"
+},
+{
+"correct": false,
+"text": "Ouille ! J’ai pris un coup de soleil !"
+},
+{
+"correct": false,
+"text": "Ah ! Je perds mes cheveux !"
+},
+{
+"correct": false,
+"text": "Zzz ! Je suis somnambule !"
+}
+],
+"clue": "Ça dort... mais ce n’est pas vraiment du sommeil",
+"id": "114762",
+"isEasy": false,
+"question": "Si quelqu’un de ton groupe souffre de « paresthésie », il pourrait dire…",
+"theme": "CHÂTEAU"
+},
+{
+"category": "Citations célèbres",
+"choices": [
+{
+"correct": false,
+"text": "Dorothy Parker"
+},
+{
+"correct": true,
+"text": "James Baldwin"
+},
+{
+"correct": false,
+"text": "Alice Walker"
+},
+{
+"correct": false,
+"text": "J.D. Salinger"
+}
+],
+"clue": "Pour vaincre les mensonges éhontés, pense à Bald-win !",
+"id": "114765",
+"isEasy": false,
+"question": "Mensonge raté ! « Je ne peux pas croire ce que tu dis, parce que je vois ce que tu fais » est une citation tirée d’un essai de…",
+"theme": "MONTAGNE"
+},
+{
+"category": "Art asiatique",
+"choices": [
+{
+"correct": false,
+"text": "Une baleine"
+},
+{
+"correct": false,
+"text": "Un coucher de soleil"
+},
+{
+"correct": false,
+"text": "Une volée d’oiseaux"
+},
+{
+"correct": true,
+"text": "Le mont Fuji"
+}
+],
+"clue": "Essaie de monter une attaque contre le monstre",
+"id": "114767",
+"isEasy": false,
+"question": "Tu connais cette célèbre peinture de grande vague, [i]La Grande Vague de Kanagawa[/i] de Hokusai ? Qu’y a-t-il en arrière-plan ?",
+"theme": "MONTAGNE"
+},
+{
+"category": "Demain, et demain, et demain",
+"choices": [
+{
+"correct": false,
+"text": "[i]I Love Lucy[/i]"
+},
+{
+"correct": true,
+"text": "[i]The Honeymooners[/i]"
+},
+{
+"correct": false,
+"text": "[i]L’Île aux naufragés[/i]"
+},
+{
+"correct": false,
+"text": "[i]Des agents très spéciaux[/i]"
+}
+],
+"clue": "Ma femme, je vais t’envoyer sur la Lune !",
+"id": "114768",
+"isEasy": false,
+"question": "« C’est l’épisode où Ralph se déguise en homme de l’espace ! » De quelle série télé classique Marty parle-t-il dans [i]Retour vers le futur[/i] ?",
+"theme": "CIMETIÈRE"
+},
+{
+"category": "Défenseurs des animaux",
+"choices": [
+{
+"correct": true,
+"text": "Chimpanzés"
+},
+{
+"correct": false,
+"text": "Gorilles"
+},
+{
+"correct": false,
+"text": "Bonobos"
+},
+{
+"correct": false,
+"text": "Êtres humains"
+}
+],
+"clue": "Elle connaît tout, de A à Zee",
+"id": "114769",
+"isEasy": false,
+"question": "Le Dr Jane Goodall était considérée comme la plus grande spécialiste mondiale de quel type de singe ?",
+"theme": "FORÊT"
+},
+{
+"category": "Chapeau bas",
+"choices": [
+{
+"correct": false,
+"text": "Melon"
+},
+{
+"correct": true,
+"text": "Canotier"
+},
+{
+"correct": false,
+"text": "Boxtop"
+},
+{
+"correct": false,
+"text": "Béret"
+}
+],
+"clue": "Il flotterait comme un bateau",
+"id": "114771",
+"isEasy": false,
+"question": "Un chapeau de paille magique à calotte plate et ruban serait un sacré...",
+"theme": "CHÂTEAU"
+},
+{
+"category": "Chaînes hôtelières",
+"choices": [
+{
+"correct": false,
+"text": "Ritz-Carlton"
+},
+{
+"correct": false,
+"text": "Hilton"
+},
+{
+"correct": false,
+"text": "Marriott"
+},
+{
+"correct": true,
+"text": "Four Seasons"
+}
+],
+"clue": "Plutôt les quatre options",
+"id": "114772",
+"isEasy": false,
+"question": "Ton groupe a besoin d’un hébergement ! Sélectionne la chaîne hôtelière mondiale qui a été fondée au Canada !",
+"theme": "FORÊT"
+},
+{
+"category": "Prédateur océanique",
+"choices": [
+{
+"correct": false,
+"text": "Requin-baleine"
+},
+{
+"correct": false,
+"text": "Requin mako"
+},
+{
+"correct": false,
+"text": "Requin saumon"
+},
+{
+"correct": true,
+"text": "Wobbegong"
+}
+],
+"clue": "Malheur aux mauvaises réponses",
+"id": "114773",
+"isEasy": false,
+"question": "Tous les requins ne sont pas obligés de nager sans arrêt ! Lequel de ces requins chasse en s’enfouissant dans le sable et en restant immobile ?",
+"theme": "DÉSERT"
+},
+{
+"category": "Mesure du temps",
+"choices": [
+{
+"correct": false,
+"text": "Le nom des mois"
+},
+{
+"correct": false,
+"text": "La durée des semaines"
+},
+{
+"correct": false,
+"text": "Le nombre de jours"
+},
+{
+"correct": true,
+"text": "La fréquence des années bissextiles"
+}
+],
+"clue": "Aucune idée ? Fais un saut dans l’inconnu",
+"id": "114774",
+"isEasy": false,
+"question": "Quelle est la seule différence entre les calendriers grégorien et julien ?",
+"theme": "CIMETIÈRE"
+},
+{
+"category": "Fast-food",
+"choices": [
+{
+"correct": false,
+"text": "Popeyes"
+},
+{
+"correct": false,
+"text": "McDonald’s"
+},
+{
+"correct": false,
+"text": "KFC"
+},
+{
+"correct": true,
+"text": "Taco Bell"
+}
+],
+"clue": "Pas de sauce Fire pour les enfants",
+"countrySpecific": true,
+"id": "114775",
+"isEasy": false,
+"question": "En 2025, quel restaurant de fast-food ne propose AUCUN menu enfant ?",
+"theme": "CIMETIÈRE"
+},
+{
+"category": "Baseball",
+"choices": [
+{
+"correct": true,
+"text": "15 secondes"
+},
+{
+"correct": false,
+"text": "30 secondes"
+},
+{
+"correct": false,
+"text": "45 secondes"
+},
+{
+"correct": false,
+"text": "60 secondes"
+}
+],
+"clue": "C’est moins d’une minute",
+"id": "114776",
+"isEasy": false,
+"question": "S’il n’y a aucun coureur sur base, combien de secondes un lanceur de baseball a-t-il pour lancer la balle ?",
+"theme": "DÉSERT"
+},
+{
+"category": "Système solaire",
+"choices": [
+{
+"correct": false,
+"text": "Mercure"
+},
+{
+"correct": false,
+"text": "Vénus"
+},
+{
+"correct": true,
+"text": "Mars"
+},
+{
+"correct": false,
+"text": "Terre"
+}
+],
+"clue": "Tu ne le trouveras pas sur Google Maps",
+"id": "114777",
+"isEasy": false,
+"question": "Sur quelle planète se trouve Olympus Mons, le plus grand volcan de notre système solaire ?",
+"theme": "MONTAGNE"
+},
+{
+"category": "Animaux",
+"choices": [
+{
+"correct": false,
+"text": "Venin"
+},
+{
+"correct": true,
+"text": "Antibiotiques"
+},
+{
+"correct": false,
+"text": "Lait"
+},
+{
+"correct": false,
+"text": "Larmes"
+}
+],
+"clue": "C’est comme s’ils fabriquaient leur propre pénicilline",
+"id": "114778",
+"isEasy": false,
+"question": "De quoi les piquants de porc-épic sont-ils recouverts ?",
+"theme": "FORÊT"
+},
+{
+"category": "Comédies musicales",
+"choices": [
+{
+"correct": false,
+"text": "[i]South Pacific[/i]"
+},
+{
+"correct": true,
+"text": "[i]Miss Saigon[/i]"
+},
+{
+"correct": false,
+"text": "[i]Come From Away[/i]"
+},
+{
+"correct": false,
+"text": "[i]Hamilton[/i]"
+}
+],
+"clue": "L’action se déroule pendant la guerre du Viêt Nam",
+"id": "114779",
+"isEasy": false,
+"question": "Quelle comédie musicale de Broadway met généralement un hélicoptère sur scène pendant le deuxième acte ?",
+"theme": "CHÂTEAU"
+}
+]
+}
+
 
