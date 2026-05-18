@@ -106,174 +106,174 @@
   },
   {
    "choices": [
-  {
-    "altText": "Revolver",
-    "correct": true,
-    "hint": "Compter les balles dans le revolver est une grande blague du film"
-  },
-  {
-    "altText": "Clé à molette",
-    "correct": true,
-    "hint": "La clé à molette est appelée spanner dans la version britannique"
-  },
-  {
-    "altText": "Couteau",
-    "correct": true,
-    "hint": "Également connu sous le nom de dague"
-  },
-  {
-    "altText": "Poison",
-    "correct": false,
-    "hint": "Le poison a été ajouté dans la version du jeu sur magnétoscope"
-  },
-  {
-    "altText": "Marteau",
-    "correct": false,
-    "hint": "Le marteau n’est une arme que dans le jeu dérivé de 2003"
-  },
-  {
-    "altText": "Hache",
-    "correct": false,
-    "hint": "Non, mais elle figurait dans la version avancée des années 80"
-  },
-  {
-    "altText": "Corde",
-    "correct": true,
-    "hint": "Le pion est tout enroulé"
-  },
-  {
-    "altText": "Tuyau de plomb",
-    "correct": true,
-    "hint": "Le Docteur Lenoir se prend vraiment du plomb"
-  },
-  {
-    "altText": "Arbalète",
-    "correct": false,
-    "hint": "Aucune flèche de quelque sorte que ce soit n’apparaît"
-  },
-  {
-    "altText": "Poêle à frire",
-    "correct": false,
-    "hint": "Le couteau est le seul ustensile de cuisine utilisé"
-  }
-],
-"id": "109772",
-"isEasy": false,
-"question": "Les armes du meurtre originales dans Cluedo (1949)"
-  },
-  {
-   "choices": [
-  {
-    "altText": "Arc de Triomphe",
-    "correct": true,
-    "hint": "L’Arc de Triomphe se trouve à Paris"
-  },
-  {
-    "altText": "Le Christ Rédempteur",
-    "correct": false,
-    "hint": "Le Christ Rédempteur se trouve à Rio de Janeiro"
-  },
-  {
-    "altText": "La Grande Muraille de Chine",
-    "correct": false,
-    "hint": "Devine où se trouve la Grande Muraille de Chine"
-  },
-  {
-    "altText": "Hôtel Paris Las Vegas",
-    "correct": false,
-    "hint": "Ceci est l’hôtel Paris Las Vegas"
-  },
-  {
-    "altText": "La tour Eiffel",
-    "correct": true,
-    "hint": "Ceci est la véritable tour Eiffel"
-  },
-  {
-    "altText": "Stonehenge",
-    "correct": true,
-    "hint": "Stonehenge se trouve au Royaume-Uni"
-  },
-  {
-    "altText": "Palais du Parlement",
-    "correct": true,
-    "hint": "Big Ben est la cloche, pas l’horloge"
-  },
-  {
-    "altText": "Notre-Dame",
-    "correct": true,
-    "hint": "C’est ici que vit le Bossu"
-  },
-  {
-    "altText": "Taj Mahal",
-    "correct": false,
-    "hint": "Le Taj Mahal se trouve dans la ville d’Agra"
-  },
-  {
-    "altText": "Salto Ángel",
-    "correct": false,
-    "hint": "Voici le Salto Ángel"
-  }
-],
-"id": "109773",
-"isEasy": false,
-"question": "Photos prises en Europe"
+    {
+     "altText": "Revolver",
+     "correct": true,
+     "hint": "Compter les balles dans le revolver est une grande blague du film"
+    },
+    {
+     "altText": "Clé à molette",
+     "correct": true,
+     "hint": "La clé à molette est appelée spanner dans la version britannique"
+    },
+    {
+     "altText": "Couteau",
+     "correct": true,
+     "hint": "Également connu sous le nom de dague"
+    },
+    {
+     "altText": "Poison",
+     "correct": false,
+     "hint": "Le poison a été ajouté dans la version du jeu sur magnétoscope"
+    },
+    {
+     "altText": "Marteau",
+     "correct": false,
+     "hint": "Le marteau n’est une arme que dans le jeu dérivé de 2003"
+    },
+    {
+     "altText": "Hache",
+     "correct": false,
+     "hint": "Non, mais elle figurait dans la version avancée des années 80"
+    },
+    {
+     "altText": "Corde",
+     "correct": true,
+     "hint": "Le pion est tout enroulé"
+    },
+    {
+     "altText": "Tuyau de plomb",
+     "correct": true,
+     "hint": "Le Docteur Lenoir se prend vraiment du plomb"
+    },
+    {
+     "altText": "Arbalète",
+     "correct": false,
+     "hint": "Aucune flèche de quelque sorte que ce soit n’apparaît"
+    },
+    {
+     "altText": "Poêle à frire",
+     "correct": false,
+     "hint": "Le couteau est le seul ustensile de cuisine utilisé"
+    }
+   ],
+   "id": "109772",
+   "isEasy": false,
+   "question": "Les armes du meurtre originales dans Cluedo (1949)"
   },
   {
    "choices": [
-  {
-    "altText": "Chèvre",
-    "correct": true,
-    "hint": "Cet animal donne du lait, parfait pour les oeufs"
+    {
+     "altText": "Arc de Triomphe",
+     "correct": true,
+     "hint": "L’Arc de Triomphe se trouve à Paris"
+    },
+    {
+     "altText": "Le Christ Rédempteur",
+     "correct": false,
+     "hint": "Le Christ Rédempteur se trouve à Rio de Janeiro"
+    },
+    {
+     "altText": "La Grande Muraille de Chine",
+     "correct": false,
+     "hint": "Devine où se trouve la Grande Muraille de Chine"
+    },
+    {
+     "altText": "Hôtel Paris Las Vegas",
+     "correct": false,
+     "hint": "Ceci est l’hôtel Paris Las Vegas"
+    },
+    {
+     "altText": "La tour Eiffel",
+     "correct": true,
+     "hint": "Ceci est la véritable tour Eiffel"
+    },
+    {
+     "altText": "Stonehenge",
+     "correct": true,
+     "hint": "Stonehenge se trouve au Royaume-Uni"
+    },
+    {
+     "altText": "Palais du Parlement",
+     "correct": true,
+     "hint": "Big Ben est la cloche, pas l’horloge"
+    },
+    {
+     "altText": "Notre-Dame",
+     "correct": true,
+     "hint": "C’est ici que vit le Bossu"
+    },
+    {
+     "altText": "Taj Mahal",
+     "correct": false,
+     "hint": "Le Taj Mahal se trouve dans la ville d’Agra"
+    },
+    {
+     "altText": "Salto Ángel",
+     "correct": false,
+     "hint": "Voici le Salto Ángel"
+    }
+   ],
+   "id": "109773",
+   "isEasy": false,
+   "question": "Photos prises en Europe"
   },
   {
-    "altText": "Tente",
-    "correct": false,
-    "hint": "Pas besoin de camper pour les oeufs"
-  },
-  {
-    "altText": "Avion",
-    "correct": false,
-    "hint": "Pas besoin de voyager pour manger des oeufs"
-  },
-  {
-    "altText": "Train",
-    "correct": true,
-    "hint": "Train rime avec rain (pluie)"
-  },
-  {
-    "altText": "Lion",
-    "correct": false,
-    "hint": "Avec quoi lion pourrait-il bien rimer ?"
-  },
-  {
-    "altText": "Souris",
-    "correct": true,
-    "hint": "Il les mangerait dans une maison"
-  },
-  {
-    "altText": "Arbre",
-    "correct": true,
-    "hint": "Le feriez-vous, pourriez-vous… dans un arbre ?"
-  },
-  {
-    "altText": "Boîte",
-    "correct": true,
-    "hint": "Un renard se joindrait à vous là-dedans"
-  },
-  {
-    "altText": "Chaussettes",
-    "correct": false,
-    "hint": "Vous pensez à un autre livre de Seuss"
-  },
-  {
-    "altText": "Chat",
-    "correct": false,
-    "hint": "Vous pensez à un autre livre de Seuss"
-  }
-],
-"id": "109774",
-"isEasy": true,
-"question": "Mots présents dans [i]Les Oeufs verts au jambon[/i]"
+   "choices": [
+    {
+     "altText": "Chèvre",
+     "correct": true,
+     "hint": "Cet animal donne du lait, parfait pour les oeufs"
+    },
+    {
+     "altText": "Tente",
+     "correct": false,
+     "hint": "Pas besoin de camper pour les oeufs"
+    },
+    {
+     "altText": "Avion",
+     "correct": false,
+     "hint": "Pas besoin de voyager pour manger des oeufs"
+    },
+    {
+     "altText": "Train",
+     "correct": true,
+     "hint": "Train rime avec rain (pluie)"
+    },
+    {
+     "altText": "Lion",
+     "correct": false,
+     "hint": "Avec quoi lion pourrait-il bien rimer ?"
+    },
+    {
+     "altText": "Souris",
+     "correct": true,
+     "hint": "Il les mangerait dans une maison"
+    },
+    {
+     "altText": "Arbre",
+     "correct": true,
+     "hint": "Le feriez-vous, pourriez-vous… dans un arbre ?"
+    },
+    {
+     "altText": "Boîte",
+     "correct": true,
+     "hint": "Un renard se joindrait à vous là-dedans"
+    },
+    {
+     "altText": "Chaussettes",
+     "correct": false,
+     "hint": "Vous pensez à un autre livre de Seuss"
+    },
+    {
+     "altText": "Chat",
+     "correct": false,
+     "hint": "Vous pensez à un autre livre de Seuss"
+    }
+   ],
+   "id": "109774",
+   "isEasy": true,
+   "question": "Mots présents dans [i]Les Oeufs verts au jambon[/i]"
   },
   {
    "choices": [
@@ -374,10 +374,10 @@
      "correct": true,
      "hint": "Une flûte à bec est un type de flûte, et une flûte est…"
     }
-],
-"id": "110148",
-"isEasy": false,
-"question": "Instruments à vent en bois"
+   ],
+   "id": "110148",
+   "isEasy": false,
+   "question": "Instruments à vent en bois"
   },
   {
    "choices": [
@@ -431,10 +431,10 @@
      "correct": false,
      "hint": "Les graines ne sont pas toujours des noyaux"
     }
-],
-"id": "110152",
-"isEasy": true,
-"question": "Fruits à noyau"
+   ],
+   "id": "110152",
+   "isEasy": true,
+   "question": "Fruits à noyau"
   },
   {
    "choices": [
@@ -488,10 +488,10 @@
      "correct": true,
      "hint": "Colis en papier brun ? Attaché avec une ficelle ?!... exact !"
     }
-],
-"id": "110153",
-"isEasy": false,
-"question": "Éléments mentionnés dans les paroles de “My Favorite Things”"
+   ],
+   "id": "110153",
+   "isEasy": false,
+   "question": "Éléments mentionnés dans les paroles de “My Favorite Things”"
   },
   {
    "choices": [
@@ -545,10 +545,10 @@
      "correct": true,
      "hint": "Peut-on diviser 11 de manière égale ?"
     }
-],
-"id": "111196",
-"isEasy": true,
-"question": "Nombre premier de canards en caoutchouc"
+   ],
+   "id": "111196",
+   "isEasy": true,
+   "question": "Nombre premier de canards en caoutchouc"
   },
   {
    "choices": [
@@ -597,11 +597,11 @@
      "correct": false,
      "hint": "Oh-hi… non"
     }
-],
-"countrySpecific": true,
-"id": "111501",
-"isEasy": false,
-"question": "États américains bordant le Mississippi"
+   ],
+   "countrySpecific": true,
+   "id": "111501",
+   "isEasy": false,
+   "question": "États américains bordant le Mississippi"
   },
   {
    "choices": [
@@ -655,11 +655,11 @@
      "correct": true,
      "hint": "Barnum propose de nombreuses options rayées"
     }
-],
-"countrySpecific": true,
-"id": "112583",
-"isEasy": true,
-"question": "Formes d’animaux des biscuits Barnum"
+   ],
+   "countrySpecific": true,
+   "id": "112583",
+   "isEasy": true,
+   "question": "Formes d’animaux des biscuits Barnum"
   },
   {
    "choices": [
@@ -713,10 +713,10 @@
      "correct": false,
      "hint": "Pas de mines de charbon"
     }
-],
-"id": "112584",
-"isEasy": false,
-"question": "Ressources dans le jeu (Original) Les Colons de Catan"
+   ],
+   "id": "112584",
+   "isEasy": false,
+   "question": "Ressources dans le jeu (Original) Les Colons de Catan"
   },
   {
    "choices": [
@@ -760,10 +760,10 @@
      "correct": true,
      "hint": "Steve Buscemi est contrarié que celui-ci soit correct"
     }
-],
-"id": "112586",
-"isEasy": false,
-"question": "Noms des personnages de [i]Reservoir Dogs[/i] de 92",
+   ],
+   "id": "112586",
+   "isEasy": false,
+   "question": "Noms des personnages de [i]Reservoir Dogs[/i] de 92",
    "x": true
   },
   {
@@ -818,10 +818,10 @@
      "correct": false,
      "hint": "Green Arrow est un super-héros DC"
     }
-],
-"id": "112588",
-"isEasy": false,
-"question": "Noms des personnages des X-Men"
+   ],
+   "id": "112588",
+   "isEasy": false,
+   "question": "Noms des personnages des X-Men"
   },
   {
    "choices": [
@@ -875,10 +875,10 @@
      "correct": true,
      "hint": "La Polo était une super mini"
     }
-],
-"id": "112589",
-"isEasy": false,
-"question": "Noms de modèles de voitures VW"
+   ],
+   "id": "112589",
+   "isEasy": false,
+   "question": "Noms de modèles de voitures VW"
   },
   {
    "choices": [
@@ -922,10 +922,10 @@
      "correct": true,
      "hint": "Il y a une pêche ! Elle ressemble à une orange à l’écran"
     }
-],
-"id": "112629",
-"isEasy": true,
-"question": "Fruits dans Pac-Man (1980)"
+   ],
+   "id": "112629",
+   "isEasy": true,
+   "question": "Fruits dans Pac-Man (1980)"
   },
   {
    "choices": [
@@ -969,10 +969,10 @@
      "correct": true,
      "hint": "Fer à cheval violet ajouté en 1983"
     }
-],
-"id": "112630",
-"isEasy": true,
-"question": "Marshmallows des céréales Lucky Charms (dans une boîte standard 2025)"
+   ],
+   "id": "112630",
+   "isEasy": true,
+   "question": "Marshmallows des céréales Lucky Charms (dans une boîte standard 2025)"
   },
   {
    "choices": [
@@ -1148,8 +1148,6 @@
    "question": "Titres de films avec Tom Cruise"
   },
   {
-   "choices": [
-    {
    "choices": [
     {
      "altText": "Scrubs",
@@ -2220,404 +2218,404 @@
    "question": "Nom de famille d’un auteur parmi les 100 meilleures ventes"
   },
   {
-"choices": [
-{
-"altText": "Soufre",
-"correct": false,
-"hint": "Présent naturellement, sent l’œuf pourri"
-},
-{
-"altText": "Aspirine",
-"correct": true,
-"hint": "Formule = C9H8O4"
-},
-{
-"altText": "Mercure",
-"correct": false,
-"hint": "Le seul élément métallique liquide à température ambiante"
-},
-{
-"altText": "Acide chlorhydrique",
-"correct": true,
-"hint": "Hydrogène ET chlore"
-},
-{
-"altText": "Plomb",
-"correct": false,
-"hint": "Le plomb n’est pas un alliage"
-},
-{
-"altText": "Eau",
-"correct": true,
-"hint": "H2O"
-},
-{
-"altText": "Éthanol",
-"correct": true,
-"hint": "NaCl"
-},
-{
-"altText": "Fil de cuivre",
-"correct": false,
-"hint": "C’est juste du cuivre"
-},
-{
-"altText": "Or",
-"correct": false,
-"hint": "100 % Au"
-},
-{
-"altText": "Sucre blanc",
-"correct": true,
-"hint": "Formule = C12H22O11"
-}
-],
-"id": "114738",
-"isEasy": false,
-"question": "Composés (c’est-à-dire formés de plusieurs éléments)"
-},
-{
-"choices": [
-{
-"altText": "Union européenne",
-"correct": false,
-"hint": "Créé en 1955 pour célébrer une nouvelle union"
-},
-{
-"altText": "Chili",
-"correct": false,
-"hint": "Le rouge, le blanc et le bleu sont souvent présents sur les drapeaux des Amériques"
-},
-{
-"altText": "Turquie",
-"correct": true,
-"hint": "Une toute petite partie se trouve en Europe, mais la majeure partie du pays est...."
-},
-{
-"altText": "Japon",
-"correct": true,
-"hint": "Connu comme le « pays du Soleil-Levant »"
-},
-{
-"altText": "Faux drapeau",
-"correct": false,
-"hint": "Je l’ai fait dans Google Docs"
-},
-{
-"altText": "Chine",
-"correct": true,
-"hint": "La grande étoile représente le PCC, autrement dit le Parti communiste ______"
-},
-{
-"altText": "Inde",
-"correct": true,
-"hint": "L’Ashoka Chakra est au centre"
-},
-{
-"altText": "Ghana",
-"correct": false,
-"hint": "L’étoile noire représente l’indépendance face au pouvoir colonial"
-},
-{
-"altText": "Maroc",
-"correct": false,
-"hint": "Sur le même continent que le Ghana"
-},
-{
-"altText": "Corée du Sud",
-"correct": true,
-"hint": "C’est celle du sud"
-}
-],
-"id": "114739",
-"isEasy": false,
-"question": "Drapeaux de pays d’Asie"
-},
-{
-"choices": [
-{
-"altText": "Oiseaux",
-"correct": false,
-"hint": "Les oiseaux ne font pas partie des nuisibles volants qui ont frappé Pharaon"
-},
-{
-"altText": "Épines",
-"correct": false,
-"hint": "Il n’y a pas beaucoup de plantes dans le désert"
-},
-{
-"altText": "Sauterelles",
-"correct": true,
-"hint": "Elles ont mangé les récoltes"
-},
-{
-"altText": "Mouches",
-"correct": true,
-"hint": "Plusieurs plaies auraient vraiment de quoi vous « faire bourdonner »"
-},
-{
-"altText": "Grêle",
-"correct": true,
-"hint": "C’est de la grêle"
-},
-{
-"altText": "Crocodiles",
-"correct": false,
-"hint": "Le Nil avait d’autres problèmes"
-},
-{
-"altText": "Araignées",
-"correct": false,
-"hint": "Des araignées ? Même Moïse avait ses limites...."
-},
-{
-"altText": "Ténèbres",
-"correct": true,
-"hint": "Elles recouvrent tout le pays"
-},
-{
-"altText": "Grenouilles",
-"correct": true,
-"hint": "Celle-ci manque de faire changer Pharaon d’avis..."
-},
-{
-"altText": "Tornade",
-"correct": false,
-"hint": "Tu penses au Livre de Job"
-}
-],
-"id": "114740",
-"isEasy": false,
-"question": "Les plaies d’Égypte (dans le Livre de l’Exode)"
-},
-{
-"choices": [
-{
-"altText": "Champignons",
-"correct": false,
-"hint": "Pas beaucoup de végétaux dans cette recette"
-},
-{
-"altText": "Vin blanc",
-"correct": false,
-"hint": "On peut en manger et conduire"
-},
-{
-"altText": "Épinards",
-"correct": false,
-"hint": "Tu penses à la quiche florentine"
-},
-{
-"altText": "Lardons",
-"correct": true,
-"hint": "Oui, coupés en petits morceaux"
-},
-{
-"altText": "Œufs",
-"correct": true,
-"hint": "« Quiche » veut grosso modo dire « tarte aux œufs »"
-},
-{
-"altText": "Gruyère",
-"correct": true,
-"hint": "Le fromage a été ajouté dans les recettes du XXe siècle"
-},
-{
-"altText": "Graisse végétale",
-"correct": true,
-"hint": "La pâte a besoin de matière grasse"
-},
-{
-"altText": "Mayonnaise",
-"correct": false,
-"hint": "La mayo contient des œufs, ce serait donc redondant"
-},
-{
-"altText": "Homard",
-"correct": false,
-"hint": "Ce n’est pas un plat de fruits de mer"
-},
-{
-"altText": "Beurre",
-"correct": true,
-"hint": "C’est la marque de fabrique de Julia"
-}
-],
-"id": "114741",
-"isEasy": false,
-"question": "Ingrédients traditionnels de la quiche lorraine (d’après la recette de Julia Child)"
-},
-{
-"choices": [
-{
-"altText": "Douze tambours tambourinant",
-"correct": true,
-"hint": "Il y en a 12"
-},
-{
-"altText": "3 jongleurs jonglant",
-"correct": false,
-"hint": "Ce ne sont pas des poules françaises"
-},
-{
-"altText": "Deux faucons prenant la pose",
-"correct": false,
-"hint": "Ce ne sont pas des tourterelles"
-},
-{
-"altText": "8 archers tirant",
-"correct": false,
-"hint": "Pas d’armes dans la chanson"
-},
-{
-"altText": "Sept cygnes nageant",
-"correct": true,
-"hint": "Il y en a 7"
-},
-{
-"altText": "Trois canards migrant",
-"correct": false,
-"hint": "Ce ne sont pas des poules françaises"
-},
-{
-"altText": "Cinq anneaux d’or !",
-"correct": true,
-"hint": "C’est le passage qu’on chante le plus fort possible"
-},
-{
-"altText": "Deux tourterelles",
-"correct": true,
-"hint": "Oui, voilà à quoi ressemble une tourterelle"
-},
-{
-"altText": "Neuf dames dansant",
-"correct": true,
-"hint": "Oui, il y a 9 dames qui dansent sur cette photo"
-},
-{
-"altText": "Sept chevaux caracolant",
-"correct": false,
-"hint": "La chanson parle de bovins, pas d’équins"
-}
-],
-"id": "114742",
-"isEasy": false,
-"question": "Cadeaux dans « The 12 Days of Christmas »"
-},
-{
-"choices": [
-{
-"altText": "21 d’Adele",
-"correct": true,
-"hint": "Le total donne « 21 »"
-},
-{
-"altText": "Dark Side of the Moon de Pink Floyd",
-"correct": false,
-"hint": "Syd Barrett a été chanteur principal de Pink Floyd"
-},
-{
-"altText": "Teenage Dream de Katy Perry",
-"correct": true,
-"hint": "Avec les chansons « Firework » et « California Gurls »"
-},
-{
-"altText": "SOS de SZA",
-"correct": true,
-"hint": "SOS a trois lettres, tout comme SZA"
-},
-{
-"altText": "American Idiot de Green Day",
-"correct": false,
-"hint": "« Don’t wanna be an.... »"
-},
-{
-"altText": "Chocolate Starfish de Limp Bizkit",
-"correct": false,
-"hint": "...and the Hot Dog Flavored Water"
-},
-{
-"altText": "Dirty Computer de Janelle Monáe",
-"correct": true,
-"hint": "C’est bien un « Dirty Computer »"
-},
-{
-"altText": "Ice Ice Baby de Vanilla Ice",
-"correct": false,
-"hint": "Vanilla Ice s’identifie comme un homme"
-},
-{
-"altText": "Yellow Submarine des Beatles",
-"correct": false,
-"hint": "C’est Ringo qui l’a écrite"
-},
-{
-"altText": "Jagged Little Pill d’Alanis Morissette",
-"correct": true,
-"hint": "Cette petite pilule est bien dentelée"
-}
-],
-"id": "114745",
-"isEasy": false,
-"question": "Albums d’artistes féminines solo",
-"starterContent": false
-},
-{
-"choices": [
-{
-"altText": "Dracula",
-"correct": true,
-"hint": "Lui et son fils étaient présents"
-},
-{
-"altText": "Chiens",
-"correct": true,
-"hint": "Ils ont été amenés par Igor"
-},
-{
-"altText": "Momie",
-"correct": false,
-"hint": "Trop emmaillotée pour venir"
-},
-{
-"altText": "Igor",
-"correct": true,
-"hint": "Il a même droit à une parole : « Mash Good! »"
-},
-{
-"altText": "Fantôme",
-"correct": false,
-"hint": "Pas de corps, pas d’invitation"
-},
-{
-"altText": "Zombies",
-"correct": true,
-"hint": "Les paroles disent qu’ils étaient là et qu’ils s’amusaient"
-},
-{
-"altText": "Dragon",
-"correct": false,
-"hint": "Pas très fêtard, il préfère drag-on"
-},
-{
-"altText": "Homme-loup",
-"correct": true,
-"hint": "Mentionné avec Dracula"
-},
-{
-"altText": "Sorcière",
-"correct": false,
-"hint": "Ni Glinda, ni Elphaba... aucune sorcière d’aucune sorte"
-},
-{
-"altText": "Chat noir",
-"correct": false,
-"hint": "Seuls des chiens sont mentionnés"
-}
-],
-"id": "114746",
-"isEasy": false,
-"question": "Mentionné dans les paroles de « Monster Mash »"
-}
-]
+   "choices": [
+    {
+     "altText": "Soufre",
+     "correct": false,
+     "hint": "Présent naturellement, sent l’œuf pourri"
+    },
+    {
+     "altText": "Aspirine",
+     "correct": true,
+     "hint": "Formule = C9H8O4"
+    },
+    {
+     "altText": "Mercure",
+     "correct": false,
+     "hint": "Le seul élément métallique liquide à température ambiante"
+    },
+    {
+     "altText": "Acide chlorhydrique",
+     "correct": true,
+     "hint": "Hydrogène ET chlore"
+    },
+    {
+     "altText": "Plomb",
+     "correct": false,
+     "hint": "Le plomb n’est pas un alliage"
+    },
+    {
+     "altText": "Eau",
+     "correct": true,
+     "hint": "H2O"
+    },
+    {
+     "altText": "Éthanol",
+     "correct": true,
+     "hint": "NaCl"
+    },
+    {
+     "altText": "Fil de cuivre",
+     "correct": false,
+     "hint": "C’est juste du cuivre"
+    },
+    {
+     "altText": "Or",
+     "correct": false,
+     "hint": "100 % Au"
+    },
+    {
+     "altText": "Sucre blanc",
+     "correct": true,
+     "hint": "Formule = C12H22O11"
+    }
+   ],
+   "id": "114738",
+   "isEasy": false,
+   "question": "Composés (c’est-à-dire formés de plusieurs éléments)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Union européenne",
+     "correct": false,
+     "hint": "Créé en 1955 pour célébrer une nouvelle union"
+    },
+    {
+     "altText": "Chili",
+     "correct": false,
+     "hint": "Le rouge, le blanc et le bleu sont souvent présents sur les drapeaux des Amériques"
+    },
+    {
+     "altText": "Turquie",
+     "correct": true,
+     "hint": "Une toute petite partie se trouve en Europe, mais la majeure partie du pays est...."
+    },
+    {
+     "altText": "Japon",
+     "correct": true,
+     "hint": "Connu comme le « pays du Soleil-Levant »"
+    },
+    {
+     "altText": "Faux drapeau",
+     "correct": false,
+     "hint": "Je l’ai fait dans Google Docs"
+    },
+    {
+     "altText": "Chine",
+     "correct": true,
+     "hint": "La grande étoile représente le PCC, autrement dit le Parti communiste ______"
+    },
+    {
+     "altText": "Inde",
+     "correct": true,
+     "hint": "L’Ashoka Chakra est au centre"
+    },
+    {
+     "altText": "Ghana",
+     "correct": false,
+     "hint": "L’étoile noire représente l’indépendance face au pouvoir colonial"
+    },
+    {
+     "altText": "Maroc",
+     "correct": false,
+     "hint": "Sur le même continent que le Ghana"
+    },
+    {
+     "altText": "Corée du Sud",
+     "correct": true,
+     "hint": "C’est celle du sud"
+    }
+   ],
+   "id": "114739",
+   "isEasy": false,
+   "question": "Drapeaux de pays d’Asie"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Oiseaux",
+     "correct": false,
+     "hint": "Les oiseaux ne font pas partie des nuisibles volants qui ont frappé Pharaon"
+    },
+    {
+     "altText": "Épines",
+     "correct": false,
+     "hint": "Il n’y a pas beaucoup de plantes dans le désert"
+    },
+    {
+     "altText": "Sauterelles",
+     "correct": true,
+     "hint": "Elles ont mangé les récoltes"
+    },
+    {
+     "altText": "Mouches",
+     "correct": true,
+     "hint": "Plusieurs plaies auraient vraiment de quoi vous « faire bourdonner »"
+    },
+    {
+     "altText": "Grêle",
+     "correct": true,
+     "hint": "C’est de la grêle"
+    },
+    {
+     "altText": "Crocodiles",
+     "correct": false,
+     "hint": "Le Nil avait d’autres problèmes"
+    },
+    {
+     "altText": "Araignées",
+     "correct": false,
+     "hint": "Des araignées ? Même Moïse avait ses limites...."
+    },
+    {
+     "altText": "Ténèbres",
+     "correct": true,
+     "hint": "Elles recouvrent tout le pays"
+    },
+    {
+     "altText": "Grenouilles",
+     "correct": true,
+     "hint": "Celle-ci manque de faire changer Pharaon d’avis..."
+    },
+    {
+     "altText": "Tornade",
+     "correct": false,
+     "hint": "Tu penses au Livre de Job"
+    }
+   ],
+   "id": "114740",
+   "isEasy": false,
+   "question": "Les plaies d’Égypte (dans le Livre de l’Exode)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Champignons",
+     "correct": false,
+     "hint": "Pas beaucoup de végétaux dans cette recette"
+    },
+    {
+     "altText": "Vin blanc",
+     "correct": false,
+     "hint": "On peut en manger et conduire"
+    },
+    {
+     "altText": "Épinards",
+     "correct": false,
+     "hint": "Tu penses à la quiche florentine"
+    },
+    {
+     "altText": "Lardons",
+     "correct": true,
+     "hint": "Oui, coupés en petits morceaux"
+    },
+    {
+     "altText": "Œufs",
+     "correct": true,
+     "hint": "« Quiche » veut grosso modo dire « tarte aux œufs »"
+    },
+    {
+     "altText": "Gruyère",
+     "correct": true,
+     "hint": "Le fromage a été ajouté dans les recettes du XXe siècle"
+    },
+    {
+     "altText": "Graisse végétale",
+     "correct": true,
+     "hint": "La pâte a besoin de matière grasse"
+    },
+    {
+     "altText": "Mayonnaise",
+     "correct": false,
+     "hint": "La mayo contient des œufs, ce serait donc redondant"
+    },
+    {
+     "altText": "Homard",
+     "correct": false,
+     "hint": "Ce n’est pas un plat de fruits de mer"
+    },
+    {
+     "altText": "Beurre",
+     "correct": true,
+     "hint": "C’est la marque de fabrique de Julia"
+    }
+   ],
+   "id": "114741",
+   "isEasy": false,
+   "question": "Ingrédients traditionnels de la quiche lorraine (d’après la recette de Julia Child)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Douze tambours tambourinant",
+     "correct": true,
+     "hint": "Il y en a 12"
+    },
+    {
+     "altText": "3 jongleurs jonglant",
+     "correct": false,
+     "hint": "Ce ne sont pas des poules françaises"
+    },
+    {
+     "altText": "Deux faucons prenant la pose",
+     "correct": false,
+     "hint": "Ce ne sont pas des tourterelles"
+    },
+    {
+     "altText": "8 archers tirant",
+     "correct": false,
+     "hint": "Pas d’armes dans la chanson"
+    },
+    {
+     "altText": "Sept cygnes nageant",
+     "correct": true,
+     "hint": "Il y en a 7"
+    },
+    {
+     "altText": "Trois canards migrant",
+     "correct": false,
+     "hint": "Ce ne sont pas des poules françaises"
+    },
+    {
+     "altText": "Cinq anneaux d’or !",
+     "correct": true,
+     "hint": "C’est le passage qu’on chante le plus fort possible"
+    },
+    {
+     "altText": "Deux tourterelles",
+     "correct": true,
+     "hint": "Oui, voilà à quoi ressemble une tourterelle"
+    },
+    {
+     "altText": "Neuf dames dansant",
+     "correct": true,
+     "hint": "Oui, il y a 9 dames qui dansent sur cette photo"
+    },
+    {
+     "altText": "Sept chevaux caracolant",
+     "correct": false,
+     "hint": "La chanson parle de bovins, pas d’équins"
+    }
+   ],
+   "id": "114742",
+   "isEasy": false,
+   "question": "Cadeaux dans « The 12 Days of Christmas »"
+  },
+  {
+   "choices": [
+    {
+     "altText": "21 d’Adele",
+     "correct": true,
+     "hint": "Le total donne « 21 »"
+    },
+    {
+     "altText": "Dark Side of the Moon de Pink Floyd",
+     "correct": false,
+     "hint": "Syd Barrett a été chanteur principal de Pink Floyd"
+    },
+    {
+     "altText": "Teenage Dream de Katy Perry",
+     "correct": true,
+     "hint": "Avec les chansons « Firework » et « California Gurls »"
+    },
+    {
+     "altText": "SOS de SZA",
+     "correct": true,
+     "hint": "SOS a trois lettres, tout comme SZA"
+    },
+    {
+     "altText": "American Idiot de Green Day",
+     "correct": false,
+     "hint": "« Don’t wanna be an.... »"
+    },
+    {
+     "altText": "Chocolate Starfish de Limp Bizkit",
+     "correct": false,
+     "hint": "...and the Hot Dog Flavored Water"
+    },
+    {
+     "altText": "Dirty Computer de Janelle Monáe",
+     "correct": true,
+     "hint": "C’est bien un « Dirty Computer »"
+    },
+    {
+     "altText": "Ice Ice Baby de Vanilla Ice",
+     "correct": false,
+     "hint": "Vanilla Ice s’identifie comme un homme"
+    },
+    {
+     "altText": "Yellow Submarine des Beatles",
+     "correct": false,
+     "hint": "C’est Ringo qui l’a écrite"
+    },
+    {
+     "altText": "Jagged Little Pill d’Alanis Morissette",
+     "correct": true,
+     "hint": "Cette petite pilule est bien dentelée"
+    }
+   ],
+   "id": "114745",
+   "isEasy": false,
+   "question": "Albums d’artistes féminines solo",
+   "starterContent": false
+  },
+  {
+   "choices": [
+    {
+     "altText": "Dracula",
+     "correct": true,
+     "hint": "Lui et son fils étaient présents"
+    },
+    {
+     "altText": "Chiens",
+     "correct": true,
+     "hint": "Ils ont été amenés par Igor"
+    },
+    {
+     "altText": "Momie",
+     "correct": false,
+     "hint": "Trop emmaillotée pour venir"
+    },
+    {
+     "altText": "Igor",
+     "correct": true,
+     "hint": "Il a même droit à une parole : « Mash Good! »"
+    },
+    {
+     "altText": "Fantôme",
+     "correct": false,
+     "hint": "Pas de corps, pas d’invitation"
+    },
+    {
+     "altText": "Zombies",
+     "correct": true,
+     "hint": "Les paroles disent qu’ils étaient là et qu’ils s’amusaient"
+    },
+    {
+     "altText": "Dragon",
+     "correct": false,
+     "hint": "Pas très fêtard, il préfère drag-on"
+    },
+    {
+     "altText": "Homme-loup",
+     "correct": true,
+     "hint": "Mentionné avec Dracula"
+    },
+    {
+     "altText": "Sorcière",
+     "correct": false,
+     "hint": "Ni Glinda, ni Elphaba... aucune sorcière d’aucune sorte"
+    },
+    {
+     "altText": "Chat noir",
+     "correct": false,
+     "hint": "Seuls des chiens sont mentionnés"
+    }
+   ],
+   "id": "114746",
+   "isEasy": false,
+   "question": "Mentionné dans les paroles de « Monster Mash »"
+  }
+ ]
 }
