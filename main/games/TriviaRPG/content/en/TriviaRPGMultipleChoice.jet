@@ -555,26 +555,26 @@
    "choices": [
     {
      "correct": true,
-     "text": "[i]Magic for Humans[/i]"
+     "text": "[i]Lupin[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Magic for Skeptics[/i]"
+     "text": "[i]Plan Cœur[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Magic for Kids[/i]"
+     "text": "[i]Family Business[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Magic for Now[/i]"
+     "text": "[i]Marianne[/i]"
     }
    ],
-   "clue": "",
+   "clue": "Il s’inspire d’un célèbre gentleman cambrioleur",
    "countrySpecific": true,
    "id": "106870",
    "isEasy": false,
-   "question": "Quel était le titre de la série Netflix de l'illusionniste Justin Willman ?",
+   "question": "Dans quelle série Netflix française Omar Sy incarne-t-il Assane Diop ?",
    "theme": "FOREST"
   },
   {
@@ -741,26 +741,26 @@
    "choices": [
     {
      "correct": false,
-     "text": "Dakota du Nord"
+     "text": "Mayotte"
     },
     {
      "correct": false,
-     "text": "Dakota du Sud"
+     "text": "La Réunion"
     },
     {
      "correct": true,
-     "text": "Nouveau-Mexique"
+     "text": "Martinique"
     },
     {
      "correct": false,
-     "text": "New Hampshire"
+     "text": "Guadeloupe"
     }
    ],
-   "clue": "L’Enchantement est Nouveau",
+   "clue": "C'est une île, donc vous pouvez éliminer une proposition.",
    "countrySpecific": true,
    "id": "106879",
    "isEasy": false,
-   "question": "Quel État américain est surnommé “le pays de l’enchantement” ?",
+   "question": "Quelle DROM a pour surnom 'l'île aux fleurs' ?",
    "theme": "CASTLE"
   },
   {
@@ -768,26 +768,26 @@
    "choices": [
     {
      "correct": false,
-     "text": "Northwestern"
+     "text": "Olympique lyonnais"
     },
     {
      "correct": true,
-     "text": "Ohio State"
+     "text": "FC Nantes"
     },
     {
      "correct": false,
-     "text": "Purdue"
+     "text": "Paris Saint-Germain"
     },
     {
      "correct": false,
-     "text": "Michigan State"
+     "text": "RC Lens"
     }
    ],
-   "clue": "Oh... Salut !",
+   "clue": "Pense à la couleur du maillot et à l’oiseau",
    "countrySpecific": true,
    "id": "106880",
    "isEasy": false,
-   "question": "Quelle équipe universitaire est mieux connue sous le nom de “Buckeyes” ?",
+   "question": "Quelle équipe de football française est surnommée “les Canaris” ?",
    "theme": "CEMETERY"
   },
   {
@@ -951,28 +951,28 @@
    "choices": [
     {
      "correct": false,
-     "text": "New Jersey"
+     "text": "Lyon"
     },
     {
      "correct": false,
-     "text": "Cincinnati"
+     "text": "Bordeaux"
     },
     {
      "correct": false,
-     "text": "Saint-Louis"
+     "text": "Nice"
     },
     {
      "correct": true,
-     "text": "Boston"
+     "text": "Marseille"
     }
    ],
-   "clue": "Aussi appelée Bosstown",
-   "countrySpecific": true,
-   "id": "106888",
-   "isEasy": false,
-   "question": "Quelle ville américaine est surnommée “Beantown” ?",
-   "theme": "CASTLE"
-  },
+   "clue": "Son nom renvoie aux Grecs de Phocée",
+"countrySpecific": true,
+"id": "106888",
+"isEasy": false,
+"question": "Quelle ville française est surnommée “la Cité phocéenne” ?",
+"theme": "CASTLE"
+},
   {
    "category": "Movie Nicknames",
    "choices": [
@@ -1548,32 +1548,32 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Mascotte de Cookies",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Veste bleue, chapeau jaune"
-    },
-    {
-     "correct": true,
-     "text": "Veste verte, chapeau rouge"
-    },
-    {
-     "correct": false,
-     "text": "Veste bleue, chapeau rouge"
-    },
-    {
-     "correct": false,
-     "text": "Veste verte, chapeau bleu"
-    }
-   ],
-   "clue": "Traditionnellement, les couleurs de Noël",
-   "countrySpecific": true,
-   "id": "107668",
-   "isEasy": false,
-   "question": "Que porte Ernie Keebler, le chef des elfes Keebler, dans le logo de la marque ?",
-   "theme": "FOREST"
-  },
+"category": "Mascotte de biscuits",
+"choices": [
+{
+"correct": false,
+"text": "BN"
+},
+{
+"correct": true,
+"text": "LU"
+},
+{
+"correct": false,
+"text": "St Michel"
+},
+{
+"correct": false,
+"text": "Belin"
+}
+],
+"clue": "Il va à l’école avec une tablette de chocolat",
+"countrySpecific": true,
+"id": "107668",
+"isEasy": false,
+"question": "Quelle marque de biscuits est associée au personnage du Petit Écolier ?",
+"theme": "FOREST"
+},
   {
    "category": "Littérature Écologique",
    "choices": [
@@ -1991,31 +1991,31 @@
    "theme": "FOREST"
   },
   {
-   "category": "Enseignement Supérieur",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Harvard"
-    },
-    {
-     "correct": true,
-     "text": "Stanford"
-    },
-    {
-     "correct": false,
-     "text": "Oxford"
-    },
-    {
-     "correct": false,
-     "text": "Julliard"
-    }
-   ],
-   "clue": "Les arbres se tiennent droit",
-   "id": "107686",
-   "isEasy": false,
-   "question": "Quelle école a un arbre comme logo et mascotte ?",
-   "theme": "FOREST"
-  },
+"category": "Enseignement supérieur",
+"choices": [
+{
+"correct": false,
+"text": "HEC"
+},
+{
+"correct": true,
+"text": "École polytechnique"
+},
+{
+"correct": false,
+"text": "Sciences Po"
+},
+{
+"correct": false,
+"text": "Sorbonne Université"
+}
+],
+"clue": "Un surnom très mathématique",
+"id": "107686",
+"isEasy": false,
+"question": "Quelle grande école française est souvent surnommée “l’X” ?",
+"theme": "FOREST"
+},
   {
    "category": "Arbres Communs",
    "choices": [
@@ -2459,32 +2459,32 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Humoristes Royaux",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Steve Harvey"
-    },
-    {
-     "correct": true,
-     "text": "Kevin Hart"
-    },
-    {
-     "correct": false,
-     "text": "D.L. Hughley"
-    },
-    {
-     "correct": false,
-     "text": "Cedric le Entertainer"
-    }
-   ],
-   "clue": "Le groupe était Hart-less",
-   "countrySpecific": true,
-   "id": "108011",
-   "isEasy": false,
-   "question": "Lequel de ces humoristes NE faisait PAS partie des [i]Original Kings of Comedy[/i] ?",
-   "theme": "CASTLE"
-  },
+"category": "Humoristes cultes",
+"choices": [
+{
+"correct": false,
+"text": "Didier Bourdon"
+},
+{
+"correct": true,
+"text": "Dany Boon"
+},
+{
+"correct": false,
+"text": "Bernard Campan"
+},
+{
+"correct": false,
+"text": "Pascal Légitimus"
+}
+],
+"clue": "Il est connu, mais ce n’est pas l’un des trois",
+"countrySpecific": true,
+"id": "108011",
+"isEasy": false,
+"question": "Lequel de ces humoristes NE faisait PAS partie des Inconnus ?",
+"theme": "CASTLE"
+},
   {
    "category": "Rois Bibliques",
    "choices": [
@@ -2850,31 +2850,31 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Grands Événements",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Jour du Souvenir"
-    },
-    {
-     "correct": false,
-     "text": "Jour des Anciens Combattants"
-    },
-    {
-     "correct": false,
-     "text": "Noël"
-    },
-    {
-     "correct": true,
-     "text": "Jour de l’An"
-    }
-   ],
-   "clue": "Retournez vos calendriers",
-   "id": "108039",
-   "isEasy": false,
-   "question": "Huzzah ! La Parade du Tournament of Roses a lieu chaque année quel jour ?",
-   "theme": "CASTLE"
-  },
+"category": "Grands événements",
+"choices": [
+{
+"correct": false,
+"text": "La prise de la Bastille"
+},
+{
+"correct": false,
+"text": "L’abolition des privilèges"
+},
+{
+"correct": true,
+"text": "La Fête de la Fédération"
+},
+{
+"correct": false,
+"text": "Le serment du Jeu de paume"
+}
+],
+"clue": "Elle a eu lieu un an après la prise de la Bastille",
+"id": "108039",
+"isEasy": false,
+"question": "Quel événement du 14 juillet 1790 la fête nationale française commémore-t-elle aussi ?",
+"theme": "CASTLE"
+},
   {
    "category": "Ingrédients de Malbouffe",
    "choices": [
@@ -3424,32 +3424,32 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Stades de sport",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Wrigley Field"
-    },
-    {
-     "correct": false,
-     "text": "Dodger Stadium"
-    },
-    {
-     "correct": false,
-     "text": "Citi Field"
-    },
-    {
-     "correct": true,
-     "text": "Fenway Park"
-    }
-   ],
-   "clue": "Les Red Sox y jouent",
-   "countrySpecific": true,
-   "id": "108503",
-   "isEasy": false,
-   "question": "Quel stade de baseball possède un mur surnommé “The Green Monster” ?",
-   "theme": "CASTLE"
-  },
+"category": "Stades de sport",
+"choices": [
+{
+"correct": false,
+"text": "Parc des Princes"
+},
+{
+"correct": false,
+"text": "Orange Vélodrome"
+},
+{
+"correct": false,
+"text": "Groupama Stadium"
+},
+{
+"correct": true,
+"text": "Stade de France"
+}
+],
+"clue": "Il est situé à Saint-Denis",
+"countrySpecific": true,
+"id": "108503",
+"isEasy": false,
+"question": "Quel grand stade français a été construit pour la Coupe du monde 1998 ?",
+"theme": "CASTLE"
+},
   {
    "category": "Marionnettes",
    "choices": [
