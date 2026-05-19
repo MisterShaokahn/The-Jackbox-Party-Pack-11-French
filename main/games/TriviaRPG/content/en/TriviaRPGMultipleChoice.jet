@@ -102,7 +102,7 @@
 "clue": "Malgré son nom, il ne vient pas d’un animal",
 "id": "106850",
 "isEasy": false,
-"question": "Quel récipient arrondi, très utilisé en pâtisserie, sert notamment à mélanger ou fouetter des préparations ?"
+"question": "Quel récipient arrondi, très utilisé en pâtisserie, sert notamment à mélanger ou fouetter des préparations ?",
    "theme": "FOREST",
    "x": true
   },
@@ -392,7 +392,7 @@
 "countrySpecific": true,
 "id": "106863",
 "isEasy": false,
-"question": "Quel parc français, situé près de Poitiers, est centré sur l’image, la technologie et les expériences immersives ?"
+"question": "Quel parc français, situé près de Poitiers, est centré sur l’image, la technologie et les expériences immersives ?",
    "theme": "CASTLE"
   },
   {
@@ -2353,7 +2353,7 @@
 "countrySpecific": true,
 "id": "107994",
 "isEasy": false,
-"question": "Quel comédien prête sa voix française à Homer Simpson dans [i]Les Simpson[/i] ?"
+"question": "Quel comédien prête sa voix française à Homer Simpson dans [i]Les Simpson[/i] ?",
    "theme": "CASTLE"
   },
   {
@@ -4465,7 +4465,7 @@
 "countrySpecific": true,
 "id": "108737",
 "isEasy": false,
-"question": "Quelle émission française a popularisé au début des années 2000 le format des candidats enfermés sous surveillance constante ?"
+"question": "Quelle émission française a popularisé au début des années 2000 le format des candidats enfermés sous surveillance constante ?",
    "theme": "DESERT"
   },
   {
@@ -4543,7 +4543,7 @@
 "clue": "Leur victoire a été suivie d’un succès mondial, notamment avec [i]Beggin’[/i]",
 "id": "108743",
 "isEasy": false,
-"question": "Quel groupe italien a remporté l’Eurovision 2021 avec la chanson [i]Zitti e buoni[/i] ?"
+"question": "Quel groupe italien a remporté l’Eurovision 2021 avec la chanson [i]Zitti e buoni[/i] ?",
    "theme": "DESERT",
    "x": true
   },
@@ -5225,7 +5225,7 @@
 "countrySpecific": true,
 "id": "108955",
 "isEasy": false,
-"question": "Quelle boisson alcoolisée a été interdite en France en 1915 avant d’être à nouveau autorisée au XXIe siècle ?"
+"question": "Quelle boisson alcoolisée a été interdite en France en 1915 avant d’être à nouveau autorisée au XXIe siècle ?",
    "theme": "CEMETERY",
    "x": true
   },
@@ -5438,7 +5438,7 @@
 "isEasy": false,
 "question": "Quel symbole est associé à une superstition que l’on appelle la triskaïdékaphobie ?",
 "theme": "CEMETERY"
-}
+},
   {
    "category": "Fêtes des morts",
    "choices": [
@@ -5936,7 +5936,7 @@
 "clue": "Les fans l’appelaient souvent simplement PES",
 "id": "109379",
 "isEasy": false,
-"question": "Dans quelle série de jeux de football le mode [i]Master League[/i] a-t-il longtemps été l’un des modes emblématiques ?"
+"question": "Dans quelle série de jeux de football le mode [i]Master League[/i] a-t-il longtemps été l’un des modes emblématiques ?",
    "theme": "DESERT"
   },
   {
@@ -6485,7 +6485,7 @@
 "countrySpecific": true,
 "id": "109728",
 "isEasy": false,
-"question": "Lequel de ces artistes n’est PAS membre du groupe IAM ?"
+"question": "Lequel de ces artistes n’est PAS membre du groupe IAM ?",
    "theme": "DESERT"
   },
   {
@@ -7399,7 +7399,7 @@
 "clue": "On le retrouve souvent dans les tables d’harmonie",
 "id": "109950",
 "isEasy": false,
-"question": "Quel bois léger et résonnant est très utilisé en lutherie, notamment pour la table d’harmonie des violons et des guitares ?"
+"question": "Quel bois léger et résonnant est très utilisé en lutherie, notamment pour la table d’harmonie des violons et des guitares ?",
    "theme": "FOREST"
   },
   {
@@ -9333,7 +9333,7 @@
 "countrySpecific": true,
 "id": "111723",
 "isEasy": false,
-"question": "Dans quelle série humoristique française Jamel Debbouze a-t-il tenu l’un de ses premiers grands rôles à la télévision ?"
+"question": "Dans quelle série humoristique française Jamel Debbouze a-t-il tenu l’un de ses premiers grands rôles à la télévision ?",
 
    "theme": "FOREST"
   },
@@ -11138,7 +11138,7 @@
 "isEasy": false,
 "question": "Quel sandwich vietnamien de street food est préparé dans une baguette garnie de viande, légumes marinés et herbes fraîches ?",
 "theme": "CEMETERY"
-}
+},
 {
 "category": "Baseball",
 "choices": [
@@ -11164,7 +11164,7 @@
 "isEasy": false,
 "question": "Au baseball, combien de joueurs sont généralement présents sur le terrain au début d’une manche ?",
 "theme": "DESERT"
-}
+},
 {
 "category": "Système solaire",
 "choices": [
@@ -11241,10 +11241,8 @@
 "countrySpecific": true,
 "id": "114779",
 "isEasy": false,
-"question": "Quelle comédie musicale franco-québécoise contient les chansons [i]Le Blues du businessman[/i] et [i]SOS d’un terrien en détresse[/i] ?"
+"question": "Quelle comédie musicale franco-québécoise contient les chansons [i]Le Blues du businessman[/i] et [i]SOS d’un terrien en détresse[/i] ?",
 "theme": "CHÂTEAU"
 }
 ]
 }
-
-
