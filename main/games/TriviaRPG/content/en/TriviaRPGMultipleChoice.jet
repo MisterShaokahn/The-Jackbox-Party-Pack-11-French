@@ -80,29 +80,29 @@
    "x": true
   },
   {
-   "category": "Kitchen Conspiracies",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Baguette magique"
-    },
-    {
-     "correct": false,
-     "text": "Gomme magique"
-    },
-    {
-     "correct": false,
-     "text": "Mélange magique"
-    },
-    {
-     "correct": true,
-     "text": "Balle magique"
-    }
-   ],
-   "clue": "Le dernier",
-   "id": "106850",
-   "isEasy": false,
-   "question": "Quel objet de cuisine partage son nom avec une théorie du complot sur JFK ?",
+"category": "Ustensiles de cuisine",
+"choices": [
+{
+"correct": false,
+"text": "Une sauteuse"
+},
+{
+"correct": true,
+"text": "Un cul-de-poule"
+},
+{
+"correct": false,
+"text": "Un chinois"
+},
+{
+"correct": false,
+"text": "Un bain-marie"
+}
+],
+"clue": "Malgré son nom, il ne vient pas d’un animal",
+"id": "106850",
+"isEasy": false,
+"question": "Quel récipient arrondi, très utilisé en pâtisserie, sert notamment à mélanger ou fouetter des préparations ?"
    "theme": "FOREST",
    "x": true
   },
@@ -369,29 +369,30 @@
    "theme": "FOREST"
   },
   {
-   "category": "Amusement Parks",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Les années 1930"
-    },
-    {
-     "correct": false,
-     "text": "Les années 1950"
-    },
-    {
-     "correct": true,
-     "text": "Les années 1970"
-    },
-    {
-     "correct": false,
-     "text": "Les années 1990"
-    }
-   ],
-   "clue": "Mickey disco",
-   "id": "106863",
-   "isEasy": true,
-   "question": "Quand le Magic Kingdom a-t-il ouvert en Floride ?",
+"category": "Parcs d’attractions",
+"choices": [
+{
+"correct": false,
+"text": "Le Parc Astérix"
+},
+{
+"correct": true,
+"text": "Le Futuroscope"
+},
+{
+"correct": false,
+"text": "Le Puy du Fou"
+},
+{
+"correct": false,
+"text": "Vulcania"
+}
+],
+"clue": "Son nom regarde clairement vers demain",
+"countrySpecific": true,
+"id": "106863",
+"isEasy": false,
+"question": "Quel parc français, situé près de Poitiers, est centré sur l’image, la technologie et les expériences immersives ?"
    "theme": "CASTLE"
   },
   {
@@ -2329,29 +2330,30 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Doubleurs",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Pamela Adlon"
-    },
-    {
-     "correct": false,
-     "text": "Brittany Murphy"
-    },
-    {
-     "correct": true,
-     "text": "Kathy Najimy"
-    },
-    {
-     "correct": false,
-     "text": "Mike Judge"
-    }
-   ],
-   "clue": "Kathy est Peggy",
-   "id": "107994",
-   "isEasy": false,
-   "question": "Qui prête sa voix à Peggy Hill dans [i]King of the Hill[/i] ?",
+"category": "Doubleurs",
+"choices": [
+{
+"correct": false,
+"text": "Roger Carel"
+},
+{
+"correct": true,
+"text": "Philippe Peythieu"
+},
+{
+"correct": false,
+"text": "Richard Darbois"
+},
+{
+"correct": false,
+"text": "Patrick Préjean"
+}
+],
+"clue": "Il double aussi le personnage dans de nombreux épisodes depuis les débuts français de la série",
+"countrySpecific": true,
+"id": "107994",
+"isEasy": false,
+"question": "Quel comédien prête sa voix française à Homer Simpson dans [i]Les Simpson[/i] ?"
    "theme": "CASTLE"
   },
   {
@@ -3997,32 +3999,32 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Restauration rapide",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Cinnamon Twisties"
-    },
-    {
-     "correct": false,
-     "text": "Mac & Cheese Nibblers"
-    },
-    {
-     "correct": false,
-     "text": "Smokey Joe Sliders"
-    },
-    {
-     "correct": false,
-     "text": "Gooey Buttercake-on-a-Stick"
-    }
-   ],
-   "clue": "Quel twist !",
-   "countrySpecific": true,
-   "id": "108713",
-   "isEasy": false,
-   "question": "Lequel de ces plats ne figure PAS au menu de White Castle ?",
-   "theme": "CASTLE"
-  },
+"category": "Restauration rapide",
+"choices": [
+{
+"correct": false,
+"text": "Big Mac"
+},
+{
+"correct": true,
+"text": "Giant"
+},
+{
+"correct": false,
+"text": "Whopper"
+},
+{
+"correct": false,
+"text": "Long Chicken"
+}
+],
+"clue": "Pense à l’ancien grand rival de McDonald’s en France",
+"countrySpecific": true,
+"id": "108713",
+"isEasy": false,
+"question": "Quel sandwich est emblématique de la chaîne de restauration rapide Quick ?",
+"theme": "CASTLE"
+},
   {
    "category": "Classiques de l’Anime",
    "choices": [
@@ -4440,29 +4442,30 @@
    "theme": "DESERT"
   },
   {
-   "category": "Toxic Reality",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]Hotopia[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Love on the Rocks[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]Rock of Love[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Talk Flirty to Me[/i]"
-    }
-   ],
-   "clue": "“Rock” est dans le titre",
-   "id": "108737",
-   "isEasy": false,
-   "question": "Le chanteur du groupe Poison, Bret Michaels, était la star de quelle émission de télé-réalité de rencontres des années 2000 ?",
+"category": "Toxic Reality",
+"choices": [
+{
+"correct": false,
+"text": "[i]Star Academy[/i]"
+},
+{
+"correct": true,
+"text": "[i]Loft Story[/i]"
+},
+{
+"correct": false,
+"text": "[i]Secret Story[/i]"
+},
+{
+"correct": false,
+"text": "[i]Nice People[/i]"
+}
+],
+"clue": "L’émission est restée célèbre pour Loana et une piscine",
+"countrySpecific": true,
+"id": "108737",
+"isEasy": false,
+"question": "Quelle émission française a popularisé au début des années 2000 le format des candidats enfermés sous surveillance constante ?"
    "theme": "DESERT"
   },
   {
@@ -4518,30 +4521,29 @@
    "theme": "DESERT"
   },
   {
-   "category": "Pop Moments",
-   "choices": [
-    {
-     "correct": false,
-     "text": "A dansé avec un serpent"
-    },
-    {
-     "correct": false,
-     "text": "A porté une robe en viande"
-    },
-    {
-     "correct": false,
-     "text": "Est tombée de la scène"
-    },
-    {
-     "correct": true,
-     "text": "A embrassé Madonna"
-    }
-   ],
-   "clue": "Ne sois pas fâché",
-   "countrySpecific": false,
-   "id": "108743",
-   "isEasy": false,
-   "question": "Lors des MTV VMAs de 2003, Britney Spears a interprété “Toxic” et...",
+"category": "Pop Moments",
+"choices": [
+{
+"correct": false,
+"text": "Loreen"
+},
+{
+"correct": false,
+"text": "Barbara Pravi"
+},
+{
+"correct": true,
+"text": "Måneskin"
+},
+{
+"correct": false,
+"text": "Duncan Laurence"
+}
+],
+"clue": "Leur victoire a été suivie d’un succès mondial, notamment avec [i]Beggin’[/i]",
+"id": "108743",
+"isEasy": false,
+"question": "Quel groupe italien a remporté l’Eurovision 2021 avec la chanson [i]Zitti e buoni[/i] ?"
    "theme": "DESERT",
    "x": true
   },
@@ -4594,7 +4596,7 @@
    "clue": "Le poison te fait “tousser”",
    "id": "108745",
    "isEasy": false,
-   "question": "Lequel des Pokémon suivants est de type poison ?",
+   "question": "Lequel des Pokémon suivants est de type Poison ?",
    "theme": "DESERT"
   },
   {
@@ -4943,26 +4945,26 @@
    "choices": [
     {
      "correct": true,
-     "text": "Cheetos"
+     "text": "Scoville"
     },
     {
      "correct": false,
-     "text": "Fritos"
+     "text": "Beaufort"
     },
     {
      "correct": false,
-     "text": "Doritos"
+     "text": "Richter"
     },
     {
      "correct": false,
-     "text": "Mountain Dew"
+     "text": "Fujita"
     }
    ],
    "clue": "Pas de triche (cheet-ing) cette fois",
    "countrySpecific": true,
    "id": "108921",
    "isEasy": false,
-   "question": "Lequel de ces produits a lancé une version au “piment fantôme” (ghost pepper) en 2024 ?",
+   "question": "Laquelle de ces échelles correspond à l'intensité des piments ?",
    "theme": "CEMETERY"
   },
   {
@@ -5200,59 +5202,60 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Histoire de l’alcool",
-   "choices": [
-    {
-     "correct": false,
-     "text": "5 ans"
-    },
-    {
-     "correct": false,
-     "text": "6 ans"
-    },
-    {
-     "correct": false,
-     "text": "7 ans"
-    },
-    {
-     "correct": true,
-     "text": "13 ans"
-    }
-   ],
-   "clue": "Un nombre malchanceux pour les buveurs",
-   "id": "108955",
-   "isEasy": false,
-   "question": "Combien de temps les spiritueux ont-ils été illégaux aux États-Unis pendant la Prohibition ?",
+"category": "Histoire de l’alcool",
+"choices": [
+{
+"correct": false,
+"text": "Le pastis"
+},
+{
+"correct": true,
+"text": "L’absinthe"
+},
+{
+"correct": false,
+"text": "Le calvados"
+},
+{
+"correct": false,
+"text": "Le kirsch"
+}
+],
+"clue": "On l’a longtemps surnommée la fée verte",
+"countrySpecific": true,
+"id": "108955",
+"isEasy": false,
+"question": "Quelle boisson alcoolisée a été interdite en France en 1915 avant d’être à nouveau autorisée au XXIe siècle ?"
    "theme": "CEMETERY",
    "x": true
   },
   {
-   "category": "Slogans de voyage",
-   "choices": [
-    {
-     "correct": false,
-     "text": "“Volez haut. Payez bas.”"
-    },
-    {
-     "correct": false,
-     "text": "“Atterrissages heureux. Portefeuille heureux.”"
-    },
-    {
-     "correct": true,
-     "text": "“Moins d’argent. Plus de départs.”"
-    },
-    {
-     "correct": false,
-     "text": "“Les pauvres peuvent voler aussi !”"
-    }
-   ],
-   "clue": "Chasse donc ce mot “fly” d’ici !",
-   "countrySpecific": true,
-   "id": "108956",
-   "isEasy": false,
-   "question": "Lequel de ces slogans appartient à Spirit Airlines ?",
-   "theme": "CEMETERY"
-  },
+"category": "Slogans de voyage",
+"choices": [
+{
+"correct": false,
+"text": "Parce que le monde est plus beau en train"
+},
+{
+"correct": true,
+"text": "À nous de vous faire préférer le train"
+},
+{
+"correct": false,
+"text": "Voyager plus loin, payer moins cher"
+},
+{
+"correct": false,
+"text": "Le rail, c’est royal"
+}
+],
+"clue": "Un slogan ferroviaire français très connu",
+"countrySpecific": true,
+"id": "108956",
+"isEasy": false,
+"question": "Quel slogan a longtemps été associé à la SNCF ?",
+"theme": "CEMETERY"
+},
   {
    "category": "Vols historiques",
    "choices": [
@@ -5280,31 +5283,32 @@
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Amusement et frayeur",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Fantasyland"
-    },
-    {
-     "correct": false,
-     "text": "Frontierland"
-    },
-    {
-     "correct": false,
-     "text": "Adventureland"
-    },
-    {
-     "correct": true,
-     "text": "New Orleans Square"
-    }
-   ],
-   "clue": "Cherche le bon angle",
-   "id": "108958",
-   "isEasy": false,
-   "question": "Où à Disneyland peut-on trouver la Haunted Mansion ?",
-   "theme": "CEMETERY"
-  },
+"category": "Amusement et frayeur",
+"choices": [
+{
+"correct": false,
+"text": "Le Palais idéal du facteur Cheval"
+},
+{
+"correct": false,
+"text": "Les Catacombes de Paris"
+},
+{
+"correct": true,
+"text": "Le Manoir de Paris"
+},
+{
+"correct": false,
+"text": "La Conciergerie"
+}
+],
+"clue": "C’était une attraction horrifique parisienne, pas un monument historique classique",
+"countrySpecific": true,
+"id": "108958",
+"isEasy": false,
+"question": "Quelle attraction parisienne proposait un parcours horrifique inspiré des légendes et histoires macabres de la capitale ?",
+"theme": "CEMETERY"
+},
   {
    "category": "Véhicules spatiaux",
    "choices": [
@@ -5410,32 +5414,31 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Traditions superstitieuses",
-   "choices": [
-    {
-     "correct": false,
-     "text": "4 semaines"
-    },
-    {
-     "correct": true,
-     "text": "6 semaines"
-    },
-    {
-     "correct": false,
-     "text": "8 semaines"
-    },
-    {
-     "correct": false,
-     "text": "Cela signifie un hiver plus court"
-    }
-   ],
-   "clue": "Une demi-douzaine de marmottes",
-   "countrySpecific": true,
-   "id": "108964",
-   "isEasy": true,
-   "question": "Selon la légende, si Phil la marmotte voit son ombre, combien de semaines d’hiver reste-t-il ?",
-   "theme": "CEMETERY"
-  },
+"category": "Traditions superstitieuses",
+"choices": [
+{
+"correct": false,
+"text": "Passer sous une échelle"
+},
+{
+"correct": true,
+"text": "Le nombre 13"
+},
+{
+"correct": false,
+"text": "Casser un miroir"
+},
+{
+"correct": false,
+"text": "Croiser un chat noir"
+}
+],
+"clue": "La peur associée porte un nom savant : triskaïdékaphobie",
+"id": "108964",
+"isEasy": false,
+"question": "Quel symbole est associé à une superstition que l’on appelle la triskaïdékaphobie ?",
+"theme": "CEMETERY"
+}
   {
    "category": "Fêtes des morts",
    "choices": [
@@ -5464,60 +5467,59 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Lois américaines",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Le Troisième amendement"
-    },
-    {
-     "correct": false,
-     "text": "Le Sixième amendement"
-    },
-    {
-     "correct": true,
-     "text": "Le Huitième amendement"
-    },
-    {
-     "correct": false,
-     "text": "Le Neuvième amendement"
-    }
-   ],
-   "clue": "C’est un nombre pair",
-   "countrySpecific": true,
-   "id": "109314",
-   "isEasy": false,
-   "question": "Quel amendement de la Constitution interdit les peines cruelles et inhabituelles ?",
-   "theme": "CEMETERY",
-   "x": true
-  },
+"category": "Droit français",
+"choices": [
+{
+"correct": false,
+"text": "La liberté de la presse"
+},
+{
+"correct": false,
+"text": "La séparation des Églises et de l’État"
+},
+{
+"correct": true,
+"text": "L’abolition de la peine de mort"
+},
+{
+"correct": false,
+"text": "Le droit de vote des femmes"
+}
+],
+"clue": "Robert Badinter y est étroitement associé",
+"countrySpecific": true,
+"id": "109314",
+"isEasy": false,
+"question": "Quelle grande réforme française a été adoptée en 1981 ?",
+"theme": "CEMETERY"
+},
   {
-   "category": "Musique country",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Virginie-Occidentale"
-    },
-    {
-     "correct": true,
-     "text": "Rivière Shenandoah"
-    },
-    {
-     "correct": false,
-     "text": "Montagnes Blue Ridge"
-    },
-    {
-     "correct": false,
-     "text": "Paradis"
-    }
-   ],
-   "clue": "“et”... quelle est la réponse ?",
-   "countrySpecific": true,
-   "id": "109325",
-   "isEasy": false,
-   "question": "Quel lieu est mentionné en DERNIER dans la chanson “Country Roads” de John Denver ?",
-   "theme": "FOREST"
-  },
+"category": "Chanson française",
+"choices": [
+{
+"correct": true,
+"text": "La Bohème"
+},
+{
+"correct": false,
+"text": "Hier encore"
+},
+{
+"correct": false,
+"text": "Emmenez-moi"
+},
+{
+"correct": false,
+"text": "For me formidable"
+}
+],
+"clue": "Elle parle d’un temps que les moins de vingt ans ne peuvent pas connaître",
+"countrySpecific": true,
+"id": "109325",
+"isEasy": false,
+"question": "Dans quelle chanson Charles Aznavour chante-t-il Montmartre et sa jeunesse d’artiste ?",
+"theme": "FOREST"
+},
   {
    "category": "Pochettes d’album",
    "choices": [
@@ -5702,32 +5704,32 @@
    "theme": "DESERT"
   },
   {
-   "category": "Spécialités locales",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Fromage cheddar"
-    },
-    {
-     "correct": false,
-     "text": "Fromage suisse"
-    },
-    {
-     "correct": false,
-     "text": "Mozzarella"
-    },
-    {
-     "correct": true,
-     "text": "Fromage à la crème"
-    }
-   ],
-   "clue": "À la mode de Philadelphie",
-   "countrySpecific": true,
-   "id": "109349",
-   "isEasy": false,
-   "question": "Que trouverait-on sur un hot-dog “à la mode de Seattle” ?",
-   "theme": "FOREST"
-  },
+"category": "Spécialités locales",
+"choices": [
+{
+"correct": false,
+"text": "La bouillabaisse"
+},
+{
+"correct": false,
+"text": "La flammekueche"
+},
+{
+"correct": true,
+"text": "La galette-saucisse"
+},
+{
+"correct": false,
+"text": "La poutine"
+}
+],
+"clue": "On l’associe beaucoup aux abords du Roazhon Park",
+"countrySpecific": true,
+"id": "109349",
+"isEasy": false,
+"question": "Quelle spécialité bretonne est particulièrement associée à Rennes ?",
+"theme": "FOREST"
+},
   {
    "category": "Dramaturges célèbres",
    "choices": [
@@ -5912,58 +5914,57 @@
    "x": true
   },
   {
-   "category": "Jeux de sport",
-   "choices": [
-    {
-     "correct": false,
-     "text": "NFL Blitz"
-    },
-    {
-     "correct": true,
-     "text": "NBA Jam"
-    },
-    {
-     "correct": false,
-     "text": "NFL Blitzes"
-    },
-    {
-     "correct": false,
-     "text": "NBA Jamz"
-    }
-   ],
-   "clue": "Ne sois pas jaloux (jam-jalousie)",
-   "id": "109379",
-   "isEasy": false,
-   "question": "Dans quel jeu vidéo l’annonceur crie-t-il “He’s heating up!” et “He’s on fire!” ?",
+"category": "Jeux de sport",
+"choices": [
+{
+"correct": false,
+"text": "[i]FIFA Street[/i]"
+},
+{
+"correct": false,
+"text": "[i]Rocket League[/i]"
+},
+{
+"correct": true,
+"text": "[i]Pro Evolution Soccer[/i]"
+},
+{
+"correct": false,
+"text": "[i]Inazuma Eleven[/i]"
+}
+],
+"clue": "Les fans l’appelaient souvent simplement PES",
+"id": "109379",
+"isEasy": false,
+"question": "Dans quelle série de jeux de football le mode [i]Master League[/i] a-t-il longtemps été l’un des modes emblématiques ?"
    "theme": "DESERT"
   },
   {
-   "category": "Roi James",
-   "choices": [
-    {
-     "correct": true,
-     "text": "[i]The Decision[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]The Verdict[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]The Event[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]The King’s Choice[/i]"
-    }
-   ],
-   "clue": "Réponds avec précision",
-   "countrySpecific": true,
-   "id": "109390",
-   "isEasy": false,
-   "question": "En 2010, LeBron “King” James a annoncé son départ de Cleveland pour Miami dans un événement télévisé intitulé...",
-   "theme": "CEMETERY"
-  },
+"category": "Roi du football",
+"choices": [
+{
+"correct": false,
+"text": "Ronaldinho"
+},
+{
+"correct": false,
+"text": "Roberto Carlos"
+},
+{
+"correct": true,
+"text": "Pelé"
+},
+{
+"correct": false,
+"text": "Cafu"
+}
+],
+"clue": "Son surnom royal est presque devenu son second prénom",
+"id": "109390",
+"isEasy": false,
+"question": "Quel footballeur brésilien est souvent surnommé “le Roi” ?",
+"theme": "CEMETERY"
+},
   {
    "category": "Choses brûlantes",
    "choices": [
@@ -6070,59 +6071,58 @@
    "x": true
   },
   {
-   "category": "Histoire brûlante",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Le premier match de baseball professionnel (MLB)"
-    },
-    {
-     "correct": false,
-     "text": "Le premier match de football américain (NFL)"
-    },
-    {
-     "correct": false,
-     "text": "Le premier match de basket-ball (NBA)"
-    },
-    {
-     "correct": false,
-     "text": "La première course NASCAR"
-    }
-   ],
-   "clue": "C’était en 1871",
-   "countrySpecific": true,
-   "id": "109397",
-   "isEasy": false,
-   "question": "Le grand incendie de Chicago a eu lieu la même année que...",
-   "theme": "DESERT"
-  },
+"category": "Histoire brûlante",
+"choices": [
+{
+"correct": false,
+"text": "2017"
+},
+{
+"correct": true,
+"text": "2019"
+},
+{
+"correct": false,
+"text": "2021"
+},
+{
+"correct": false,
+"text": "2023"
+}
+],
+"clue": "Un événement très récent, vu dans le monde entier",
+"countrySpecific": true,
+"id": "109397",
+"isEasy": false,
+"question": "En quelle année a eu lieu l’incendie de Notre-Dame de Paris ?",
+"theme": "DESERT"
+},
   {
-   "category": "Détente ou mort !",
-   "choices": [
-    {
-     "correct": false,
-     "text": "112 °F"
-    },
-    {
-     "correct": true,
-     "text": "104 °F"
-    },
-    {
-     "correct": false,
-     "text": "99 °F"
-    },
-    {
-     "correct": false,
-     "text": "92 °F"
-    }
-   ],
-   "clue": "Dix-quatre (ten-four), c’est la bonne !",
-   "countrySpecific": true,
-   "id": "109398",
-   "isEasy": false,
-   "question": "Contrôle de santé : selon le CDC, quelle température un jacuzzi ne doit-il jamais dépasser ?",
-   "theme": "DESERT"
-  },
+"category": "Détente ou mort !",
+"choices": [
+{
+"correct": false,
+"text": "La camomille"
+},
+{
+"correct": false,
+"text": "Le tilleul"
+},
+{
+"correct": true,
+"text": "La valériane"
+},
+{
+"correct": false,
+"text": "La menthe poivrée"
+}
+],
+"clue": "On l’utilise souvent pour favoriser le sommeil ou calmer la nervosité",
+"id": "109398",
+"isEasy": false,
+"question": "Quelle plante est traditionnellement associée à un effet relaxant, au point d’être utilisée dans certaines préparations contre l’anxiété légère ?",
+"theme": "CEMETERY"
+},
   {
    "category": "Vol de base",
    "choices": [
@@ -6306,31 +6306,31 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Origines de la LNH",
-   "choices": [
-    {
-     "correct": false,
-     "text": "New York"
-    },
-    {
-     "correct": false,
-     "text": "Toronto"
-    },
-    {
-     "correct": false,
-     "text": "Miami"
-    },
-    {
-     "correct": true,
-     "text": "Las Vegas"
-    }
-   ],
-   "clue": "Ce sont des chevaliers du désert",
-   "id": "109720",
-   "isEasy": false,
-   "question": "De quelle ville viennent les Golden Knights de la LNH ?",
-   "theme": "CASTLE"
-  },
+"category": "Origines du sport",
+"choices": [
+{
+"correct": false,
+"text": "Le handball"
+},
+{
+"correct": false,
+"text": "Le water-polo"
+},
+{
+"correct": true,
+"text": "Le basketball"
+},
+{
+"correct": false,
+"text": "Le volley-ball"
+}
+],
+"clue": "Le panier venait d’un fruit, pas d’un filet",
+"id": "109720",
+"isEasy": false,
+"question": "Quel sport a été inventé en 1891 par James Naismith avec deux paniers de pêche ?",
+"theme": "MOUNTAIN"
+},
   {
    "category": "Légendes littéraires",
    "choices": [
@@ -6462,29 +6462,30 @@
    "theme": "DESERT"
   },
   {
-   "category": "Hip-hop",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Bizzy Bone"
-    },
-    {
-     "correct": false,
-     "text": "Flesh-n-Bone"
-    },
-    {
-     "correct": false,
-     "text": "Krayzie Bone"
-    },
-    {
-     "correct": true,
-     "text": "Bone Bossi"
-    }
-   ],
-   "clue": "Je n’AI vraiment aucune idée (jeu sur I’VE)",
-   "id": "109728",
-   "isEasy": true,
-   "question": "Qui n’est PAS membre du groupe de rap Bone Thugs-n-Harmony ?",
+"category": "Hip-hop",
+"choices": [
+{
+"correct": false,
+"text": "Akhenaton"
+},
+{
+"correct": false,
+"text": "Shurik’n"
+},
+{
+"correct": false,
+"text": "Kheops"
+},
+{
+"correct": true,
+"text": "JoeyStarr"
+}
+],
+"clue": "JoeyStarr appartient à un autre groupe culte du rap français",
+"countrySpecific": true,
+"id": "109728",
+"isEasy": false,
+"question": "Lequel de ces artistes n’est PAS membre du groupe IAM ?"
    "theme": "DESERT"
   },
   {
@@ -6566,31 +6567,31 @@
    "theme": "DESERT"
   },
   {
-   "category": "Sociétés secrètes",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Harvard"
-    },
-    {
-     "correct": false,
-     "text": "Eton"
-    },
-    {
-     "correct": true,
-     "text": "Yale"
-    },
-    {
-     "correct": false,
-     "text": "Vassar"
-    }
-   ],
-   "clue": "Y’all need to answer soon (jeu de mots sur Yale)",
-   "id": "109733",
-   "isEasy": false,
-   "question": "Si tu es admis dans la société secrète Skull and Bones, dans quelle université étudies-tu ?",
-   "theme": "DESERT"
-  },
+"category": "Sociétés secrètes",
+"choices": [
+{
+"correct": false,
+"text": "Les Templiers"
+},
+{
+"correct": false,
+"text": "Les Illuminati"
+},
+{
+"correct": true,
+"text": "La franc-maçonnerie"
+},
+{
+"correct": false,
+"text": "Les Carbonari"
+}
+],
+"clue": "On l’associe souvent à l’équerre et au compas",
+"id": "109733",
+"isEasy": false,
+"question": "Quelle organisation initiatique, née en Europe moderne, est célèbre pour ses loges et ses symboles architecturaux ?",
+"theme": "CASTLE"
+},
   {
    "category": "Sports de glisse",
    "choices": [
@@ -6852,31 +6853,32 @@
    "theme": "DESERT"
   },
   {
-   "category": "Expression des années 2000",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Paris Hilton"
-    },
-    {
-     "correct": false,
-     "text": "Sean Evans"
-    },
-    {
-     "correct": false,
-     "text": "Kylie Jenner"
-    },
-    {
-     "correct": false,
-     "text": "Guy Fieri"
-    }
-   ],
-   "clue": "La ville la plus chaude de France",
-   "id": "109749",
-   "isEasy": true,
-   "question": "Qui a déposé la marque de l’expression “That’s hot” ?",
-   "theme": "DESERT"
-  },
+"category": "Expression des années 2000",
+"choices": [
+{
+"correct": false,
+"text": "« Ça farte ? »"
+},
+{
+"correct": true,
+"text": "« Tu bluffes, Martoni »"
+},
+{
+"correct": false,
+"text": "« C’est cela, oui »"
+},
+{
+"correct": false,
+"text": "« On sait jamais, sur un malentendu ça peut marcher »"
+}
+],
+"clue": "Pense aux Nuls et au Festival de Cannes",
+"countrySpecific": true,
+"id": "109749",
+"isEasy": false,
+"question": "Quelle réplique culte vient d’un film français sorti en 1994 ?",
+"theme": "FOREST"
+},
   {
    "category": "Duos musicaux",
    "choices": [
@@ -6956,32 +6958,31 @@
    "theme": "FOREST"
   },
   {
-   "category": "Fans de sport",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Point par course"
-    },
-    {
-     "correct": true,
-     "text": "Point par réception"
-    },
-    {
-     "correct": false,
-     "text": "Point par retour de punt"
-    },
-    {
-     "correct": false,
-     "text": "Remboursement fictif de points"
-    }
-   ],
-   "clue": "La réponse est entre tes mains, si tu attrapes bien",
-   "countrySpecific": true,
-   "id": "109831",
-   "isEasy": false,
-   "question": "En fantasy football, que signifie l’acronyme “PPR” ?",
-   "theme": "FOREST"
-  },
+"category": "Fans de sport",
+"choices": [
+{
+"correct": false,
+"text": "Un transfert de joueur"
+},
+{
+"correct": false,
+"text": "Une sanction donnée par l’arbitre"
+},
+{
+"correct": true,
+"text": "Une animation visuelle en tribune"
+},
+{
+"correct": false,
+"text": "Une prolongation jouée à huis clos"
+}
+],
+"clue": "On le voit souvent avant les grands matchs, avec des banderoles, cartons ou fumigènes",
+"id": "109831",
+"isEasy": false,
+"question": "Dans le vocabulaire des supporters, qu’est-ce qu’un « tifo » ?",
+"theme": "DESERT"
+},
   {
    "category": "Campagnes présidentielles",
    "choices": [
@@ -7010,32 +7011,31 @@
    "theme": "FOREST"
   },
   {
-   "category": "Exploits non humains",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Secretariat"
-    },
-    {
-     "correct": false,
-     "text": "Seabiscuit"
-    },
-    {
-     "correct": false,
-     "text": "Seattle Slew"
-    },
-    {
-     "correct": false,
-     "text": "Deep Blue"
-    }
-   ],
-   "clue": "Juste un jour de plus au bureau pour ce coureur",
-   "countrySpecific": true,
-   "id": "109835",
-   "isEasy": false,
-   "question": "Quel était le seul non-humain présent sur la liste ESPN [i]Who’s Number 1?[/i] des plus grandes performances sportives ?",
-   "theme": "CASTLE"
-  },
+"category": "Exploits non humains",
+"choices": [
+{
+"correct": false,
+"text": "Dolly"
+},
+{
+"correct": true,
+"text": "Laïka"
+},
+{
+"correct": false,
+"text": "Koko"
+},
+{
+"correct": false,
+"text": "Flipper"
+}
+],
+"clue": "Elle voyageait à bord de Spoutnik 2",
+"id": "109835",
+"isEasy": false,
+"question": "Quel animal est devenu le premier être vivant placé en orbite autour de la Terre ?",
+"theme": "MOUNTAIN"
+},
   {
    "category": "Géographie royale",
    "choices": [
@@ -7272,32 +7272,31 @@
    "theme": "FOREST"
   },
   {
-   "category": "MAGIC",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Lady Gaga"
-    },
-    {
-     "correct": false,
-     "text": "Stephen Colbert"
-    },
-    {
-     "correct": true,
-     "text": "Post Malone"
-    },
-    {
-     "correct": false,
-     "text": "Brandon Routh"
-    }
-   ],
-   "clue": "Il n’a pas pu résister à la seule carte “Anneau Unique”",
-   "countrySpecific": true,
-   "id": "109943",
-   "isEasy": false,
-   "question": "En 2025, à qui appartient la carte [i]Magic: The Gathering[/i] la plus précieuse du monde ?",
-   "theme": "FOREST"
-  },
+"category": "MAGIC",
+"choices": [
+{
+"correct": false,
+"text": "Lumos"
+},
+{
+"correct": true,
+"text": "Expelliarmus"
+},
+{
+"correct": false,
+"text": "Accio"
+},
+{
+"correct": false,
+"text": "Alohomora"
+}
+],
+"clue": "Harry l’utilise très souvent en duel",
+"id": "109943",
+"isEasy": false,
+"question": "Dans [i]Harry Potter[/i], quel sort sert principalement à désarmer un adversaire ?",
+"theme": "CASTLE"
+},
   {
    "category": "VOITURES !!!",
    "choices": [
@@ -7378,29 +7377,29 @@
    "x": true
   },
   {
-   "category": "BOIS",
-   "choices": [
-    {
-     "correct": true,
-     "text": "[i]The Natural[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Major League[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Eight Men Out[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Bull Durham[/i]"
-    }
-   ],
-   "clue": "Ce n’est pas un éclair surnaturel",
-   "id": "109950",
-   "isEasy": false,
-   "question": "Dans quel film Roy Hobbs taille-t-il une batte appelée “Wonderboy” dans un arbre frappé par la foudre ?",
+"category": "BOIS",
+"choices": [
+{
+"correct": false,
+"text": "Le chêne"
+},
+{
+"correct": false,
+"text": "L’ébène"
+},
+{
+"correct": true,
+"text": "L’épicéa"
+},
+{
+"correct": false,
+"text": "Le teck"
+}
+],
+"clue": "On le retrouve souvent dans les tables d’harmonie",
+"id": "109950",
+"isEasy": false,
+"question": "Quel bois léger et résonnant est très utilisé en lutherie, notamment pour la table d’harmonie des violons et des guitares ?"
    "theme": "FOREST"
   },
   {
@@ -7430,59 +7429,58 @@
    "theme": "CASTLE"
   },
   {
-   "category": "QUELQUE CHOSE DE TRÈS SOLIDE",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Arizona"
-    },
-    {
-     "correct": false,
-     "text": "Utah"
-    },
-    {
-     "correct": false,
-     "text": "Nouveau-Mexique"
-    },
-    {
-     "correct": false,
-     "text": "Colorado"
-    }
-   ],
-   "clue": "Prends un thé glacé près d’un arbre pétrifié",
-   "countrySpecific": true,
-   "id": "109952",
-   "isEasy": false,
-   "question": "Dans quel État se trouve le parc national de la Forêt Pétrifiée ?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Fêtes mineures",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Le dernier vendredi d’avril"
-    },
-    {
-     "correct": false,
-     "text": "Le premier lundi de mai"
-    },
-    {
-     "correct": false,
-     "text": "Le deuxième mercredi de juin"
-    },
-    {
-     "correct": false,
-     "text": "Le premier samedi de juillet"
-    }
-   ],
-   "clue": "Tu auras un “A” si tu trouves la bonne réponse",
-   "countrySpecific": true,
-   "id": "109953",
-   "isEasy": false,
-   "question": "Quand célèbre-t-on la Journée de l’Arbre (Arbor Day) ?",
-   "theme": "FOREST"
-  },
+"category": "QUELQUE CHOSE DE TRÈS SOLIDE",
+"choices": [
+{
+"correct": false,
+"text": "Le talc"
+},
+{
+"correct": false,
+"text": "La calcite"
+},
+{
+"correct": true,
+"text": "Le quartz"
+},
+{
+"correct": false,
+"text": "Le gypse"
+}
+],
+"clue": "Sa dureté est de 7 sur l’échelle de Mohs",
+"id": "109952",
+"isEasy": false,
+"question": "Quel minéral est assez dur pour rayer le verre, mais reste moins dur que le diamant ?",
+"theme": "MOUNTAIN"
+},
+{
+"category": "Fêtes mineures",
+"choices": [
+{
+"correct": false,
+"text": "La Saint-Nicolas"
+},
+{
+"correct": false,
+"text": "La Sainte-Lucie"
+},
+{
+"correct": true,
+"text": "La Sainte-Catherine"
+},
+{
+"correct": false,
+"text": "La Saint-Valentin"
+}
+],
+"clue": "Elle est traditionnellement associée aux jeunes femmes célibataires de 25 ans",
+"countrySpecific": true,
+"id": "109953",
+"isEasy": false,
+"question": "Quelle fête du 25 novembre est liée à une expression de coiffure ?",
+"theme": "CEMETERY"
+},
   {
    "category": "UN ENDROIT TERRIFIANT",
    "choices": [
@@ -7536,32 +7534,31 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Substances collantes",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Vermont"
-    },
-    {
-     "correct": false,
-     "text": "New Hampshire"
-    },
-    {
-     "correct": false,
-     "text": "Washington"
-    },
-    {
-     "correct": false,
-     "text": "Minnesota"
-    }
-   ],
-   "clue": "C’est très savoureux",
-   "countrySpecific": true,
-   "id": "109956",
-   "isEasy": false,
-   "question": "Quel État américain est le principal producteur du trésor doré qu’est le sirop d’érable ?",
-   "theme": "FOREST"
-  },
+"category": "Substances collantes",
+"choices": [
+{
+"correct": false,
+"text": "La cire"
+},
+{
+"correct": true,
+"text": "La propolis"
+},
+{
+"correct": false,
+"text": "La gelée royale"
+},
+{
+"correct": false,
+"text": "Le pollen"
+}
+],
+"clue": "Les abeilles s’en servent comme d’un mastic protecteur",
+"id": "109956",
+"isEasy": false,
+"question": "Quelle substance résineuse et collante les abeilles fabriquent-elles à partir de résines végétales pour protéger leur ruche ?",
+"theme": "FOREST"
+},
   {
    "category": "Une île",
    "choices": [
@@ -8037,7 +8034,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "Un dessin animé Bob l’éponge"
+     "text": "Un épisode de Bob l’éponge"
     },
     {
      "correct": true,
@@ -8086,32 +8083,32 @@
    "theme": "FOREST"
   },
   {
-   "category": "Société des poètes disparus",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Dorothy Parker"
-    },
-    {
-     "correct": false,
-     "text": "Walt Whitman"
-    },
-    {
-     "correct": false,
-     "text": "Robert Frost"
-    },
-    {
-     "correct": false,
-     "text": "Sylvia Plath"
-    }
-   ],
-   "clue": "Cette autrice humoriste a eu le dernier mot",
-   "countrySpecific": true,
-   "id": "111333",
-   "isEasy": false,
-   "question": "Quelle poétesse a pour épitaphe : “Pardonnez ma poussière” ?",
-   "theme": "CEMETERY"
-  },
+"category": "Société des poètes disparus",
+"choices": [
+{
+"correct": false,
+"text": "Paul Verlaine"
+},
+{
+"correct": true,
+"text": "Arthur Rimbaud"
+},
+{
+"correct": false,
+"text": "Charles Baudelaire"
+},
+{
+"correct": false,
+"text": "Guillaume Apollinaire"
+}
+],
+"clue": "Il était encore adolescent quand il l’a écrit",
+"countrySpecific": true,
+"id": "111333",
+"isEasy": false,
+"question": "Quel poète français a écrit [i]Le Dormeur du val[/i] ?",
+"theme": "CEMETERY"
+},
   {
    "category": "Paire de reines",
    "choices": [
@@ -8140,32 +8137,32 @@
    "x": true
   },
   {
-   "category": "Reine des rois",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Carole King"
-    },
-    {
-     "correct": false,
-     "text": "Regina King"
-    },
-    {
-     "correct": false,
-     "text": "Gayle King"
-    },
-    {
-     "correct": true,
-     "text": "Billie Jean King"
-    }
-   ],
-   "clue": "Cette King a régné sur un court de tennis",
-   "countrySpecific": true,
-   "id": "111336",
-   "isEasy": true,
-   "question": "Quelle célèbre King a remporté la “Bataille des sexes” en 1973 ?",
-   "theme": "CASTLE"
-  },
+"category": "Reine des rois",
+"choices": [
+{
+"correct": false,
+"text": "Aliénor d’Aquitaine"
+},
+{
+"correct": false,
+"text": "Marie de Médicis"
+},
+{
+"correct": true,
+"text": "Anne d’Autriche"
+},
+{
+"correct": false,
+"text": "Catherine de Médicis"
+}
+],
+"clue": "Elle est la mère de Louis XIV",
+"countrySpecific": true,
+"id": "111336",
+"isEasy": false,
+"question": "Quelle reine de France a exercé la régence au début du règne de Louis XIV ?",
+"theme": "CASTLE"
+},
   {
    "category": "Chansons à succès",
    "choices": [
@@ -8817,31 +8814,32 @@
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Agences spatiales",
-   "choices": [
-    {
-     "correct": false,
-     "text": "“Conquérir l’impossible”"
-    },
-    {
-     "correct": true,
-     "text": "“Toujours au-dessus”"
-    },
-    {
-     "correct": false,
-     "text": "“L’espace est à nous”"
-    },
-    {
-     "correct": false,
-     "text": "“En avant vers le haut”"
-    }
-   ],
-   "clue": "Le latin et l’anglais sont tous deux allitératifs !",
-   "id": "111588",
-   "isEasy": false,
-   "question": "La devise latine de la U.S. Space Force est “Semper Supra”. Que signifie-t-elle ?",
-   "theme": "MOUNTAIN"
-  },
+"category": "Agences spatiales",
+"choices": [
+{
+"correct": false,
+"text": "Cap Canaveral"
+},
+{
+"correct": true,
+"text": "Kourou"
+},
+{
+"correct": false,
+"text": "Baïkonour"
+},
+{
+"correct": false,
+"text": "Houston"
+}
+],
+"clue": "La base est proche de l’équateur, ce qui aide les lancements",
+"countrySpecific": true,
+"id": "111588",
+"isEasy": false,
+"question": "Depuis quelle ville sont lancées de nombreuses fusées européennes par l’Agence spatiale européenne ?",
+"theme": "MOUNTAIN"
+},
   {
    "category": "Histoire spatiale",
    "choices": [
@@ -9141,18 +9139,18 @@
     },
     {
      "correct": true,
-     "text": "Britannica"
+     "text": "Giorgio Armani"
     },
     {
      "correct": false,
-     "text": "Hooters"
+     "text": "SuperOffice"
     }
    ],
    "clue": "Cherche “hibou” dans l’encyclopédie",
    "countrySpecific": true,
    "id": "111681",
    "isEasy": false,
-   "question": "Laquelle de ces entreprises N’a PAS de hibou pour mascotte ?",
+   "question": "Laquelle de ces entreprises n’a PAS de hibou pour mascotte ?",
    "theme": "FOREST"
   },
   {
@@ -9186,25 +9184,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Un McDouble"
+     "text": "Le Benoit Saint Denis"
     },
     {
      "correct": false,
-     "text": "Un Whopper"
+     "text": "Le Paolo"
     },
     {
      "correct": false,
-     "text": "Un Crunchwrap Supreme"
+     "text": "Le Bartholomé"
     },
     {
      "correct": true,
-     "text": "Une pizza Hot-N-Ready"
+     "text": "Le Fernand"
     }
    ],
    "clue": "Ce n’est pas un burger",
    "id": "111684",
    "isEasy": false,
-   "question": "Que peut commander votre groupe dans la chaîne de restauration rapide née à Garden City, dans le Michigan ?",
+   "question": "Quel ''hamburgé'' n'est pas sur la carte du restaurant Big Fernand",
    "theme": "FOREST"
   },
   {
@@ -9312,29 +9310,31 @@
    "theme": "FOREST"
   },
   {
-   "category": "Révélations TV",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]Gilmore Girls : Une nouvelle année[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]Le Monde de Riley[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]The Connors[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]La Vie de palace de Zack et Cody[/i]"
-    }
-   ],
-   "clue": "Ce n’est qu’une fille",
-   "id": "111723",
-   "isEasy": false,
-   "question": "L’un des premiers rôles de Sabrina Carpenter était dans quelle série dérivée ?",
+"category": "Révélations TV",
+"choices": [
+{
+"correct": false,
+"text": "[i]Kaamelott[/i]"
+},
+{
+"correct": true,
+"text": "[i]H[/i]"
+},
+{
+"correct": false,
+"text": "[i]Bref.[/i]"
+},
+{
+"correct": false,
+"text": "[i]Caméra Café[/i]"
+}
+],
+"clue": "Il y jouait aux côtés d’Éric Judor et Ramzy Bedia",
+"countrySpecific": true,
+"id": "111723",
+"isEasy": false,
+"question": "Dans quelle série humoristique française Jamel Debbouze a-t-il tenu l’un de ses premiers grands rôles à la télévision ?"
+
    "theme": "FOREST"
   },
   {
@@ -9468,32 +9468,32 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Statistiques sportives",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Kevin Durant"
-    },
-    {
-     "correct": false,
-     "text": "Shaquille O’Neal"
-    },
-    {
-     "correct": false,
-     "text": "Wilt Chamberlain"
-    },
-    {
-     "correct": false,
-     "text": "Kareem Abdul-Jabbar"
-    }
-   ],
-   "clue": "Un joueur NBA pour les Dur-ants !",
-   "countrySpecific": true,
-   "id": "111919",
-   "isEasy": false,
-   "question": "Quel joueur NBA est le plus petit ?",
-   "theme": "CASTLE"
-  },
+"category": "Statistiques sportives",
+"choices": [
+{
+"correct": false,
+"text": "Thierry Henry"
+},
+{
+"correct": false,
+"text": "Kylian Mbappé"
+},
+{
+"correct": true,
+"text": "Olivier Giroud"
+},
+{
+"correct": false,
+"text": "Antoine Griezmann"
+}
+],
+"clue": "Il a dépassé Thierry Henry pendant la Coupe du monde 2022",
+"countrySpecific": true,
+"id": "111919",
+"isEasy": false,
+"question": "Quel footballeur est devenu le meilleur buteur de l’histoire de l’équipe de France masculine en 2022 ?",
+"theme": "CASTLE"
+},
   {
    "category": "Termes juridiques",
    "choices": [
@@ -9573,32 +9573,32 @@
    "theme": "FOREST"
   },
   {
-   "category": "Innovations culinaires",
-   "choices": [
-    {
-     "correct": true,
-     "text": "In-N-Out"
-    },
-    {
-     "correct": false,
-     "text": "Wendy’s"
-    },
-    {
-     "correct": false,
-     "text": "McDonald’s"
-    },
-    {
-     "correct": false,
-     "text": "Jack in the Box"
-    }
-   ],
-   "clue": "Le restaurant n’a pas de prénom dans son nom",
-   "countrySpecific": true,
-   "id": "112188",
-   "isEasy": false,
-   "question": "Quelle chaîne de restauration rapide a inventé le service au volant avec interphone ?",
-   "theme": "CASTLE"
-  },
+"category": "Innovations culinaires",
+"choices": [
+{
+"correct": false,
+"text": "La pasteurisation"
+},
+{
+"correct": true,
+"text": "L’appertisation"
+},
+{
+"correct": false,
+"text": "La lyophilisation"
+},
+{
+"correct": false,
+"text": "La fermentation"
+}
+],
+"clue": "Son nom vient de Nicolas Appert",
+"countrySpecific": true,
+"id": "112188",
+"isEasy": false,
+"question": "Quelle méthode de conservation des aliments consiste à les chauffer dans un récipient hermétiquement fermé ?",
+"theme": "CASTLE"
+},
   {
    "category": "Sorts chimiques",
    "choices": [
@@ -9756,31 +9756,31 @@
    "theme": "CASTLE"
   },
   {
-   "category": "De la page à l’écran",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]Big Mouth[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Derry Girls[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Love Death + Robots[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]Mercredi[/i]"
-    }
-   ],
-   "clue": "Charles Addams a créé les bandes dessinées dans les années 1930",
-   "id": "112355",
-   "isEasy": false,
-   "question": "Laquelle de ces séries Netflix est née d’une bande dessinée du [i]New Yorker[/i] ?",
-   "theme": "CEMETERY"
-  },
+"category": "De la page à l’écran",
+"choices": [
+{
+"correct": false,
+"text": "[i]The Mandalorian[/i]"
+},
+{
+"correct": true,
+"text": "[i]The Witcher[/i]"
+},
+{
+"correct": false,
+"text": "[i]Stranger Things[/i]"
+},
+{
+"correct": false,
+"text": "[i]Dark[/i]"
+}
+],
+"clue": "Avant la série et les jeux, il y avait des romans polonais",
+"id": "112355",
+"isEasy": false,
+"question": "Quelle série Netflix est adaptée des livres de fantasy d’Andrzej Sapkowski ?",
+"theme": "CEMETERY"
+},
   {
    "category": "Rituels égyptiens",
    "choices": [
@@ -9872,7 +9872,7 @@
     },
     {
      "correct": true,
-     "text": "Kamehameha I"
+     "text": "Kamehameha"
     },
     {
      "correct": false,
@@ -9938,32 +9938,32 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Surnoms d’États",
-   "choices": [
-    {
-     "correct": false,
-     "text": "“L’État du pin”"
-    },
-    {
-     "correct": false,
-     "text": "“L’État des montagnes”"
-    },
-    {
-     "correct": false,
-     "text": "“L’État du granit”"
-    },
-    {
-     "correct": true,
-     "text": "“L’État du coyote”"
-    }
-   ],
-   "clue": "Suis la meute",
-   "countrySpecific": true,
-   "id": "112700",
-   "isEasy": false,
-   "question": "Où se trouve Six Grandfathers, alias le mont Rushmore ?",
-   "theme": "MOUNTAIN"
-  },
+"category": "Noms endonymes",
+"choices": [
+{
+"correct": false,
+"text": "L’Arménie"
+},
+{
+"correct": true,
+"text": "L’Albanie"
+},
+{
+"correct": false,
+"text": "L’Azerbaïdjan"
+},
+{
+"correct": false,
+"text": "La Géorgie"
+}
+],
+"clue": "Son drapeau porte un aigle noir à deux têtes",
+"countrySpecific": false,
+"id": "112700",
+"isEasy": false,
+"question": "Quel pays est appelé « Shqipëria », signifiant « le pays des aigles » par ses habitants ?",
+"theme": "MOUNTAIN"
+},
   {
    "category": "Mode d’antan",
    "choices": [
@@ -10199,31 +10199,32 @@
    "theme": "DESERT"
   },
   {
-   "category": "Animaux sportifs",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Dallas"
-    },
-    {
-     "correct": false,
-     "text": "Indiana"
-    },
-    {
-     "correct": false,
-     "text": "Denver"
-    },
-    {
-     "correct": false,
-     "text": "Milwaukee"
-    }
-   ],
-   "clue": "Les Mavericks",
-   "id": "112764",
-   "isEasy": false,
-   "question": "Quelle ville NBA a une mascotte appartenant à la famille des chevaux ?",
-   "theme": "FOREST"
-  },
+"category": "Animaux sportifs",
+"choices": [
+{
+"correct": false,
+"text": "Les Wallabies"
+},
+{
+"correct": false,
+"text": "Les All Blacks"
+},
+{
+"correct": true,
+"text": "Les Springboks"
+},
+{
+"correct": false,
+"text": "Les Pumas"
+}
+],
+"clue": "Le surnom vient d’une antilope d’Afrique australe",
+"countrySpecific": false,
+"id": "112764",
+"isEasy": false,
+"question": "Quel est le surnom de l’équipe nationale masculine de rugby d’Afrique du Sud ?",
+"theme": "FOREST"
+},
   {
    "category": "Héros grecs",
    "choices": [
@@ -10251,31 +10252,31 @@
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Termes littéraires grecs",
-   "choices": [
-    {
-     "correct": true,
-     "text": "“Je ne suis pas un homme d’affaires, je suis une affaire, mon gars.”"
-    },
-    {
-     "correct": false,
-     "text": "“H to the izz-O, V to the izz-A”"
-    },
-    {
-     "correct": false,
-     "text": "“Si Jeezy paie LeBron, je paie Dwyane Wade”"
-    },
-    {
-     "correct": false,
-     "text": "“Sasquatch, Godzilla, King Kong, Loch Ness”"
-    }
-   ],
-   "clue": "Ce n’est ni celle avec King Kong, ni celle avec King James",
-   "id": "112792",
-   "isEasy": false,
-   "question": "Quel vers de Jay-Z est un exemple d’antanaclase ?",
-   "theme": "CASTLE"
-  },
+"category": "Termes littéraires grecs",
+"choices": [
+{
+"correct": false,
+"text": "Une anaphore"
+},
+{
+"correct": false,
+"text": "Une litote"
+},
+{
+"correct": true,
+"text": "Une antanaclase"
+},
+{
+"correct": false,
+"text": "Une hyperbole"
+}
+],
+"clue": "Le même mot revient, mais son sens change",
+"id": "112792",
+"isEasy": false,
+"question": "Comment appelle-t-on la figure de style qui répète un même mot en lui donnant deux sens différents ?",
+"theme": "CASTLE"
+},
   {
    "category": "Histoire de la NASA",
    "choices": [
@@ -10720,31 +10721,31 @@
 "theme": "CHÂTEAU"
 },
 {
-"category": "Transport",
+"category": "Transport ferroviaire",
 "choices": [
 {
-"correct": false,
-"text": "Hawaï"
-},
-{
-"correct": false,
-"text": "Porto Rico"
-},
-{
 "correct": true,
-"text": "Îles Vierges américaines"
+"text": "La France"
 },
 {
 "correct": false,
-"text": "Nevada"
+"text": "L’Allemagne"
+},
+{
+"correct": false,
+"text": "L’Espagne"
+},
+{
+"correct": false,
+"text": "Le Portugal"
 }
 ],
-"clue": "Pense territoire, pas État",
-"countrySpecific": true,
+"clue": "Exception notable : l’Alsace-Moselle",
+"countrySpecific": false,
 "id": "114755",
 "isEasy": false,
-"question": "Où, aux États-Unis, roule-t-on à gauche ?",
-"theme": "DÉSERT"
+"question": "Dans quel pays d’Europe continentale les trains circulent généralement à gauche sur les lignes à double voie, alors que les voitures roulent à droite ?",
+"theme": "DESERT"
 },
 {
 "category": "Nutrition",
@@ -10960,26 +10961,26 @@
 "choices": [
 {
 "correct": false,
-"text": "[i]I Love Lucy[/i]"
+"text": "[i]Hamlet[/i]"
+},
+{
+"correct": false,
+"text": "[i]Le Roi Lear[/i]"
 },
 {
 "correct": true,
-"text": "[i]The Honeymooners[/i]"
+"text": "[i]Macbeth[/i]"
 },
 {
 "correct": false,
-"text": "[i]L’Île aux naufragés[/i]"
-},
-{
-"correct": false,
-"text": "[i]Des agents très spéciaux[/i]"
+"text": "[i]Othello[/i]"
 }
 ],
-"clue": "Ma femme, je vais t’envoyer sur la Lune !",
+"clue": "La tirade commence par « Tomorrow, and tomorrow, and tomorrow »",
 "id": "114768",
 "isEasy": false,
-"question": "« C’est l’épisode où Ralph se déguise en homme de l’espace ! » De quelle série télé classique Marty parle-t-il dans [i]Retour vers le futur[/i] ?",
-"theme": "CIMETIÈRE"
+"question": "De quelle tragédie de Shakespeare vient la célèbre tirade « Demain, et puis demain, et puis demain » ?",
+"theme": "CEMETERY"
 },
 {
 "category": "Défenseurs des animaux",
@@ -11112,58 +11113,58 @@
 "theme": "CIMETIÈRE"
 },
 {
-"category": "Fast-food",
+"category": "Cuisine de rue",
 "choices": [
 {
 "correct": false,
-"text": "Popeyes"
+"text": "L’empanada"
 },
 {
 "correct": false,
-"text": "McDonald’s"
-},
-{
-"correct": false,
-"text": "KFC"
+"text": "L’arepa"
 },
 {
 "correct": true,
-"text": "Taco Bell"
+"text": "Le bánh mì"
+},
+{
+"correct": false,
+"text": "L’onigiri"
 }
 ],
-"clue": "Pas de sauce Fire pour les enfants",
-"countrySpecific": true,
+"clue": "Il mêle baguette, garniture vietnamienne et héritage colonial français",
+"countrySpecific": false,
 "id": "114775",
 "isEasy": false,
-"question": "En 2025, quel restaurant de fast-food ne propose AUCUN menu enfant ?",
-"theme": "CIMETIÈRE"
-},
+"question": "Quel sandwich vietnamien de street food est préparé dans une baguette garnie de viande, légumes marinés et herbes fraîches ?",
+"theme": "CEMETERY"
+}
 {
 "category": "Baseball",
 "choices": [
 {
+"correct": false,
+"text": "9 joueurs"
+},
+{
 "correct": true,
-"text": "15 secondes"
+"text": "18 joueurs"
 },
 {
 "correct": false,
-"text": "30 secondes"
+"text": "22 joueurs"
 },
 {
 "correct": false,
-"text": "45 secondes"
-},
-{
-"correct": false,
-"text": "60 secondes"
+"text": "30 joueurs"
 }
 ],
-"clue": "C’est moins d’une minute",
+"clue": "Il y a deux équipes de 9 joueurs sur le terrain",
 "id": "114776",
 "isEasy": false,
-"question": "S’il n’y a aucun coureur sur base, combien de secondes un lanceur de baseball a-t-il pour lancer la balle ?",
-"theme": "DÉSERT"
-},
+"question": "Au baseball, combien de joueurs sont généralement présents sur le terrain au début d’une manche ?",
+"theme": "DESERT"
+}
 {
 "category": "Système solaire",
 "choices": [
@@ -11221,25 +11222,26 @@
 "choices": [
 {
 "correct": false,
-"text": "[i]South Pacific[/i]"
+"text": "[i]Notre-Dame de Paris[/i]"
 },
 {
 "correct": true,
-"text": "[i]Miss Saigon[/i]"
+"text": "[i]Starmania[/i]"
 },
 {
 "correct": false,
-"text": "[i]Come From Away[/i]"
+"text": "[i]Roméo et Juliette[/i]"
 },
 {
 "correct": false,
-"text": "[i]Hamilton[/i]"
+"text": "[i]Mozart, l’opéra rock[/i]"
 }
 ],
-"clue": "L’action se déroule pendant la guerre du Viêt Nam",
+"clue": "On y croise Johnny Rockfort, Cristal et Zéro Janvier",
+"countrySpecific": true,
 "id": "114779",
 "isEasy": false,
-"question": "Quelle comédie musicale de Broadway met généralement un hélicoptère sur scène pendant le deuxième acte ?",
+"question": "Quelle comédie musicale franco-québécoise contient les chansons [i]Le Blues du businessman[/i] et [i]SOS d’un terrien en détresse[/i] ?"
 "theme": "CHÂTEAU"
 }
 ]
