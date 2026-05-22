@@ -1185,13 +1185,13 @@
                      "text":"Cet outil n'existe pas dans [i]Matrix[/i]"
                   },
                   {
-                     "clue":"Rime avec “moon”",
-                     "text":"Dans la comptine, l’assiette s’est enfuie avec ceci"
-                  },
+  "clue": "Tournoi des Six Nations",
+  "text": "Trophée officieux attribué à l’équipe qui perd tous ses matchs : ____ de bois"
+},
                   {
-                     "clue":"Commence par un “s”",
-                     "text":"Groupe de rock auteur de la chanson “The Underdog”"
-                  }
+  "clue": "Expression française",
+  "text": "On peut en naître avec une d’argent dans la bouche"
+}
                ],
                "text":"Cuillère"
             },
@@ -1202,9 +1202,9 @@
                      "text":"Crocodile Dundee a comparé le sien à celui d’un autre"
                   },
                   {
-                     "clue":"Rime avec “life”",
-                     "text":"Standard de jazz “Mack the ____”"
-                  },
+  "clue": "Ce n'est pas la baguette dans l'eau",
+  "text": "Premier long-métrage de Roman Polanski : [i]Le/la ______ dans l’eau[/i]"
+},
                   {
                      "clue":"Les “papillon” sont ceux qu’on fait tourner dans la main",
                      "text":"Variantes : “santoku” et “papillon”"
@@ -1214,8 +1214,8 @@
                      "text":"Ils ont été [i]tirés[/i] dans le film policier de 2019"
                   },
                   {
-                     "clue":"Comme une lame de samouraï",
-                     "text":"Marque célèbre d’ustensiles vantée dans les pubs télé nocturnes"
+                     "clue":"Rambo le plante en disant Mission accomplie",
+                     "text":"Utilisé pour intimider Murdock"
                   }
                ],
                "text":"Couteau"
@@ -1224,7 +1224,7 @@
                "questions":[
                   {
                      "clue":"Ce n’est pas un “couteau” dans la route",
-                     "text":"Deux chemins divergeaient dans un bois"
+                     "text":"Deux chemins divergents dans un bois"
                   },
                   {
                      "clue":"Plantez un ____ dans Thanos, c’est fini",
@@ -1239,8 +1239,8 @@
                      "text":"Ariel appelle ceci un “zirgoflex”"
                   },
                   {
-                     "clue":"Rime avec “machette”",
-                     "text":"Partie à deux dents du vélo tenant la roue avant"
+                     "clue": "Voix de Pierre Niney",
+                     "text": "Personnage de [i]Toy Story 4[/i] persuadé de devoir retourner à la poubelle"
                   }
                ],
                "text":"Fourchette"
@@ -1256,12 +1256,12 @@
                      "text":"Objet utilisé pour frapper des tambours"
                   },
                   {
-                     "clue":"Rime avec “drop bricks”",
-                     "text":"Jeu de doigts à deux joueurs aussi appelé “Splits” ou “Calculator”"
+                     "clue":"On utilise des cerceaux et...",
+                     "text":"Le jeu des grâces utilise cet outil."
                   },
                   {
                      "clue":"Chan partage son pays d’origine",
-                     "text":"Jackie Chan se bat pour un morceau de viande avec ça dans [i]Drunken Master[/i]"
+                     "text":"Jackie Chan se bat pour un morceau de viande avec ça dans [i]Le Maître chinois[/i]"
                   },
                   {
                      "clue":"Rime avec “top licks”",
@@ -1808,211 +1808,211 @@
          "id":"108077"
       },
       {
-         "answers":[
-            {
-               "questions":[
-                  {
-                     "clue":"Connue comme “Little Orphan ______”",
-                     "text":"Comédie musicale avec les chansons “It’s A Hard-Knock Life” et “Tomorrow”"
-                  },
-                  {
-                     "clue":"Son vrai prénom est Ann",
-                     "text":"Chanteuse écossaise du groupe Eurythmics, nom : Lennox"
-                  },
-                  {
-                     "clue":"Née Phoebe Ann Mosey",
-                     "text":"Oakley, tireuse d’élite légendaire du Far West"
-                  },
-                  {
-                     "clue":"Ni Caroline ni Mary Jane",
-                     "text":"Michael Jackson se demandait si elle allait bien"
-                  },
-                  {
-                     "clue":"Nom de famille Murphy",
-                     "text":"Actrice qui chante “A Little Bit Alexis” dans [i]Schitt’s Creek[/i]"
-                  }
-               ],
-               "text":"Annie"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"Et elle essaie de vous voler votre homme",
-                     "text":"Elle avait des cheveux flamboyants et une peau d’ivoire"
-                  },
-                  {
-                     "clue":"Le “y” remplace le premier “e”",
-                     "text":"Personnage de [i]JoJo’s Bizarre Adventure[/i] (avec un “y”)"
-                  },
-                  {
-                     "clue":"Dans sa reprise de Dolly Parton",
-                     "text":"Beyoncé lui a dit : “tu ne veux pas d’histoire avec moi”"
-                  },
-                  {
-                     "clue":"Ni Annie ni Caroline",
-                     "text":"A interprété une Vulcaine dans [i]Star Trek : Enterprise[/i]"
-                  },
-                  {
-                     "clue":"Tout le respect à Dolly",
-                     "text":"[i]Rolling Stone[/i] l’a élue plus grande chanson country de tous les temps"
-                  }
-               ],
-               "text":"Jolene"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"“Tous les gars diraient qu’elle est canon”",
-                     "text":"La chanson “Roses” de OutKast parle d’elle"
-                  },
-                  {
-                     "clue":"Rime avec “inclined”",
-                     "text":"Neil Diamond la décrit comme douce"
-                  },
-                  {
-                     "clue":"Rime avec “draw the line”",
-                     "text":"Chantée par Fleetwood Mac et Mumford & Sons"
-                  },
-                  {
-                     "clue":"Ni Annie, Mary Jane… ni Molly Ringwald",
-                     "text":"Celle dont parle la chanson “Pretty in Pink”"
-                  }
-               ],
-               "text":"Caroline"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"Deux chaussures, deux mots",
-                     "text":"Type de chaussure"
-                  },
-                  {
-                     "clue":"Ni Annie ni Caroline",
-                     "text":"Rick James et Janis Joplin ont chanté à son sujet"
-                  },
-                  {
-                     "clue":"Rime avec “kill the pain”",
-                     "text":"Tom Petty a eu sa “dernière danse” avec elle"
-                  },
-                  {
-                     "clue":"Nom de famille Blige",
-                     "text":"Elle chante “Family Affair”"
-                  }
-               ],
-               "text":"Mary Jane"
-            }
-         ],
-         "category":"Le Pré des Muses Musicales",
-         "id":"108104",
-         "x":true
-      },
+"answers": [
+{
+"questions": [
+{
+"clue": "France Gall et Gainsbourg",
+"text": "Prénom de celle qui aime les sucettes dans une chanson à double sens"
+},
+{
+"clue": "Belgique et music-hall",
+"text": "Prénom de Cordy, chanteuse de [i]Tata Yoyo[/i]"
+},
+{
+"clue": "Son vrai prénom est Ann",
+"text": "Chanteuse écossaise du groupe Eurythmics, nom : Lennox"
+},
+{
+"clue": "Orpheline rousse",
+"text": "Héroïne de la comédie musicale avec les chansons [i]Tomorrow[/i] et [i]It’s a Hard-Knock Life[/i]"
+},
+{
+"clue": "Prix Nobel",
+"text": "Prénom de l’autrice française Ernaux"
+}
+],
+"text": "Annie"
+},
+{
+"questions": [
+{
+"clue": "Opéra français",
+"text": "Héroïne de l’opéra de Bizet créé en 1875"
+},
+{
+"clue": "Habanera",
+"text": "Personnage qui chante que “l’amour est un oiseau rebelle”"
+},
+{
+"clue": "Prosper Mérimée",
+"text": "Héroïne de la nouvelle qui a inspiré l’opéra de Bizet"
+},
+{
+"clue": "Stromae",
+"text": "Titre d’une chanson critiquant les réseaux sociaux et l’amour consommable"
+},
+{
+"clue": "Toujours introuvable",
+"text": "Prénom de Sandiego, voleuse insaisissable d’une célèbre franchise éducative"
+}
+],
+"text": "Carmen"
+},
+{
+"questions": [
+{
+"clue": "Rap français",
+"text": "Prénom au centre d’un classique mélancolique de MC Solaar"
+},
+{
+"clue": "C’est la ouate",
+"text": "Prénom de Loeb, chanteuse française emblématique des années 80"
+},
+{
+"clue": "Albums jeunesse",
+"text": "Héroïne créée par Pierre Probst, souvent accompagnée de ses amis animaux"
+},
+{
+"clue": "Monaco",
+"text": "Prénom de la fille aînée de Grace Kelly et du prince Rainier III"
+}
+],
+"text": "Caroline"
+},
+{
+"questions": [
+{
+"clue": "Place Rouge",
+"text": "Prénom chanté par Gilbert Bécaud dans une chanson se déroulant à Moscou"
+},
+{
+"clue": "Opéra",
+"text": "Prénom de Dessay, célèbre soprano française"
+},
+{
+"clue": "Hasta Siempre",
+"text": "Prénom de Cardone, chanteuse révélée avec une reprise dédiée au Che"
+},
+{
+"clue": "Littérature française",
+"text": "Prénom de Sarraute, autrice de [i]Enfance[/i]"
+}
+],
+"text": "Nathalie"
+}
+],
+"category": "Le Pré des Muses Musicales",
+"id": "108104",
+"x": true
+},
       {
-         "answers":[
-            {
-               "questions":[
-                  {
-                     "clue":"C’est à propos de la naissance !",
-                     "text":"Première partie des concertos [i]Les Quatre Saisons[/i] de Vivaldi"
-                  },
-                  {
-                     "clue":"Ni hiver ni été",
-                     "text":"_____ [i]Awakening[/i], comédie musicale récompensée aux Tony Awards"
-                  },
-                  {
-                     "clue":"C’est tout un bond en avant",
-                     "text":"Les pays de l’hémisphère nord “avancent” en mars pour l’heure d’été"
-                  },
-                  {
-                     "clue":"Bon moment pour planter",
-                     "text":"Dans [i]Stardew Valley[/i], vous arrivez en ville le premier jour de cette saison"
-                  },
-                  {
-                     "clue":"Ce n’est ni l’automne ni l’hiver",
-                     "text":"_____ rolls, un célèbre amuse-gueule chinois"
-                  }
-               ],
-               "text":"Printemps"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"Elle a une disposition ensoleillée",
-                     "text":"Nom de famille de Donna, la reine du disco"
-                  },
-                  {
-                     "clue":"Un prénom lumineux et chaud",
-                     "text":"Sœur de Morty dans [i]Rick et Morty[/i]"
-                  },
-                  {
-                     "clue":"Peu après la fête nationale américaine",
-                     "text":"Saison durant laquelle a lieu la fête nationale française"
-                  },
-                  {
-                     "clue":"Situé dans un camp pendant les vacances",
-                     "text":"Paul Rudd a joué dans [i]Wet Hot American[/i] _____"
-                  },
-                  {
-                     "clue":"Il a vraiment fait transpirer New York",
-                     "text":"Film de Spike Lee sur David Berkowitz : [i]______ of Sam[/i]"
-                  }
-               ],
-               "text":"Été"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"C’est une chanson d’amour",
-                     "text":"Sous forme de gérondif, c’est le titre du premier tube d’Alicia Keys"
-                  },
-                  {
-                     "clue":"Septembre ou octobre",
-                     "text":"Période de Yom Kippour aux États-Unis"
-                  },
-                  {
-                     "clue":"C’est effrayant... comme Halloween",
-                     "text":"Titre du film à suspense de 2022 sur des alpinistes"
-                  },
-                  {
-                     "clue":"C’est une des saisons froides",
-                     "text":"Les élections présidentielles américaines se déroulent à cette saison"
-                  },
-                  {
-                     "clue":"Après la rentrée scolaire",
-                     "text":"Saison des bals de Homecoming aux États-Unis"
-                  }
-               ],
-               "text":"Automne"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"Ils boivent du café pour se réchauffer",
-                     "text":"Titre du premier épisode de [i]Gilmore Girls: A Year in the Life[/i]"
-                  },
-                  {
-                     "clue":"Tous les personnages y ont froid",
-                     "text":"Saison de la pièce de Shakespeare où quelqu’un est poursuivi par un ours"
-                  },
-                  {
-                     "clue":"Ni printemps ni automne",
-                     "text":"“_____ is coming”, avertissement célèbre de [i]Game of Thrones[/i]"
-                  },
-                  {
-                     "clue":"Si vous allez à un festival, prenez un manteau",
-                     "text":"Saison durant laquelle se fête le Nouvel An chinois"
-                  },
-                  {
-                     "clue":"Prénom : Ariel",
-                     "text":"Nom de famille de l’actrice de [i]Modern Family[/i]"
-                  }
-               ],
-               "text":"Hiver"
-            }
-         ],
-         "category":"Le Cabinet du Mage du Temps",
-         "countrySpecific":true,
-         "id":"108127"
-      },
+"answers": [
+{
+"questions": [
+{
+"clue": "C’est à propos de la naissance !",
+"text": "Première partie des concertos [i]Les Quatre Saisons[/i] de Vivaldi"
+},
+{
+"clue": "Ce n'est pas l'été ni l'hiver.",
+"text": "Célèbre ballet de Stravinski : [i]Le Sacre du/de [/i]"
+},
+{
+"clue": "Appelé aussi [i]La Primavera[/i]",
+"text": "Saison représentée dans un tableau de Botticelli."
+},
+{
+"clue": "Poésie",
+"text": "Donne son nom à une manifestation culturelle française : [i] ______ des poètes[/i]"
+},
+{
+"clue": "Prague, 1968",
+"text": "Mouvement de libéralisation tchécoslovaque appelé ______ de Prague"
+}
+],
+"text": "Printemps"
+},
+{
+"questions": [
+{
+"clue": "Ce n'est pas l'hiver",
+"text": "Pièce de Shakespeare : [i]Le Songe d’une nuit de/d’ _____[/i]"
+},
+{
+"clue": "Isabelle Adjani",
+"text": "Saison dans le titre du film [i]L’______ meurtrier[/i]"
+},
+{
+"clue": "Joe Dassin",
+"text": "Saison dans le titre de la chanson de Joe Dassin [i]Le/L’______ indien[/i]"
+},
+{
+"clue": "14 juillet",
+"text": "Saison durant laquelle a lieu la fête nationale française"
+},
+{
+"clue": "Éric Rohmer",
+"text": "Saison dans le titre du film d'Éric Roghmer [i]Conte de/d’__[/i]"
+}
+],
+"text": "Été"
+},
+{
+"questions": [
+{
+"clue": "Verlaine",
+"text": "Complète le vers : “Les sanglots longs des violons (du/de l’)_____”"
+},
+{
+"clue": "Boris Vian",
+"text": "Saison dans le titre du roman de Boris Vian [i]Le/L’__ à Pékin[/i]"
+},
+{
+"clue": "Apollinaire",
+"text": "Titre du poème d'Apollinaire : [i]_____ malade[/i]"
+},
+{
+"clue": "Vivaldi",
+"text": "Troisième partie des concertos [i]Les Quatre Saisons[/i]"
+},
+{
+"clue": "Halloween",
+"text": "Saison durant laquelle Halloween a lieu dans l’hémisphère nord"
+}
+],
+"text": "Automne"
+},
+{
+"questions": [
+{
+"clue": "Vivaldi",
+"text": "Quatrième partie des concertos [i]Les Quatre Saisons[/i]"
+},
+{
+"clue": "Shakespeare",
+"text": "Titre de pièce de Shakespeare [i]Le Conte du/d’____[/i]"
+},
+{
+"clue": "Narnia",
+"text": "La Sorcière blanche maintient le royaume de Narnia dans un ______ éternel"
+},
+{
+"clue": "La Reine des neiges",
+"text": "Saison dans laquelle Elsa plonge le royaume d’Arendelle"
+},
+{
+"clue": "Noël",
+"text": "Saison durant laquelle Noël a lieu dans l’hémisphère nord"
+}
+],
+"text": "Hiver"
+}
+],
+"category": "Le Cabinet du Mage du Temps",
+"countrySpecific": true,
+"id": "108127"
+},
       {
          "answers":[
             {
