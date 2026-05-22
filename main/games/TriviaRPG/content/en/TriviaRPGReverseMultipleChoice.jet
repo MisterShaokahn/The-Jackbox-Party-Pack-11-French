@@ -2018,25 +2018,25 @@
             {
                "questions":[
                   {
-                     "clue":"Il vend des légumes en conserve",
-                     "text":"“Jolly _____ Giant”, une mascotte publicitaire"
-                  },
+  "clue": "Jules Verne ou Rohmer",
+  "text": "Titre d'une oeuvre de Jules Verne : [i]Le Rayon ______[/i]"
+},
                   {
-                     "clue":"Pas de jaune, juste du Colonel",
-                     "text":"Nom de famille d’un personnage du jeu [i]Cluedo[/i]"
-                  },
+  "clue": "Henri IV",
+  "text": "Couleur présente dans son surnom : le ______-Galant"
+},
                   {
                      "clue":"On penserait à du rouge, mais non !",
-                     "text":"“_____ Valley”, zone d’atterrissage de la sonde Phoenix sur Mars"
+                     "text":"“La Vallée _____”, zone d’atterrissage de la sonde Phoenix sur Mars"
                   },
                   {
-                     "clue":"Bien assorti à l’herbe du champ extérieur",
-                     "text":"Couleur du “monstre” mur du Fenway Park"
-                  },
+  "clue": "Superman",
+  "text": "Couleur la plus connue de la kryptonite"
+},
                   {
-                     "clue":"Ils cultivaient autrefois des plantes à la ferme",
-                     "text":"Dessin animé Disney : [i]Big City ______s[/i]"
-                  }
+  "clue": "Football français",
+  "text": "Surnom des joueurs de l’AS Saint-Étienne : les ______"
+}
                ],
                "text":"Vert"
             },
@@ -2047,21 +2047,21 @@
                      "text":"Couleur ayant la plus courte longueur d’onde visible (des quatre)"
                   },
                   {
-                     "clue":"Ami de Steve",
-                     "text":"Nom du chien animé qui cherche des indices"
-                  },
+  "clue": "Tintin en Chine",
+  "text": "Couleur dans le titre de l’album [i]Le Lotus ______[/i]"
+},
                   {
                      "clue":"Pas rouge rubis",
                      "text":"Couleur des pierres de lapis-lazuli"
                   },
                   {
-                     "clue":"Pour sa couleur, pas son humeur",
-                     "text":"Nom du raptor préféré de Chris Pratt dans [i]Jurassic World[/i]"
-                  },
+  "clue": "Charles Perrault",
+  "text": "Couleur de la barbe du mari inquiétant dans le célèbre conte de Perrault."
+},
                   {
-                     "clue":"Après l’avoir regardé, vous pourriez être de cette couleur",
-                     "text":"[i]_____ Valentine[/i], film de 2010 avec Ryan Gosling"
-                  }
+  "clue": "Luc Besson",
+  "text": "Couleur dans le titre du film avec Jacques Mayol et Enzo Molinari : [i]Le Grand ______[/i]"
+}
                ],
                "text":"Bleu"
             },
@@ -2073,7 +2073,7 @@
                   },
                   {
                      "clue":"Ni bleu ni vert",
-                     "text":"_____ Square, monument de Moscou"
+                     "text":"La Place ____, monument de Moscou"
                   },
                   {
                      "clue":"Aussi sur le drapeau américain",
@@ -2084,9 +2084,9 @@
                      "text":"Le sumac donne cette teinte aux plats"
                   },
                   {
-                     "clue":"Parfait pour un amateur de viande",
-                     "text":"Nom d’un personnage de [i]That ’70s Show[/i]"
-                  }
+  "clue": "Stendhal",
+  "text": "Première couleur dans le titre du roman [i]Le ______ et le Noir[/i]"
+}
                ],
                "text":"Rouge"
             },
@@ -2094,23 +2094,23 @@
                "questions":[
                   {
                      "clue":"Nommé pour ses limons colorés",
-                     "text":"“_____ River”, deuxième plus long fleuve de Chine"
+                     "text":"“Le Fleuve _____”, deuxième plus long fleuve de Chine"
                   },
                   {
                      "clue":"Les paroles avaient besoin de deux syllabes",
                      "text":"Couleur du sous-marin des Beatles"
                   },
                   {
-                     "clue":"Couleur souvent associée à la maladie",
-                     "text":"La jaunisse donne cette couleur à la peau et aux yeux"
-                  },
+  "clue": "Jeu traditionnel",
+  "text": "Couleur du nain dans un ancien jeu de cartes français"
+},
                   {
                      "clue":"Ni rouge ni bleu",
                      "text":"Premier jeu Pokémon où Pikachu est le Pokémon de départ"
                   },
                   {
-                     "clue":"Pas une chanson sur les bananes, mais ça pourrait",
-                     "text":"Titre d’une chanson de Coldplay"
+                     "clue":"La chambre n'est pas rouge sang.",
+                     "text":"“Le Mystère de la chambre ____” de Gaston Leroux"
                   }
                ],
                "text":"Jaune"
@@ -2124,16 +2124,16 @@
             {
                "questions":[
                   {
-                     "clue":"Des personnages de l’âge de la Bar Mitzvah",
-                     "text":"Une comédie musicale de Jason Robert Brown"
-                  },
+  "clue": "Noël en Provence",
+  "text": "Nombre traditionnel de desserts servis lors du gros souper provençal"
+},
                   {
                      "clue":"5 + 8",
                      "text":"Un nombre de la suite de Fibonacci"
                   },
                   {
                      "clue":"Le nombre le plus bas",
-                     "text":"Cartes d’une même couleur"
+                     "text":"Nombre de cartes d’une même couleur"
                   },
                   {
                      "clue":"Aussi un nombre premier malchanceux",
@@ -2153,9 +2153,9 @@
                      "text":"L’anniversaire de mariage dit “de cristal”"
                   },
                   {
-                     "clue":"Obama était au pouvoir",
-                     "text":"Année où “Uptown Funk” a dominé le Billboard : 20__"
-                  },
+  "clue": "Roi de France",
+  "text": "Numéro de Louis le Bien-Aimé"
+},
                   {
                      "clue":"Divisible par 5",
                      "text":"Nombre de joueurs sur le terrain dans une équipe de rugby"
@@ -2174,9 +2174,9 @@
             {
                "questions":[
                   {
-                     "clue":"Divisible par 8",
-                     "text":"Nombre d’onces dans une livre"
-                  },
+  "clue": "Musique classique",
+  "text": "Numéro de la sonate pour piano de Mozart dite [i]Sonate facile[/i]"
+},
                   {
                      "clue":"Même nombre que l’anniversaire “sucré”",
                      "text":"Nombre de types de personnalité Myers-Briggs"
@@ -2190,9 +2190,9 @@
                      "text":"Roi Louis guillotiné pendant la Révolution française"
                   },
                   {
-                     "clue":"Une année paire",
-                     "text":"Année où les Cubs ont remporté la Série mondiale : 20___"
-                  }
+  "clue": "Informatique",
+  "text": "Base du système hexadécimal"
+}
                ],
                "text":"16"
             },
@@ -2203,21 +2203,21 @@
                      "text":"Nombre de trous sur un parcours de golf"
                   },
                   {
-                     "clue":"Âge légal pour voter aux États-Unis",
-                     "text":"Numéro de maillot NFL de Peyton Manning"
-                  },
+  "clue": "Tarot de Marseille",
+  "text": "Numéro de l’arcane majeur appelé [i]La Lune[/i]"
+},
                   {
-                     "clue":"Le plus grand nombre ici",
-                     "text":"Âge minimum pour acheter un jeu classé AO (ou Z au Japon)"
-                  },
+  "clue": "Chimie",
+  "text": "Numéro atomique de l’argon"
+},
                   {
                      "clue":"Sur le passage à l’âge adulte",
                      "text":"Chanson certifiée or de One Direction"
                   },
                   {
-                     "clue":"Même que l’âge légal pour boire au Mexique",
-                     "text":"Amendement américain ayant instauré la Prohibition"
-                  }
+  "clue": "Échecs",
+  "text": "Nombre de coups de pion possibles au premier tour d’une partie"
+}
                ],
                "text":"18"
             }
@@ -2229,211 +2229,213 @@
       {
          "answers":[
             {
-               "questions":[
-                  {
-                     "clue":"Première et dernière lettre",
-                     "text":"Abréviation de l’État du Maine"
-                  },
-                  {
-                     "clue":"Aussi “moi”",
-                     "text":"Un pronom anglais"
-                  },
-                  {
-                     "clue":"Le titre d’une autobiographie ultime",
-                     "text":"Titre de l’autobiographie d’Elton John"
-                  },
-                  {
-                     "clue":"Pas MEE ni MII",
-                     "text":"Chanson de Taylor Swift (si vous ajoutez “!”)"
-                  },
-                  {
-                     "clue":"Ce n’est pas VOUS",
-                     "text":"Qui est “Méchant” dans les films des Minions ?"
-                  }
-               ],
-               "text":"Choisissez ME"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"Pas ME ni MEE",
-                     "text":"Quand on chante les gammes : “Do-Ré…”"
-                  },
-                  {
-                     "clue":"Les deux premières lettres",
-                     "text":"Abréviation de l’État du Michigan"
-                  },
-                  {
-                     "clue":"M vaut 1 000",
-                     "text":"1001 en chiffres romains"
-                  },
-                  {
-                     "clue":"Pas ME ni MII",
-                     "text":"Abréviation scientifique du méthylisothiazolinone"
-                  },
-                  {
-                     "clue":"Je mange du riz à l’envers",
-                     "text":"Mot signifiant “riz” en mandarin"
-                  },
-                  {
-                     "clue":"Cascade d’actions impossibles !",
-                     "text":"Abréviation de la franchise ciné où Tom Cruise fait ses cascades"
-                  }
-               ],
-               "text":"Choisissez MI"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"Deux lettres “e”",
-                     "text":"Ville de Floride : “Kissim…”"
-                  },
-                  {
-                     "clue":"Mettez le “S” devant",
-                     "text":"Ajoutez un “S” pour obtenir un membre de l’équipage du Capitaine Crochet"
-                  },
-                  {
-                     "clue":"Trois lettres + “6”",
-                     "text":"Bot populaire à ajouter sur les serveurs Discord"
-                  },
-                  {
-                     "clue":"Ce n’est pas le Miik",
-                     "text":"Ajoutez un “k” et la Bible dit qu’ils hériteront de la Terre"
-                  }
-               ],
-               "text":"Choisissez MEE"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"Ils font du sport",
-                     "text":"Avatar personnalisable de Nintendo"
-                  },
-                  {
-                     "clue":"Le 2 est à la fin",
-                     "text":"1002 en chiffres romains"
-                  },
-                  {
-                     "clue":"II s’écrit 2",
-                     "text":"Modèle de voiture BMW"
-                  },
-                  {
-                     "clue":"Pas MI ni MEE",
-                     "text":"Abréviation de l’Institut maritime d’Irlande"
-                  },
-                  {
-                     "clue":"II s’écrit 2",
-                     "text":"Cotation de difficulté pour l’escalade mixte"
-                  }
-               ],
-               "text":"Choisissez MII"
-            }
-         ],
-         "category":"Moi, Mi & Mee",
-         "id":"110142"
-      },
+"answers": [
+{
+"questions": [
+{
+"clue": "Il adorait en jouer, avec ses touches.",
+"text": "Instrument associé aux nocturnes, aux préludes et aux mazurkas de Chopin"
+},
+{
+"clue": "Jane Campion",
+"text": "Instrument au centre du film [i]La Leçon de ______[/i]"
+},
+{
+"clue": "Ludovico Einaudi",
+"text": "Instrument principal du morceau [i]Una Mattina[/i]"
+},
+{
+"clue": "Il est dans [i]Le Pianiste[/i]",
+"text": "Instrument du musicien Władysław Szpilman"
+},
+{
+"clue": "Meuble musical",
+"text": "Peut être droit, à queue ou demi-queue"
+}
+],
+"text": "Piano"
+},
+{
+"questions": [
+{
+"clue": "Ingres",
+"text": "Instrument présent dans l’expression d'Ingres"
+},
+{
+"clue": "Sherlock Holmes",
+"text": "Instrument dont joue le détective Sherlock Holmes"
+},
+{
+"clue": "Surnommé parfois le “violoniste du diable”",
+"text": "Instrument associé au virtuose italien Niccolò Paganini"
+},
+{
+"clue": "Musique classique",
+"text": "Instrument soliste dans [i]Les Quatre Saisons[/i] de Vivaldi"
+},
+{
+"clue": "Conte musical",
+"text": "Dans [i]Pierre et le Loup[/i], représente Pierre"
+}
+],
+"text": "Violon"
+},
+{
+"questions": [
+{
+"clue": "Bal musette",
+"text": "Instrument de Kass dans [i]Zelda : Breath of the Wild[/i]"
+},
+{
+"clue": "Elle accompagnait souvent le Tour de France",
+"text": "Instrument associé à la musicienne Yvette Horner"
+},
+{
+"clue": "Tiersen",
+"text": "Instrument très reconnaissable dans plusieurs morceaux de la bande originale d’[i]Amélie Poulain[/i]"
+},
+{
+  "clue": "Célèbre pour son “chauffe Marcel !”",
+  "text": "Instrument qu’on entend dans l’arrangement de [i]Vesoul[/i], de Jacques Brel"
+},
+{
+"clue": "Piaf et guinguette",
+"text": "Instrument souvent associé à l’imaginaire des chansons réalistes et des vieux bals"
+}
+],
+"text": "Accordéon"
+},
+{
+"questions": [
+{
+  "clue": "Conte africain",
+  "text": "Instrument dont joue Kirikou pour apaiser le monstre dans [i]Kirikou et les Bêtes sauvages[/i]"
+},
+{
+"clue": "Mythologie grecque",
+"text": "Instrument associé à Orphée, même si certaines représentations parlent plutôt de lyre"
+},
+{
+  "clue": "Symbole national",
+  "text": "Instrument figurant sur les armoiries de l’Irlande"
+},
+{
+  "clue": "Debussy",
+  "text": "Instrument soliste dans les [i]Danses sacrée et profane[/i]"
+},
+{
+"clue": "Zelda",
+"text": "Instrument dont joue Sheik dans [i]Ocarina of Time[/i]"
+}
+],
+"text": "Harpe"
+}
+],
+"category": "Le Salon des Instruments",
+"id": "110142"
+},
       {
-         "answers":[
-            {
-               "questions":[
-                  {
-                     "clue":"Rime avec “Oui”",
-                     "text":"Première syllabe du personnage le plus célèbre de Paul Reubens"
-                  },
-                  {
-                     "clue":"Perm commence par “P”",
-                     "text":"Code d’aéroport de Perm, Russie"
-                  },
-                  {
-                     "clue":"Pas Pooh ni Dew",
-                     "text":"Contient de l’urée"
-                  },
-                  {
-                     "clue":"Elle s’appelle Eep",
-                     "text":"À l’envers, c’est le nom du personnage d’Emma Stone dans [i]Les Croods[/i]"
-                  },
-                  {
-                     "clue":"Il se retenait pendant une audition",
-                     "text":"Matt LeBlanc a fait cela à Jeff Goldblum dans [i]Friends[/i]"
-                  }
-               ],
-               "text":"Pee"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"Avec Christopher Robin",
-                     "text":"Ami de Porcinet"
-                  },
-                  {
-                     "clue":"Le grand ____bah",
-                     "text":"Suivi de “bah”, signifie une personne importante"
-                  },
-                  {
-                     "clue":"Comme Porcinet",
-                     "text":"Personnage d’A.A. Milne"
-                  },
-                  {
-                     "clue":"Ce mot contient 4 lettres",
-                     "text":"Le plus long mot"
-                  },
-                  {
-                     "clue":"Au basket-ball notamment",
-                     "text":"À l’envers, c’est un anneau utilisé pour un sport"
-                  }
-               ],
-               "text":"Pooh"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"Pas Pee ni Doo",
-                     "text":"Un chien a une _____griffe"
-                  },
-                  {
-                     "clue":"C’est vert",
-                     "text":"Slogan de boisson gazeuse : “Do the…”"
-                  },
-                  {
-                     "clue":"Conserve la fraîcheur du soda",
-                     "text":"Contient du benzoate de sodium"
-                  },
-                  {
-                     "clue":"Elle ne Hoop ni Ood lui",
-                     "text":"À l’envers, Phoebe Buffay a fait cela à Mike Hannigan dans [i]Friends[/i]"
-                  }
-               ],
-               "text":"Dew"
-            },
-            {
-               "questions":[
-                  {
-                     "clue":"Les agents 00 en conduisent",
-                     "text":"Avec “Sea-”, une marque de jet-skis"
-                  },
-                  {
-                     "clue":"Pas Dew ni Pooh",
-                     "text":"Chien de dessin animé Scooby-_____"
-                  },
-                  {
-                     "clue":"Les Écossais peuvent aussi vous le jeter dessus",
-                     "text":"Mot écossais désignant un pigeon"
-                  },
-                  {
-                     "clue":"Ils sont très étranges",
-                     "text":"Anagramme d’une espèce extraterrestre de [i]Doctor Who[/i] portant une sphère lumineuse"
-                  },
-                  {
-                     "clue":"Doobie-doobie-_____",
-                     "text":"Mot popularisé par Frank Sinatra dans “Strangers in the Night”"
-                  }
-               ],
-               "text":"Doo"
-            }
-         ],
-         "category":"Les sons matures",
-         "id":"110144"
-      },
+  "answers": [
+    {
+      "questions": [
+        {
+          "clue": "BD franco-belge",
+          "text": "Région d’origine de Bécassine"
+        },
+        {
+          "clue": "Astérix",
+          "text": "Région actuelle souvent associée au village gaulois qui résiste encore et toujours"
+        },
+        {
+          "clue": "Chanson traditionnelle",
+          "text": "Région chantée dans [i]Tri Martolod[/i]"
+        },
+        {
+          "clue": "Légende arthurienne",
+          "text": "Région française où se trouve la forêt de Brocéliande"
+        },
+        {
+          "clue": "Patrimoine mégalithique",
+          "text": "Région célèbre pour les alignements de Carnac"
+        }
+      ],
+      "text": "Bretagne"
+    },
+    {
+      "questions": [
+        {
+          "clue": "Littérature",
+          "text": "Région où se déroule [i]Le Grand Meaulnes[/i], dans sa partie autour de Sainte-Agathe"
+        },
+        {
+          "clue": "Noël",
+          "text": "Région associée à de grands marchés de Noël comme ceux de Strasbourg et Colmar"
+        },
+        {
+          "clue": "Hansi",
+          "text": "Région représentée dans de nombreuses illustrations folkloriques de Jean-Jacques Waltz"
+        },
+        {
+          "clue": "Gastronomie",
+          "text": "Région associée à la choucroute, au kougelhopf et à la flammekueche"
+        },
+        {
+          "clue": "Architecture",
+          "text": "Région française connue pour ses maisons à colombages colorées"
+        }
+      ],
+      "text": "Alsace"
+    },
+    {
+      "questions": [
+        {
+          "clue": "Marcel Pagnol",
+          "text": "Région des collines, des cigales et des souvenirs d’enfance de l’auteur"
+        },
+        {
+          "clue": "Alphonse Daudet",
+          "text": "Région évoquée dans [i]Les Lettres de mon moulin[/i]"
+        },
+        {
+          "clue": "Peinture",
+          "text": "Région où Cézanne a peint à de nombreuses reprises la montagne Sainte-Victoire"
+        },
+        {
+          "clue": "Jean de Florette",
+          "text": "Région sèche et lumineuse où se déroule ce récit adapté de Pagnol"
+        }
+      ],
+      "text": "Provence"
+    },
+    {
+      "questions": [
+        {
+          "clue": "Impressionnisme",
+          "text": "Région où Monet a peint les falaises d’Étretat et la cathédrale de Rouen"
+        },
+        {
+          "clue": "Histoire médiévale",
+          "text": "Région liée à Guillaume le Conquérant"
+        },
+        {
+          "clue": "Littérature",
+          "text": "Région où Flaubert situe une grande partie de [i]Madame Bovary[/i]"
+        },
+        {
+          "clue": "Tapisserie célèbre",
+          "text": "Région où l’on peut voir la tapisserie racontant la conquête de l’Angleterre"
+        },
+        {
+          "clue": "Seconde Guerre mondiale",
+          "text": "Région associée au Débarquement du 6 juin 1944"
+        }
+      ],
+      "text": "Normandie"
+    }
+  ],
+  "category": "Les Régions françaises",
+  "id": "110144"
+},
       {
          "answers":[
             {
