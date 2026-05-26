@@ -2368,30 +2368,30 @@
                            "text":"Région où se déroule [i]Le Grand Meaulnes[/i], dans sa partie autour de Sainte-Agathe"
                         },
                         {
-                           "clue":"Noël",
-                           "text":"Région associée à de grands marchés de Noël comme ceux de Strasbourg et Colmar"
-                        },
+  "clue": "Fête médiévale",
+  "text": "Ribeauvillé y célèbre le Pfifferdaj, fête des ménétriers aux origines anciennes"
+},
                         {
                            "clue":"Hansi",
                            "text":"Région représentée dans de nombreuses illustrations folkloriques de Jean-Jacques Waltz"
                         },
                         {
-                           "clue":"Gastronomie",
-                           "text":"Région associée à la choucroute, au kougelhopf et à la flammekueche"
-                        },
+  "clue": "Patrimoine religieux",
+  "text": "Abrite le mont Sainte-Odile, haut lieu lié à une sainte patronne locale"
+},
                         {
-                           "clue":"Architecture",
-                           "text":"Région française connue pour ses maisons à colombages colorées"
-                        }
+  "clue": "Tradition du carnaval",
+  "text": "On y pratique encore le Schieweschlawe, lancer de disques enflammés à la fin de l’hiver"
+}
                      ],
                      "text":"Alsace"
                   },
                   {
                      "questions":[
                         {
-                           "clue":"Marcel Pagnol",
-                           "text":"Région des collines, des cigales et des souvenirs d’enfance de l’auteur"
-                        },
+  "clue": "Site antique",
+  "text": "On y trouve Glanum, cité antique située près de Saint-Rémy"
+},
                         {
                            "clue":"Alphonse Daudet",
                            "text":"Région évoquée dans [i]Les Lettres de mon moulin[/i]"
@@ -2401,34 +2401,34 @@
                            "text":"Région où Cézanne a peint à de nombreuses reprises la montagne Sainte-Victoire"
                         },
                         {
-                           "clue":"Jean de Florette",
-                           "text":"Région sèche et lumineuse où se déroule ce récit adapté de Pagnol"
-                        }
+  "clue": "Tradition calendale",
+  "text": "Les santons y occupent une place importante dans les crèches de Noël"
+}
                      ],
                      "text":"Provence"
                   },
                   {
                      "questions":[
                         {
-                           "clue":"Impressionnisme",
-                           "text":"Région où Monet a peint les falaises d’Étretat et la cathédrale de Rouen"
-                        },
+  "clue": "Tradition fromagère",
+  "text": "Le livarot, le pont-l’évêque et le neufchâtel en sont des spécialités"
+},
                         {
-                           "clue":"Histoire médiévale",
-                           "text":"Région liée à Guillaume le Conquérant"
-                        },
+  "clue": "Manuscrit brodé",
+  "text": "La célèbre tapisserie de Bayeux y raconte la conquête de l’Angleterre"
+},
                         {
                            "clue":"Littérature",
                            "text":"Région où Flaubert situe une grande partie de [i]Madame Bovary[/i]"
                         },
                         {
-                           "clue":"Tapisserie célèbre",
-                           "text":"Région où l’on peut voir la tapisserie racontant la conquête de l’Angleterre"
-                        },
+  "clue": "Il s'agit du port du Havre.",
+  "text": "Région qui a inspiré le tableau [i]Impression, soleil levant[/i] de Monet"
+},
                         {
-                           "clue":"Seconde Guerre mondiale",
-                           "text":"Région associée au Débarquement du 6 juin 1944"
-                        }
+  "clue": "Littérature réaliste",
+  "text": "Maupassant y situe de nombreuses nouvelles, entre campagne et bord de mer"
+}
                      ],
                      "text":"Normandie"
                   }
@@ -2437,219 +2437,217 @@
                "id":"110144"
             },
             {
-               "answers":[
-                  {
-                     "questions":[
-                        {
-                           "clue":"Ce n’est pas “HERSS”",
-                           "text":"Chanson de Megan Thee Stallion sortie en 2024"
-                        },
-                        {
-                           "clue":"Les vagues semblent ramper",
-                           "text":"Fréquence basse générée par l’ionosphère terrestre"
-                        },
-                        {
-                           "clue":"Le méchant est COBRA",
-                           "text":"Véhicules des méchants de G.I. Joe : chars ______"
-                        },
-                        {
-                           "clue":"Ni Sting ni Spawn",
-                           "text":"Nom du bras droit du Prince Jean dans le [i]Robin des Bois[/i] de Disney"
-                        }
-                     ],
-                     "text":"Hiss"
-                  },
-                  {
-                     "questions":[
-                        {
-                           "clue":"Ni Spawn ni Venom",
-                           "text":"Nom de catcheur le plus célèbre de Steve Borden"
-                        },
-                        {
-                           "clue":"Un artiste musical à nom unique",
-                           "text":"A incarné Feyd-Rautha dans la version 1984 de [i]Dune[/i]"
-                        },
-                        {
-                           "clue":"C’était une arnaque",
-                           "text":"Film de Newman et Redford primé aux Oscars 1973 : [i]The _______[/i]"
-                        },
-                        {
-                           "clue":"Toute une affaire pour la police",
-                           "text":"Operation Flagship est un célèbre exemple de _______ policière"
-                        },
-                        {
-                           "clue":"Ni Spawn ni Hiss",
-                           "text":"Corinthiens 15:55 : “Ô mort, où est ton ______ ?”"
-                        },
-                        {
-                           "clue":"Venom est produit par Dr Pepper",
-                           "text":"Boisson énergétique gazeuse de Rockstar Inc."
-                        }
-                     ],
-                     "text":"Sting"
-                  },
-                  {
-                     "questions":[
-                        {
-                           "clue":"Un symbiote venu de l’espace qui a combattu Spider-Man",
-                           "text":"L’alter ego anti-héros d’Eddie Brock"
-                        },
-                        {
-                           "clue":"Ni Spawn ni Hiss",
-                           "text":"Une American Gladiator incarnée par Beth Horn"
-                        },
-                        {
-                           "clue":"Pour le film avec Tom Hardy",
-                           "text":"Le titre d’une chanson d’Eminem de 2018"
-                        },
-                        {
-                           "clue":"Elle a rendu ton ordinateur TRÈS malade",
-                           "text":"Le nom d’une faille de sécurité informatique découverte en 2015"
-                        },
-                        {
-                           "clue":"Types de toxines qui composent...",
-                           "text":"Différentes catégories incluent : nécro, neuro et hémo"
-                        }
-                     ],
-                     "text":"Venom"
-                  },
-                  {
-                     "questions":[
-                        {
-                           "clue":"Ni Venom ni Sting",
-                           "text":"Personnage de comics indépendant créé par Todd McFarlane"
-                        },
-                        {
-                           "clue":"Ne campe pas sur leur point de ______.",
-                           "text":"Que font les joueurs de [i]Call of Duty[/i] après leur mort ?"
-                        },
-                        {
-                           "clue":"Comment fait-on un enfant ?",
-                           "text":"Fonction informatique ; exécute un nouveau processus enfant"
-                        },
-                        {
-                           "clue":"Ce sont les enfants d’un dieu ancien",
-                           "text":"Dans [i]At the Mountains of Madness[/i], Lovecraft parle des « Star-_______ of Chtulhu »"
-                        },
-                        {
-                           "clue":"C’est proche du caviar",
-                           "text":"Le sujiko en est un type"
-                        }
-                     ],
-                     "text":"Spawn"
-                  }
-               ],
-               "category":"Créatures redoutables",
-               "countrySpecific":true,
-               "id":"111355"
-            },
+  "answers": [
+    {
+      "questions": [
+        {
+          "clue": "Harry Potter",
+          "text": "Nagini en est un exemple particulièrement dangereux"
+        },
+        {
+          "clue": "Petit Prince",
+          "text": "Animal qui blesse le [i]Petit Prince[/i]"
+        },
+        {
+          "clue": "Mythologie grecque",
+          "text": "Les cheveux de Méduse en étaient composés"
+        },
+        {
+          "clue": "Livre de la Jungle",
+          "text": "Kaa appartient à cette famille d’animaux"
+        },
+        {
+          "clue": "Symbole médical",
+          "text": "Animal composant le bâton d’Asclépios"
+        }
+      ],
+      "text": "Serpent"
+    },
+    {
+      "questions": [
+        {
+          "clue": "Mortal Kombat",
+          "text": "Nom du combattant masqué qui crie souvent “Get over here!”"
+        },
+        {
+  "clue": "BD de Marini et Desberg",
+  "text": "Surnom d’Armando Catalano, aventurier marqué par un signe sur l’épaule"
+},
+        {
+          "clue": "Fable célèbre",
+          "text": "Dans une histoire morale, cet animal blesse la grenouille qui l’aide à traverser la rivière"
+        },
+        {
+          "clue": "Égypte antique",
+          "text": "La déesse Serket est souvent associée à cet animal venimeux"
+        },
+        {
+  "clue": "La Momie 2",
+  "text": "Titre animalier porté par Mathayus, personnage incarné par Dwayne Johnson"
+}
+      ],
+      "text": "Scorpion"
+    },
+    {
+      "questions": [
+        {
+  "clue": "Arachné",
+  "text": "Animal auquel Athéna condamne une tisseuse trop orgueilleuse"
+},
+        {
+  "clue": "Arachne / Shelob",
+  "text": "Créature géante que Frodon et Sam affrontent près du Mordor"
+},
+        {
+          "clue": "Marvel",
+          "text": "Animal dont s’inspire le super-héros Peter Parker"
+        },
+        {
+          "clue": "Louise Bourgeois",
+          "text": "Animal représenté par la sculpture monumentale [i]Maman[/i]"
+        },
+        {
+  "clue": "Odilon Redon",
+  "text": "Animal représenté avec un visage humain dans une œuvre étrange de 1887"
+}
+      ],
+      "text": "Araignée"
+    },
+    {
+      "questions": [
+        {
+          "clue": "Mythologie grecque",
+          "text": "Gorgone dont le regard changeait les hommes en pierre"
+        },
+        {
+  "clue": "Psychanalyse",
+  "text": "Animal associé à un court texte de Freud sur l’effroi, la décapitation et le regard pétrifiant"
+},
+        {
+          "clue": "Ce n'est pas un animal, mais plutôt une créature",
+          "text": "Représenté sur le logo de Versace"
+        },
+        {
+  "clue": "Le Radeau de la...",
+  "text": "Tableau monumental peint par Théodore Géricault"
+},
+        {
+  "clue": "Pokémon",
+  "text": "Tentacool et Tentacruel sont inspirés de cette créature marine urticante"
+}
+      ],
+      "text": "Méduse"
+    }
+  ],
+  "category": "Le Vivarium",
+  "id": "110145"
+},
             {
-               "answers":[
-                  {
-                     "questions":[
-                        {
-                           "clue":"“...le peuple”",
-                           "text":"Premier mot de la Déclaration d’indépendance"
-                        },
-                        {
-                           "clue":"Pas Wee ni Oui",
-                           "text":"“Nous” en français"
-                        },
-                        {
-                           "clue":"Relancée sous le nom Women’s Entertainment",
-                           "text":"Chaîne câblée ___TV lancée en 1997"
-                        },
-                        {
-                           "clue":"“Nous ne sommes pas amusés”",
-                           "text":"La reine utilisait ce pluriel royal appelé pluriel de majesté"
-                        },
-                        {
-                           "clue":"Un pluriel comme “nous”",
-                           "text":"Un pronom"
-                        }
-                     ],
-                     "text":"We"
-                  },
-                  {
-                     "questions":[
-                        {
-                           "clue":"“Pee-____ Herman”",
-                           "text":"Partie du nom de scène de Paul Reubens"
-                        },
-                        {
-                           "clue":"...jusqu’à la maison",
-                           "text":"Répeté trois fois par un petit cochon"
-                        },
-                        {
-                           "clue":"C’était un petit homme",
-                           "text":"Partie du surnom du membre de [i]Jackass[/i] Jason Acuña"
-                        },
-                        {
-                           "clue":"Connaissez-vous les moutons ?",
-                           "text":"Anagramme d’une brebis femelle"
-                        },
-                        {
-                           "clue":"Contient autant de “e” que “free”",
-                           "text":"Mot du titre d’un livre de Terry Pratchett sur des “hommes libres”"
-                        }
-                     ],
-                     "text":"Wee"
-                  },
-                  {
-                     "questions":[
-                        {
-                           "clue":"A, e, i, o, u",
-                           "text":"Composé uniquement de voyelles"
-                        },
-                        {
-                           "clue":"Pas Wee ni Wii",
-                           "text":"Suivi de “-ja”, c’est une planche spirituelle"
-                        },
-                        {
-                           "clue":"Elle est française",
-                           "text":"Dans [i]Vice-Versa 2[/i], Ennui dit à Joie de ne pas l’appeler “_____  _____”"
-                        },
-                        {
-                           "clue":"Un IOU",
-                           "text":"Anagramme d’une reconnaissance de dette"
-                        },
-                        {
-                           "clue":"C’est à la française",
-                           "text":"Une marque de yaourts Yoplait"
-                        }
-                     ],
-                     "text":"Oui"
-                  },
-                  {
-                     "questions":[
-                        {
-                           "clue":"La Wii-U était la 6e console",
-                           "text":"Suivie plus tard par la lettre “U”"
-                        },
-                        {
-                           "clue":"Institut de la faune de l’Inde",
-                           "text":"Nom de l’institut indien pour la préservation de la faune"
-                        },
-                        {
-                           "clue":"“ii” s’écrit 2",
-                           "text":"Autre manière d’écrire le formulaire fiscal standard des employés"
-                        },
-                        {
-                           "clue":"Pas We ni Wee",
-                           "text":"Contient les 9e et 23e lettres de l’alphabet"
-                        },
-                        {
-                           "clue":"Elle a commencé en jouant avec celui du prince William",
-                           "text":"La reine en jouait un en or"
-                        }
-                     ],
-                     "text":"Wii"
-                  }
-               ],
-               "category":"Nous tous",
-               "countrySpecific":true,
-               "id":"111374"
-            },
+  "answers": [
+    {
+      "questions": [
+        {
+          "clue": "Ni bleu ni chèvre",
+          "text": "Camembert de Normandie"
+        },
+        {
+          "clue": "Ni bleu ni chèvre",
+          "text": "Brie de Meaux"
+        },
+        {
+          "clue": "Ni bleu ni chèvre",
+          "text": "Chaource"
+        },
+        {
+          "clue": "Ni bleu ni chèvre",
+          "text": "Neufchâtel"
+        },
+        {
+          "clue": "Ni bleu ni chèvre",
+          "text": "Brillat-Savarin"
+        }
+      ],
+      "text": "Fromage à pâte molle"
+    },
+    {
+      "questions": [
+        {
+          "clue": "Ni pâte molle ni chèvre",
+          "text": "Comté"
+        },
+        {
+          "clue": "Ni pâte molle ni chèvre",
+          "text": "Beaufort"
+        },
+        {
+          "clue": "Ni pâte molle ni chèvre",
+          "text": "Emmental"
+        },
+        {
+          "clue": "Ni pâte molle ni chèvre",
+          "text": "Abondance"
+        },
+        {
+          "clue": "Ni pâte molle ni chèvre",
+          "text": "Gruyère"
+        }
+      ],
+      "text": "Fromage à pâte pressée cuite"
+    },
+    {
+      "questions": [
+        {
+          "clue": "Ni chèvre ni pâte pressée cuite",
+          "text": "Roquefort"
+        },
+        {
+          "clue": "Ni chèvre ni pâte pressée cuite",
+          "text": "Bleu d’Auvergne"
+        },
+        {
+          "clue": "Ni chèvre ni pâte pressée cuite",
+          "text": "Fourme d’Ambert"
+        },
+        {
+          "clue": "Ni chèvre ni pâte pressée cuite",
+          "text": "Bleu des Causses"
+        },
+        {
+          "clue": "Ni chèvre ni pâte pressée cuite",
+          "text": "Gorgonzola"
+        }
+      ],
+      "text": "Fromage bleu"
+    },
+    {
+      "questions": [
+        {
+          "clue": "Ni bleu ni pâte pressée cuite",
+          "text": "Crottin de Chavignol"
+        },
+        {
+          "clue": "Ni bleu ni pâte pressée cuite",
+          "text": "Sainte-Maure de Touraine"
+        },
+        {
+          "clue": "Ni bleu ni pâte pressée cuite",
+          "text": "Selles-sur-Cher"
+        },
+        {
+          "clue": "Ni bleu ni pâte pressée cuite",
+          "text": "Valençay"
+        },
+        {
+          "clue": "Ni bleu ni pâte pressée cuite",
+          "text": "Pouligny-Saint-Pierre"
+        }
+      ],
+      "text": "Fromage de chèvre"
+    }
+  ],
+  "category": "Le Plateau de fromages",
+  "id": "111374"
+},
             {
                "answers":[
                   {
@@ -2975,17 +2973,17 @@
                            "text":"Majorité du thé produit au Japon"
                         },
                         {
-                           "clue":"Commence par la même lettre que celui de Ross",
-                           "text":"Nom de famille de Rachel dans [i]Friends[/i]"
-                        },
+  "clue": "Pas Violet Galant",
+  "text": "Couleur présente dans le surnom d'Henri IV : le ____ Galant"
+},
                         {
                            "clue":"Thé couleur mousse",
                            "text":"Le “matcha” est ce type de thé"
                         },
                         {
-                           "clue":"Comme l’herbe",
-                           "text":"La couleur d’un crayon Crayola nommé “Meadow”"
-                        },
+  "clue": "Saint-Étienne",
+  "text": "Couleur du surnom des joueurs de l’ASSE"
+},
                         {
                            "clue":"Mot avec voyelles consécutives",
                            "text":"Auteur de [i]Nos étoiles contraires[/i], John"
@@ -2996,20 +2994,20 @@
                   {
                      "questions":[
                         {
-                           "clue":"De la même famille que la lavande",
-                           "text":"La plupart de ce thé vient du Kenya"
-                        },
+  "clue": "Pierre précieuse",
+  "text": "Couleur typique de l’améthyste"
+},
                         {
                            "clue":"Allitération princière",
                            "text":"Couleur de pluie chantée par Prince"
                         },
                         {
-                           "clue":"Pigment qui rend les myrtilles bleues",
-                           "text":"Thé contenant le plus d’anthocyanines"
-                        },
+  "clue": "Toulouse",
+  "text": "Couleur associée à la fleur emblématique de la ville de Toulouse"
+},
                         {
                            "clue":"Mélangez rouge et bleu",
-                           "text":"Couleur du visage du Comte de [i]Sesame Street[/i]"
+                           "text":"Couleur du visage du Comte de [i]1, rue Sésame[/i]"
                         },
                         {
                            "clue":"Comme une améthyste",
@@ -3025,9 +3023,9 @@
                            "text":"Le “Earl Grey” est ce type de thé"
                         },
                         {
-                           "clue":"Vedette de [i]Minecraft: Le Film[/i]",
-                           "text":"Jack de Tenacious D"
-                        },
+  "clue": "Goya",
+  "text": "Couleur qui qualifie la série de peintures tardives réalisées à la Quinta del Sordo"
+},
                         {
                            "clue":"Premier par ordre alphabétique",
                            "text":"Thé contenant le plus de caféine"
@@ -3046,25 +3044,25 @@
                   {
                      "questions":[
                         {
-                           "clue":"Couleur traditionnelle de la robe de mariée",
-                           "text":"Le thé le moins transformé"
-                        },
+  "clue": "Tolkien",
+  "text": "Couleur associée au titre de Gandalf après son retour"
+},
                         {
                            "clue":"Pas noir",
                            "text":"Couleur qui reflète toutes les longueurs d’onde de la lumière"
                         },
                         {
-                           "clue":"Prénom Barry",
-                           "text":"Chanteur de “Can’t Get Enough of Your Love, Babe”"
-                        },
+  "clue": "Jeanne d’Arc",
+  "text": "Couleur souvent associée à l'étendard de Jeanne d'Arc dans l’imaginaire historique"
+},
                         {
                            "clue":"Comme un argent plus pâle",
                            "text":"Le “Silver Needle” est ce type de thé"
                         },
                         {
-                           "clue":"Dernier par ordre alphabétique",
-                           "text":"Créateur de la série HBO [i]The White Lotus[/i]"
-                        }
+  "clue": "Malévitch",
+  "text": "Couleur du carré peint sur un fond de la même couleur dans l'oeuvre de Malévitch de 1918"
+}
                      ],
                      "text":"Blanc"
                   }
